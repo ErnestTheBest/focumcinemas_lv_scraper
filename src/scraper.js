@@ -444,7 +444,7 @@ async function generateReport(movies) {
 <body>
     <div class="container">
         <div class="header">
-            <h1>🎬 <a href="https://www.forumcinemas.lv" target="_blank" rel="noopener" style="color: white; text-decoration: none;">ForumCinemas</a> Now Playing</h1>
+            <h1>🎬 <a href="https://www.forumcinemas.lv/eng/movies/now-playing" target="_blank" rel="noopener" style="color: white; text-decoration: none;">ForumCinemas</a> Now Playing</h1>
             <p>Current movie lineup with IMDb ratings</p>
         </div>
         

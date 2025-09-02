@@ -30,7 +30,7 @@ async function main() {
             console.log(`Processing ${i + 1}/${movieLinks.length}: ${link.title}`);
             
             try {
-                const movieDetails = await scrapeMovieDetails(link.url);
+                const movieDetails = await scrapeMovieDetails(link.url, link.url);
                 
                 if (movieDetails.imdbId) {
                     // Fetch IMDb rating and year

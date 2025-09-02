@@ -50,7 +50,7 @@ async function scrapeNowPlaying() {
 /**
  * Scrapes individual movie page for details
  */
-async function scrapeMovieDetails(movieUrl) {
+async function scrapeMovieDetails(movieUrl, forumcinemasUrl) {
     console.log(`  🌐 Fetching live from: ${movieUrl}`);
     const response = await axios.get(movieUrl);
     const html = response.data;
@@ -191,7 +191,8 @@ async function scrapeMovieDetails(movieUrl) {
         releaseYear: releaseYear || 'Unknown',
         genres: genres.length > 0 ? genres.join(', ') : 'Unknown',
         imdbId,
-        imdbUrl: imdbId ? `https://www.imdb.com/title/${imdbId}/` : null
+        imdbUrl: imdbId ? `https://www.imdb.com/title/${imdbId}/` : null,
+        forumcinemasUrl: forumcinemasUrl || movieUrl
     };
 }
 
@@ -443,7 +444,7 @@ async function generateReport(movies) {
 <body>
     <div class="container">
         <div class="header">
-            <h1>🎬 ForumCinemas Now Playing</h1>
+            <h1>🎬 <a href="https://www.forumcinemas.lv" target="_blank" rel="noopener" style="color: white; text-decoration: none;">ForumCinemas</a> Now Playing</h1>
             <p>Current movie lineup with IMDb ratings</p>
         </div>
         
@@ -476,7 +477,11 @@ async function generateReport(movies) {
                 <tbody>
                     ${movies.map(movie => `
                         <tr>
-                            <td class="title">${escapeHtml(movie.title)}</td>
+                            <td class="title">
+                                <a href="${movie.forumcinemasUrl}" target="_blank" rel="noopener" style="color: inherit; text-decoration: none;">
+                                    ${escapeHtml(movie.title)}
+                                </a>
+                            </td>
                             <td class="year">${movie.releaseYear}</td>
                             <td class="rating ${!movie.imdbRating ? 'na' : ''}">
                                 ${movie.imdbRating ? movie.imdbRating + '/10' : 'N/A'}

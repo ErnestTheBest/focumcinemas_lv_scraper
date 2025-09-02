@@ -1,0 +1,11 @@
+# docker-compose.yml
+services:
+  forumcinemas-reporter:
+    image: node:20-alpine
+    working_dir: /app
+    volumes:
+      - .:/app
+      - /app/node_modules
+    command: sh -c "npm install && npm start"
+    environment:
+      - OMDB_API_KEY=${OMDB_API_KEY}

@@ -2,6 +2,19 @@
 
 A Node.js application that scrapes ForumCinemas for currently playing movies and generates a beautiful HTML report with IMDb ratings.
 
+## 📋 Table of Contents
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Quick Start (Docker - Easiest)](#quick-start-docker---easiest)
+- [Traditional Installation (Local)](#traditional-installation-local)
+- [Usage](#usage)
+- [What the Application Does](#what-the-application-does)
+- [Output Files](#output-files)
+- [Report Features](#report-features)
+- [Debugging Output](#debugging-output)
+- [Troubleshooting](#troubleshooting)
+- [License](#license)
+
 ## Features
 
 - **Scrapes ForumCinemas** for currently playing movies

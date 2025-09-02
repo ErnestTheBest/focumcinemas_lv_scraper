@@ -33,10 +33,16 @@ async function main() {
                 const movieDetails = await scrapeMovieDetails(link.url);
                 
                 if (movieDetails.imdbId) {
-                    // Fetch IMDb rating
+                    // Fetch IMDb rating and year
                     console.log(`  📊 Fetching IMDb rating for ${movieDetails.imdbId}...`);
-                    const rating = await fetchImdbRating(movieDetails.imdbId, OMDB_API_KEY);
-                    movieDetails.imdbRating = rating;
+                    const imdbData = await fetchImdbRating(movieDetails.imdbId, OMDB_API_KEY);
+                    movieDetails.imdbRating = imdbData.rating;
+                    
+                    // Use OMDb API year if available, otherwise keep scraped year
+                    if (imdbData.year) {
+                        movieDetails.releaseYear = imdbData.year;
+                        console.log(`    📅 Updated release year to ${imdbData.year} from OMDb API`);
+                    }
                     
                     // Rate limiting
                     if (i < movieLinks.length - 1) {

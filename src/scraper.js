@@ -72,11 +72,74 @@ async function scrapeMovieDetails(movieUrl) {
         }
     }
     
-    // If no release date found, try to find any 4-digit year in the HTML
+    // If no release date found, try to find it in the title or description
     if (!releaseYear) {
-        const yearMatch = html.match(/(\d{4})/);
-        if (yearMatch) {
-            releaseYear = parseInt(yearMatch[1]);
+        // Look for year in parentheses in the title (common format: "Movie Title (2023)")
+        const titleYearMatch = title.match(/\((\d{4})\)/);
+        if (titleYearMatch) {
+            releaseYear = parseInt(titleYearMatch[1]);
+        }
+    }
+    
+    // If still no year found, try to find it in specific content areas
+    if (!releaseYear) {
+        // Look for year in movie description or details sections
+        const yearSelectors = [
+            '.movie-details',
+            '.event-description',
+            '.movie-info',
+            'p:contains("Year:")',
+            'p:contains("Released:")',
+            'span:contains("Year:")',
+            'span:contains("Released:")'
+        ];
+        
+        for (const selector of yearSelectors) {
+            const element = $(selector);
+            if (element.length > 0) {
+                const text = element.text();
+                const yearMatch = text.match(/(\d{4})/);
+                if (yearMatch) {
+                    const year = parseInt(yearMatch[1]);
+                    // Validate that it's a reasonable movie year (not current year unless it's a new movie)
+                    if (year >= 1900 && year <= new Date().getFullYear() + 1) {
+                        releaseYear = year;
+                        break;
+                    }
+                }
+            }
+        }
+    }
+    
+    // Last resort: only use generic HTML search if we're very selective
+    if (!releaseYear) {
+        // Look for year in specific content areas, not the entire HTML
+        const contentAreas = [
+            '.event-top-desc-cont',
+            '.movie-description',
+            '.event-description',
+            'p',
+            'span'
+        ];
+        
+        for (const selector of contentAreas) {
+            const elements = $(selector);
+            for (let i = 0; i < elements.length; i++) {
+                const text = $(elements[i]).text().trim();
+                // Only look for years in reasonable contexts
+                if (text.length < 200 && (text.includes('Year') || text.includes('Release') || text.includes('('))) {
+                    const yearMatch = text.match(/(\d{4})/);
+                    if (yearMatch) {
+                        const year = parseInt(yearMatch[1]);
+                        // Validate that it's a reasonable movie year
+                        if (year >= 1900 && year <= new Date().getFullYear() + 1) {
+                            releaseYear = year;
+                            break;
+                        }
+                    }
+                }
+            }
+            if (releaseYear) break;
         }
     }
     
@@ -116,6 +179,13 @@ async function scrapeMovieDetails(movieUrl) {
         }
     });
     
+    // Debug logging for year extraction
+    if (releaseYear) {
+        console.log(`    📅 Scraped release year: ${releaseYear}`);
+    } else {
+        console.log(`    ⚠️  No release year found from scraping`);
+    }
+    
     return {
         title: title || 'Unknown Title',
         releaseYear: releaseYear || 'Unknown',
@@ -126,7 +196,7 @@ async function scrapeMovieDetails(movieUrl) {
 }
 
 /**
- * Fetches IMDb rating from OMDb API
+ * Fetches IMDb rating and release year from OMDb API
  */
 async function fetchImdbRating(imdbId, apiKey) {
     try {
@@ -135,14 +205,19 @@ async function fetchImdbRating(imdbId, apiKey) {
         
         if (response.data.Response === 'True') {
             const rating = response.data.imdbRating;
-            return rating && rating !== 'N/A' ? parseFloat(rating) : null;
+            const year = response.data.Year;
+            
+            return {
+                rating: rating && rating !== 'N/A' ? parseFloat(rating) : null,
+                year: year && year !== 'N/A' ? parseInt(year) : null
+            };
         } else {
             console.log(`    ⚠️  OMDb API error: ${response.data.Error}`);
-            return null;
+            return { rating: null, year: null };
         }
     } catch (error) {
         console.log(`    ❌ Error fetching rating: ${error.message}`);
-        return null;
+        return { rating: null, year: null };
     }
 }
 

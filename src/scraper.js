@@ -211,6 +211,25 @@ async function generateReport(movies) {
             .replace(/'/g, '&#039;');
     }
 
+    // Helper to format dates like "September 9th 2025"
+    function formatDateLong(date) {
+        const months = [
+            'January', 'February', 'March', 'April', 'May', 'June',
+            'July', 'August', 'September', 'October', 'November', 'December'
+        ];
+        const day = date.getDate();
+        const monthName = months[date.getMonth()];
+        const year = date.getFullYear();
+        const j = day % 10, k = day % 100;
+        let suffix = 'th';
+        if (k < 11 || k > 13) {
+            if (j === 1) suffix = 'st';
+            else if (j === 2) suffix = 'nd';
+            else if (j === 3) suffix = 'rd';
+        }
+        return `${monthName} ${day}${suffix} ${year}`;
+    }
+
     const html = `<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -432,7 +451,7 @@ async function generateReport(movies) {
                 <div class="stat-label">With Ratings</div>
             </div>
             <div class="stat">
-                <div class="stat-number">${new Date().toLocaleDateString()}</div>
+                <div class="stat-number">${formatDateLong(new Date())}</div>
                 <div class="stat-label">Last Updated</div>
             </div>
         </div>
@@ -473,7 +492,7 @@ async function generateReport(movies) {
         </div>
         
         <div class="footer">
-            <p>Generated on ${new Date().toLocaleString()}</p>
+            <p>Generated on ${formatDateLong(new Date())}</p>
             <p>Data from <a href="https://www.forumcinemas.lv" target="_blank">ForumCinemas</a> and <a href="https://www.imdb.com" target="_blank">IMDb</a></p>
         </div>
     </div>

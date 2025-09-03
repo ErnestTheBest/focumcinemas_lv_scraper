@@ -1,11 +1,9 @@
 # docker-compose.yml
 services:
   forumcinemas-reporter:
-    image: node:20-alpine
+    image: mcr.microsoft.com/playwright:v1.55.0-jammy
     working_dir: /app
     volumes:
       - .:/app
       - /app/node_modules
     command: sh -c "npm install && npm start"
-    environment:
-      - OMDB_API_KEY=${OMDB_API_KEY}

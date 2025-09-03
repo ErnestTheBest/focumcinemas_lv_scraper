@@ -1,0 +1,108 @@
+name: Run Movie Reporter
+
+on:
+  # Run manually
+  workflow_dispatch:
+  # Run daily at 6 AM UTC
+  schedule:
+    - cron: '0 6 * * *'
+  # Run on push to main branch
+  push:
+    branches: [ main ]
+
+jobs:
+  scrape-movies:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+        
+    - name: Install Playwright browsers
+      run: npx playwright install --with-deps
+      
+    - name: Install dependencies
+      run: npm ci
+      
+    - name: Create data directory
+      run: mkdir -p data
+      
+    - name: Run movie reporter
+      run: npm start
+      env:
+        # Add any environment variables your app needs
+        NODE_ENV: production
+        
+    - name: Check for generated files
+      run: |
+        echo "Generated files:"
+        ls -la data/
+        if [ -f "index.html" ]; then
+          echo "✅ Report generated successfully"
+        else
+          echo "❌ Report generation failed"
+          exit 1
+        fi
+        
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add data/ index.html
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "🤖 Auto-update movie data and report [skip ci]"
+          git push
+        fi
+        
+    - name: Upload artifacts
+      uses: actions/upload-artifact@v4
+      with:
+        name: movie-report
+        path: |
+          data/
+          index.html
+        retention-days: 30
+
+  # Optional: Create a release with the report
+  create-release:
+    needs: scrape-movies
+    runs-on: ubuntu-latest
+    if: github.event_name == 'workflow_dispatch'
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Download artifacts
+      uses: actions/download-artifact@v4
+      with:
+        name: movie-report
+        
+    - name: Create Release
+      uses: softprops/action-gh-release@v1
+      with:
+        tag_name: "v$(date +'%Y.%m.%d')"
+        name: "Movie Report $(date +'%Y-%m-%d')"
+        body: |
+          📽️ Automated movie report from ForumCinemas
+          
+          Generated on: $(date)
+          Movies found: $(cat data/movies_enriched.json | jq '. | length')
+          
+          Check the attached files for the complete report.
+        files: |
+          data/movies_enriched.json
+          data/now_playing.json
+          index.html
+        draft: false
+        prerelease: false
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

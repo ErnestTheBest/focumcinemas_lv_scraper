@@ -1,1 +1,506 @@
-[]
+[
+  {
+    "title": "The Roses",
+    "releaseYear": 2025,
+    "genres": "Comedy",
+    "imdbId": "tt31973693",
+    "imdbUrl": "https://www.imdb.com/title/tt31973693/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304435/title/the_roses/",
+    "imdbRating": 7.1
+  },
+  {
+    "title": "Nobody 2",
+    "releaseYear": 2025,
+    "genres": "Action, Comedy, Crime",
+    "imdbId": "tt28996126",
+    "imdbUrl": "https://www.imdb.com/title/tt28996126/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304433/title/nobody_2/",
+    "imdbRating": 6.6
+  },
+  {
+    "title": "Grand Prix of Europe",
+    "releaseYear": 2025,
+    "genres": "Animation, Comedy, Family",
+    "imdbId": "tt32897929",
+    "imdbUrl": "https://www.imdb.com/title/tt32897929/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304474/title/grand_prix_of_europe/",
+    "imdbRating": 6.1
+  },
+  {
+    "title": "Smurfs",
+    "releaseYear": 2025,
+    "genres": "Animation, Adventure, Comedy",
+    "imdbId": "tt18069420",
+    "imdbUrl": "https://www.imdb.com/title/tt18069420/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304130/title/smurfs/",
+    "imdbRating": 4.2
+  },
+  {
+    "title": "Pets on a train",
+    "releaseYear": 2025,
+    "genres": "Animation, Action, Comedy",
+    "imdbId": "tt36424914",
+    "imdbUrl": "https://www.imdb.com/title/tt36424914/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304481/title/pets_on_a_train/",
+    "imdbRating": 6.9
+  },
+  {
+    "title": "The Bad Guys 2",
+    "releaseYear": 2025,
+    "genres": "Animation, Action, Adventure",
+    "imdbId": "tt30017619",
+    "imdbUrl": "https://www.imdb.com/title/tt30017619/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304238/title/the_bad_guys_2/",
+    "imdbRating": 7.1
+  },
+  {
+    "title": "Dracula: A Love Tale",
+    "releaseYear": 2025,
+    "genres": "Fantasy, Horror, Romance",
+    "imdbId": "tt31434030",
+    "imdbUrl": "https://www.imdb.com/title/tt31434030/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304447/title/dracula_a_love_tale/",
+    "imdbRating": 6.3
+  },
+  {
+    "title": "The Life of Chuck",
+    "releaseYear": 2025,
+    "genres": "Drama, Fantasy, Sci-Fi",
+    "imdbId": "tt12908150",
+    "imdbUrl": "https://www.imdb.com/title/tt12908150/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304424/title/the_life_of_chuck/",
+    "imdbRating": 7.4
+  },
+  {
+    "title": "Caught Stealing",
+    "releaseYear": 2025,
+    "genres": "Comedy, Crime, Thriller",
+    "imdbId": "tt1493274",
+    "imdbUrl": "https://www.imdb.com/title/tt1493274/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304438/title/caught_stealing/",
+    "imdbRating": 7.3
+  },
+  {
+    "title": "Materialists",
+    "releaseYear": 2025,
+    "genres": "Comedy, Romance",
+    "imdbId": "tt30253473",
+    "imdbUrl": "https://www.imdb.com/title/tt30253473/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304423/title/materialists/",
+    "imdbRating": 6.4
+  },
+  {
+    "title": "Weapons",
+    "releaseYear": 2025,
+    "genres": "Horror, Mystery",
+    "imdbId": "tt26581740",
+    "imdbUrl": "https://www.imdb.com/title/tt26581740/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304422/title/weapons/",
+    "imdbRating": 7.8
+  },
+  {
+    "title": "The Naked Gun",
+    "releaseYear": 2025,
+    "genres": "Action, Comedy, Crime",
+    "imdbId": "tt3402138",
+    "imdbUrl": "https://www.imdb.com/title/tt3402138/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304434/title/the_naked_gun/",
+    "imdbRating": 6.9
+  },
+  {
+    "title": "Jurassic World: Rebirth",
+    "releaseYear": 2025,
+    "genres": "Action, Adventure, Sci-Fi",
+    "imdbId": "tt31036941",
+    "imdbUrl": "https://www.imdb.com/title/tt31036941/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304277/title/jurassic_world_rebirth/",
+    "imdbRating": 5.9
+  },
+  {
+    "title": "F1",
+    "releaseYear": 2025,
+    "genres": "Action, Drama, Sport",
+    "imdbId": "tt16311594",
+    "imdbUrl": "https://www.imdb.com/title/tt16311594/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304081/title/f1/",
+    "imdbRating": 7.8
+  },
+  {
+    "title": "I Know What You Did Last Summer",
+    "releaseYear": 2025,
+    "genres": "Horror",
+    "imdbId": "tt4045450",
+    "imdbUrl": "https://www.imdb.com/title/tt4045450/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304290/title/i_know_what_you_did_last_summer/",
+    "imdbRating": 5.2
+  },
+  {
+    "title": "The Exit 8",
+    "releaseYear": 2025,
+    "genres": "Action, Adventure, Horror",
+    "imdbId": "tt35222590",
+    "imdbUrl": "https://www.imdb.com/title/tt35222590/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304475/title/the_exit_8/",
+    "imdbRating": 6.6
+  },
+  {
+    "title": "Superman",
+    "releaseYear": 2025,
+    "genres": "Action, Adventure, Sci-Fi",
+    "imdbId": "tt5950044",
+    "imdbUrl": "https://www.imdb.com/title/tt5950044/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304276/title/superman/",
+    "imdbRating": 7.3
+  },
+  {
+    "title": "Freakier Friday",
+    "releaseYear": 2025,
+    "genres": "Comedy, Family, Fantasy",
+    "imdbId": "tt31956415",
+    "imdbUrl": "https://www.imdb.com/title/tt31956415/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304436/title/freakier_friday/",
+    "imdbRating": 6.9
+  },
+  {
+    "title": "Together",
+    "releaseYear": 2025,
+    "genres": "Horror, Romance",
+    "imdbId": "tt31184028",
+    "imdbUrl": "https://www.imdb.com/title/tt31184028/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304437/title/together/",
+    "imdbRating": 6.8
+  },
+  {
+    "title": "The Conjuring: Last Rites",
+    "releaseYear": 2025,
+    "genres": "Horror, Mystery, Thriller",
+    "imdbId": "tt22898462",
+    "imdbUrl": "https://www.imdb.com/title/tt22898462/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304291/title/the_conjuring_last_rites/",
+    "imdbRating": null
+  },
+  {
+    "title": "The Fantastic Four: First Steps",
+    "releaseYear": 2025,
+    "genres": "Action, Adventure, Sci-Fi",
+    "imdbId": "tt10676052",
+    "imdbUrl": "https://www.imdb.com/title/tt10676052/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304292/title/the_fantastic_four_first_steps/",
+    "imdbRating": 7.3
+  },
+  {
+    "title": "The Home",
+    "releaseYear": 2025,
+    "genres": "Horror, Thriller",
+    "imdbId": "tt17023012",
+    "imdbUrl": "https://www.imdb.com/title/tt17023012/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304444/title/the_home/",
+    "imdbRating": 5.5
+  },
+  {
+    "title": "Bring Her Back",
+    "releaseYear": 2025,
+    "genres": "Horror, Mystery",
+    "imdbId": "tt32246771",
+    "imdbUrl": "https://www.imdb.com/title/tt32246771/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304431/title/bring_her_back/",
+    "imdbRating": 7.2
+  },
+  {
+    "title": "Sense & Sensibility (1995)",
+    "releaseYear": 1996,
+    "genres": "Drama, Romance",
+    "imdbId": "tt0114388",
+    "imdbUrl": "https://www.imdb.com/title/tt0114388/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304467/title/sense_and_sensibility_1995/",
+    "imdbRating": 7.7
+  },
+  {
+    "title": "Captain Sabertooth and the Countess of Grel",
+    "releaseYear": 2025,
+    "genres": "Animation, Adventure, Family",
+    "imdbId": "tt33540970",
+    "imdbUrl": "https://www.imdb.com/title/tt33540970/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304462/title/captain_sabertooth_and_the_countess_of_grel/",
+    "imdbRating": 6
+  },
+  {
+    "title": "Splitsville",
+    "releaseYear": 2025,
+    "genres": "Comedy",
+    "imdbId": "tt33247023",
+    "imdbUrl": "https://www.imdb.com/title/tt33247023/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304448/title/splitsville/",
+    "imdbRating": 7
+  },
+  {
+    "title": "Afterburn",
+    "releaseYear": 2025,
+    "genres": "Action, Comedy, Sci-Fi",
+    "imdbId": "tt1210027",
+    "imdbUrl": "https://www.imdb.com/title/tt1210027/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304480/title/afterburn/",
+    "imdbRating": 4.5
+  },
+  {
+    "title": "Men in Black (1997)",
+    "releaseYear": 1997,
+    "genres": "Action, Adventure, Comedy",
+    "imdbId": "tt0119654",
+    "imdbUrl": "https://www.imdb.com/title/tt0119654/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304471/title/men_in_black_1997/",
+    "imdbRating": 7.3
+  },
+  {
+    "title": "Elio",
+    "releaseYear": 2025,
+    "genres": "Animation, Adventure, Comedy",
+    "imdbId": "tt4900148",
+    "imdbUrl": "https://www.imdb.com/title/tt4900148/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304271/title/elio/",
+    "imdbRating": 6.8
+  },
+  {
+    "title": "Lilo & Stitch",
+    "releaseYear": 2025,
+    "genres": "Action, Adventure, Comedy",
+    "imdbId": "tt11655566",
+    "imdbUrl": "https://www.imdb.com/title/tt11655566/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304270/title/lilo_and_stitch/",
+    "imdbRating": 6.8
+  },
+  {
+    "title": "The Faculty (1998)",
+    "releaseYear": 1998,
+    "genres": "Horror, Mystery, Sci-Fi",
+    "imdbId": "tt0133751",
+    "imdbUrl": "https://www.imdb.com/title/tt0133751/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304463/title/the_faculty_1998/",
+    "imdbRating": 6.6
+  },
+  {
+    "title": "How to Train Your Dragon",
+    "releaseYear": 2025,
+    "genres": "Action, Adventure, Comedy",
+    "imdbId": "tt26743210",
+    "imdbUrl": "https://www.imdb.com/title/tt26743210/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304234/title/how_to_train_your_dragon/",
+    "imdbRating": 7.8
+  },
+  {
+    "title": "WALL-E (2008)",
+    "releaseYear": 2008,
+    "genres": "Animation, Adventure, Family",
+    "imdbId": "tt0910970",
+    "imdbUrl": "https://www.imdb.com/title/tt0910970/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/299838/title/wall-e_2008/",
+    "imdbRating": 8.4
+  },
+  {
+    "title": "2 Fast 2 Furious (2003)",
+    "releaseYear": 2003,
+    "genres": "Action, Crime, Thriller",
+    "imdbId": "tt0322259",
+    "imdbUrl": "https://www.imdb.com/title/tt0322259/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304489/title/2_fast_2_furious_2003/",
+    "imdbRating": 5.9
+  },
+  {
+    "title": "Demon Slayer: Kimetsu No Yaiba - Infinity Castle",
+    "releaseYear": 2025,
+    "genres": "Animation, Action, Adventure",
+    "imdbId": "tt32820897",
+    "imdbUrl": "https://www.imdb.com/title/tt32820897/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304473/title/demon_slayer_kimetsu_no_yaiba_-_infinity_castle/",
+    "imdbRating": 8.7
+  },
+  {
+    "title": "Downton Abbey: The Grand Finale",
+    "releaseYear": 2025,
+    "genres": "Drama",
+    "imdbId": "tt31888477",
+    "imdbUrl": "https://www.imdb.com/title/tt31888477/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304476/title/downton_abbey_the_grand_finale/",
+    "imdbRating": null
+  },
+  {
+    "title": "South Park: Bigger, Longer & Uncut (1999)",
+    "releaseYear": 1999,
+    "genres": "Animation, Comedy, Fantasy",
+    "imdbId": "tt0158983",
+    "imdbUrl": "https://www.imdb.com/title/tt0158983/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304074/title/south_park_bigger_longer_and_uncut_1999/",
+    "imdbRating": 7.7
+  },
+  {
+    "title": "Pride & Prejudice (2005)",
+    "releaseYear": 2005,
+    "genres": "Drama, Romance",
+    "imdbId": "tt0414387",
+    "imdbUrl": "https://www.imdb.com/title/tt0414387/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304376/title/pride_and_prejudice_2005/",
+    "imdbRating": 7.8
+  },
+  {
+    "title": "Grave of the Fireflies (1988)",
+    "releaseYear": 1989,
+    "genres": "Animation, Drama, War",
+    "imdbId": "tt0095327",
+    "imdbUrl": "https://www.imdb.com/title/tt0095327/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304478/title/grave_of_the_fireflies_1988/",
+    "imdbRating": 8.5
+  },
+  {
+    "title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan (2006)",
+    "releaseYear": 2006,
+    "genres": "Comedy",
+    "imdbId": "tt0443453",
+    "imdbUrl": "https://www.imdb.com/title/tt0443453/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/300403/title/borat_cultural_learnings_of_america_for_make_benefit_glorious_nation_of_kazakhstan_2006/",
+    "imdbRating": 7.4
+  },
+  {
+    "title": "10 Things I Hate About You (1999)",
+    "releaseYear": 1999,
+    "genres": "Comedy, Drama, Romance",
+    "imdbId": "tt0147800",
+    "imdbUrl": "https://www.imdb.com/title/tt0147800/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304040/title/10_things_i_hate_about_you_1999/",
+    "imdbRating": 7.4
+  },
+  {
+    "title": "Big Bold Beautiful Journey",
+    "releaseYear": 2025,
+    "genres": "Drama, Fantasy, Romance",
+    "imdbId": "tt13650700",
+    "imdbUrl": "https://www.imdb.com/title/tt13650700/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304485/title/big_bold_beautiful_journey/",
+    "imdbRating": null
+  },
+  {
+    "title": "Ralfs Eilands shows a movie | 8 Mile (2002)",
+    "releaseYear": 2002,
+    "genres": "Drama, Music",
+    "imdbId": "tt0298203",
+    "imdbUrl": "https://www.imdb.com/title/tt0298203/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/299920/title/ralfs_eilands_shows_a_movie_8_mile_2002/",
+    "imdbRating": 7.2
+  },
+  {
+    "title": "Batman & Robin (1997)",
+    "releaseYear": 1997,
+    "genres": "Action, Sci-Fi",
+    "imdbId": "tt0118688",
+    "imdbUrl": "https://www.imdb.com/title/tt0118688/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304492/title/batman_and_robin_1997/",
+    "imdbRating": 3.8
+  },
+  {
+    "title": "The Mask (1994)",
+    "releaseYear": 1994,
+    "genres": "Comedy, Crime, Fantasy",
+    "imdbId": "tt0110475",
+    "imdbUrl": "https://www.imdb.com/title/tt0110475/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304464/title/the_mask_1994/",
+    "imdbRating": 7
+  },
+  {
+    "title": "The Fast and the Furious: Tokyo Drift (2006)",
+    "releaseYear": 2006,
+    "genres": "Action, Crime, Thriller",
+    "imdbId": "tt0463985",
+    "imdbUrl": "https://www.imdb.com/title/tt0463985/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304490/title/the_fast_and_the_furious_tokyo_drift_2006/",
+    "imdbRating": 6.1
+  },
+  {
+    "title": "Spermageddon",
+    "releaseYear": 2025,
+    "genres": "Animation, Comedy, Musical",
+    "imdbId": "tt14828040",
+    "imdbUrl": "https://www.imdb.com/title/tt14828040/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304486/title/spermageddon/",
+    "imdbRating": 5.4
+  },
+  {
+    "title": "Commando (1985)",
+    "releaseYear": 1985,
+    "genres": "Action, Adventure, Thriller",
+    "imdbId": "tt0088944",
+    "imdbUrl": "https://www.imdb.com/title/tt0088944/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/302030/title/commando_1985/",
+    "imdbRating": 6.7
+  },
+  {
+    "title": "007: Goldeneye (1995)",
+    "releaseYear": 1995,
+    "genres": "Action, Adventure, Thriller",
+    "imdbId": "tt0113189",
+    "imdbUrl": "https://www.imdb.com/title/tt0113189/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304508/title/007_goldeneye_1995/",
+    "imdbRating": 7.2
+  },
+  {
+    "title": "Constantine (2005)",
+    "releaseYear": 2005,
+    "genres": "Action, Fantasy, Horror",
+    "imdbId": "tt0360486",
+    "imdbUrl": "https://www.imdb.com/title/tt0360486/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304153/title/constantine_2005/",
+    "imdbRating": 7
+  },
+  {
+    "title": "Casino Royale (2006)",
+    "releaseYear": 2006,
+    "genres": "Action, Adventure, Thriller",
+    "imdbId": "tt0381061",
+    "imdbUrl": "https://www.imdb.com/title/tt0381061/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304509/title/casino_royale_2006/",
+    "imdbRating": 8
+  },
+  {
+    "title": "Dog of God",
+    "releaseYear": 2025,
+    "genres": "Animation, Comedy, Fantasy",
+    "imdbId": "tt33738802",
+    "imdbUrl": "https://www.imdb.com/title/tt33738802/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304497/title/dog_of_god/",
+    "imdbRating": 6.8
+  },
+  {
+    "title": "007: Goldfinger (1964)",
+    "releaseYear": 1965,
+    "genres": "Action, Adventure, Thriller",
+    "imdbId": "tt0058150",
+    "imdbUrl": "https://www.imdb.com/title/tt0058150/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304510/title/007_goldfinger_1964/",
+    "imdbRating": 7.7
+  },
+  {
+    "title": "007: On Her Majesty's Secret Service (1969)",
+    "releaseYear": 1969,
+    "genres": "Action, Adventure, Thriller",
+    "imdbId": "tt0064757",
+    "imdbUrl": "https://www.imdb.com/title/tt0064757/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304511/title/007_on_her_majestys_secret_service_1969/",
+    "imdbRating": 6.7
+  },
+  {
+    "title": "V for Vendetta (2005)",
+    "releaseYear": 2006,
+    "genres": "Action, Drama, Sci-Fi",
+    "imdbId": "tt0434409",
+    "imdbUrl": "https://www.imdb.com/title/tt0434409/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/302912/title/v_for_vendetta_2005/",
+    "imdbRating": 8.1
+  },
+  {
+    "title": "Escape Net",
+    "releaseYear": 2025,
+    "genres": "Biography, Drama",
+    "imdbId": "tt21043190",
+    "imdbUrl": "https://www.imdb.com/title/tt21043190/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/",
+    "imdbRating": null
+  }
+]

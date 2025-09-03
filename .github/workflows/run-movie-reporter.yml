@@ -86,7 +86,6 @@ jobs:
         NODE_ENV: production
         # Playwright environment variables for headless operation
         PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD: "false"
-        PLAYWRIGHT_BROWSERS_PATH: "0"
         # Ensure Playwright uses the system Chrome
         PLAYWRIGHT_CHROMIUM_EXECUTABLE_PATH: "/usr/bin/google-chrome-stable"
         # Force Playwright to use system Chrome

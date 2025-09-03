@@ -13,6 +13,9 @@ on:
 jobs:
   scrape-movies:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      actions: read
     
     steps:
     - name: Checkout code
@@ -21,7 +24,7 @@ jobs:
     - name: Setup Node.js
       uses: actions/setup-node@v4
       with:
-        node-version: '18'
+        node-version: '20'
         cache: 'npm'
         
     - name: Install Playwright browsers
@@ -38,6 +41,9 @@ jobs:
       env:
         # Add any environment variables your app needs
         NODE_ENV: production
+        # Playwright environment variables for headless operation
+        PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD: "false"
+        PLAYWRIGHT_BROWSERS_PATH: "0"
         
     - name: Check for generated files
       run: |
@@ -76,6 +82,9 @@ jobs:
     needs: scrape-movies
     runs-on: ubuntu-latest
     if: github.event_name == 'workflow_dispatch'
+    permissions:
+      contents: write
+      actions: read
     
     steps:
     - name: Checkout code

@@ -9,6 +9,7 @@ async function scrapeNowPlaying() {
     console.log('  🌐 Fetching live from ForumCinemas...');
     const response = await axios.get('https://www.forumcinemas.lv/eng/movies/now-playing');
     const html = response.data;
+    await fs.writeFile('the_roses.html', html); // open this in your browser
     
     const $ = cheerio.load(html);
     const movieLinks = [];
@@ -21,7 +22,7 @@ async function scrapeNowPlaying() {
         
         // Filter out non-movie links and ensure we have valid data
         if (title && link && 
-            title.length > 2 && title.length < 100 && 
+            title.length > 0 && title.length < 1000 && 
             !title.includes('Buy tickets') && 
             !title.includes('Trailer') &&
             link.includes('/eng/event/') &&

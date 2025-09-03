@@ -1,18 +1,13 @@
 require('dotenv').config();
 const fs = require('fs').promises;
 const path = require('path');
-const { scrapeNowPlaying, scrapeMovieDetails, fetchImdbRating, generateReport } = require('./scraper');
-
-const OMDB_API_KEY = process.env.OMDB_API_KEY;
+const { scrapeNowPlaying, scrapeMovieDetails, generateReport } = require('./scraper');
+const { fetchImdbDetails } = require('./imdbPlaywright');
 
 async function main() {
     try {
         console.log('🚀 Starting ForumCinemas Movie Reporter');
         
-        if (!OMDB_API_KEY) {
-            throw new Error('OMDB_API_KEY not found in environment variables');
-        }
-
         // Step 1: Get list of movies currently playing
         console.log('📽️  Fetching now playing movies...');
         const movieLinks = await scrapeNowPlaying();
@@ -33,18 +28,16 @@ async function main() {
                 const movieDetails = await scrapeMovieDetails(link.url, link.url);
                 
                 if (movieDetails.imdbId) {
-                    // Fetch IMDb rating and year
-                    console.log(`  📊 Fetching IMDb rating for ${movieDetails.imdbId}...`);
-                    const imdbData = await fetchImdbRating(movieDetails.imdbId, OMDB_API_KEY);
-                    movieDetails.imdbRating = imdbData.rating;
-                    
-                    // Use OMDb API year if available, otherwise keep scraped year
+                    console.log(`  🎭 Fetching IMDb details for ${movieDetails.imdbId}...`);
+                    const imdbData = await fetchImdbDetails(movieDetails.imdbId);
+                    movieDetails.imdbRating = imdbData.rating ?? null;
                     if (imdbData.year) {
                         movieDetails.releaseYear = imdbData.year;
-                        console.log(`    📅 Updated release year to ${imdbData.year} from OMDb API`);
+                        console.log(`    📅 Updated release year to ${imdbData.year} from IMDb`);
                     }
-                    
-                    // Rate limiting
+                    if (imdbData.genres && imdbData.genres.length) {
+                        movieDetails.genres = imdbData.genres.join(', ');
+                    }
                     if (i < movieLinks.length - 1) {
                         await new Promise(resolve => setTimeout(resolve, 200));
                     }

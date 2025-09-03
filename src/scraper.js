@@ -196,31 +196,7 @@ async function scrapeMovieDetails(movieUrl, forumcinemasUrl) {
     };
 }
 
-/**
- * Fetches IMDb rating and release year from OMDb API
- */
-async function fetchImdbRating(imdbId, apiKey) {
-    try {
-        const url = `http://www.omdbapi.com/?i=${imdbId}&apikey=${apiKey}`;
-        const response = await axios.get(url);
-        
-        if (response.data.Response === 'True') {
-            const rating = response.data.imdbRating;
-            const year = response.data.Year;
-            
-            return {
-                rating: rating && rating !== 'N/A' ? parseFloat(rating) : null,
-                year: year && year !== 'N/A' ? parseInt(year) : null
-            };
-        } else {
-            console.log(`    ⚠️  OMDb API error: ${response.data.Error}`);
-            return { rating: null, year: null };
-        }
-    } catch (error) {
-        console.log(`    ❌ Error fetching rating: ${error.message}`);
-        return { rating: null, year: null };
-    }
-}
+// OMDb integration removed; IMDb data is fetched via Playwright in index.js
 
 /**
  * Generates the final HTML report
@@ -500,7 +476,7 @@ async function generateReport(movies) {
         
         <div class="footer">
             <p>Generated on ${new Date().toLocaleString()}</p>
-            <p>Data from <a href="https://www.forumcinemas.lv" target="_blank">ForumCinemas</a> and <a href="http://www.omdbapi.com/" target="_blank">OMDb API</a></p>
+            <p>Data from <a href="https://www.forumcinemas.lv" target="_blank">ForumCinemas</a> and <a href="https://www.imdb.com" target="_blank">IMDb</a></p>
         </div>
     </div>
 
@@ -590,6 +566,5 @@ async function generateReport(movies) {
 module.exports = {
     scrapeNowPlaying,
     scrapeMovieDetails,
-    fetchImdbRating,
     generateReport
 };

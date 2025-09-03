@@ -60,7 +60,7 @@ async function main() {
         await generateReport(movies);
         
         console.log(`✅ Report generated successfully! Found ${movies.length} movies with IMDb data`);
-        console.log('📁 Check report.html for the final report');
+        console.log('📁 Check index.html for the final report');
         
     } catch (error) {
         console.error('❌ Error in main process:', error);

@@ -80,7 +80,7 @@ docker-compose down
 
 - **`data/now_playing.json`** - List of movie detail page URLs
 - **`data/movies_enriched.json`** - Complete movie data with IMDb details (rating, year, genres)
-- **`report.html`** - Beautiful, sortable HTML report with clickable movie titles
+- **`index.html`** - Beautiful, sortable HTML report with clickable movie titles (ready for GitHub Pages)
 
 ## Report Features
 

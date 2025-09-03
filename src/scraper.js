@@ -196,8 +196,6 @@ async function scrapeMovieDetails(movieUrl, forumcinemasUrl) {
     };
 }
 
-// OMDb integration removed; IMDb data is fetched via Playwright in index.js
-
 /**
  * Generates the final HTML report
  */
@@ -560,7 +558,7 @@ async function generateReport(movies) {
 </body>
 </html>`;
 
-    await fs.writeFile('report.html', html);
+    await fs.writeFile('index.html', html);
 }
 
 module.exports = {

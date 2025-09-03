@@ -27,8 +27,31 @@ jobs:
         node-version: '20'
         cache: 'npm'
         
+    - name: Install system dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y wget gnupg ca-certificates
+        
+    - name: Install Google Chrome
+      run: |
+        wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+        echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" | sudo tee /etc/apt/sources.list.d/google-chrome.list
+        sudo apt-get update
+        sudo apt-get install -y google-chrome-stable
+        
     - name: Install Playwright browsers
-      run: npx playwright install --with-deps
+      run: |
+        npx playwright install chromium
+        npx playwright install-deps chromium
+        
+    - name: Verify Chrome installation
+      run: |
+        echo "Chrome version:"
+        google-chrome-stable --version
+        echo "Chrome executable path:"
+        which google-chrome-stable
+        echo "Playwright browsers:"
+        npx playwright --version
       
     - name: Install dependencies
       run: npm ci
@@ -44,6 +67,8 @@ jobs:
         # Playwright environment variables for headless operation
         PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD: "false"
         PLAYWRIGHT_BROWSERS_PATH: "0"
+        # Ensure Playwright uses the system Chrome
+        PLAYWRIGHT_CHROMIUM_EXECUTABLE_PATH: "/usr/bin/google-chrome-stable"
         
     - name: Check for generated files
       run: |

@@ -1,7 +1,21 @@
 const { chromium } = require('playwright');
 
 async function withBrowser(fn) {
-  const browser = await chromium.launch({ headless: true });
+  // Try to use system Chrome if available, fallback to bundled browser
+  const executablePath = process.env.PLAYWRIGHT_CHROMIUM_EXECUTABLE_PATH;
+  const launchOptions = { 
+    headless: true,
+    channel: 'chrome'
+  };
+  
+  if (executablePath) {
+    launchOptions.executablePath = executablePath;
+    console.log(`🔧 Using system Chrome at: ${executablePath}`);
+  } else {
+    console.log('🔧 Using bundled Playwright browser');
+  }
+  
+  const browser = await chromium.launch(launchOptions);
   const context = await browser.newContext({
     userAgent:
       'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36'

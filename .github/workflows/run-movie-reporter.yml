@@ -27,52 +27,9 @@ jobs:
         node-version: '20'
         cache: 'npm'
         
-    - name: Install system dependencies
-      run: |
-        sudo apt-get update
-        sudo apt-get install -y wget gnupg ca-certificates
-        
-    - name: Install Google Chrome
-      run: |
-        wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
-        echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" | sudo tee /etc/apt/sources.list.d/google-chrome.list
-        sudo apt-get update
-        sudo apt-get install -y google-chrome-stable
-        
     - name: Install Playwright browsers
-      run: |
-        npx playwright install chromium
-        npx playwright install-deps chromium
+      run: npx playwright install --with-deps chromium
         
-    - name: Verify Chrome installation
-      run: |
-        echo "Chrome version:"
-        google-chrome-stable --version
-        echo "Chrome executable path:"
-        which google-chrome-stable
-        echo "Playwright browsers:"
-        npx playwright --version
-        
-    - name: Create Playwright config
-      run: |
-        cat > playwright.config.js << 'EOF'
-        module.exports = {
-          use: {
-            channel: 'chrome',
-            headless: true,
-          },
-          projects: [
-            {
-              name: 'chromium',
-              use: {
-                channel: 'chrome',
-                headless: true,
-              },
-            },
-          ],
-        };
-        EOF
-      
     - name: Install dependencies
       run: npm ci
       
@@ -84,12 +41,6 @@ jobs:
       env:
         # Add any environment variables your app needs
         NODE_ENV: production
-        # Playwright environment variables for headless operation
-        PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD: "false"
-        # Ensure Playwright uses the system Chrome
-        PLAYWRIGHT_CHROMIUM_EXECUTABLE_PATH: "/usr/bin/google-chrome-stable"
-        # Force Playwright to use system Chrome
-        PLAYWRIGHT_BROWSERS_PATH: "/usr/bin"
         
     - name: Check for generated files
       run: |
@@ -150,7 +101,7 @@ jobs:
           📽️ Automated movie report from ForumCinemas
           
           Generated on: $(date)
-          Movies found: $(cat data/movies_enriched.json | jq '. | length')
+          Movies found: $(node -p "require('./data/movies_enriched.json').length")
           
           Check the attached files for the complete report.
         files: |

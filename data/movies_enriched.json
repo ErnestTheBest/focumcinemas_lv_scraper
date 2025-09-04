@@ -1,39 +1,12 @@
 [
   {
-    "title": "The Roses",
+    "title": "The Bad Guys 2",
     "releaseYear": 2025,
-    "genres": "Comedy",
-    "imdbId": "tt31973693",
-    "imdbUrl": "https://www.imdb.com/title/tt31973693/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304435/title/the_roses/",
+    "genres": "Animation, Action, Adventure",
+    "imdbId": "tt30017619",
+    "imdbUrl": "https://www.imdb.com/title/tt30017619/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304238/title/the_bad_guys_2/",
     "imdbRating": 7.1
-  },
-  {
-    "title": "Nobody 2",
-    "releaseYear": 2025,
-    "genres": "Action, Comedy, Crime",
-    "imdbId": "tt28996126",
-    "imdbUrl": "https://www.imdb.com/title/tt28996126/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304433/title/nobody_2/",
-    "imdbRating": 6.6
-  },
-  {
-    "title": "Grand Prix of Europe",
-    "releaseYear": 2025,
-    "genres": "Animation, Comedy, Family",
-    "imdbId": "tt32897929",
-    "imdbUrl": "https://www.imdb.com/title/tt32897929/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304474/title/grand_prix_of_europe/",
-    "imdbRating": 6.1
-  },
-  {
-    "title": "Smurfs",
-    "releaseYear": 2025,
-    "genres": "Animation, Adventure, Comedy",
-    "imdbId": "tt18069420",
-    "imdbUrl": "https://www.imdb.com/title/tt18069420/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304130/title/smurfs/",
-    "imdbRating": 4.2
   },
   {
     "title": "Pets on a train",
@@ -45,31 +18,40 @@
     "imdbRating": 6.9
   },
   {
-    "title": "The Bad Guys 2",
+    "title": "Grand Prix of Europe",
     "releaseYear": 2025,
-    "genres": "Animation, Action, Adventure",
-    "imdbId": "tt30017619",
-    "imdbUrl": "https://www.imdb.com/title/tt30017619/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304238/title/the_bad_guys_2/",
+    "genres": "Animation, Comedy, Family",
+    "imdbId": "tt32897929",
+    "imdbUrl": "https://www.imdb.com/title/tt32897929/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304474/title/grand_prix_of_europe/",
+    "imdbRating": 6.1
+  },
+  {
+    "title": "Materialists",
+    "releaseYear": 2025,
+    "genres": "Comedy, Romance",
+    "imdbId": "tt30253473",
+    "imdbUrl": "https://www.imdb.com/title/tt30253473/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304423/title/materialists/",
+    "imdbRating": 6.4
+  },
+  {
+    "title": "The Roses",
+    "releaseYear": 2025,
+    "genres": "Comedy",
+    "imdbId": "tt31973693",
+    "imdbUrl": "https://www.imdb.com/title/tt31973693/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304435/title/the_roses/",
     "imdbRating": 7.1
   },
   {
-    "title": "Dracula: A Love Tale",
+    "title": "Smurfs",
     "releaseYear": 2025,
-    "genres": "Fantasy, Horror, Romance",
-    "imdbId": "tt31434030",
-    "imdbUrl": "https://www.imdb.com/title/tt31434030/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304447/title/dracula_a_love_tale/",
-    "imdbRating": 6.3
-  },
-  {
-    "title": "The Life of Chuck",
-    "releaseYear": 2025,
-    "genres": "Drama, Fantasy, Sci-Fi",
-    "imdbId": "tt12908150",
-    "imdbUrl": "https://www.imdb.com/title/tt12908150/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304424/title/the_life_of_chuck/",
-    "imdbRating": 7.4
+    "genres": "Animation, Adventure, Comedy",
+    "imdbId": "tt18069420",
+    "imdbUrl": "https://www.imdb.com/title/tt18069420/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304130/title/smurfs/",
+    "imdbRating": 4.2
   },
   {
     "title": "Caught Stealing",
@@ -81,13 +63,13 @@
     "imdbRating": 7.3
   },
   {
-    "title": "Materialists",
+    "title": "The Life of Chuck",
     "releaseYear": 2025,
-    "genres": "Comedy, Romance",
-    "imdbId": "tt30253473",
-    "imdbUrl": "https://www.imdb.com/title/tt30253473/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304423/title/materialists/",
-    "imdbRating": 6.4
+    "genres": "Drama, Fantasy, Sci-Fi",
+    "imdbId": "tt12908150",
+    "imdbUrl": "https://www.imdb.com/title/tt12908150/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304424/title/the_life_of_chuck/",
+    "imdbRating": 7.4
   },
   {
     "title": "Weapons",
@@ -105,16 +87,7 @@
     "imdbId": "tt3402138",
     "imdbUrl": "https://www.imdb.com/title/tt3402138/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304434/title/the_naked_gun/",
-    "imdbRating": 6.9
-  },
-  {
-    "title": "Jurassic World: Rebirth",
-    "releaseYear": 2025,
-    "genres": "Action, Adventure, Sci-Fi",
-    "imdbId": "tt31036941",
-    "imdbUrl": "https://www.imdb.com/title/tt31036941/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304277/title/jurassic_world_rebirth/",
-    "imdbRating": 5.9
+    "imdbRating": 6.8
   },
   {
     "title": "F1",
@@ -126,13 +99,22 @@
     "imdbRating": 7.8
   },
   {
-    "title": "I Know What You Did Last Summer",
+    "title": "The Fantastic Four: First Steps",
     "releaseYear": 2025,
-    "genres": "Horror",
-    "imdbId": "tt4045450",
-    "imdbUrl": "https://www.imdb.com/title/tt4045450/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304290/title/i_know_what_you_did_last_summer/",
-    "imdbRating": 5.2
+    "genres": "Action, Adventure, Sci-Fi",
+    "imdbId": "tt10676052",
+    "imdbUrl": "https://www.imdb.com/title/tt10676052/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304292/title/the_fantastic_four_first_steps/",
+    "imdbRating": 7.3
+  },
+  {
+    "title": "Nobody 2",
+    "releaseYear": 2025,
+    "genres": "Action, Comedy, Crime",
+    "imdbId": "tt28996126",
+    "imdbUrl": "https://www.imdb.com/title/tt28996126/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304433/title/nobody_2/",
+    "imdbRating": 6.6
   },
   {
     "title": "The Exit 8",
@@ -144,13 +126,22 @@
     "imdbRating": 6.6
   },
   {
-    "title": "Superman",
+    "title": "The Conjuring: Last Rites",
     "releaseYear": 2025,
-    "genres": "Action, Adventure, Sci-Fi",
-    "imdbId": "tt5950044",
-    "imdbUrl": "https://www.imdb.com/title/tt5950044/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304276/title/superman/",
-    "imdbRating": 7.3
+    "genres": "Horror, Mystery, Thriller",
+    "imdbId": "tt22898462",
+    "imdbUrl": "https://www.imdb.com/title/tt22898462/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304291/title/the_conjuring_last_rites/",
+    "imdbRating": 6.8
+  },
+  {
+    "title": "Dracula: A Love Tale",
+    "releaseYear": 2025,
+    "genres": "Fantasy, Horror, Romance",
+    "imdbId": "tt31434030",
+    "imdbUrl": "https://www.imdb.com/title/tt31434030/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304447/title/dracula_a_love_tale/",
+    "imdbRating": 6.3
   },
   {
     "title": "Freakier Friday",
@@ -171,40 +162,13 @@
     "imdbRating": 6.8
   },
   {
-    "title": "The Conjuring: Last Rites",
-    "releaseYear": 2025,
-    "genres": "Horror, Mystery, Thriller",
-    "imdbId": "tt22898462",
-    "imdbUrl": "https://www.imdb.com/title/tt22898462/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304291/title/the_conjuring_last_rites/",
-    "imdbRating": null
-  },
-  {
-    "title": "The Fantastic Four: First Steps",
+    "title": "Jurassic World: Rebirth",
     "releaseYear": 2025,
     "genres": "Action, Adventure, Sci-Fi",
-    "imdbId": "tt10676052",
-    "imdbUrl": "https://www.imdb.com/title/tt10676052/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304292/title/the_fantastic_four_first_steps/",
-    "imdbRating": 7.3
-  },
-  {
-    "title": "The Home",
-    "releaseYear": 2025,
-    "genres": "Horror, Thriller",
-    "imdbId": "tt17023012",
-    "imdbUrl": "https://www.imdb.com/title/tt17023012/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304444/title/the_home/",
-    "imdbRating": 5.5
-  },
-  {
-    "title": "Bring Her Back",
-    "releaseYear": 2025,
-    "genres": "Horror, Mystery",
-    "imdbId": "tt32246771",
-    "imdbUrl": "https://www.imdb.com/title/tt32246771/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304431/title/bring_her_back/",
-    "imdbRating": 7.2
+    "imdbId": "tt31036941",
+    "imdbUrl": "https://www.imdb.com/title/tt31036941/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304277/title/jurassic_world_rebirth/",
+    "imdbRating": 5.9
   },
   {
     "title": "Sense & Sensibility (1995)",
@@ -214,6 +178,24 @@
     "imdbUrl": "https://www.imdb.com/title/tt0114388/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304467/title/sense_and_sensibility_1995/",
     "imdbRating": 7.7
+  },
+  {
+    "title": "Superman",
+    "releaseYear": 2025,
+    "genres": "Action, Adventure, Sci-Fi",
+    "imdbId": "tt5950044",
+    "imdbUrl": "https://www.imdb.com/title/tt5950044/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304276/title/superman/",
+    "imdbRating": 7.3
+  },
+  {
+    "title": "The Home",
+    "releaseYear": 2025,
+    "genres": "Horror, Thriller",
+    "imdbId": "tt17023012",
+    "imdbUrl": "https://www.imdb.com/title/tt17023012/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304444/title/the_home/",
+    "imdbRating": 5.4
   },
   {
     "title": "Captain Sabertooth and the Countess of Grel",
@@ -279,6 +261,15 @@
     "imdbRating": 6.6
   },
   {
+    "title": "Bring Her Back",
+    "releaseYear": 2025,
+    "genres": "Horror, Mystery",
+    "imdbId": "tt32246771",
+    "imdbUrl": "https://www.imdb.com/title/tt32246771/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304431/title/bring_her_back/",
+    "imdbRating": 7.2
+  },
+  {
     "title": "How to Train Your Dragon",
     "releaseYear": 2025,
     "genres": "Action, Adventure, Comedy",
@@ -295,6 +286,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt0910970/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/299838/title/wall-e_2008/",
     "imdbRating": 8.4
+  },
+  {
+    "title": "I Know What You Did Last Summer",
+    "releaseYear": 2025,
+    "genres": "Horror",
+    "imdbId": "tt4045450",
+    "imdbUrl": "https://www.imdb.com/title/tt4045450/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304290/title/i_know_what_you_did_last_summer/",
+    "imdbRating": 5.2
   },
   {
     "title": "2 Fast 2 Furious (2003)",

@@ -1,43 +1,39 @@
 [
   {
-    "title": "The Roses",
-    "url": "https://www.forumcinemas.lv/eng/event/304435/title/the_roses/"
-  },
-  {
-    "title": "Nobody 2",
-    "url": "https://www.forumcinemas.lv/eng/event/304433/title/nobody_2/"
-  },
-  {
-    "title": "Grand Prix of Europe",
-    "url": "https://www.forumcinemas.lv/eng/event/304474/title/grand_prix_of_europe/"
-  },
-  {
-    "title": "Smurfs",
-    "url": "https://www.forumcinemas.lv/eng/event/304130/title/smurfs/"
-  },
-  {
-    "title": "Pets on a train",
-    "url": "https://www.forumcinemas.lv/eng/event/304481/title/pets_on_a_train/"
+    "title": "Private event",
+    "url": "https://www.forumcinemas.lv/eng/event/303398/title/private_event/"
   },
   {
     "title": "The Bad Guys 2",
     "url": "https://www.forumcinemas.lv/eng/event/304238/title/the_bad_guys_2/"
   },
   {
-    "title": "Dracula: A Love Tale",
-    "url": "https://www.forumcinemas.lv/eng/event/304447/title/dracula_a_love_tale/"
+    "title": "Pets on a train",
+    "url": "https://www.forumcinemas.lv/eng/event/304481/title/pets_on_a_train/"
   },
   {
-    "title": "The Life of Chuck",
-    "url": "https://www.forumcinemas.lv/eng/event/304424/title/the_life_of_chuck/"
+    "title": "Grand Prix of Europe",
+    "url": "https://www.forumcinemas.lv/eng/event/304474/title/grand_prix_of_europe/"
+  },
+  {
+    "title": "Materialists",
+    "url": "https://www.forumcinemas.lv/eng/event/304423/title/materialists/"
+  },
+  {
+    "title": "The Roses",
+    "url": "https://www.forumcinemas.lv/eng/event/304435/title/the_roses/"
+  },
+  {
+    "title": "Smurfs",
+    "url": "https://www.forumcinemas.lv/eng/event/304130/title/smurfs/"
   },
   {
     "title": "Caught Stealing",
     "url": "https://www.forumcinemas.lv/eng/event/304438/title/caught_stealing/"
   },
   {
-    "title": "Materialists",
-    "url": "https://www.forumcinemas.lv/eng/event/304423/title/materialists/"
+    "title": "The Life of Chuck",
+    "url": "https://www.forumcinemas.lv/eng/event/304424/title/the_life_of_chuck/"
   },
   {
     "title": "Weapons",
@@ -48,24 +44,28 @@
     "url": "https://www.forumcinemas.lv/eng/event/304434/title/the_naked_gun/"
   },
   {
-    "title": "Jurassic World: Rebirth",
-    "url": "https://www.forumcinemas.lv/eng/event/304277/title/jurassic_world_rebirth/"
-  },
-  {
     "title": "F1",
     "url": "https://www.forumcinemas.lv/eng/event/304081/title/f1/"
   },
   {
-    "title": "I Know What You Did Last Summer",
-    "url": "https://www.forumcinemas.lv/eng/event/304290/title/i_know_what_you_did_last_summer/"
+    "title": "The Fantastic Four: First Steps",
+    "url": "https://www.forumcinemas.lv/eng/event/304292/title/the_fantastic_four_first_steps/"
+  },
+  {
+    "title": "Nobody 2",
+    "url": "https://www.forumcinemas.lv/eng/event/304433/title/nobody_2/"
   },
   {
     "title": "The Exit 8",
     "url": "https://www.forumcinemas.lv/eng/event/304475/title/the_exit_8/"
   },
   {
-    "title": "Superman",
-    "url": "https://www.forumcinemas.lv/eng/event/304276/title/superman/"
+    "title": "The Conjuring: Last Rites",
+    "url": "https://www.forumcinemas.lv/eng/event/304291/title/the_conjuring_last_rites/"
+  },
+  {
+    "title": "Dracula: A Love Tale",
+    "url": "https://www.forumcinemas.lv/eng/event/304447/title/dracula_a_love_tale/"
   },
   {
     "title": "Freakier Friday",
@@ -76,28 +76,20 @@
     "url": "https://www.forumcinemas.lv/eng/event/304437/title/together/"
   },
   {
-    "title": "The Conjuring: Last Rites",
-    "url": "https://www.forumcinemas.lv/eng/event/304291/title/the_conjuring_last_rites/"
-  },
-  {
-    "title": "The Fantastic Four: First Steps",
-    "url": "https://www.forumcinemas.lv/eng/event/304292/title/the_fantastic_four_first_steps/"
-  },
-  {
-    "title": "The Home",
-    "url": "https://www.forumcinemas.lv/eng/event/304444/title/the_home/"
-  },
-  {
-    "title": "Bring Her Back",
-    "url": "https://www.forumcinemas.lv/eng/event/304431/title/bring_her_back/"
-  },
-  {
-    "title": "Private event",
-    "url": "https://www.forumcinemas.lv/eng/event/303398/title/private_event/"
+    "title": "Jurassic World: Rebirth",
+    "url": "https://www.forumcinemas.lv/eng/event/304277/title/jurassic_world_rebirth/"
   },
   {
     "title": "Sense & Sensibility (1995)",
     "url": "https://www.forumcinemas.lv/eng/event/304467/title/sense_and_sensibility_1995/"
+  },
+  {
+    "title": "Superman",
+    "url": "https://www.forumcinemas.lv/eng/event/304276/title/superman/"
+  },
+  {
+    "title": "The Home",
+    "url": "https://www.forumcinemas.lv/eng/event/304444/title/the_home/"
   },
   {
     "title": "Captain Sabertooth and the Countess of Grel",
@@ -128,12 +120,20 @@
     "url": "https://www.forumcinemas.lv/eng/event/304463/title/the_faculty_1998/"
   },
   {
+    "title": "Bring Her Back",
+    "url": "https://www.forumcinemas.lv/eng/event/304431/title/bring_her_back/"
+  },
+  {
     "title": "How to Train Your Dragon",
     "url": "https://www.forumcinemas.lv/eng/event/304234/title/how_to_train_your_dragon/"
   },
   {
     "title": "WALL-E (2008)",
     "url": "https://www.forumcinemas.lv/eng/event/299838/title/wall-e_2008/"
+  },
+  {
+    "title": "I Know What You Did Last Summer",
+    "url": "https://www.forumcinemas.lv/eng/event/304290/title/i_know_what_you_did_last_summer/"
   },
   {
     "title": "NT LIVE: Vanya",

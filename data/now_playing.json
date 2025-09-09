@@ -16,16 +16,12 @@
     "url": "https://www.forumcinemas.lv/eng/event/304448/title/splitsville/"
   },
   {
-    "title": "Caught Stealing",
-    "url": "https://www.forumcinemas.lv/eng/event/304438/title/caught_stealing/"
-  },
-  {
-    "title": "The Bad Guys 2",
-    "url": "https://www.forumcinemas.lv/eng/event/304238/title/the_bad_guys_2/"
-  },
-  {
     "title": "Smurfs",
     "url": "https://www.forumcinemas.lv/eng/event/304130/title/smurfs/"
+  },
+  {
+    "title": "Grand Prix of Europe",
+    "url": "https://www.forumcinemas.lv/eng/event/304474/title/grand_prix_of_europe/"
   },
   {
     "title": "The Life of Chuck",
@@ -36,68 +32,64 @@
     "url": "https://www.forumcinemas.lv/eng/event/304422/title/weapons/"
   },
   {
-    "title": "Pets on a train",
-    "url": "https://www.forumcinemas.lv/eng/event/304481/title/pets_on_a_train/"
-  },
-  {
     "title": "Freakier Friday",
     "url": "https://www.forumcinemas.lv/eng/event/304436/title/freakier_friday/"
   },
   {
-    "title": "Nobody 2",
-    "url": "https://www.forumcinemas.lv/eng/event/304433/title/nobody_2/"
+    "title": "Caught Stealing",
+    "url": "https://www.forumcinemas.lv/eng/event/304438/title/caught_stealing/"
   },
   {
-    "title": "The Naked Gun",
-    "url": "https://www.forumcinemas.lv/eng/event/304434/title/the_naked_gun/"
+    "title": "Pets on a train",
+    "url": "https://www.forumcinemas.lv/eng/event/304481/title/pets_on_a_train/"
   },
   {
     "title": "The Conjuring: Last Rites",
     "url": "https://www.forumcinemas.lv/eng/event/304291/title/the_conjuring_last_rites/"
   },
   {
-    "title": "F1",
-    "url": "https://www.forumcinemas.lv/eng/event/304081/title/f1/"
-  },
-  {
-    "title": "Afterburn",
-    "url": "https://www.forumcinemas.lv/eng/event/304480/title/afterburn/"
-  },
-  {
-    "title": "Superman",
-    "url": "https://www.forumcinemas.lv/eng/event/304276/title/superman/"
-  },
-  {
-    "title": "The Exit 8",
-    "url": "https://www.forumcinemas.lv/eng/event/304475/title/the_exit_8/"
-  },
-  {
-    "title": "Dracula: A Love Tale",
-    "url": "https://www.forumcinemas.lv/eng/event/304447/title/dracula_a_love_tale/"
-  },
-  {
-    "title": "The Home",
-    "url": "https://www.forumcinemas.lv/eng/event/304444/title/the_home/"
-  },
-  {
-    "title": "Bring Her Back",
-    "url": "https://www.forumcinemas.lv/eng/event/304431/title/bring_her_back/"
-  },
-  {
-    "title": "Grand Prix of Europe",
-    "url": "https://www.forumcinemas.lv/eng/event/304474/title/grand_prix_of_europe/"
+    "title": "Nobody 2",
+    "url": "https://www.forumcinemas.lv/eng/event/304433/title/nobody_2/"
   },
   {
     "title": "The Fantastic Four: First Steps",
     "url": "https://www.forumcinemas.lv/eng/event/304292/title/the_fantastic_four_first_steps/"
   },
   {
+    "title": "F1",
+    "url": "https://www.forumcinemas.lv/eng/event/304081/title/f1/"
+  },
+  {
+    "title": "The Bad Guys 2",
+    "url": "https://www.forumcinemas.lv/eng/event/304238/title/the_bad_guys_2/"
+  },
+  {
+    "title": "Afterburn",
+    "url": "https://www.forumcinemas.lv/eng/event/304480/title/afterburn/"
+  },
+  {
+    "title": "The Naked Gun",
+    "url": "https://www.forumcinemas.lv/eng/event/304434/title/the_naked_gun/"
+  },
+  {
     "title": "NT LIVE: Vanya",
     "url": "https://www.forumcinemas.lv/eng/event/303848/title/nt_live_vanya/"
   },
   {
+    "title": "Superman",
+    "url": "https://www.forumcinemas.lv/eng/event/304276/title/superman/"
+  },
+  {
     "title": "2 Fast 2 Furious (2003)",
     "url": "https://www.forumcinemas.lv/eng/event/304489/title/2_fast_2_furious_2003/"
+  },
+  {
+    "title": "Dracula: A Love Tale",
+    "url": "https://www.forumcinemas.lv/eng/event/304447/title/dracula_a_love_tale/"
+  },
+  {
+    "title": "The Exit 8",
+    "url": "https://www.forumcinemas.lv/eng/event/304475/title/the_exit_8/"
   },
   {
     "title": "Football | Albania - Latvia",
@@ -116,12 +108,24 @@
     "url": "https://www.forumcinemas.lv/eng/event/304437/title/together/"
   },
   {
+    "title": "The Home",
+    "url": "https://www.forumcinemas.lv/eng/event/304444/title/the_home/"
+  },
+  {
     "title": "Demon Slayer: Kimetsu No Yaiba - Infinity Castle",
     "url": "https://www.forumcinemas.lv/eng/event/304473/title/demon_slayer_kimetsu_no_yaiba_-_infinity_castle/"
   },
   {
     "title": "Downton Abbey: The Grand Finale",
     "url": "https://www.forumcinemas.lv/eng/event/304476/title/downton_abbey_the_grand_finale/"
+  },
+  {
+    "title": "The Long Walk",
+    "url": "https://www.forumcinemas.lv/eng/event/304472/title/the_long_walk/"
+  },
+  {
+    "title": "Sneaks",
+    "url": "https://www.forumcinemas.lv/eng/event/304483/title/sneaks/"
   },
   {
     "title": "South Park: Bigger, Longer & Uncut (1999)",

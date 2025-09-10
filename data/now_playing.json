@@ -16,16 +16,16 @@
     "url": "https://www.forumcinemas.lv/eng/event/304448/title/splitsville/"
   },
   {
+    "title": "Jurassic World: Rebirth",
+    "url": "https://www.forumcinemas.lv/eng/event/304277/title/jurassic_world_rebirth/"
+  },
+  {
     "title": "Smurfs",
     "url": "https://www.forumcinemas.lv/eng/event/304130/title/smurfs/"
   },
   {
     "title": "Grand Prix of Europe",
     "url": "https://www.forumcinemas.lv/eng/event/304474/title/grand_prix_of_europe/"
-  },
-  {
-    "title": "The Life of Chuck",
-    "url": "https://www.forumcinemas.lv/eng/event/304424/title/the_life_of_chuck/"
   },
   {
     "title": "Weapons",
@@ -40,12 +40,12 @@
     "url": "https://www.forumcinemas.lv/eng/event/304438/title/caught_stealing/"
   },
   {
-    "title": "Pets on a train",
-    "url": "https://www.forumcinemas.lv/eng/event/304481/title/pets_on_a_train/"
-  },
-  {
     "title": "The Conjuring: Last Rites",
     "url": "https://www.forumcinemas.lv/eng/event/304291/title/the_conjuring_last_rites/"
+  },
+  {
+    "title": "Pets on a train",
+    "url": "https://www.forumcinemas.lv/eng/event/304481/title/pets_on_a_train/"
   },
   {
     "title": "Nobody 2",
@@ -54,10 +54,6 @@
   {
     "title": "The Fantastic Four: First Steps",
     "url": "https://www.forumcinemas.lv/eng/event/304292/title/the_fantastic_four_first_steps/"
-  },
-  {
-    "title": "F1",
-    "url": "https://www.forumcinemas.lv/eng/event/304081/title/f1/"
   },
   {
     "title": "The Bad Guys 2",
@@ -72,44 +68,32 @@
     "url": "https://www.forumcinemas.lv/eng/event/304434/title/the_naked_gun/"
   },
   {
-    "title": "NT LIVE: Vanya",
-    "url": "https://www.forumcinemas.lv/eng/event/303848/title/nt_live_vanya/"
+    "title": "Sense & Sensibility (1995)",
+    "url": "https://www.forumcinemas.lv/eng/event/304467/title/sense_and_sensibility_1995/"
   },
   {
     "title": "Superman",
     "url": "https://www.forumcinemas.lv/eng/event/304276/title/superman/"
   },
   {
-    "title": "2 Fast 2 Furious (2003)",
-    "url": "https://www.forumcinemas.lv/eng/event/304489/title/2_fast_2_furious_2003/"
-  },
-  {
-    "title": "Dracula: A Love Tale",
-    "url": "https://www.forumcinemas.lv/eng/event/304447/title/dracula_a_love_tale/"
-  },
-  {
-    "title": "The Exit 8",
-    "url": "https://www.forumcinemas.lv/eng/event/304475/title/the_exit_8/"
-  },
-  {
-    "title": "Football | Albania - Latvia",
-    "url": "https://www.forumcinemas.lv/eng/event/304499/title/football_albania_-_latvia/"
-  },
-  {
-    "title": "Jurassic World: Rebirth",
-    "url": "https://www.forumcinemas.lv/eng/event/304277/title/jurassic_world_rebirth/"
-  },
-  {
-    "title": "Sense & Sensibility (1995)",
-    "url": "https://www.forumcinemas.lv/eng/event/304467/title/sense_and_sensibility_1995/"
+    "title": "F1",
+    "url": "https://www.forumcinemas.lv/eng/event/304081/title/f1/"
   },
   {
     "title": "Together",
     "url": "https://www.forumcinemas.lv/eng/event/304437/title/together/"
   },
   {
+    "title": "Dracula: A Love Tale",
+    "url": "https://www.forumcinemas.lv/eng/event/304447/title/dracula_a_love_tale/"
+  },
+  {
     "title": "The Home",
     "url": "https://www.forumcinemas.lv/eng/event/304444/title/the_home/"
+  },
+  {
+    "title": "The Exit 8",
+    "url": "https://www.forumcinemas.lv/eng/event/304475/title/the_exit_8/"
   },
   {
     "title": "Demon Slayer: Kimetsu No Yaiba - Infinity Castle",
@@ -138,6 +122,10 @@
   {
     "title": "Men in Black (1997)",
     "url": "https://www.forumcinemas.lv/eng/event/304471/title/men_in_black_1997/"
+  },
+  {
+    "title": "Elio",
+    "url": "https://www.forumcinemas.lv/eng/event/304271/title/elio/"
   },
   {
     "title": "Grave of the Fireflies (1988)",
@@ -196,6 +184,10 @@
     "url": "https://www.forumcinemas.lv/eng/event/304507/title/bts_2016_hyyh_on_stage_epilogue_remastered/"
   },
   {
+    "title": "One Battle After Another",
+    "url": "https://www.forumcinemas.lv/eng/event/304397/title/one_battle_after_another/"
+  },
+  {
     "title": "BTS 2017 THE WINGS TOUR THE FINAL Remastered",
     "url": "https://www.forumcinemas.lv/eng/event/304506/title/bts_2017_the_wings_tour_the_final_remastered/"
   },
@@ -234,6 +226,10 @@
   {
     "title": "Constantine (2005)",
     "url": "https://www.forumcinemas.lv/eng/event/304153/title/constantine_2005/"
+  },
+  {
+    "title": "Red Code Blue",
+    "url": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/"
   },
   {
     "title": "Casino Royale (2006)",

@@ -1,12 +1,12 @@
 [
   {
-    "title": "Demon Slayer: Kimetsu No Yaiba - Infinity Castle",
+    "title": "The Roses",
     "releaseYear": 2025,
-    "genres": "Animation, Action, Adventure",
-    "imdbId": "tt32820897",
-    "imdbUrl": "https://www.imdb.com/title/tt32820897/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304473/title/demon_slayer_kimetsu_no_yaiba_-_infinity_castle/",
-    "imdbRating": 8.7
+    "genres": "Comedy",
+    "imdbId": "tt31973693",
+    "imdbUrl": "https://www.imdb.com/title/tt31973693/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304435/title/the_roses/",
+    "imdbRating": 7
   },
   {
     "title": "The Long Walk",
@@ -33,25 +33,16 @@
     "imdbId": "tt33247023",
     "imdbUrl": "https://www.imdb.com/title/tt33247023/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304448/title/splitsville/",
-    "imdbRating": 7.1
-  },
-  {
-    "title": "The Conjuring: Last Rites",
-    "releaseYear": 2025,
-    "genres": "Horror, Mystery, Thriller",
-    "imdbId": "tt22898462",
-    "imdbUrl": "https://www.imdb.com/title/tt22898462/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304291/title/the_conjuring_last_rites/",
-    "imdbRating": 6.5
-  },
-  {
-    "title": "The Roses",
-    "releaseYear": 2025,
-    "genres": "Comedy",
-    "imdbId": "tt31973693",
-    "imdbUrl": "https://www.imdb.com/title/tt31973693/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304435/title/the_roses/",
     "imdbRating": 7
+  },
+  {
+    "title": "Demon Slayer: Kimetsu No Yaiba - Infinity Castle",
+    "releaseYear": 2025,
+    "genres": "Animation, Action, Adventure",
+    "imdbId": "tt32820897",
+    "imdbUrl": "https://www.imdb.com/title/tt32820897/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304473/title/demon_slayer_kimetsu_no_yaiba_-_infinity_castle/",
+    "imdbRating": 8.7
   },
   {
     "title": "The Bad Guys 2",
@@ -90,13 +81,13 @@
     "imdbRating": 7.6
   },
   {
-    "title": "Caught Stealing",
+    "title": "The Conjuring: Last Rites",
     "releaseYear": 2025,
-    "genres": "Comedy, Crime, Thriller",
-    "imdbId": "tt1493274",
-    "imdbUrl": "https://www.imdb.com/title/tt1493274/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304438/title/caught_stealing/",
-    "imdbRating": 7.3
+    "genres": "Horror, Mystery, Thriller",
+    "imdbId": "tt22898462",
+    "imdbUrl": "https://www.imdb.com/title/tt22898462/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304291/title/the_conjuring_last_rites/",
+    "imdbRating": 6.5
   },
   {
     "title": "Sneaks",
@@ -106,15 +97,6 @@
     "imdbUrl": "https://www.imdb.com/title/tt9254940/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304483/title/sneaks/",
     "imdbRating": 3.8
-  },
-  {
-    "title": "Together",
-    "releaseYear": 2025,
-    "genres": "Horror, Romance",
-    "imdbId": "tt31184028",
-    "imdbUrl": "https://www.imdb.com/title/tt31184028/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304437/title/together/",
-    "imdbRating": 6.8
   },
   {
     "title": "The Naked Gun",
@@ -135,6 +117,15 @@
     "imdbRating": 7.8
   },
   {
+    "title": "The Faculty (1998)",
+    "releaseYear": 1998,
+    "genres": "Horror, Mystery, Sci-Fi",
+    "imdbId": "tt0133751",
+    "imdbUrl": "https://www.imdb.com/title/tt0133751/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304463/title/the_faculty_1998/",
+    "imdbRating": 6.6
+  },
+  {
     "title": "Dracula: A Love Tale",
     "releaseYear": 2025,
     "genres": "Fantasy, Horror, Romance",
@@ -144,22 +135,13 @@
     "imdbRating": 6.2
   },
   {
-    "title": "The Exit 8",
+    "title": "Caught Stealing",
     "releaseYear": 2025,
-    "genres": "Action, Adventure, Horror",
-    "imdbId": "tt35222590",
-    "imdbUrl": "https://www.imdb.com/title/tt35222590/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304475/title/the_exit_8/",
-    "imdbRating": 6.6
-  },
-  {
-    "title": "Superman",
-    "releaseYear": 2025,
-    "genres": "Action, Adventure, Sci-Fi",
-    "imdbId": "tt5950044",
-    "imdbUrl": "https://www.imdb.com/title/tt5950044/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304276/title/superman/",
-    "imdbRating": 7.2
+    "genres": "Comedy, Crime, Thriller",
+    "imdbId": "tt1493274",
+    "imdbUrl": "https://www.imdb.com/title/tt1493274/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304438/title/caught_stealing/",
+    "imdbRating": 7.3
   },
   {
     "title": "Afterburn",
@@ -171,24 +153,6 @@
     "imdbRating": 4.4
   },
   {
-    "title": "The Home",
-    "releaseYear": 2025,
-    "genres": "Horror, Thriller",
-    "imdbId": "tt17023012",
-    "imdbUrl": "https://www.imdb.com/title/tt17023012/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304444/title/the_home/",
-    "imdbRating": 5.5
-  },
-  {
-    "title": "The Faculty (1998)",
-    "releaseYear": 1998,
-    "genres": "Horror, Mystery, Sci-Fi",
-    "imdbId": "tt0133751",
-    "imdbUrl": "https://www.imdb.com/title/tt0133751/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304463/title/the_faculty_1998/",
-    "imdbRating": 6.6
-  },
-  {
     "title": "Jurassic World: Rebirth",
     "releaseYear": 2025,
     "genres": "Action, Adventure, Sci-Fi",
@@ -196,6 +160,24 @@
     "imdbUrl": "https://www.imdb.com/title/tt31036941/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304277/title/jurassic_world_rebirth/",
     "imdbRating": 5.9
+  },
+  {
+    "title": "The Exit 8",
+    "releaseYear": 2025,
+    "genres": "Action, Adventure, Horror",
+    "imdbId": "tt35222590",
+    "imdbUrl": "https://www.imdb.com/title/tt35222590/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304475/title/the_exit_8/",
+    "imdbRating": 6.6
+  },
+  {
+    "title": "Together",
+    "releaseYear": 2025,
+    "genres": "Horror, Romance",
+    "imdbId": "tt31184028",
+    "imdbUrl": "https://www.imdb.com/title/tt31184028/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304437/title/together/",
+    "imdbRating": 6.8
   },
   {
     "title": "10 Things I Hate About You (1999)",
@@ -214,6 +196,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt13650700/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304485/title/big_bold_beautiful_journey/",
     "imdbRating": null
+  },
+  {
+    "title": "Superman",
+    "releaseYear": 2025,
+    "genres": "Action, Adventure, Sci-Fi",
+    "imdbId": "tt5950044",
+    "imdbUrl": "https://www.imdb.com/title/tt5950044/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304276/title/superman/",
+    "imdbRating": 7.2
   },
   {
     "title": "Captain Sabertooth and the Countess of Grel",
@@ -240,7 +231,7 @@
     "imdbId": "tt36424914",
     "imdbUrl": "https://www.imdb.com/title/tt36424914/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304481/title/pets_on_a_train/",
-    "imdbRating": 6.5
+    "imdbRating": 6.4
   },
   {
     "title": "Grand Prix of Europe",
@@ -295,6 +286,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt11655566/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304270/title/lilo_and_stitch/",
     "imdbRating": 6.7
+  },
+  {
+    "title": "The Home",
+    "releaseYear": 2025,
+    "genres": "Horror, Thriller",
+    "imdbId": "tt17023012",
+    "imdbUrl": "https://www.imdb.com/title/tt17023012/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304444/title/the_home/",
+    "imdbRating": 5.5
   },
   {
     "title": "Bernard: Mission Mars",

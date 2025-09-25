@@ -1,35 +1,31 @@
 [
   {
-    "title": "Grand Prix of Europe",
-    "url": "https://www.forumcinemas.lv/eng/event/304474/title/grand_prix_of_europe/"
-  },
-  {
-    "title": "Lilo & Stitch",
-    "url": "https://www.forumcinemas.lv/eng/event/304270/title/lilo_and_stitch/"
-  },
-  {
     "title": "The Roses",
     "url": "https://www.forumcinemas.lv/eng/event/304435/title/the_roses/"
   },
   {
-    "title": "Sneaks",
-    "url": "https://www.forumcinemas.lv/eng/event/304483/title/sneaks/"
+    "title": "The Summer Book",
+    "url": "https://www.forumcinemas.lv/eng/event/304514/title/the_summer_book/"
+  },
+  {
+    "title": "Grand Prix of Europe",
+    "url": "https://www.forumcinemas.lv/eng/event/304474/title/grand_prix_of_europe/"
+  },
+  {
+    "title": "The Naked Gun",
+    "url": "https://www.forumcinemas.lv/eng/event/304434/title/the_naked_gun/"
   },
   {
     "title": "Downton Abbey: The Grand Finale",
     "url": "https://www.forumcinemas.lv/eng/event/304476/title/downton_abbey_the_grand_finale/"
   },
   {
-    "title": "Big Bold Beautiful Journey",
-    "url": "https://www.forumcinemas.lv/eng/event/304485/title/big_bold_beautiful_journey/"
+    "title": "Captain Sabertooth and the Countess of Grel",
+    "url": "https://www.forumcinemas.lv/eng/event/304462/title/captain_sabertooth_and_the_countess_of_grel/"
   },
   {
     "title": "Materialists",
     "url": "https://www.forumcinemas.lv/eng/event/304423/title/materialists/"
-  },
-  {
-    "title": "The Conjuring: Last Rites",
-    "url": "https://www.forumcinemas.lv/eng/event/304291/title/the_conjuring_last_rites/"
   },
   {
     "title": "Demon Slayer: Kimetsu No Yaiba - Infinity Castle",
@@ -48,72 +44,48 @@
     "url": "https://www.forumcinemas.lv/eng/event/304238/title/the_bad_guys_2/"
   },
   {
-    "title": "Jurassic World: Rebirth",
-    "url": "https://www.forumcinemas.lv/eng/event/304277/title/jurassic_world_rebirth/"
-  },
-  {
-    "title": "The Summer Book",
-    "url": "https://www.forumcinemas.lv/eng/event/304514/title/the_summer_book/"
-  },
-  {
-    "title": "Bernard: Mission Mars",
-    "url": "https://www.forumcinemas.lv/eng/event/304487/title/bernard_mission_mars/"
-  },
-  {
-    "title": "Relay",
-    "url": "https://www.forumcinemas.lv/eng/event/304494/title/relay/"
-  },
-  {
-    "title": "F1",
-    "url": "https://www.forumcinemas.lv/eng/event/304081/title/f1/"
-  },
-  {
-    "title": "BTS 2016 HYYH On Stage : Epilogue Remastered",
-    "url": "https://www.forumcinemas.lv/eng/event/304507/title/bts_2016_hyyh_on_stage_epilogue_remastered/"
-  },
-  {
-    "title": "Weapons",
-    "url": "https://www.forumcinemas.lv/eng/event/304422/title/weapons/"
-  },
-  {
-    "title": "Afterburn",
-    "url": "https://www.forumcinemas.lv/eng/event/304480/title/afterburn/"
-  },
-  {
-    "title": "Smurfs",
-    "url": "https://www.forumcinemas.lv/eng/event/304130/title/smurfs/"
-  },
-  {
-    "title": "One Battle After Another",
-    "url": "https://www.forumcinemas.lv/eng/event/304397/title/one_battle_after_another/"
-  },
-  {
-    "title": "Caught Stealing",
-    "url": "https://www.forumcinemas.lv/eng/event/304438/title/caught_stealing/"
-  },
-  {
-    "title": "Superman",
-    "url": "https://www.forumcinemas.lv/eng/event/304276/title/superman/"
-  },
-  {
-    "title": "Dracula: A Love Tale",
-    "url": "https://www.forumcinemas.lv/eng/event/304447/title/dracula_a_love_tale/"
-  },
-  {
-    "title": "The Naked Gun",
-    "url": "https://www.forumcinemas.lv/eng/event/304434/title/the_naked_gun/"
-  },
-  {
-    "title": "Captain Sabertooth and the Countess of Grel",
-    "url": "https://www.forumcinemas.lv/eng/event/304462/title/captain_sabertooth_and_the_countess_of_grel/"
+    "title": "Big Bold Beautiful Journey",
+    "url": "https://www.forumcinemas.lv/eng/event/304485/title/big_bold_beautiful_journey/"
   },
   {
     "title": "The Fantastic Four: First Steps",
     "url": "https://www.forumcinemas.lv/eng/event/304292/title/the_fantastic_four_first_steps/"
   },
   {
+    "title": "Relay",
+    "url": "https://www.forumcinemas.lv/eng/event/304494/title/relay/"
+  },
+  {
+    "title": "The Conjuring: Last Rites",
+    "url": "https://www.forumcinemas.lv/eng/event/304291/title/the_conjuring_last_rites/"
+  },
+  {
+    "title": "Smurfs",
+    "url": "https://www.forumcinemas.lv/eng/event/304130/title/smurfs/"
+  },
+  {
+    "title": "Bernard: Mission Mars",
+    "url": "https://www.forumcinemas.lv/eng/event/304487/title/bernard_mission_mars/"
+  },
+  {
+    "title": "One Battle After Another",
+    "url": "https://www.forumcinemas.lv/eng/event/304397/title/one_battle_after_another/"
+  },
+  {
+    "title": "Weapons",
+    "url": "https://www.forumcinemas.lv/eng/event/304422/title/weapons/"
+  },
+  {
+    "title": "F1",
+    "url": "https://www.forumcinemas.lv/eng/event/304081/title/f1/"
+  },
+  {
     "title": "BTS 2017 THE WINGS TOUR THE FINAL Remastered",
     "url": "https://www.forumcinemas.lv/eng/event/304506/title/bts_2017_the_wings_tour_the_final_remastered/"
+  },
+  {
+    "title": "Afterburn",
+    "url": "https://www.forumcinemas.lv/eng/event/304480/title/afterburn/"
   },
   {
     "title": "Men in Black (1997)",
@@ -122,6 +94,14 @@
   {
     "title": "Secret HORROR Premiere",
     "url": "https://www.forumcinemas.lv/eng/event/302415/title/secret_horror_premiere/"
+  },
+  {
+    "title": "Dracula: A Love Tale",
+    "url": "https://www.forumcinemas.lv/eng/event/304447/title/dracula_a_love_tale/"
+  },
+  {
+    "title": "Caught Stealing",
+    "url": "https://www.forumcinemas.lv/eng/event/304438/title/caught_stealing/"
   },
   {
     "title": "Gabby's Dollhouse: The Movie",
@@ -144,16 +124,24 @@
     "url": "https://www.forumcinemas.lv/eng/event/304475/title/the_exit_8/"
   },
   {
+    "title": "Sneaks",
+    "url": "https://www.forumcinemas.lv/eng/event/304483/title/sneaks/"
+  },
+  {
+    "title": "Jurassic World: Rebirth",
+    "url": "https://www.forumcinemas.lv/eng/event/304277/title/jurassic_world_rebirth/"
+  },
+  {
+    "title": "Pets on a train",
+    "url": "https://www.forumcinemas.lv/eng/event/304481/title/pets_on_a_train/"
+  },
+  {
     "title": "10 Things I Hate About You (1999)",
     "url": "https://www.forumcinemas.lv/eng/event/304040/title/10_things_i_hate_about_you_1999/"
   },
   {
     "title": "David Gilmour Live at the Circus Maximus, Rome",
     "url": "https://www.forumcinemas.lv/eng/event/304479/title/david_gilmour_live_at_the_circus_maximus_rome/"
-  },
-  {
-    "title": "Pets on a train",
-    "url": "https://www.forumcinemas.lv/eng/event/304481/title/pets_on_a_train/"
   },
   {
     "title": "Elio",
@@ -164,12 +152,32 @@
     "url": "https://www.forumcinemas.lv/eng/event/304234/title/how_to_train_your_dragon/"
   },
   {
+    "title": "Lilo & Stitch",
+    "url": "https://www.forumcinemas.lv/eng/event/304270/title/lilo_and_stitch/"
+  },
+  {
+    "title": "BTS 2016 HYYH On Stage : Epilogue Remastered",
+    "url": "https://www.forumcinemas.lv/eng/event/304507/title/bts_2016_hyyh_on_stage_epilogue_remastered/"
+  },
+  {
     "title": "The Criminal Excellency Fund (2017)",
     "url": "https://www.forumcinemas.lv/eng/event/302218/title/the_criminal_excellency_fund_2017/"
   },
   {
+    "title": "Private event",
+    "url": "https://www.forumcinemas.lv/eng/event/303398/title/private_event/"
+  },
+  {
+    "title": "Banana Boat",
+    "url": "https://www.forumcinemas.lv/eng/event/304108/title/banana_boat/"
+  },
+  {
     "title": "NT LIVE: Inter Alia",
     "url": "https://www.forumcinemas.lv/eng/event/304374/title/nt_live_inter_alia/"
+  },
+  {
+    "title": "Superman",
+    "url": "https://www.forumcinemas.lv/eng/event/304276/title/superman/"
   },
   {
     "title": "BTS 2019 'SPEAK YOURSELF' LONDON Remastered",
@@ -188,6 +196,10 @@
     "url": "https://www.forumcinemas.lv/eng/event/304504/title/bts_2021_muster_sowoozoo_remastered/"
   },
   {
+    "title": "Taylor Swift | The Official Release Party of a Showgirl",
+    "url": "https://www.forumcinemas.lv/eng/event/304550/title/taylor_swift_the_official_release_party_of_a_showgirl/"
+  },
+  {
     "title": "Commando (1985)",
     "url": "https://www.forumcinemas.lv/eng/event/302030/title/commando_1985/"
   },
@@ -204,12 +216,12 @@
     "url": "https://www.forumcinemas.lv/eng/event/304153/title/constantine_2005/"
   },
   {
-    "title": "Red Code Blue",
-    "url": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/"
-  },
-  {
     "title": "Tron: Ares",
     "url": "https://www.forumcinemas.lv/eng/event/304468/title/tron_ares/"
+  },
+  {
+    "title": "Red Code Blue",
+    "url": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/"
   },
   {
     "title": "Corpse Bride (2005)",
@@ -264,6 +276,10 @@
     "url": "https://www.forumcinemas.lv/eng/event/304523/title/chainsaw_man_the_movie_-_reze_arc/"
   },
   {
+    "title": "G-DRAGON IN CINEMA [Übermensch]",
+    "url": "https://www.forumcinemas.lv/eng/event/304525/title/g-dragon_in_cinema_%C3%BCbermensch/"
+  },
+  {
     "title": "NT LIVE: Frankenstein",
     "url": "https://www.forumcinemas.lv/eng/event/301509/title/nt_live_frankenstein/"
   },
@@ -282,6 +298,10 @@
   {
     "title": "LOL Worlds25 Finals",
     "url": "https://www.forumcinemas.lv/eng/event/304527/title/lol_worlds25_finals/"
+  },
+  {
+    "title": "Exhibition On Screen | Caravaggio",
+    "url": "https://www.forumcinemas.lv/eng/event/304537/title/exhibition_on_screen_caravaggio/"
   },
   {
     "title": "NT LIVE: Hamlet (with Benedict Cumberbatch)",
@@ -340,6 +360,10 @@
     "url": "https://www.forumcinemas.lv/eng/event/304531/title/woolf_works_the_royal_ballet/"
   },
   {
+    "title": "Exhibition On Screen | Turner & Constable",
+    "url": "https://www.forumcinemas.lv/eng/event/304538/title/exhibition_on_screen_turner_and_constable/"
+  },
+  {
     "title": "MET Opera: Tristan und Isolde",
     "url": "https://www.forumcinemas.lv/eng/event/304456/title/met_opera_tristan_und_isolde/"
   },
@@ -350,6 +374,10 @@
   {
     "title": "MET Opera: Eugene Onegin",
     "url": "https://www.forumcinemas.lv/eng/event/304457/title/met_opera_eugene_onegin/"
+  },
+  {
+    "title": "Exhibition On Screen | Frida Kahlo",
+    "url": "https://www.forumcinemas.lv/eng/event/302746/title/exhibition_on_screen_frida_kahlo/"
   },
   {
     "title": "MET Opera: El Último Sueño de Frida y Diego",

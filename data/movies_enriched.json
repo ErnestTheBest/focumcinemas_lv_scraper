@@ -1,12 +1,12 @@
 [
   {
-    "title": "One Battle After Another",
+    "title": "Grand Prix of Europe",
     "releaseYear": 2025,
-    "genres": "Action, Crime, Drama",
-    "imdbId": "tt30144839",
-    "imdbUrl": "https://www.imdb.com/title/tt30144839/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304397/title/one_battle_after_another/",
-    "imdbRating": 8.5
+    "genres": "Animation, Comedy, Family",
+    "imdbId": "tt32897929",
+    "imdbUrl": "https://www.imdb.com/title/tt32897929/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304474/title/grand_prix_of_europe/",
+    "imdbRating": 6.1
   },
   {
     "title": "Relay",
@@ -36,6 +36,15 @@
     "imdbRating": 7
   },
   {
+    "title": "Downton Abbey: The Grand Finale",
+    "releaseYear": 2025,
+    "genres": "Drama",
+    "imdbId": "tt31888477",
+    "imdbUrl": "https://www.imdb.com/title/tt31888477/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304476/title/downton_abbey_the_grand_finale/",
+    "imdbRating": 7.7
+  },
+  {
     "title": "Gabby's Dollhouse: The Movie",
     "releaseYear": 2025,
     "genres": "Animation, Adventure, Comedy",
@@ -45,22 +54,13 @@
     "imdbRating": 5.8
   },
   {
-    "title": "Downton Abbey: The Grand Finale",
+    "title": "The Exit 8",
     "releaseYear": 2025,
-    "genres": "Drama",
-    "imdbId": "tt31888477",
-    "imdbUrl": "https://www.imdb.com/title/tt31888477/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304476/title/downton_abbey_the_grand_finale/",
-    "imdbRating": 7.6
-  },
-  {
-    "title": "The Summer Book",
-    "releaseYear": 2025,
-    "genres": "Drama",
-    "imdbId": "tt26940053",
-    "imdbUrl": "https://www.imdb.com/title/tt26940053/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304514/title/the_summer_book/",
-    "imdbRating": 6.5
+    "genres": "Action, Adventure, Horror",
+    "imdbId": "tt35222590",
+    "imdbUrl": "https://www.imdb.com/title/tt35222590/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304475/title/the_exit_8/",
+    "imdbRating": 6.6
   },
   {
     "title": "The Naked Gun",
@@ -72,6 +72,15 @@
     "imdbRating": 6.5
   },
   {
+    "title": "The Long Walk",
+    "releaseYear": 2025,
+    "genres": "Thriller",
+    "imdbId": "tt10374610",
+    "imdbUrl": "https://www.imdb.com/title/tt10374610/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304472/title/the_long_walk/",
+    "imdbRating": 7.4
+  },
+  {
     "title": "Materialists",
     "releaseYear": 2025,
     "genres": "Comedy, Romance",
@@ -81,22 +90,22 @@
     "imdbRating": 6.3
   },
   {
-    "title": "Afterburn",
+    "title": "One Battle After Another",
     "releaseYear": 2025,
-    "genres": "Action, Comedy, Sci-Fi",
-    "imdbId": "tt1210027",
-    "imdbUrl": "https://www.imdb.com/title/tt1210027/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304480/title/afterburn/",
-    "imdbRating": 4.5
+    "genres": "Action, Crime, Drama",
+    "imdbId": "tt30144839",
+    "imdbUrl": "https://www.imdb.com/title/tt30144839/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304397/title/one_battle_after_another/",
+    "imdbRating": null
   },
   {
-    "title": "The Long Walk",
+    "title": "The Fantastic Four: First Steps",
     "releaseYear": 2025,
-    "genres": "Thriller",
-    "imdbId": "tt10374610",
-    "imdbUrl": "https://www.imdb.com/title/tt10374610/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304472/title/the_long_walk/",
-    "imdbRating": 7.3
+    "genres": "Action, Adventure, Sci-Fi",
+    "imdbId": "tt10676052",
+    "imdbUrl": "https://www.imdb.com/title/tt10676052/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304292/title/the_fantastic_four_first_steps/",
+    "imdbRating": 7.1
   },
   {
     "title": "Demon Slayer: Kimetsu No Yaiba - Infinity Castle",
@@ -106,6 +115,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt32820897/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304473/title/demon_slayer_kimetsu_no_yaiba_-_infinity_castle/",
     "imdbRating": 8.6
+  },
+  {
+    "title": "The Bad Guys 2",
+    "releaseYear": 2025,
+    "genres": "Animation, Action, Adventure",
+    "imdbId": "tt30017619",
+    "imdbUrl": "https://www.imdb.com/title/tt30017619/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304238/title/the_bad_guys_2/",
+    "imdbRating": 7.1
   },
   {
     "title": "Weapons",
@@ -144,6 +162,15 @@
     "imdbRating": 4.9
   },
   {
+    "title": "Afterburn",
+    "releaseYear": 2025,
+    "genres": "Action, Comedy, Sci-Fi",
+    "imdbId": "tt1210027",
+    "imdbUrl": "https://www.imdb.com/title/tt1210027/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304480/title/afterburn/",
+    "imdbRating": 4.4
+  },
+  {
     "title": "Dracula: A Love Tale",
     "releaseYear": 2026,
     "genres": "Fantasy, Horror, Romance",
@@ -151,60 +178,6 @@
     "imdbUrl": "https://www.imdb.com/title/tt31434030/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304447/title/dracula_a_love_tale/",
     "imdbRating": 6.1
-  },
-  {
-    "title": "The Bad Guys 2",
-    "releaseYear": 2025,
-    "genres": "Animation, Action, Adventure",
-    "imdbId": "tt30017619",
-    "imdbUrl": "https://www.imdb.com/title/tt30017619/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304238/title/the_bad_guys_2/",
-    "imdbRating": 7.1
-  },
-  {
-    "title": "F1",
-    "releaseYear": 2025,
-    "genres": "Action, Drama, Sport",
-    "imdbId": "tt16311594",
-    "imdbUrl": "https://www.imdb.com/title/tt16311594/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304081/title/f1/",
-    "imdbRating": 7.8
-  },
-  {
-    "title": "Caught Stealing",
-    "releaseYear": 2025,
-    "genres": "Comedy, Crime, Thriller",
-    "imdbId": "tt1493274",
-    "imdbUrl": "https://www.imdb.com/title/tt1493274/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304438/title/caught_stealing/",
-    "imdbRating": 7.3
-  },
-  {
-    "title": "Grand Prix of Europe",
-    "releaseYear": 2025,
-    "genres": "Animation, Comedy, Family",
-    "imdbId": "tt32897929",
-    "imdbUrl": "https://www.imdb.com/title/tt32897929/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304474/title/grand_prix_of_europe/",
-    "imdbRating": 6.1
-  },
-  {
-    "title": "The Exit 8",
-    "releaseYear": 2025,
-    "genres": "Action, Adventure, Horror",
-    "imdbId": "tt35222590",
-    "imdbUrl": "https://www.imdb.com/title/tt35222590/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304475/title/the_exit_8/",
-    "imdbRating": 6.5
-  },
-  {
-    "title": "The Fantastic Four: First Steps",
-    "releaseYear": 2025,
-    "genres": "Action, Adventure, Sci-Fi",
-    "imdbId": "tt10676052",
-    "imdbUrl": "https://www.imdb.com/title/tt10676052/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304292/title/the_fantastic_four_first_steps/",
-    "imdbRating": 7.1
   },
   {
     "title": "Superman",
@@ -243,6 +216,33 @@
     "imdbRating": 7.5
   },
   {
+    "title": "F1",
+    "releaseYear": 2025,
+    "genres": "Action, Drama, Sport",
+    "imdbId": "tt16311594",
+    "imdbUrl": "https://www.imdb.com/title/tt16311594/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304081/title/f1/",
+    "imdbRating": 7.7
+  },
+  {
+    "title": "The Summer Book",
+    "releaseYear": 2025,
+    "genres": "Drama",
+    "imdbId": "tt26940053",
+    "imdbUrl": "https://www.imdb.com/title/tt26940053/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304514/title/the_summer_book/",
+    "imdbRating": 6.5
+  },
+  {
+    "title": "Caught Stealing",
+    "releaseYear": 2025,
+    "genres": "Comedy, Crime, Thriller",
+    "imdbId": "tt1493274",
+    "imdbUrl": "https://www.imdb.com/title/tt1493274/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304438/title/caught_stealing/",
+    "imdbRating": 7.3
+  },
+  {
     "title": "Smurfs",
     "releaseYear": 2025,
     "genres": "Animation, Adventure, Comedy",
@@ -250,6 +250,42 @@
     "imdbUrl": "https://www.imdb.com/title/tt18069420/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304130/title/smurfs/",
     "imdbRating": 4.3
+  },
+  {
+    "title": "Lampo the Travelling Dog 2",
+    "releaseYear": 2025,
+    "genres": "Adventure, Family",
+    "imdbId": "tt35840784",
+    "imdbUrl": "https://www.imdb.com/title/tt35840784/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304522/title/lampo_the_travelling_dog_2/",
+    "imdbRating": 6
+  },
+  {
+    "title": "13 days, 13 nights",
+    "releaseYear": 2025,
+    "genres": "Action, Biography, Drama",
+    "imdbId": "tt28291010",
+    "imdbUrl": "https://www.imdb.com/title/tt28291010/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304482/title/13_days_13_nights/",
+    "imdbRating": 7
+  },
+  {
+    "title": "The Ugly Stepsister",
+    "releaseYear": 2025,
+    "genres": "Comedy, Drama, Horror",
+    "imdbId": "tt29344903",
+    "imdbUrl": "https://www.imdb.com/title/tt29344903/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304532/title/the_ugly_stepsister/",
+    "imdbRating": 7
+  },
+  {
+    "title": "Good Boy",
+    "releaseYear": 2025,
+    "genres": "Comedy, Horror, Thriller",
+    "imdbId": "tt35521922",
+    "imdbUrl": "https://www.imdb.com/title/tt35521922/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304520/title/good_boy/",
+    "imdbRating": 6.5
   },
   {
     "title": "Two Prosecutors",
@@ -295,6 +331,24 @@
     "imdbUrl": "https://www.imdb.com/title/tt6604188/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304468/title/tron_ares/",
     "imdbRating": null
+  },
+  {
+    "title": "Diamonds",
+    "releaseYear": 2024,
+    "genres": "Comedy, Drama",
+    "imdbId": "tt32810496",
+    "imdbUrl": "https://www.imdb.com/title/tt32810496/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304545/title/diamonds/",
+    "imdbRating": 6.8
+  },
+  {
+    "title": "The Last Viking",
+    "releaseYear": 2025,
+    "genres": "Comedy, Crime, Drama",
+    "imdbId": "tt27817389",
+    "imdbUrl": "https://www.imdb.com/title/tt27817389/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304526/title/the_last_viking/",
+    "imdbRating": 7.3
   },
   {
     "title": "Corpse Bride (2005)",

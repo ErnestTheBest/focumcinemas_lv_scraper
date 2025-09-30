@@ -1,15 +1,7 @@
 [
   {
-    "title": "Private event",
-    "url": "https://www.forumcinemas.lv/eng/event/303398/title/private_event/"
-  },
-  {
-    "title": "Banana Boat",
-    "url": "https://www.forumcinemas.lv/eng/event/304108/title/banana_boat/"
-  },
-  {
-    "title": "One Battle After Another",
-    "url": "https://www.forumcinemas.lv/eng/event/304397/title/one_battle_after_another/"
+    "title": "Grand Prix of Europe",
+    "url": "https://www.forumcinemas.lv/eng/event/304474/title/grand_prix_of_europe/"
   },
   {
     "title": "Relay",
@@ -24,36 +16,44 @@
     "url": "https://www.forumcinemas.lv/eng/event/304435/title/the_roses/"
   },
   {
-    "title": "Gabby's Dollhouse: The Movie",
-    "url": "https://www.forumcinemas.lv/eng/event/304484/title/gabbys_dollhouse_the_movie/"
-  },
-  {
     "title": "Downton Abbey: The Grand Finale",
     "url": "https://www.forumcinemas.lv/eng/event/304476/title/downton_abbey_the_grand_finale/"
   },
   {
-    "title": "The Summer Book",
-    "url": "https://www.forumcinemas.lv/eng/event/304514/title/the_summer_book/"
+    "title": "Gabby's Dollhouse: The Movie",
+    "url": "https://www.forumcinemas.lv/eng/event/304484/title/gabbys_dollhouse_the_movie/"
+  },
+  {
+    "title": "The Exit 8",
+    "url": "https://www.forumcinemas.lv/eng/event/304475/title/the_exit_8/"
   },
   {
     "title": "The Naked Gun",
     "url": "https://www.forumcinemas.lv/eng/event/304434/title/the_naked_gun/"
   },
   {
-    "title": "Materialists",
-    "url": "https://www.forumcinemas.lv/eng/event/304423/title/materialists/"
-  },
-  {
-    "title": "Afterburn",
-    "url": "https://www.forumcinemas.lv/eng/event/304480/title/afterburn/"
-  },
-  {
     "title": "The Long Walk",
     "url": "https://www.forumcinemas.lv/eng/event/304472/title/the_long_walk/"
   },
   {
+    "title": "Materialists",
+    "url": "https://www.forumcinemas.lv/eng/event/304423/title/materialists/"
+  },
+  {
+    "title": "One Battle After Another",
+    "url": "https://www.forumcinemas.lv/eng/event/304397/title/one_battle_after_another/"
+  },
+  {
+    "title": "The Fantastic Four: First Steps",
+    "url": "https://www.forumcinemas.lv/eng/event/304292/title/the_fantastic_four_first_steps/"
+  },
+  {
     "title": "Demon Slayer: Kimetsu No Yaiba - Infinity Castle",
     "url": "https://www.forumcinemas.lv/eng/event/304473/title/demon_slayer_kimetsu_no_yaiba_-_infinity_castle/"
+  },
+  {
+    "title": "The Bad Guys 2",
+    "url": "https://www.forumcinemas.lv/eng/event/304238/title/the_bad_guys_2/"
   },
   {
     "title": "Weapons",
@@ -72,36 +72,16 @@
     "url": "https://www.forumcinemas.lv/eng/event/304498/title/the_strangers_chapter_2/"
   },
   {
-    "title": "Dracula: A Love Tale",
-    "url": "https://www.forumcinemas.lv/eng/event/304447/title/dracula_a_love_tale/"
-  },
-  {
-    "title": "The Bad Guys 2",
-    "url": "https://www.forumcinemas.lv/eng/event/304238/title/the_bad_guys_2/"
-  },
-  {
-    "title": "F1",
-    "url": "https://www.forumcinemas.lv/eng/event/304081/title/f1/"
-  },
-  {
-    "title": "Caught Stealing",
-    "url": "https://www.forumcinemas.lv/eng/event/304438/title/caught_stealing/"
-  },
-  {
-    "title": "Grand Prix of Europe",
-    "url": "https://www.forumcinemas.lv/eng/event/304474/title/grand_prix_of_europe/"
-  },
-  {
-    "title": "The Exit 8",
-    "url": "https://www.forumcinemas.lv/eng/event/304475/title/the_exit_8/"
-  },
-  {
-    "title": "The Fantastic Four: First Steps",
-    "url": "https://www.forumcinemas.lv/eng/event/304292/title/the_fantastic_four_first_steps/"
+    "title": "Afterburn",
+    "url": "https://www.forumcinemas.lv/eng/event/304480/title/afterburn/"
   },
   {
     "title": "NT LIVE: Inter Alia",
     "url": "https://www.forumcinemas.lv/eng/event/304374/title/nt_live_inter_alia/"
+  },
+  {
+    "title": "Dracula: A Love Tale",
+    "url": "https://www.forumcinemas.lv/eng/event/304447/title/dracula_a_love_tale/"
   },
   {
     "title": "Superman",
@@ -124,12 +104,40 @@
     "url": "https://www.forumcinemas.lv/eng/event/303368/title/avatar_the_way_of_water_2022/"
   },
   {
+    "title": "F1",
+    "url": "https://www.forumcinemas.lv/eng/event/304081/title/f1/"
+  },
+  {
+    "title": "The Summer Book",
+    "url": "https://www.forumcinemas.lv/eng/event/304514/title/the_summer_book/"
+  },
+  {
+    "title": "Caught Stealing",
+    "url": "https://www.forumcinemas.lv/eng/event/304438/title/caught_stealing/"
+  },
+  {
     "title": "Smurfs",
     "url": "https://www.forumcinemas.lv/eng/event/304130/title/smurfs/"
   },
   {
     "title": "BTS 2021 MUSTER SOWOOZOO Remastered",
     "url": "https://www.forumcinemas.lv/eng/event/304504/title/bts_2021_muster_sowoozoo_remastered/"
+  },
+  {
+    "title": "Lampo the Travelling Dog 2",
+    "url": "https://www.forumcinemas.lv/eng/event/304522/title/lampo_the_travelling_dog_2/"
+  },
+  {
+    "title": "13 days, 13 nights",
+    "url": "https://www.forumcinemas.lv/eng/event/304482/title/13_days_13_nights/"
+  },
+  {
+    "title": "The Ugly Stepsister",
+    "url": "https://www.forumcinemas.lv/eng/event/304532/title/the_ugly_stepsister/"
+  },
+  {
+    "title": "Good Boy",
+    "url": "https://www.forumcinemas.lv/eng/event/304520/title/good_boy/"
   },
   {
     "title": "Two Prosecutors",
@@ -162,6 +170,14 @@
   {
     "title": "Red Code Blue",
     "url": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/"
+  },
+  {
+    "title": "Diamonds",
+    "url": "https://www.forumcinemas.lv/eng/event/304545/title/diamonds/"
+  },
+  {
+    "title": "The Last Viking",
+    "url": "https://www.forumcinemas.lv/eng/event/304526/title/the_last_viking/"
   },
   {
     "title": "Corpse Bride (2005)",

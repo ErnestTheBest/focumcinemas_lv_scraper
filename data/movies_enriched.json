@@ -1,14 +1,5 @@
 [
   {
-    "title": "Grand Prix of Europe",
-    "releaseYear": 2025,
-    "genres": "Animation, Comedy, Family",
-    "imdbId": "tt32897929",
-    "imdbUrl": "https://www.imdb.com/title/tt32897929/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304474/title/grand_prix_of_europe/",
-    "imdbRating": 6.1
-  },
-  {
     "title": "One Battle After Another",
     "releaseYear": 2025,
     "genres": "Action, Crime, Drama",
@@ -18,6 +9,15 @@
     "imdbRating": 8.4
   },
   {
+    "title": "The Summer Book",
+    "releaseYear": 2025,
+    "genres": "Drama",
+    "imdbId": "tt26940053",
+    "imdbUrl": "https://www.imdb.com/title/tt26940053/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304514/title/the_summer_book/",
+    "imdbRating": 6.5
+  },
+  {
     "title": "Big Bold Beautiful Journey",
     "releaseYear": 2025,
     "genres": "Drama, Fantasy, Romance",
@@ -25,6 +25,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt13650700/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304485/title/big_bold_beautiful_journey/",
     "imdbRating": 6.2
+  },
+  {
+    "title": "The Roses",
+    "releaseYear": 2025,
+    "genres": "Comedy",
+    "imdbId": "tt31973693",
+    "imdbUrl": "https://www.imdb.com/title/tt31973693/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304435/title/the_roses/",
+    "imdbRating": 7
   },
   {
     "title": "Relay",
@@ -43,15 +52,6 @@
     "imdbUrl": "https://www.imdb.com/title/tt32214143/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304484/title/gabbys_dollhouse_the_movie/",
     "imdbRating": 5.8
-  },
-  {
-    "title": "The Roses",
-    "releaseYear": 2025,
-    "genres": "Comedy",
-    "imdbId": "tt31973693",
-    "imdbUrl": "https://www.imdb.com/title/tt31973693/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304435/title/the_roses/",
-    "imdbRating": 7
   },
   {
     "title": "The Naked Gun",
@@ -81,12 +81,12 @@
     "imdbRating": 6.3
   },
   {
-    "title": "Superman",
+    "title": "Caught Stealing",
     "releaseYear": 2025,
-    "genres": "Action, Adventure, Sci-Fi",
-    "imdbId": "tt5950044",
-    "imdbUrl": "https://www.imdb.com/title/tt5950044/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304276/title/superman/",
+    "genres": "Comedy, Crime, Thriller",
+    "imdbId": "tt1493274",
+    "imdbUrl": "https://www.imdb.com/title/tt1493274/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304438/title/caught_stealing/",
     "imdbRating": 7.2
   },
   {
@@ -96,34 +96,16 @@
     "imdbId": "tt32820897",
     "imdbUrl": "https://www.imdb.com/title/tt32820897/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304473/title/demon_slayer_kimetsu_no_yaiba_-_infinity_castle/",
-    "imdbRating": 8.6
+    "imdbRating": 8.5
   },
   {
-    "title": "The Long Walk",
+    "title": "Smurfs",
     "releaseYear": 2025,
-    "genres": "Thriller",
-    "imdbId": "tt10374610",
-    "imdbUrl": "https://www.imdb.com/title/tt10374610/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304472/title/the_long_walk/",
-    "imdbRating": 7.3
-  },
-  {
-    "title": "Bernard: Mission Mars",
-    "releaseYear": 2023,
-    "genres": "Animation, Action, Adventure",
-    "imdbId": "tt32526396",
-    "imdbUrl": "https://www.imdb.com/title/tt32526396/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304487/title/bernard_mission_mars/",
-    "imdbRating": 5.4
-  },
-  {
-    "title": "Dracula: A Love Tale",
-    "releaseYear": 2026,
-    "genres": "Fantasy, Horror, Romance",
-    "imdbId": "tt31434030",
-    "imdbUrl": "https://www.imdb.com/title/tt31434030/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304447/title/dracula_a_love_tale/",
-    "imdbRating": 6.1
+    "genres": "Animation, Adventure, Comedy",
+    "imdbId": "tt18069420",
+    "imdbUrl": "https://www.imdb.com/title/tt18069420/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304130/title/smurfs/",
+    "imdbRating": 4.3
   },
   {
     "title": "Splitsville",
@@ -153,13 +135,13 @@
     "imdbRating": 4.9
   },
   {
-    "title": "Spermageddon",
-    "releaseYear": 2025,
-    "genres": "Animation, Comedy, Musical",
-    "imdbId": "tt14828040",
-    "imdbUrl": "https://www.imdb.com/title/tt14828040/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304486/title/spermageddon/",
-    "imdbRating": 5.4
+    "title": "Dracula: A Love Tale",
+    "releaseYear": 2026,
+    "genres": "Fantasy, Horror, Romance",
+    "imdbId": "tt31434030",
+    "imdbUrl": "https://www.imdb.com/title/tt31434030/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304447/title/dracula_a_love_tale/",
+    "imdbRating": 6.1
   },
   {
     "title": "Downton Abbey: The Grand Finale",
@@ -171,13 +153,13 @@
     "imdbRating": 7.6
   },
   {
-    "title": "Avatar: The Way of Water (2022)",
-    "releaseYear": 2022,
-    "genres": "Action, Adventure, Fantasy",
-    "imdbId": "tt1630029",
-    "imdbUrl": "https://www.imdb.com/title/tt1630029/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/303368/title/avatar_the_way_of_water_2022/",
-    "imdbRating": 7.5
+    "title": "The Long Walk",
+    "releaseYear": 2025,
+    "genres": "Thriller",
+    "imdbId": "tt10374610",
+    "imdbUrl": "https://www.imdb.com/title/tt10374610/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304472/title/the_long_walk/",
+    "imdbRating": 7.3
   },
   {
     "title": "F1",
@@ -198,33 +180,6 @@
     "imdbRating": 4.5
   },
   {
-    "title": "The Summer Book",
-    "releaseYear": 2025,
-    "genres": "Drama",
-    "imdbId": "tt26940053",
-    "imdbUrl": "https://www.imdb.com/title/tt26940053/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304514/title/the_summer_book/",
-    "imdbRating": 6.5
-  },
-  {
-    "title": "Caught Stealing",
-    "releaseYear": 2025,
-    "genres": "Comedy, Crime, Thriller",
-    "imdbId": "tt1493274",
-    "imdbUrl": "https://www.imdb.com/title/tt1493274/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304438/title/caught_stealing/",
-    "imdbRating": 7.2
-  },
-  {
-    "title": "Smurfs",
-    "releaseYear": 2025,
-    "genres": "Animation, Adventure, Comedy",
-    "imdbId": "tt18069420",
-    "imdbUrl": "https://www.imdb.com/title/tt18069420/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304130/title/smurfs/",
-    "imdbRating": 4.3
-  },
-  {
     "title": "Lampo the Travelling Dog 2",
     "releaseYear": 2025,
     "genres": "Adventure, Family",
@@ -232,6 +187,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt35840784/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304522/title/lampo_the_travelling_dog_2/",
     "imdbRating": 6
+  },
+  {
+    "title": "Spermageddon",
+    "releaseYear": 2025,
+    "genres": "Animation, Comedy, Musical",
+    "imdbId": "tt14828040",
+    "imdbUrl": "https://www.imdb.com/title/tt14828040/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304486/title/spermageddon/",
+    "imdbRating": 5.4
   },
   {
     "title": "The Bad Guys 2",
@@ -279,6 +243,15 @@
     "imdbRating": 6.9
   },
   {
+    "title": "Avatar: The Way of Water (2022)",
+    "releaseYear": 2022,
+    "genres": "Action, Adventure, Fantasy",
+    "imdbId": "tt1630029",
+    "imdbUrl": "https://www.imdb.com/title/tt1630029/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/303368/title/avatar_the_way_of_water_2022/",
+    "imdbRating": 7.5
+  },
+  {
     "title": "Captain Sabertooth and the Countess of Grel",
     "releaseYear": 2025,
     "genres": "Animation, Adventure, Family",
@@ -286,6 +259,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt33540970/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304462/title/captain_sabertooth_and_the_countess_of_grel/",
     "imdbRating": 6
+  },
+  {
+    "title": "Grand Prix of Europe",
+    "releaseYear": 2025,
+    "genres": "Animation, Comedy, Family",
+    "imdbId": "tt32897929",
+    "imdbUrl": "https://www.imdb.com/title/tt32897929/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304474/title/grand_prix_of_europe/",
+    "imdbRating": 6.1
   },
   {
     "title": "Pets on a train",
@@ -306,6 +288,15 @@
     "imdbRating": 3.8
   },
   {
+    "title": "Bernard: Mission Mars",
+    "releaseYear": 2023,
+    "genres": "Animation, Action, Adventure",
+    "imdbId": "tt32526396",
+    "imdbUrl": "https://www.imdb.com/title/tt32526396/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304487/title/bernard_mission_mars/",
+    "imdbRating": 5.4
+  },
+  {
     "title": "Commando (1985)",
     "releaseYear": 1985,
     "genres": "Action, Adventure, Thriller",
@@ -313,6 +304,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt0088944/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/302030/title/commando_1985/",
     "imdbRating": 6.7
+  },
+  {
+    "title": "Superman",
+    "releaseYear": 2025,
+    "genres": "Action, Adventure, Sci-Fi",
+    "imdbId": "tt5950044",
+    "imdbUrl": "https://www.imdb.com/title/tt5950044/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304276/title/superman/",
+    "imdbRating": 7.2
   },
   {
     "title": "How to Train Your Dragon",
@@ -384,7 +384,7 @@
     "imdbId": "tt27817389",
     "imdbUrl": "https://www.imdb.com/title/tt27817389/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304526/title/the_last_viking/",
-    "imdbRating": 7.3
+    "imdbRating": 7.4
   },
   {
     "title": "Corpse Bride (2005)",
@@ -522,6 +522,60 @@
     "imdbRating": 6.1
   },
   {
+    "title": "Riga IFF: The Great Arch",
+    "releaseYear": 2025,
+    "genres": "Biography, Drama, History",
+    "imdbId": "tt32398150",
+    "imdbUrl": "https://www.imdb.com/title/tt32398150/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304560/title/riga_iff_the_great_arch/",
+    "imdbRating": 7.1
+  },
+  {
+    "title": "Riga IFF: The Secret Agent",
+    "releaseYear": 2025,
+    "genres": "Crime, Drama, Fantasy",
+    "imdbId": "tt27847051",
+    "imdbUrl": "https://www.imdb.com/title/tt27847051/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304562/title/riga_iff_the_secret_agent/",
+    "imdbRating": 7.7
+  },
+  {
+    "title": "Riga IFF: Raptures",
+    "releaseYear": 2025,
+    "genres": "Drama",
+    "imdbId": "tt28101159",
+    "imdbUrl": "https://www.imdb.com/title/tt28101159/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304564/title/riga_iff_raptures/",
+    "imdbRating": 6.5
+  },
+  {
+    "title": "Riga IFF: Paternal Love",
+    "releaseYear": 2025,
+    "genres": "Drama",
+    "imdbId": "tt31974122",
+    "imdbUrl": "https://www.imdb.com/title/tt31974122/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304568/title/riga_iff_paternal_love/",
+    "imdbRating": 6.9
+  },
+  {
+    "title": "Riga IFF: Monk in Pieces",
+    "releaseYear": 2025,
+    "genres": "Documentary",
+    "imdbId": "tt34542628",
+    "imdbUrl": "https://www.imdb.com/title/tt34542628/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304569/title/riga_iff_monk_in_pieces/",
+    "imdbRating": 7.7
+  },
+  {
+    "title": "Riga IFF: Dreams",
+    "releaseYear": 2024,
+    "genres": "Comedy, Drama, Romance",
+    "imdbId": "tt30810787",
+    "imdbUrl": "https://www.imdb.com/title/tt30810787/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304570/title/riga_iff_dreams/",
+    "imdbRating": 7.4
+  },
+  {
     "title": "007: On Her Majesty's Secret Service (1969)",
     "releaseYear": 1969,
     "genres": "Action, Adventure, Thriller",
@@ -529,6 +583,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt0064757/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304511/title/007_on_her_majestys_secret_service_1969/",
     "imdbRating": 6.7
+  },
+  {
+    "title": "Riga IFF: Love",
+    "releaseYear": 2024,
+    "genres": "Comedy, Drama, Romance",
+    "imdbId": "tt30810792",
+    "imdbUrl": "https://www.imdb.com/title/tt30810792/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304571/title/riga_iff_love/",
+    "imdbRating": 7.3
   },
   {
     "title": "Chainsaw Man: The Movie - Reze Arc",

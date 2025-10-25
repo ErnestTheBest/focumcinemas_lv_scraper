@@ -1,30 +1,12 @@
 [
   {
-    "title": "Spermageddon",
+    "title": "Lampo the Travelling Dog 2",
     "releaseYear": 2025,
-    "genres": "Animation, Comedy, Musical",
-    "imdbId": "tt14828040",
-    "imdbUrl": "https://www.imdb.com/title/tt14828040/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304486/title/spermageddon/",
-    "imdbRating": 5.4
-  },
-  {
-    "title": "Smurfs",
-    "releaseYear": 2025,
-    "genres": "Animation, Adventure, Comedy",
-    "imdbId": "tt18069420",
-    "imdbUrl": "https://www.imdb.com/title/tt18069420/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304130/title/smurfs/",
-    "imdbRating": 4.3
-  },
-  {
-    "title": "Chickenhare and the Secret of the Groundhog",
-    "releaseYear": 2025,
-    "genres": "Animation, Adventure, Family",
-    "imdbId": "tt31260224",
-    "imdbUrl": "https://www.imdb.com/title/tt31260224/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304540/title/chickenhare_and_the_secret_of_the_groundhog/",
-    "imdbRating": 7.5
+    "genres": "Adventure, Family",
+    "imdbId": "tt35840784",
+    "imdbUrl": "https://www.imdb.com/title/tt35840784/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304522/title/lampo_the_travelling_dog_2/",
+    "imdbRating": 5.9
   },
   {
     "title": "Tafiti - Across the Desert",
@@ -36,6 +18,33 @@
     "imdbRating": 7.4
   },
   {
+    "title": "Chickenhare and the Secret of the Groundhog",
+    "releaseYear": 2025,
+    "genres": "Animation, Adventure, Family",
+    "imdbId": "tt31260224",
+    "imdbUrl": "https://www.imdb.com/title/tt31260224/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304540/title/chickenhare_and_the_secret_of_the_groundhog/",
+    "imdbRating": 7.5
+  },
+  {
+    "title": "Captain Sabertooth and the Countess of Grel",
+    "releaseYear": 2025,
+    "genres": "Animation, Adventure, Family",
+    "imdbId": "tt33540970",
+    "imdbUrl": "https://www.imdb.com/title/tt33540970/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304462/title/captain_sabertooth_and_the_countess_of_grel/",
+    "imdbRating": 5.9
+  },
+  {
+    "title": "Good Fortune",
+    "releaseYear": 2025,
+    "genres": "Action, Comedy, Fantasy",
+    "imdbId": "tt27543578",
+    "imdbUrl": "https://www.imdb.com/title/tt27543578/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304541/title/good_fortune/",
+    "imdbRating": 6.9
+  },
+  {
     "title": "The Bad Guys 2",
     "releaseYear": 2025,
     "genres": "Animation, Action, Adventure",
@@ -43,15 +52,6 @@
     "imdbUrl": "https://www.imdb.com/title/tt30017619/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304238/title/the_bad_guys_2/",
     "imdbRating": 7
-  },
-  {
-    "title": "It Was Just an Accident",
-    "releaseYear": 2025,
-    "genres": "Action, Adventure, Crime",
-    "imdbId": "tt36491653",
-    "imdbUrl": "https://www.imdb.com/title/tt36491653/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304543/title/it_was_just_an_accident/",
-    "imdbRating": 7.7
   },
   {
     "title": "Tron: Ares",
@@ -72,40 +72,13 @@
     "imdbRating": 6.1
   },
   {
-    "title": "The Black Phone 2",
+    "title": "It Was Just an Accident",
     "releaseYear": 2025,
-    "genres": "Horror",
-    "imdbId": "tt29644189",
-    "imdbUrl": "https://www.imdb.com/title/tt29644189/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304293/title/the_black_phone_2/",
-    "imdbRating": 6.7
-  },
-  {
-    "title": "Captain Sabertooth and the Countess of Grel",
-    "releaseYear": 2025,
-    "genres": "Animation, Adventure, Family",
-    "imdbId": "tt33540970",
-    "imdbUrl": "https://www.imdb.com/title/tt33540970/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304462/title/captain_sabertooth_and_the_countess_of_grel/",
-    "imdbRating": 5.9
-  },
-  {
-    "title": "Pets on a train",
-    "releaseYear": 2025,
-    "genres": "Animation, Action, Comedy",
-    "imdbId": "tt36424914",
-    "imdbUrl": "https://www.imdb.com/title/tt36424914/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304481/title/pets_on_a_train/",
-    "imdbRating": 6.4
-  },
-  {
-    "title": "Regretting You",
-    "releaseYear": 2025,
-    "genres": "Drama, Romance",
-    "imdbId": "tt33088452",
-    "imdbUrl": "https://www.imdb.com/title/tt33088452/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304513/title/regretting_you/",
-    "imdbRating": 6.2
+    "genres": "Action, Adventure, Crime",
+    "imdbId": "tt36491653",
+    "imdbUrl": "https://www.imdb.com/title/tt36491653/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304543/title/it_was_just_an_accident/",
+    "imdbRating": 7.7
   },
   {
     "title": "One Battle After Another",
@@ -117,49 +90,13 @@
     "imdbRating": 8.2
   },
   {
-    "title": "Good Fortune",
+    "title": "Pets on a train",
     "releaseYear": 2025,
-    "genres": "Action, Comedy, Fantasy",
-    "imdbId": "tt27543578",
-    "imdbUrl": "https://www.imdb.com/title/tt27543578/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304541/title/good_fortune/",
-    "imdbRating": 6.9
-  },
-  {
-    "title": "The Long Walk",
-    "releaseYear": 2025,
-    "genres": "Thriller",
-    "imdbId": "tt10374610",
-    "imdbUrl": "https://www.imdb.com/title/tt10374610/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304472/title/the_long_walk/",
-    "imdbRating": 7.1
-  },
-  {
-    "title": "Ice Fall",
-    "releaseYear": 2025,
-    "genres": "Thriller",
-    "imdbId": "tt29780866",
-    "imdbUrl": "https://www.imdb.com/title/tt29780866/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304548/title/ice_fall/",
-    "imdbRating": 5.8
-  },
-  {
-    "title": "Springsteen: Deliver Me from Nowhere",
-    "releaseYear": 2025,
-    "genres": "Biography, Drama, Music",
-    "imdbId": "tt31923069",
-    "imdbUrl": "https://www.imdb.com/title/tt31923069/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304557/title/springsteen_deliver_me_from_nowhere/",
-    "imdbRating": 6.3
-  },
-  {
-    "title": "Roofman",
-    "releaseYear": 2025,
-    "genres": "Biography, Crime, Drama",
-    "imdbId": "tt4627382",
-    "imdbUrl": "https://www.imdb.com/title/tt4627382/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304536/title/roofman/",
-    "imdbRating": 7.2
+    "genres": "Animation, Action, Comedy",
+    "imdbId": "tt36424914",
+    "imdbUrl": "https://www.imdb.com/title/tt36424914/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304481/title/pets_on_a_train/",
+    "imdbRating": 6.4
   },
   {
     "title": "Shell",
@@ -171,58 +108,31 @@
     "imdbRating": 4.9
   },
   {
-    "title": "My Neighbour Totoro (1988)",
-    "releaseYear": 1990,
-    "genres": "Animation, Adventure, Comedy",
-    "imdbId": "tt0096283",
-    "imdbUrl": "https://www.imdb.com/title/tt0096283/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304579/title/my_neighbour_totoro_1988/",
-    "imdbRating": 8.1
+    "title": "The Black Phone 2",
+    "releaseYear": 2025,
+    "genres": "Horror",
+    "imdbId": "tt29644189",
+    "imdbUrl": "https://www.imdb.com/title/tt29644189/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304293/title/the_black_phone_2/",
+    "imdbRating": 6.6
   },
   {
-    "title": "The Smashing Machine",
+    "title": "Roofman",
     "releaseYear": 2025,
-    "genres": "Action, Biography, Drama",
-    "imdbId": "tt11214558",
-    "imdbUrl": "https://www.imdb.com/title/tt11214558/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304524/title/the_smashing_machine/",
-    "imdbRating": 6.8
+    "genres": "Biography, Crime, Drama",
+    "imdbId": "tt4627382",
+    "imdbUrl": "https://www.imdb.com/title/tt4627382/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304536/title/roofman/",
+    "imdbRating": 7.2
   },
   {
-    "title": "Riga IFF: Raptures",
+    "title": "Regretting You",
     "releaseYear": 2025,
-    "genres": "Drama",
-    "imdbId": "tt28101159",
-    "imdbUrl": "https://www.imdb.com/title/tt28101159/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304564/title/riga_iff_raptures/",
-    "imdbRating": 6.4
-  },
-  {
-    "title": "The Conjuring: Last Rites",
-    "releaseYear": 2025,
-    "genres": "Horror, Mystery, Thriller",
-    "imdbId": "tt22898462",
-    "imdbUrl": "https://www.imdb.com/title/tt22898462/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304291/title/the_conjuring_last_rites/",
+    "genres": "Drama, Romance",
+    "imdbId": "tt33088452",
+    "imdbUrl": "https://www.imdb.com/title/tt33088452/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304513/title/regretting_you/",
     "imdbRating": 6.2
-  },
-  {
-    "title": "Riga IFF: Renoir",
-    "releaseYear": 2025,
-    "genres": "Drama",
-    "imdbId": "tt30220107",
-    "imdbUrl": "https://www.imdb.com/title/tt30220107/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304553/title/riga_iff_renoir/",
-    "imdbRating": 6.3
-  },
-  {
-    "title": "Lampo the Travelling Dog 2",
-    "releaseYear": 2025,
-    "genres": "Adventure, Family",
-    "imdbId": "tt35840784",
-    "imdbUrl": "https://www.imdb.com/title/tt35840784/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304522/title/lampo_the_travelling_dog_2/",
-    "imdbRating": 5.9
   },
   {
     "title": "Big Bold Beautiful Journey",
@@ -232,6 +142,33 @@
     "imdbUrl": "https://www.imdb.com/title/tt13650700/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304485/title/big_bold_beautiful_journey/",
     "imdbRating": 6.1
+  },
+  {
+    "title": "Springsteen: Deliver Me from Nowhere",
+    "releaseYear": 2025,
+    "genres": "Biography, Drama, Music",
+    "imdbId": "tt31923069",
+    "imdbUrl": "https://www.imdb.com/title/tt31923069/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304557/title/springsteen_deliver_me_from_nowhere/",
+    "imdbRating": 6.7
+  },
+  {
+    "title": "Ice Fall",
+    "releaseYear": 2025,
+    "genres": "Thriller",
+    "imdbId": "tt29780866",
+    "imdbUrl": "https://www.imdb.com/title/tt29780866/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304548/title/ice_fall/",
+    "imdbRating": 5.8
+  },
+  {
+    "title": "Spermageddon",
+    "releaseYear": 2025,
+    "genres": "Animation, Comedy, Musical",
+    "imdbId": "tt14828040",
+    "imdbUrl": "https://www.imdb.com/title/tt14828040/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304486/title/spermageddon/",
+    "imdbRating": 5.4
   },
   {
     "title": "Spirited Away (2001)",
@@ -268,6 +205,24 @@
     "imdbUrl": "https://www.imdb.com/title/tt31974122/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304568/title/riga_iff_paternal_love/",
     "imdbRating": 6.9
+  },
+  {
+    "title": "The Smashing Machine",
+    "releaseYear": 2025,
+    "genres": "Action, Biography, Drama",
+    "imdbId": "tt11214558",
+    "imdbUrl": "https://www.imdb.com/title/tt11214558/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304524/title/the_smashing_machine/",
+    "imdbRating": 6.7
+  },
+  {
+    "title": "The Conjuring: Last Rites",
+    "releaseYear": 2025,
+    "genres": "Horror, Mystery, Thriller",
+    "imdbId": "tt22898462",
+    "imdbUrl": "https://www.imdb.com/title/tt22898462/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304291/title/the_conjuring_last_rites/",
+    "imdbRating": 6.2
   },
   {
     "title": "Riga IFF: Monk in Pieces",
@@ -340,6 +295,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt32897929/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304474/title/grand_prix_of_europe/",
     "imdbRating": 6
+  },
+  {
+    "title": "Smurfs",
+    "releaseYear": 2025,
+    "genres": "Animation, Adventure, Comedy",
+    "imdbId": "tt18069420",
+    "imdbUrl": "https://www.imdb.com/title/tt18069420/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304130/title/smurfs/",
+    "imdbRating": 4.3
   },
   {
     "title": "Bernard: Mission Mars",
@@ -486,13 +450,22 @@
     "imdbRating": 6.3
   },
   {
+    "title": "The Long Walk",
+    "releaseYear": 2025,
+    "genres": "Horror, Thriller",
+    "imdbId": "tt10374610",
+    "imdbUrl": "https://www.imdb.com/title/tt10374610/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304472/title/the_long_walk/",
+    "imdbRating": 7.1
+  },
+  {
     "title": "Chainsaw Man: The Movie - Reze Arc",
     "releaseYear": 2025,
     "genres": "Animation, Action, Adventure",
     "imdbId": "tt30472557",
     "imdbUrl": "https://www.imdb.com/title/tt30472557/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304523/title/chainsaw_man_the_movie_-_reze_arc/",
-    "imdbRating": 8.5
+    "imdbRating": 8.6
   },
   {
     "title": "Twilight (2008)",
@@ -520,6 +493,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt20247118/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/303807/title/erik_stoneheart/",
     "imdbRating": 6
+  },
+  {
+    "title": "My Neighbour Totoro (1988)",
+    "releaseYear": 1990,
+    "genres": "Animation, Adventure, Comedy",
+    "imdbId": "tt0096283",
+    "imdbUrl": "https://www.imdb.com/title/tt0096283/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304579/title/my_neighbour_totoro_1988/",
+    "imdbRating": 8.1
   },
   {
     "title": "Rēcīgie komentāri: Twilight (2008)",
@@ -648,6 +630,15 @@
     "imdbRating": 7.5
   },
   {
+    "title": "Shelby Oaks",
+    "releaseYear": 2025,
+    "genres": "Horror, Thriller",
+    "imdbId": "tt14999684",
+    "imdbUrl": "https://www.imdb.com/title/tt14999684/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304546/title/shelby_oaks/",
+    "imdbRating": 5.9
+  },
+  {
     "title": "Back to the Future (1985)",
     "releaseYear": 1985,
     "genres": "Adventure, Comedy, Sci-Fi",
@@ -664,6 +655,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt0381061/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304509/title/casino_royale_2006/",
     "imdbRating": 8
+  },
+  {
+    "title": "Predator: Badlands",
+    "releaseYear": 2025,
+    "genres": "Action, Adventure, Sci-Fi",
+    "imdbId": "tt31227572",
+    "imdbUrl": "https://www.imdb.com/title/tt31227572/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304516/title/predator_badlands/",
+    "imdbRating": null
   },
   {
     "title": "V for Vendetta (2005)",

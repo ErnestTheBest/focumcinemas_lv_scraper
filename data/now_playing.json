@@ -4,8 +4,8 @@
     "url": "https://www.forumcinemas.lv/eng/event/304515/title/bugonia/"
   },
   {
-    "title": "Spermageddon",
-    "url": "https://www.forumcinemas.lv/eng/event/304486/title/spermageddon/"
+    "title": "Night at the Zoopocalypse",
+    "url": "https://www.forumcinemas.lv/eng/event/304544/title/night_at_the_zoopocalypse/"
   },
   {
     "title": "A Girl Named Willow",
@@ -16,16 +16,24 @@
     "url": "https://www.forumcinemas.lv/eng/event/304435/title/the_roses/"
   },
   {
-    "title": "Springsteen: Deliver Me from Nowhere",
-    "url": "https://www.forumcinemas.lv/eng/event/304557/title/springsteen_deliver_me_from_nowhere/"
+    "title": "Tron: Ares",
+    "url": "https://www.forumcinemas.lv/eng/event/304468/title/tron_ares/"
   },
   {
     "title": "Tafiti - Across the Desert",
     "url": "https://www.forumcinemas.lv/eng/event/304535/title/tafiti_-_across_the_desert/"
   },
   {
-    "title": "Night at the Zoopocalypse",
-    "url": "https://www.forumcinemas.lv/eng/event/304544/title/night_at_the_zoopocalypse/"
+    "title": "Good Fortune",
+    "url": "https://www.forumcinemas.lv/eng/event/304541/title/good_fortune/"
+  },
+  {
+    "title": "One Battle After Another",
+    "url": "https://www.forumcinemas.lv/eng/event/304397/title/one_battle_after_another/"
+  },
+  {
+    "title": "Springsteen: Deliver Me from Nowhere",
+    "url": "https://www.forumcinemas.lv/eng/event/304557/title/springsteen_deliver_me_from_nowhere/"
   },
   {
     "title": "Chainsaw Man: The Movie - Reze Arc",
@@ -40,64 +48,20 @@
     "url": "https://www.forumcinemas.lv/eng/event/304293/title/the_black_phone_2/"
   },
   {
-    "title": "Downton Abbey: The Grand Finale",
-    "url": "https://www.forumcinemas.lv/eng/event/304476/title/downton_abbey_the_grand_finale/"
-  },
-  {
     "title": "Regretting You",
     "url": "https://www.forumcinemas.lv/eng/event/304513/title/regretting_you/"
   },
   {
-    "title": "One Battle After Another",
-    "url": "https://www.forumcinemas.lv/eng/event/304397/title/one_battle_after_another/"
-  },
-  {
-    "title": "Shelby Oaks",
-    "url": "https://www.forumcinemas.lv/eng/event/304546/title/shelby_oaks/"
-  },
-  {
-    "title": "Good Fortune",
-    "url": "https://www.forumcinemas.lv/eng/event/304541/title/good_fortune/"
-  },
-  {
-    "title": "Diamonds",
-    "url": "https://www.forumcinemas.lv/eng/event/304545/title/diamonds/"
-  },
-  {
-    "title": "Demon Slayer: Kimetsu No Yaiba - Infinity Castle",
-    "url": "https://www.forumcinemas.lv/eng/event/304473/title/demon_slayer_kimetsu_no_yaiba_-_infinity_castle/"
-  },
-  {
-    "title": "It Was Just an Accident",
-    "url": "https://www.forumcinemas.lv/eng/event/304543/title/it_was_just_an_accident/"
-  },
-  {
-    "title": "Roofman",
-    "url": "https://www.forumcinemas.lv/eng/event/304536/title/roofman/"
-  },
-  {
-    "title": "Tron: Ares",
-    "url": "https://www.forumcinemas.lv/eng/event/304468/title/tron_ares/"
-  },
-  {
-    "title": "Two Prosecutors",
-    "url": "https://www.forumcinemas.lv/eng/event/304534/title/two_prosecutors/"
-  },
-  {
-    "title": "The Conjuring: Last Rites",
-    "url": "https://www.forumcinemas.lv/eng/event/304291/title/the_conjuring_last_rites/"
-  },
-  {
-    "title": "Dracula: A Love Tale",
-    "url": "https://www.forumcinemas.lv/eng/event/304447/title/dracula_a_love_tale/"
-  },
-  {
-    "title": "Dog of God",
-    "url": "https://www.forumcinemas.lv/eng/event/304497/title/dog_of_god/"
+    "title": "Spermageddon",
+    "url": "https://www.forumcinemas.lv/eng/event/304486/title/spermageddon/"
   },
   {
     "title": "Big Bold Beautiful Journey",
     "url": "https://www.forumcinemas.lv/eng/event/304485/title/big_bold_beautiful_journey/"
+  },
+  {
+    "title": "Roofman",
+    "url": "https://www.forumcinemas.lv/eng/event/304536/title/roofman/"
   },
   {
     "title": "The Last Will",
@@ -116,6 +80,14 @@
     "url": "https://www.forumcinemas.lv/eng/event/301509/title/nt_live_frankenstein/"
   },
   {
+    "title": "The Conjuring: Last Rites",
+    "url": "https://www.forumcinemas.lv/eng/event/304291/title/the_conjuring_last_rites/"
+  },
+  {
+    "title": "Shelby Oaks",
+    "url": "https://www.forumcinemas.lv/eng/event/304546/title/shelby_oaks/"
+  },
+  {
     "title": "The Smashing Machine",
     "url": "https://www.forumcinemas.lv/eng/event/304524/title/the_smashing_machine/"
   },
@@ -126,6 +98,10 @@
   {
     "title": "The Bad Guys 2",
     "url": "https://www.forumcinemas.lv/eng/event/304238/title/the_bad_guys_2/"
+  },
+  {
+    "title": "It Was Just an Accident",
+    "url": "https://www.forumcinemas.lv/eng/event/304543/title/it_was_just_an_accident/"
   },
   {
     "title": "Predator: Badlands",
@@ -142,6 +118,22 @@
   {
     "title": "Escape Net",
     "url": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/"
+  },
+  {
+    "title": "Heidi - Rescue of the Lynx",
+    "url": "https://www.forumcinemas.lv/eng/event/304589/title/heidi_-_rescue_of_the_lynx/"
+  },
+  {
+    "title": "Playdate",
+    "url": "https://www.forumcinemas.lv/eng/event/304547/title/playdate/"
+  },
+  {
+    "title": "Solomamma",
+    "url": "https://www.forumcinemas.lv/eng/event/304519/title/solomamma/"
+  },
+  {
+    "title": "Sorry, Baby",
+    "url": "https://www.forumcinemas.lv/eng/event/304591/title/sorry_baby/"
   },
   {
     "title": "Rudens Kino Jaunumu Sezonas Prezentācija",

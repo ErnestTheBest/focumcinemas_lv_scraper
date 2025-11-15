@@ -1,83 +1,7 @@
 [
   {
-    "title": "Die My Love",
-    "url": "https://www.forumcinemas.lv/eng/event/304596/title/die_my_love/"
-  },
-  {
-    "title": "Heidi - Rescue of the Lynx",
-    "url": "https://www.forumcinemas.lv/eng/event/304589/title/heidi_-_rescue_of_the_lynx/"
-  },
-  {
-    "title": "Good Fortune",
-    "url": "https://www.forumcinemas.lv/eng/event/304541/title/good_fortune/"
-  },
-  {
-    "title": "Escape Net",
-    "url": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/"
-  },
-  {
-    "title": "Sentimental Value",
-    "url": "https://www.forumcinemas.lv/eng/event/304592/title/sentimental_value/"
-  },
-  {
-    "title": "Tron: Ares",
-    "url": "https://www.forumcinemas.lv/eng/event/304468/title/tron_ares/"
-  },
-  {
-    "title": "Sorry, Baby",
-    "url": "https://www.forumcinemas.lv/eng/event/304591/title/sorry_baby/"
-  },
-  {
-    "title": "Red Code Blue",
-    "url": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/"
-  },
-  {
-    "title": "Chainsaw Man: The Movie - Reze Arc",
-    "url": "https://www.forumcinemas.lv/eng/event/304523/title/chainsaw_man_the_movie_-_reze_arc/"
-  },
-  {
-    "title": "Living Large",
-    "url": "https://www.forumcinemas.lv/eng/event/304597/title/living_large/"
-  },
-  {
-    "title": "Now You See Me: Now You Don't",
-    "url": "https://www.forumcinemas.lv/eng/event/304517/title/now_you_see_me_now_you_dont/"
-  },
-  {
-    "title": "Playdate",
-    "url": "https://www.forumcinemas.lv/eng/event/304547/title/playdate/"
-  },
-  {
-    "title": "The Running Man",
-    "url": "https://www.forumcinemas.lv/eng/event/304296/title/the_running_man/"
-  },
-  {
-    "title": "The Black Phone 2",
-    "url": "https://www.forumcinemas.lv/eng/event/304293/title/the_black_phone_2/"
-  },
-  {
-    "title": "Predator: Badlands",
-    "url": "https://www.forumcinemas.lv/eng/event/304516/title/predator_badlands/"
-  },
-  {
     "title": "Bugonia",
     "url": "https://www.forumcinemas.lv/eng/event/304515/title/bugonia/"
-  },
-  {
-    "title": "The Place Promised in Our Early Days (2004)",
-    "url": "https://www.forumcinemas.lv/eng/event/304605/title/the_place_promised_in_our_early_days_2004/"
-  },
-  {
-    "title": "Regretting You",
-    "url": "https://www.forumcinemas.lv/eng/event/304513/title/regretting_you/"
-  },
-  {
-    "title": "My Neighbour Totoro (1988)",
-    "url": "https://www.forumcinemas.lv/eng/event/304579/title/my_neighbour_totoro_1988/"
-  },
-  {
-    "title": "One Battle After Another",
-    "url": "https://www.forumcinemas.lv/eng/event/304397/title/one_battle_after_another/"
   },
   {
     "title": "Night at the Zoopocalypse",
@@ -86,6 +10,10 @@
   {
     "title": "Chickenhare and the Secret of the Groundhog",
     "url": "https://www.forumcinemas.lv/eng/event/304540/title/chickenhare_and_the_secret_of_the_groundhog/"
+  },
+  {
+    "title": "Heidi - Rescue of the Lynx",
+    "url": "https://www.forumcinemas.lv/eng/event/304589/title/heidi_-_rescue_of_the_lynx/"
   },
   {
     "title": "Lampo the Travelling Dog 2",
@@ -100,12 +28,40 @@
     "url": "https://www.forumcinemas.lv/eng/event/304535/title/tafiti_-_across_the_desert/"
   },
   {
+    "title": "Red Code Blue",
+    "url": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/"
+  },
+  {
+    "title": "Sentimental Value",
+    "url": "https://www.forumcinemas.lv/eng/event/304592/title/sentimental_value/"
+  },
+  {
     "title": "Boonie Bears: Future Reborn",
     "url": "https://www.forumcinemas.lv/eng/event/304574/title/boonie_bears_future_reborn/"
   },
   {
+    "title": "Now You See Me: Now You Don't",
+    "url": "https://www.forumcinemas.lv/eng/event/304517/title/now_you_see_me_now_you_dont/"
+  },
+  {
     "title": "A Girl Named Willow",
     "url": "https://www.forumcinemas.lv/eng/event/304542/title/a_girl_named_willow/"
+  },
+  {
+    "title": "Escape Net",
+    "url": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/"
+  },
+  {
+    "title": "Regretting You",
+    "url": "https://www.forumcinemas.lv/eng/event/304513/title/regretting_you/"
+  },
+  {
+    "title": "Chainsaw Man: The Movie - Reze Arc",
+    "url": "https://www.forumcinemas.lv/eng/event/304523/title/chainsaw_man_the_movie_-_reze_arc/"
+  },
+  {
+    "title": "The Running Man",
+    "url": "https://www.forumcinemas.lv/eng/event/304296/title/the_running_man/"
   },
   {
     "title": "The Bad Guys 2",
@@ -116,8 +72,28 @@
     "url": "https://www.forumcinemas.lv/eng/event/303398/title/private_event/"
   },
   {
+    "title": "Die My Love",
+    "url": "https://www.forumcinemas.lv/eng/event/304596/title/die_my_love/"
+  },
+  {
+    "title": "Living Large",
+    "url": "https://www.forumcinemas.lv/eng/event/304597/title/living_large/"
+  },
+  {
     "title": "j-hope Tour 'HOPE ON THE STAGE' THE MOVIE",
     "url": "https://www.forumcinemas.lv/eng/event/304584/title/j-hope_tour_hope_on_the_stage_the_movie/"
+  },
+  {
+    "title": "One Battle After Another",
+    "url": "https://www.forumcinemas.lv/eng/event/304397/title/one_battle_after_another/"
+  },
+  {
+    "title": "Predator: Badlands",
+    "url": "https://www.forumcinemas.lv/eng/event/304516/title/predator_badlands/"
+  },
+  {
+    "title": "The Place Promised in Our Early Days (2004)",
+    "url": "https://www.forumcinemas.lv/eng/event/304605/title/the_place_promised_in_our_early_days_2004/"
   },
   {
     "title": "Spermageddon",
@@ -132,8 +108,24 @@
     "url": "https://www.forumcinemas.lv/eng/event/304081/title/f1/"
   },
   {
+    "title": "Playdate",
+    "url": "https://www.forumcinemas.lv/eng/event/304547/title/playdate/"
+  },
+  {
+    "title": "Tron: Ares",
+    "url": "https://www.forumcinemas.lv/eng/event/304468/title/tron_ares/"
+  },
+  {
+    "title": "The Black Phone 2",
+    "url": "https://www.forumcinemas.lv/eng/event/304293/title/the_black_phone_2/"
+  },
+  {
     "title": "Springsteen: Deliver Me from Nowhere",
     "url": "https://www.forumcinemas.lv/eng/event/304557/title/springsteen_deliver_me_from_nowhere/"
+  },
+  {
+    "title": "Good Fortune",
+    "url": "https://www.forumcinemas.lv/eng/event/304541/title/good_fortune/"
   },
   {
     "title": "007: GoldenEye (1995)",
@@ -150,6 +142,10 @@
   {
     "title": "Shelby Oaks",
     "url": "https://www.forumcinemas.lv/eng/event/304546/title/shelby_oaks/"
+  },
+  {
+    "title": "Sorry, Baby",
+    "url": "https://www.forumcinemas.lv/eng/event/304591/title/sorry_baby/"
   },
   {
     "title": "Diamonds",
@@ -298,6 +294,10 @@
   {
     "title": "Roman Holiday (1953)",
     "url": "https://www.forumcinemas.lv/eng/event/303951/title/roman_holiday_1953/"
+  },
+  {
+    "title": "My Neighbour Totoro (1988)",
+    "url": "https://www.forumcinemas.lv/eng/event/304579/title/my_neighbour_totoro_1988/"
   },
   {
     "title": "La Fille mal gardée | The Royal Ballet",

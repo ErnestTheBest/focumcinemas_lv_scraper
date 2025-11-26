@@ -1,68 +1,5 @@
 [
   {
-    "title": "Bugonia",
-    "releaseYear": 2025,
-    "genres": "Comedy, Crime, Sci-Fi",
-    "imdbId": "tt12300742",
-    "imdbUrl": "https://www.imdb.com/title/tt12300742/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304515/title/bugonia/",
-    "imdbRating": 7.7
-  },
-  {
-    "title": "Living Large",
-    "releaseYear": 2025,
-    "genres": "Animation, Comedy, Family",
-    "imdbId": "tt27850647",
-    "imdbUrl": "https://www.imdb.com/title/tt27850647/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304597/title/living_large/",
-    "imdbRating": 6.6
-  },
-  {
-    "title": "Heidi - Rescue of the Lynx",
-    "releaseYear": 2025,
-    "genres": "Animation, Family",
-    "imdbId": "tt14260876",
-    "imdbUrl": "https://www.imdb.com/title/tt14260876/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304589/title/heidi_-_rescue_of_the_lynx/",
-    "imdbRating": 6.7
-  },
-  {
-    "title": "Chainsaw Man: The Movie - Reze Arc",
-    "releaseYear": 2025,
-    "genres": "Animation, Action, Adventure",
-    "imdbId": "tt30472557",
-    "imdbUrl": "https://www.imdb.com/title/tt30472557/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304523/title/chainsaw_man_the_movie_-_reze_arc/",
-    "imdbRating": 8.5
-  },
-  {
-    "title": "Jujutsu Kaisen: Execution",
-    "releaseYear": 2025,
-    "genres": "Animation, Action, Fantasy",
-    "imdbId": "tt38121182",
-    "imdbUrl": "https://www.imdb.com/title/tt38121182/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304588/title/jujutsu_kaisen_execution/",
-    "imdbRating": 6.8
-  },
-  {
-    "title": "Die My Love",
-    "releaseYear": 2025,
-    "genres": "Drama, Thriller",
-    "imdbId": "tt9362736",
-    "imdbUrl": "https://www.imdb.com/title/tt9362736/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304596/title/die_my_love/",
-    "imdbRating": 6.6
-  },
-  {
-    "title": "Playdate",
-    "releaseYear": 2025,
-    "genres": "Action, Comedy",
-    "imdbId": "tt31425731",
-    "imdbUrl": "https://www.imdb.com/title/tt31425731/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304547/title/playdate/",
-    "imdbRating": 5.5
-  },
-  {
     "title": "Escape Net",
     "releaseYear": 2025,
     "genres": "Biography, Drama",
@@ -72,94 +9,13 @@
     "imdbRating": 8.6
   },
   {
-    "title": "Wicked: For Good",
+    "title": "Chainsaw Man: The Movie - Reze Arc",
     "releaseYear": 2025,
-    "genres": "Family, Fantasy, Musical",
-    "imdbId": "tt19847976",
-    "imdbUrl": "https://www.imdb.com/title/tt19847976/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304295/title/wicked_for_good/",
-    "imdbRating": 7.2
-  },
-  {
-    "title": "Tron: Ares",
-    "releaseYear": 2025,
-    "genres": "Action, Adventure, Sci-Fi",
-    "imdbId": "tt6604188",
-    "imdbUrl": "https://www.imdb.com/title/tt6604188/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304468/title/tron_ares/",
-    "imdbRating": 6.5
-  },
-  {
-    "title": "The Running Man",
-    "releaseYear": 2025,
-    "genres": "Action, Adventure, Sci-Fi",
-    "imdbId": "tt14107334",
-    "imdbUrl": "https://www.imdb.com/title/tt14107334/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304296/title/the_running_man/",
-    "imdbRating": 6.7
-  },
-  {
-    "title": "Keeper",
-    "releaseYear": 2025,
-    "genres": "Horror",
-    "imdbId": "tt32332404",
-    "imdbUrl": "https://www.imdb.com/title/tt32332404/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304593/title/keeper/",
-    "imdbRating": 5.9
-  },
-  {
-    "title": "Predator: Badlands",
-    "releaseYear": 2025,
-    "genres": "Action, Adventure, Sci-Fi",
-    "imdbId": "tt31227572",
-    "imdbUrl": "https://www.imdb.com/title/tt31227572/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304516/title/predator_badlands/",
-    "imdbRating": 7.5
-  },
-  {
-    "title": "Now You See Me: Now You Don't",
-    "releaseYear": 2025,
-    "genres": "Crime, Thriller",
-    "imdbId": "tt4712810",
-    "imdbUrl": "https://www.imdb.com/title/tt4712810/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304517/title/now_you_see_me_now_you_dont/",
-    "imdbRating": 6.3
-  },
-  {
-    "title": "Sentimental Value",
-    "releaseYear": 2025,
-    "genres": "Drama",
-    "imdbId": "tt27714581",
-    "imdbUrl": "https://www.imdb.com/title/tt27714581/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304592/title/sentimental_value/",
-    "imdbRating": 8
-  },
-  {
-    "title": "Corpse Bride (2005)",
-    "releaseYear": 2005,
-    "genres": "Animation, Comedy, Drama",
-    "imdbId": "tt0121164",
-    "imdbUrl": "https://www.imdb.com/title/tt0121164/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/300174/title/corpse_bride_2005/",
-    "imdbRating": 7.4
-  },
-  {
-    "title": "Sisu: Road to Revenge",
-    "releaseYear": 2025,
-    "genres": "Action, War",
-    "imdbId": "tt31844586",
-    "imdbUrl": "https://www.imdb.com/title/tt31844586/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304512/title/sisu_road_to_revenge/",
-    "imdbRating": 7.3
-  },
-  {
-    "title": "Shelby Oaks",
-    "releaseYear": 2025,
-    "genres": "Horror, Thriller",
-    "imdbId": "tt14999684",
-    "imdbUrl": "https://www.imdb.com/title/tt14999684/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304546/title/shelby_oaks/",
-    "imdbRating": 5.5
+    "genres": "Animation, Action, Adventure",
+    "imdbId": "tt30472557",
+    "imdbUrl": "https://www.imdb.com/title/tt30472557/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304523/title/chainsaw_man_the_movie_-_reze_arc/",
+    "imdbRating": 8.5
   },
   {
     "title": "A Girl Named Willow",
@@ -180,6 +36,69 @@
     "imdbRating": null
   },
   {
+    "title": "Now You See Me: Now You Don't",
+    "releaseYear": 2025,
+    "genres": "Crime, Thriller",
+    "imdbId": "tt4712810",
+    "imdbUrl": "https://www.imdb.com/title/tt4712810/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304517/title/now_you_see_me_now_you_dont/",
+    "imdbRating": 6.3
+  },
+  {
+    "title": "Bugonia",
+    "releaseYear": 2025,
+    "genres": "Comedy, Crime, Sci-Fi",
+    "imdbId": "tt12300742",
+    "imdbUrl": "https://www.imdb.com/title/tt12300742/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304515/title/bugonia/",
+    "imdbRating": 7.7
+  },
+  {
+    "title": "Sentimental Value",
+    "releaseYear": 2025,
+    "genres": "Drama",
+    "imdbId": "tt27714581",
+    "imdbUrl": "https://www.imdb.com/title/tt27714581/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304592/title/sentimental_value/",
+    "imdbRating": 8
+  },
+  {
+    "title": "Wicked: For Good",
+    "releaseYear": 2025,
+    "genres": "Family, Fantasy, Musical",
+    "imdbId": "tt19847976",
+    "imdbUrl": "https://www.imdb.com/title/tt19847976/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304295/title/wicked_for_good/",
+    "imdbRating": 7.2
+  },
+  {
+    "title": "Predator: Badlands",
+    "releaseYear": 2025,
+    "genres": "Action, Adventure, Sci-Fi",
+    "imdbId": "tt31227572",
+    "imdbUrl": "https://www.imdb.com/title/tt31227572/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304516/title/predator_badlands/",
+    "imdbRating": 7.5
+  },
+  {
+    "title": "Jujutsu Kaisen: Execution",
+    "releaseYear": 2025,
+    "genres": "Animation, Action, Fantasy",
+    "imdbId": "tt38121182",
+    "imdbUrl": "https://www.imdb.com/title/tt38121182/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304588/title/jujutsu_kaisen_execution/",
+    "imdbRating": 6.8
+  },
+  {
+    "title": "Sisu: Road to Revenge",
+    "releaseYear": 2025,
+    "genres": "Action, War",
+    "imdbId": "tt31844586",
+    "imdbUrl": "https://www.imdb.com/title/tt31844586/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304512/title/sisu_road_to_revenge/",
+    "imdbRating": 7.3
+  },
+  {
     "title": "American Gangster: Extended Edition (2007)",
     "releaseYear": 2007,
     "genres": "Biography, Crime, Drama",
@@ -187,6 +106,42 @@
     "imdbUrl": "https://www.imdb.com/title/tt0765429/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304598/title/american_gangster_extended_edition_2007/",
     "imdbRating": 7.8
+  },
+  {
+    "title": "Keeper",
+    "releaseYear": 2025,
+    "genres": "Horror",
+    "imdbId": "tt32332404",
+    "imdbUrl": "https://www.imdb.com/title/tt32332404/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304593/title/keeper/",
+    "imdbRating": 5.9
+  },
+  {
+    "title": "Die My Love",
+    "releaseYear": 2025,
+    "genres": "Drama, Thriller",
+    "imdbId": "tt9362736",
+    "imdbUrl": "https://www.imdb.com/title/tt9362736/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304596/title/die_my_love/",
+    "imdbRating": 6.6
+  },
+  {
+    "title": "The Running Man",
+    "releaseYear": 2025,
+    "genres": "Action, Adventure, Sci-Fi",
+    "imdbId": "tt14107334",
+    "imdbUrl": "https://www.imdb.com/title/tt14107334/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304296/title/the_running_man/",
+    "imdbRating": 6.7
+  },
+  {
+    "title": "Shelby Oaks",
+    "releaseYear": 2025,
+    "genres": "Horror, Thriller",
+    "imdbId": "tt14999684",
+    "imdbUrl": "https://www.imdb.com/title/tt14999684/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304546/title/shelby_oaks/",
+    "imdbRating": 5.5
   },
   {
     "title": "Night at the Zoopocalypse",
@@ -205,6 +160,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt33088452/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304513/title/regretting_you/",
     "imdbRating": 6.2
+  },
+  {
+    "title": "Living Large",
+    "releaseYear": 2025,
+    "genres": "Animation, Comedy, Family",
+    "imdbId": "tt27850647",
+    "imdbUrl": "https://www.imdb.com/title/tt27850647/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304597/title/living_large/",
+    "imdbRating": 6.6
   },
   {
     "title": "Spermageddon",
@@ -232,6 +196,24 @@
     "imdbUrl": "https://www.imdb.com/title/tt29644189/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304293/title/the_black_phone_2/",
     "imdbRating": 6.2
+  },
+  {
+    "title": "Heidi - Rescue of the Lynx",
+    "releaseYear": 2025,
+    "genres": "Animation, Family",
+    "imdbId": "tt14260876",
+    "imdbUrl": "https://www.imdb.com/title/tt14260876/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304589/title/heidi_-_rescue_of_the_lynx/",
+    "imdbRating": 6.7
+  },
+  {
+    "title": "Tron: Ares",
+    "releaseYear": 2025,
+    "genres": "Action, Adventure, Sci-Fi",
+    "imdbId": "tt6604188",
+    "imdbUrl": "https://www.imdb.com/title/tt6604188/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304468/title/tron_ares/",
+    "imdbRating": 6.5
   },
   {
     "title": "The Roses",
@@ -294,7 +276,7 @@
     "imdbId": "tt18382850",
     "imdbUrl": "https://www.imdb.com/title/tt18382850/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304595/title/if_i_had_legs_id_kick_you/",
-    "imdbRating": 6.8
+    "imdbRating": 6.7
   },
   {
     "title": "Nuremberg",
@@ -321,7 +303,7 @@
     "imdbId": "tt12583926",
     "imdbUrl": "https://www.imdb.com/title/tt12583926/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304590/title/anniversary/",
-    "imdbRating": 6.8
+    "imdbRating": 6.7
   },
   {
     "title": "Nausicaä of the Valley of the Wind (1984)",
@@ -432,6 +414,24 @@
     "imdbRating": 8.3
   },
   {
+    "title": "Springsteen: Deliver Me from Nowhere",
+    "releaseYear": 2025,
+    "genres": "Biography, Drama, Music",
+    "imdbId": "tt31923069",
+    "imdbUrl": "https://www.imdb.com/title/tt31923069/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304557/title/springsteen_deliver_me_from_nowhere/",
+    "imdbRating": 6.9
+  },
+  {
+    "title": "Solomamma",
+    "releaseYear": 2025,
+    "genres": "Comedy, Drama",
+    "imdbId": "tt35485652",
+    "imdbUrl": "https://www.imdb.com/title/tt35485652/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304519/title/solomamma/",
+    "imdbRating": 7.1
+  },
+  {
     "title": "Kiki's Delivery Service (1989)",
     "releaseYear": 1990,
     "genres": "Animation, Family, Fantasy",
@@ -448,6 +448,51 @@
     "imdbUrl": "https://www.imdb.com/title/tt0232500/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/299891/title/the_fast_and_the_furious_2001/",
     "imdbRating": 6.8
+  },
+  {
+    "title": "It Was Just an Accident",
+    "releaseYear": 2025,
+    "genres": "Crime, Drama, Mystery",
+    "imdbId": "tt36491653",
+    "imdbUrl": "https://www.imdb.com/title/tt36491653/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304543/title/it_was_just_an_accident/",
+    "imdbRating": 7.7
+  },
+  {
+    "title": "Boom!",
+    "releaseYear": 2024,
+    "genres": "Adventure, Family",
+    "imdbId": "tt32097000",
+    "imdbUrl": "https://www.imdb.com/title/tt32097000/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304151/title/boom/",
+    "imdbRating": 7.6
+  },
+  {
+    "title": "Good Fortune",
+    "releaseYear": 2025,
+    "genres": "Comedy, Fantasy, Romance",
+    "imdbId": "tt27543578",
+    "imdbUrl": "https://www.imdb.com/title/tt27543578/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304541/title/good_fortune/",
+    "imdbRating": 6.5
+  },
+  {
+    "title": "Sorry, Baby",
+    "releaseYear": 2025,
+    "genres": "Comedy, Drama",
+    "imdbId": "tt32843349",
+    "imdbUrl": "https://www.imdb.com/title/tt32843349/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304591/title/sorry_baby/",
+    "imdbRating": 7.1
+  },
+  {
+    "title": "Howl’s Moving Castle (2004)",
+    "releaseYear": 2005,
+    "genres": "Animation, Adventure, Family",
+    "imdbId": "tt0347149",
+    "imdbUrl": "https://www.imdb.com/title/tt0347149/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304611/title/howls_moving_castle_2004/",
+    "imdbRating": 8.2
   },
   {
     "title": "Jaws (1975)",
@@ -531,6 +576,15 @@
     "imdbRating": 6.1
   },
   {
+    "title": "Corpse Bride (2005)",
+    "releaseYear": 2005,
+    "genres": "Animation, Comedy, Drama",
+    "imdbId": "tt0121164",
+    "imdbUrl": "https://www.imdb.com/title/tt0121164/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/300174/title/corpse_bride_2005/",
+    "imdbRating": 7.4
+  },
+  {
     "title": "Rēcīgie komentāri: Love Actually (2003)",
     "releaseYear": 2003,
     "genres": "Comedy, Drama, Romance",
@@ -538,15 +592,6 @@
     "imdbUrl": "https://www.imdb.com/title/tt0314331/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304602/title/r%C4%93c%C4%ABgie_koment%C4%81ri_love_actually_2003/",
     "imdbRating": 7.5
-  },
-  {
-    "title": "Howl’s Moving Castle (2004)",
-    "releaseYear": 2005,
-    "genres": "Animation, Adventure, Family",
-    "imdbId": "tt0347149",
-    "imdbUrl": "https://www.imdb.com/title/tt0347149/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304611/title/howls_moving_castle_2004/",
-    "imdbRating": 8.2
   },
   {
     "title": "The Shining (1980)",

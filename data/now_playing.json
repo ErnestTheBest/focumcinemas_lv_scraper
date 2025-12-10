@@ -1,103 +1,55 @@
 [
   {
-    "title": "Escape Net",
-    "url": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/"
-  },
-  {
-    "title": "Living Large",
-    "url": "https://www.forumcinemas.lv/eng/event/304597/title/living_large/"
-  },
-  {
-    "title": "Night at the Zoopocalypse",
-    "url": "https://www.forumcinemas.lv/eng/event/304544/title/night_at_the_zoopocalypse/"
-  },
-  {
-    "title": "Five Night's at Freddy's 2",
-    "url": "https://www.forumcinemas.lv/eng/event/304297/title/five_nights_at_freddys_2/"
-  },
-  {
-    "title": "Jujutsu Kaisen: Execution",
-    "url": "https://www.forumcinemas.lv/eng/event/304588/title/jujutsu_kaisen_execution/"
-  },
-  {
     "title": "Wicked: For Good",
     "url": "https://www.forumcinemas.lv/eng/event/304295/title/wicked_for_good/"
-  },
-  {
-    "title": "Eternity",
-    "url": "https://www.forumcinemas.lv/eng/event/304573/title/eternity/"
-  },
-  {
-    "title": "Zootopia 2",
-    "url": "https://www.forumcinemas.lv/eng/event/304299/title/zootopia_2/"
-  },
-  {
-    "title": "Red Code Blue",
-    "url": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/"
-  },
-  {
-    "title": "Anniversary",
-    "url": "https://www.forumcinemas.lv/eng/event/304590/title/anniversary/"
-  },
-  {
-    "title": "Now You See Me: Now You Don't",
-    "url": "https://www.forumcinemas.lv/eng/event/304517/title/now_you_see_me_now_you_dont/"
-  },
-  {
-    "title": "The Running Man",
-    "url": "https://www.forumcinemas.lv/eng/event/304296/title/the_running_man/"
-  },
-  {
-    "title": "If I Had Legs I'd Kick You",
-    "url": "https://www.forumcinemas.lv/eng/event/304595/title/if_i_had_legs_id_kick_you/"
-  },
-  {
-    "title": "Bugonia",
-    "url": "https://www.forumcinemas.lv/eng/event/304515/title/bugonia/"
-  },
-  {
-    "title": "Cinderella | The Royal Ballet",
-    "url": "https://www.forumcinemas.lv/eng/event/304529/title/cinderella_the_royal_ballet/"
-  },
-  {
-    "title": "Dog of God",
-    "url": "https://www.forumcinemas.lv/eng/event/304497/title/dog_of_god/"
-  },
-  {
-    "title": "Pride & Prejudice (2005)",
-    "url": "https://www.forumcinemas.lv/eng/event/304376/title/pride_and_prejudice_2005/"
-  },
-  {
-    "title": "Die My Love",
-    "url": "https://www.forumcinemas.lv/eng/event/304596/title/die_my_love/"
-  },
-  {
-    "title": "The Fast and the Furious: Tokyo Drift (2006)",
-    "url": "https://www.forumcinemas.lv/eng/event/304490/title/the_fast_and_the_furious_tokyo_drift_2006/"
-  },
-  {
-    "title": "Nuremberg",
-    "url": "https://www.forumcinemas.lv/eng/event/304604/title/nuremberg/"
-  },
-  {
-    "title": "Keeper",
-    "url": "https://www.forumcinemas.lv/eng/event/304593/title/keeper/"
-  },
-  {
-    "title": "Sentimental Value",
-    "url": "https://www.forumcinemas.lv/eng/event/304592/title/sentimental_value/"
-  },
-  {
-    "title": "Predator: Badlands",
-    "url": "https://www.forumcinemas.lv/eng/event/304516/title/predator_badlands/"
   },
   {
     "title": "Spermageddon",
     "url": "https://www.forumcinemas.lv/eng/event/304486/title/spermageddon/"
   },
   {
+    "title": "Five Night's at Freddy's 2",
+    "url": "https://www.forumcinemas.lv/eng/event/304297/title/five_nights_at_freddys_2/"
+  },
+  {
     "title": "Chainsaw Man: The Movie - Reze Arc",
     "url": "https://www.forumcinemas.lv/eng/event/304523/title/chainsaw_man_the_movie_-_reze_arc/"
+  },
+  {
+    "title": "Escape Net",
+    "url": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/"
+  },
+  {
+    "title": "Red Code Blue",
+    "url": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/"
+  },
+  {
+    "title": "Bugonia",
+    "url": "https://www.forumcinemas.lv/eng/event/304515/title/bugonia/"
+  },
+  {
+    "title": "Keeper",
+    "url": "https://www.forumcinemas.lv/eng/event/304593/title/keeper/"
+  },
+  {
+    "title": "Zootopia 2",
+    "url": "https://www.forumcinemas.lv/eng/event/304299/title/zootopia_2/"
+  },
+  {
+    "title": "Now You See Me: Now You Don't",
+    "url": "https://www.forumcinemas.lv/eng/event/304517/title/now_you_see_me_now_you_dont/"
+  },
+  {
+    "title": "Jujutsu Kaisen: Execution",
+    "url": "https://www.forumcinemas.lv/eng/event/304588/title/jujutsu_kaisen_execution/"
+  },
+  {
+    "title": "Nuremberg",
+    "url": "https://www.forumcinemas.lv/eng/event/304604/title/nuremberg/"
+  },
+  {
+    "title": "The Running Man",
+    "url": "https://www.forumcinemas.lv/eng/event/304296/title/the_running_man/"
   },
   {
     "title": "Corpse Bride (2005)",
@@ -120,16 +72,40 @@
     "url": "https://www.forumcinemas.lv/eng/event/304293/title/the_black_phone_2/"
   },
   {
+    "title": "Eternity",
+    "url": "https://www.forumcinemas.lv/eng/event/304573/title/eternity/"
+  },
+  {
+    "title": "Anniversary",
+    "url": "https://www.forumcinemas.lv/eng/event/304590/title/anniversary/"
+  },
+  {
     "title": "Shelby Oaks",
     "url": "https://www.forumcinemas.lv/eng/event/304546/title/shelby_oaks/"
+  },
+  {
+    "title": "Predator: Badlands",
+    "url": "https://www.forumcinemas.lv/eng/event/304516/title/predator_badlands/"
+  },
+  {
+    "title": "Living Large",
+    "url": "https://www.forumcinemas.lv/eng/event/304597/title/living_large/"
   },
   {
     "title": "Tafiti - Across the Desert",
     "url": "https://www.forumcinemas.lv/eng/event/304535/title/tafiti_-_across_the_desert/"
   },
   {
+    "title": "If I Had Legs I'd Kick You",
+    "url": "https://www.forumcinemas.lv/eng/event/304595/title/if_i_had_legs_id_kick_you/"
+  },
+  {
     "title": "A Girl Named Willow",
     "url": "https://www.forumcinemas.lv/eng/event/304542/title/a_girl_named_willow/"
+  },
+  {
+    "title": "Die My Love",
+    "url": "https://www.forumcinemas.lv/eng/event/304596/title/die_my_love/"
   },
   {
     "title": "Rēcīgie komentāri: Love Actually (2003)",
@@ -142,6 +118,10 @@
   {
     "title": "Playdate",
     "url": "https://www.forumcinemas.lv/eng/event/304547/title/playdate/"
+  },
+  {
+    "title": "Sentimental Value",
+    "url": "https://www.forumcinemas.lv/eng/event/304592/title/sentimental_value/"
   },
   {
     "title": "Regretting You",
@@ -208,6 +188,10 @@
     "url": "https://www.forumcinemas.lv/eng/event/304618/title/starladder_budapest_major_2025_watch_party/"
   },
   {
+    "title": "Dog of God",
+    "url": "https://www.forumcinemas.lv/eng/event/304497/title/dog_of_god/"
+  },
+  {
     "title": "How the Grinch Stole Christmas (2000)",
     "url": "https://www.forumcinemas.lv/eng/event/304212/title/how_the_grinch_stole_christmas_2000/"
   },
@@ -218,6 +202,18 @@
   {
     "title": "MET Opera: The Magic Flute (2006)",
     "url": "https://www.forumcinemas.lv/eng/event/304088/title/met_opera_the_magic_flute_2006/"
+  },
+  {
+    "title": "One Battle After Another",
+    "url": "https://www.forumcinemas.lv/eng/event/304397/title/one_battle_after_another/"
+  },
+  {
+    "title": "F1",
+    "url": "https://www.forumcinemas.lv/eng/event/304081/title/f1/"
+  },
+  {
+    "title": "Nausicaä of the Valley of the Wind (1984)",
+    "url": "https://www.forumcinemas.lv/eng/event/304581/title/nausica%C3%A4_of_the_valley_of_the_wind_1984/"
   },
   {
     "title": "Jaws (1975)",
@@ -268,6 +264,14 @@
     "url": "https://www.forumcinemas.lv/eng/event/303619/title/some_like_it_hot/"
   },
   {
+    "title": "Spirited Away (2001)",
+    "url": "https://www.forumcinemas.lv/eng/event/304580/title/spirited_away_2001/"
+  },
+  {
+    "title": "Love Actually (2003)",
+    "url": "https://www.forumcinemas.lv/eng/event/299371/title/love_actually_2003/"
+  },
+  {
     "title": "Song Sung Blue",
     "url": "https://www.forumcinemas.lv/eng/event/304621/title/song_sung_blue/"
   },
@@ -278,6 +282,10 @@
   {
     "title": "Anaconda",
     "url": "https://www.forumcinemas.lv/eng/event/304587/title/anaconda/"
+  },
+  {
+    "title": "Pride & Prejudice (2005)",
+    "url": "https://www.forumcinemas.lv/eng/event/304376/title/pride_and_prejudice_2005/"
   },
   {
     "title": "#RUNSEOKJIN_EP.TOUR THE MOVIE",
@@ -294,6 +302,10 @@
   {
     "title": "MET Opera: I Puritani",
     "url": "https://www.forumcinemas.lv/eng/event/304454/title/met_opera_i_puritani/"
+  },
+  {
+    "title": "Cinderella | The Royal Ballet",
+    "url": "https://www.forumcinemas.lv/eng/event/304529/title/cinderella_the_royal_ballet/"
   },
   {
     "title": "NT LIVE: The Fifth Step",

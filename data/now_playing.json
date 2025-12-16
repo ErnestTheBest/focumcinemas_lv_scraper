@@ -1,19 +1,23 @@
 [
   {
-    "title": "Christmas in the Jungle",
-    "url": "https://www.forumcinemas.lv/eng/event/303056/title/christmas_in_the_jungle/"
-  },
-  {
-    "title": "Nuremberg",
-    "url": "https://www.forumcinemas.lv/eng/event/304604/title/nuremberg/"
-  },
-  {
-    "title": "Wisdom of Happiness",
-    "url": "https://www.forumcinemas.lv/eng/event/304617/title/wisdom_of_happiness/"
+    "title": "Accidental Santa",
+    "url": "https://www.forumcinemas.lv/eng/event/303388/title/accidental_santa/"
   },
   {
     "title": "Zootopia 2",
     "url": "https://www.forumcinemas.lv/eng/event/304299/title/zootopia_2/"
+  },
+  {
+    "title": "Now You See Me: Now You Don't",
+    "url": "https://www.forumcinemas.lv/eng/event/304517/title/now_you_see_me_now_you_dont/"
+  },
+  {
+    "title": "Heidi - Rescue of the Lynx",
+    "url": "https://www.forumcinemas.lv/eng/event/304589/title/heidi_-_rescue_of_the_lynx/"
+  },
+  {
+    "title": "Urga, Jo & Po",
+    "url": "https://www.forumcinemas.lv/eng/event/304610/title/urga_jo_and_po/"
   },
   {
     "title": "Mission Santa: Yoyo to the rescue",
@@ -24,12 +28,40 @@
     "url": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/"
   },
   {
+    "title": "A Girl Named Willow",
+    "url": "https://www.forumcinemas.lv/eng/event/304542/title/a_girl_named_willow/"
+  },
+  {
+    "title": "Five Night's at Freddy's 2",
+    "url": "https://www.forumcinemas.lv/eng/event/304297/title/five_nights_at_freddys_2/"
+  },
+  {
+    "title": "Anniversary",
+    "url": "https://www.forumcinemas.lv/eng/event/304590/title/anniversary/"
+  },
+  {
+    "title": "Bugonia",
+    "url": "https://www.forumcinemas.lv/eng/event/304515/title/bugonia/"
+  },
+  {
+    "title": "Nuremberg",
+    "url": "https://www.forumcinemas.lv/eng/event/304604/title/nuremberg/"
+  },
+  {
     "title": "Red Code Blue",
     "url": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/"
   },
   {
-    "title": "Heidi - Rescue of the Lynx",
-    "url": "https://www.forumcinemas.lv/eng/event/304589/title/heidi_-_rescue_of_the_lynx/"
+    "title": "Jujutsu Kaisen: Execution",
+    "url": "https://www.forumcinemas.lv/eng/event/304588/title/jujutsu_kaisen_execution/"
+  },
+  {
+    "title": "Silent Night, Deadly Night",
+    "url": "https://www.forumcinemas.lv/eng/event/304614/title/silent_night_deadly_night/"
+  },
+  {
+    "title": "Nausicaä of the Valley of the Wind (1984)",
+    "url": "https://www.forumcinemas.lv/eng/event/304581/title/nausica%C3%A4_of_the_valley_of_the_wind_1984/"
   },
   {
     "title": "Dreams",
@@ -40,80 +72,12 @@
     "url": "https://www.forumcinemas.lv/eng/event/304295/title/wicked_for_good/"
   },
   {
-    "title": "Jujutsu Kaisen: Execution",
-    "url": "https://www.forumcinemas.lv/eng/event/304588/title/jujutsu_kaisen_execution/"
-  },
-  {
-    "title": "Chainsaw Man: The Movie - Reze Arc",
-    "url": "https://www.forumcinemas.lv/eng/event/304523/title/chainsaw_man_the_movie_-_reze_arc/"
-  },
-  {
-    "title": "Five Night's at Freddy's 2",
-    "url": "https://www.forumcinemas.lv/eng/event/304297/title/five_nights_at_freddys_2/"
-  },
-  {
-    "title": "If I Had Legs I'd Kick You",
-    "url": "https://www.forumcinemas.lv/eng/event/304595/title/if_i_had_legs_id_kick_you/"
-  },
-  {
-    "title": "Sentimental Value",
-    "url": "https://www.forumcinemas.lv/eng/event/304592/title/sentimental_value/"
-  },
-  {
-    "title": "Bugonia",
-    "url": "https://www.forumcinemas.lv/eng/event/304515/title/bugonia/"
-  },
-  {
-    "title": "Now You See Me: Now You Don't",
-    "url": "https://www.forumcinemas.lv/eng/event/304517/title/now_you_see_me_now_you_dont/"
-  },
-  {
-    "title": "Eternity",
-    "url": "https://www.forumcinemas.lv/eng/event/304573/title/eternity/"
-  },
-  {
-    "title": "Predator: Badlands",
-    "url": "https://www.forumcinemas.lv/eng/event/304516/title/predator_badlands/"
-  },
-  {
-    "title": "Silent Night, Deadly Night",
-    "url": "https://www.forumcinemas.lv/eng/event/304614/title/silent_night_deadly_night/"
-  },
-  {
-    "title": "Anniversary",
-    "url": "https://www.forumcinemas.lv/eng/event/304590/title/anniversary/"
-  },
-  {
-    "title": "F1",
-    "url": "https://www.forumcinemas.lv/eng/event/304081/title/f1/"
-  },
-  {
-    "title": "The Running Man",
-    "url": "https://www.forumcinemas.lv/eng/event/304296/title/the_running_man/"
-  },
-  {
     "title": "The Richest Woman in the World",
     "url": "https://www.forumcinemas.lv/eng/event/304616/title/the_richest_woman_in_the_world/"
   },
   {
-    "title": "Die My Love",
-    "url": "https://www.forumcinemas.lv/eng/event/304596/title/die_my_love/"
-  },
-  {
-    "title": "Accidental Santa",
-    "url": "https://www.forumcinemas.lv/eng/event/303388/title/accidental_santa/"
-  },
-  {
-    "title": "Urga, Jo & Po",
-    "url": "https://www.forumcinemas.lv/eng/event/304610/title/urga_jo_and_po/"
-  },
-  {
-    "title": "A Girl Named Willow",
-    "url": "https://www.forumcinemas.lv/eng/event/304542/title/a_girl_named_willow/"
-  },
-  {
-    "title": "Nausicaä of the Valley of the Wind (1984)",
-    "url": "https://www.forumcinemas.lv/eng/event/304581/title/nausica%C3%A4_of_the_valley_of_the_wind_1984/"
+    "title": "Sentimental Value",
+    "url": "https://www.forumcinemas.lv/eng/event/304592/title/sentimental_value/"
   },
   {
     "title": "Private event",
@@ -136,16 +100,20 @@
     "url": "https://www.forumcinemas.lv/eng/event/304577/title/jaws_1975/"
   },
   {
+    "title": "Eternity",
+    "url": "https://www.forumcinemas.lv/eng/event/304573/title/eternity/"
+  },
+  {
     "title": "NT LIVE: Fleabag",
     "url": "https://www.forumcinemas.lv/eng/event/302776/title/nt_live_fleabag/"
   },
   {
-    "title": "One Battle After Another",
-    "url": "https://www.forumcinemas.lv/eng/event/304397/title/one_battle_after_another/"
+    "title": "Predator: Badlands",
+    "url": "https://www.forumcinemas.lv/eng/event/304516/title/predator_badlands/"
   },
   {
-    "title": "Keeper",
-    "url": "https://www.forumcinemas.lv/eng/event/304593/title/keeper/"
+    "title": "One Battle After Another",
+    "url": "https://www.forumcinemas.lv/eng/event/304397/title/one_battle_after_another/"
   },
   {
     "title": "Avatar: Fire and Ash",
@@ -164,12 +132,20 @@
     "url": "https://www.forumcinemas.lv/eng/event/304323/title/thelmas_perfect_birthday/"
   },
   {
+    "title": "Chainsaw Man: The Movie - Reze Arc",
+    "url": "https://www.forumcinemas.lv/eng/event/304523/title/chainsaw_man_the_movie_-_reze_arc/"
+  },
+  {
     "title": "Home Alone (1990)",
     "url": "https://www.forumcinemas.lv/eng/event/303540/title/home_alone_1990/"
   },
   {
     "title": "Die Hard (1988)",
     "url": "https://www.forumcinemas.lv/eng/event/302939/title/die_hard_1988/"
+  },
+  {
+    "title": "A Mouse Hunt for Christmas",
+    "url": "https://www.forumcinemas.lv/eng/event/304601/title/a_mouse_hunt_for_christmas/"
   },
   {
     "title": "The SpongeBob Movie: Search For SquarePants",
@@ -184,12 +160,8 @@
     "url": "https://www.forumcinemas.lv/eng/event/304586/title/the_world_of_hans_zimmer_a_new_dimension/"
   },
   {
-    "title": "How the Grinch Stole Christmas (2000)",
-    "url": "https://www.forumcinemas.lv/eng/event/304212/title/how_the_grinch_stole_christmas_2000/"
-  },
-  {
-    "title": "Roman Holiday (1953)",
-    "url": "https://www.forumcinemas.lv/eng/event/303951/title/roman_holiday_1953/"
+    "title": "Ice Tower",
+    "url": "https://www.forumcinemas.lv/eng/event/304622/title/ice_tower/"
   },
   {
     "title": "Princess Mononoke (1997)",
@@ -214,10 +186,6 @@
   {
     "title": "Oldboy (2003)",
     "url": "https://www.forumcinemas.lv/eng/event/304612/title/oldboy_2003/"
-  },
-  {
-    "title": "Love Actually (2003)",
-    "url": "https://www.forumcinemas.lv/eng/event/299371/title/love_actually_2003/"
   },
   {
     "title": "Corpse Bride (2005)",
@@ -250,6 +218,14 @@
   {
     "title": "The Twilight Saga: Eclipse (2010)",
     "url": "https://www.forumcinemas.lv/eng/event/299477/title/the_twilight_saga_eclipse_2010/"
+  },
+  {
+    "title": "Love Actually (2003)",
+    "url": "https://www.forumcinemas.lv/eng/event/299371/title/love_actually_2003/"
+  },
+  {
+    "title": "How the Grinch Stole Christmas (2000)",
+    "url": "https://www.forumcinemas.lv/eng/event/304212/title/how_the_grinch_stole_christmas_2000/"
   },
   {
     "title": "MET Opera: I Puritani",

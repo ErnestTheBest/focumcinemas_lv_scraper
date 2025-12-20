@@ -1,14 +1,5 @@
 [
   {
-    "title": "A Mouse Hunt for Christmas",
-    "releaseYear": 2025,
-    "genres": "Comedy, Family",
-    "imdbId": "tt35727399",
-    "imdbUrl": "https://www.imdb.com/title/tt35727399/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304601/title/a_mouse_hunt_for_christmas/",
-    "imdbRating": 6.5
-  },
-  {
     "title": "Avatar: Fire and Ash",
     "releaseYear": 2025,
     "genres": "Action, Adventure, Fantasy",
@@ -16,33 +7,6 @@
     "imdbUrl": "https://www.imdb.com/title/tt1757678/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304298/title/avatar_fire_and_ash/",
     "imdbRating": 7.6
-  },
-  {
-    "title": "Zootopia 2",
-    "releaseYear": 2025,
-    "genres": "Animation, Action, Adventure",
-    "imdbId": "tt26443597",
-    "imdbUrl": "https://www.imdb.com/title/tt26443597/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304299/title/zootopia_2/",
-    "imdbRating": 7.7
-  },
-  {
-    "title": "Five Night's at Freddy's 2",
-    "releaseYear": 2025,
-    "genres": "Horror, Mystery, Thriller",
-    "imdbId": "tt30274401",
-    "imdbUrl": "https://www.imdb.com/title/tt30274401/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304297/title/five_nights_at_freddys_2/",
-    "imdbRating": 5.5
-  },
-  {
-    "title": "Mission Santa: Yoyo to the rescue",
-    "releaseYear": 2025,
-    "genres": "Animation, Family",
-    "imdbId": "tt35820129",
-    "imdbUrl": "https://www.imdb.com/title/tt35820129/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304600/title/mission_santa_yoyo_to_the_rescue/",
-    "imdbRating": 5.8
   },
   {
     "title": "Escape Net",
@@ -54,6 +18,15 @@
     "imdbRating": 8.5
   },
   {
+    "title": "Mission Santa: Yoyo to the rescue",
+    "releaseYear": 2025,
+    "genres": "Animation, Family",
+    "imdbId": "tt35820129",
+    "imdbUrl": "https://www.imdb.com/title/tt35820129/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304600/title/mission_santa_yoyo_to_the_rescue/",
+    "imdbRating": 5.9
+  },
+  {
     "title": "Wicked: For Good",
     "releaseYear": 2025,
     "genres": "Family, Fantasy, Musical",
@@ -61,6 +34,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt19847976/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304295/title/wicked_for_good/",
     "imdbRating": 6.9
+  },
+  {
+    "title": "A Mouse Hunt for Christmas",
+    "releaseYear": 2025,
+    "genres": "Comedy, Family",
+    "imdbId": "tt35727399",
+    "imdbUrl": "https://www.imdb.com/title/tt35727399/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304601/title/a_mouse_hunt_for_christmas/",
+    "imdbRating": 6.5
   },
   {
     "title": "Jujutsu Kaisen: Execution",
@@ -72,13 +54,22 @@
     "imdbRating": 6.5
   },
   {
-    "title": "Living Large",
+    "title": "Zootopia 2",
     "releaseYear": 2025,
-    "genres": "Animation, Comedy, Family",
-    "imdbId": "tt27850647",
-    "imdbUrl": "https://www.imdb.com/title/tt27850647/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304597/title/living_large/",
-    "imdbRating": 6.6
+    "genres": "Animation, Action, Adventure",
+    "imdbId": "tt26443597",
+    "imdbUrl": "https://www.imdb.com/title/tt26443597/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304299/title/zootopia_2/",
+    "imdbRating": 7.6
+  },
+  {
+    "title": "Five Night's at Freddy's 2",
+    "releaseYear": 2025,
+    "genres": "Horror, Mystery, Thriller",
+    "imdbId": "tt30274401",
+    "imdbUrl": "https://www.imdb.com/title/tt30274401/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304297/title/five_nights_at_freddys_2/",
+    "imdbRating": 5.5
   },
   {
     "title": "Now You See Me: Now You Don't",
@@ -90,40 +81,13 @@
     "imdbRating": 6.1
   },
   {
-    "title": "Ice Tower",
-    "releaseYear": 2025,
-    "genres": "Drama, Fantasy",
-    "imdbId": "tt28171985",
-    "imdbUrl": "https://www.imdb.com/title/tt28171985/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304622/title/ice_tower/",
-    "imdbRating": 6
-  },
-  {
-    "title": "Nuremberg",
-    "releaseYear": 2025,
-    "genres": "Biography, Drama, History",
-    "imdbId": "tt29567915",
-    "imdbUrl": "https://www.imdb.com/title/tt29567915/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304604/title/nuremberg/",
-    "imdbRating": 7.5
-  },
-  {
     "title": "The SpongeBob Movie: Search For SquarePants",
     "releaseYear": 2025,
     "genres": "Animation, Adventure, Comedy",
     "imdbId": "tt23572848",
     "imdbUrl": "https://www.imdb.com/title/tt23572848/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304608/title/the_spongebob_movie_search_for_squarepants/",
-    "imdbRating": 5.8
-  },
-  {
-    "title": "The Housemaid",
-    "releaseYear": 2025,
-    "genres": "Drama, Thriller",
-    "imdbId": "tt27543632",
-    "imdbUrl": "https://www.imdb.com/title/tt27543632/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304575/title/the_housemaid/",
-    "imdbRating": 6.2
+    "imdbRating": 6.1
   },
   {
     "title": "Eternity",
@@ -135,24 +99,6 @@
     "imdbRating": 7.3
   },
   {
-    "title": "The Holiday (2006)",
-    "releaseYear": 2006,
-    "genres": "Comedy, Romance",
-    "imdbId": "tt0457939",
-    "imdbUrl": "https://www.imdb.com/title/tt0457939/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/299412/title/the_holiday_2006/",
-    "imdbRating": 7
-  },
-  {
-    "title": "Silent Night, Deadly Night",
-    "releaseYear": 2025,
-    "genres": "Horror",
-    "imdbId": "tt34508974",
-    "imdbUrl": "https://www.imdb.com/title/tt34508974/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304614/title/silent_night_deadly_night/",
-    "imdbRating": 6.5
-  },
-  {
     "title": "How the Grinch Stole Christmas (2000)",
     "releaseYear": 2000,
     "genres": "Comedy, Family, Fantasy",
@@ -160,6 +106,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt0170016/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304212/title/how_the_grinch_stole_christmas_2000/",
     "imdbRating": 6.4
+  },
+  {
+    "title": "Nuremberg",
+    "releaseYear": 2025,
+    "genres": "Biography, Drama, History",
+    "imdbId": "tt29567915",
+    "imdbUrl": "https://www.imdb.com/title/tt29567915/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304604/title/nuremberg/",
+    "imdbRating": 7.5
   },
   {
     "title": "Dog of God",
@@ -171,6 +126,15 @@
     "imdbRating": 6.6
   },
   {
+    "title": "The Housemaid",
+    "releaseYear": 2025,
+    "genres": "Drama, Thriller",
+    "imdbId": "tt27543632",
+    "imdbUrl": "https://www.imdb.com/title/tt27543632/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304575/title/the_housemaid/",
+    "imdbRating": 6.7
+  },
+  {
     "title": "Roman Holiday (1953)",
     "releaseYear": 1953,
     "genres": "Comedy, Drama, Romance",
@@ -180,6 +144,15 @@
     "imdbRating": 8
   },
   {
+    "title": "Silent Night, Deadly Night",
+    "releaseYear": 2025,
+    "genres": "Horror",
+    "imdbId": "tt34508974",
+    "imdbUrl": "https://www.imdb.com/title/tt34508974/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304614/title/silent_night_deadly_night/",
+    "imdbRating": 6.5
+  },
+  {
     "title": "Predator: Badlands",
     "releaseYear": 2025,
     "genres": "Action, Adventure, Sci-Fi",
@@ -187,6 +160,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt31227572/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304516/title/predator_badlands/",
     "imdbRating": 7.4
+  },
+  {
+    "title": "Ice Tower",
+    "releaseYear": 2025,
+    "genres": "Drama, Fantasy",
+    "imdbId": "tt28171985",
+    "imdbUrl": "https://www.imdb.com/title/tt28171985/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304622/title/ice_tower/",
+    "imdbRating": 6
   },
   {
     "title": "Princess Mononoke (1997)",
@@ -231,7 +213,7 @@
     "imdbId": "tt31710990",
     "imdbUrl": "https://www.imdb.com/title/tt31710990/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304613/title/dreams/",
-    "imdbRating": 6.2
+    "imdbRating": 6.1
   },
   {
     "title": "Sentimental Value",
@@ -450,6 +432,15 @@
     "imdbRating": 5.1
   },
   {
+    "title": "The Holiday (2006)",
+    "releaseYear": 2006,
+    "genres": "Comedy, Romance",
+    "imdbId": "tt0457939",
+    "imdbUrl": "https://www.imdb.com/title/tt0457939/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/299412/title/the_holiday_2006/",
+    "imdbRating": 7
+  },
+  {
     "title": "Home Alone (1990)",
     "releaseYear": 1990,
     "genres": "Comedy, Family",
@@ -529,6 +520,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt29283995/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304644/title/l%C4%81cis_lauva_un_zars_hen/",
     "imdbRating": 7.2
+  },
+  {
+    "title": "Hamnet",
+    "releaseYear": 2025,
+    "genres": "Biography, Drama, History",
+    "imdbId": "tt14905854",
+    "imdbUrl": "https://www.imdb.com/title/tt14905854/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304625/title/hamnet/",
+    "imdbRating": 8.1
   },
   {
     "title": "Lācis, lauva un zars: Sound of Falling",

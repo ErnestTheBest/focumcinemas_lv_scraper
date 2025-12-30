@@ -8,16 +8,12 @@
     "url": "https://www.forumcinemas.lv/eng/event/304600/title/mission_santa_yoyo_to_the_rescue/"
   },
   {
-    "title": "A Mouse Hunt for Christmas",
-    "url": "https://www.forumcinemas.lv/eng/event/304601/title/a_mouse_hunt_for_christmas/"
-  },
-  {
-    "title": "Wisdom of Happiness",
-    "url": "https://www.forumcinemas.lv/eng/event/304617/title/wisdom_of_happiness/"
-  },
-  {
     "title": "The SpongeBob Movie: Search For SquarePants",
     "url": "https://www.forumcinemas.lv/eng/event/304608/title/the_spongebob_movie_search_for_squarepants/"
+  },
+  {
+    "title": "A Mouse Hunt for Christmas",
+    "url": "https://www.forumcinemas.lv/eng/event/304601/title/a_mouse_hunt_for_christmas/"
   },
   {
     "title": "Zootopia 2",
@@ -28,8 +24,12 @@
     "url": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/"
   },
   {
-    "title": "The Richest Woman in the World",
-    "url": "https://www.forumcinemas.lv/eng/event/304616/title/the_richest_woman_in_the_world/"
+    "title": "Angel's Egg (1985)",
+    "url": "https://www.forumcinemas.lv/eng/event/304609/title/angels_egg_1985/"
+  },
+  {
+    "title": "Jujutsu Kaisen: Execution",
+    "url": "https://www.forumcinemas.lv/eng/event/304588/title/jujutsu_kaisen_execution/"
   },
   {
     "title": "Anaconda",
@@ -40,44 +40,16 @@
     "url": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/"
   },
   {
-    "title": "The Housemaid",
-    "url": "https://www.forumcinemas.lv/eng/event/304575/title/the_housemaid/"
-  },
-  {
-    "title": "Song Sung Blue",
-    "url": "https://www.forumcinemas.lv/eng/event/304621/title/song_sung_blue/"
-  },
-  {
     "title": "Five Night's at Freddy's 2",
     "url": "https://www.forumcinemas.lv/eng/event/304297/title/five_nights_at_freddys_2/"
-  },
-  {
-    "title": "Nuremberg",
-    "url": "https://www.forumcinemas.lv/eng/event/304604/title/nuremberg/"
-  },
-  {
-    "title": "Silent Night, Deadly Night",
-    "url": "https://www.forumcinemas.lv/eng/event/304614/title/silent_night_deadly_night/"
-  },
-  {
-    "title": "Wicked: For Good",
-    "url": "https://www.forumcinemas.lv/eng/event/304295/title/wicked_for_good/"
-  },
-  {
-    "title": "Eternity",
-    "url": "https://www.forumcinemas.lv/eng/event/304573/title/eternity/"
   },
   {
     "title": "Now You See Me: Now You Don't",
     "url": "https://www.forumcinemas.lv/eng/event/304517/title/now_you_see_me_now_you_dont/"
   },
   {
-    "title": "Angel's Egg (1985)",
-    "url": "https://www.forumcinemas.lv/eng/event/304609/title/angels_egg_1985/"
-  },
-  {
-    "title": "Jujutsu Kaisen: Execution",
-    "url": "https://www.forumcinemas.lv/eng/event/304588/title/jujutsu_kaisen_execution/"
+    "title": "Song Sung Blue",
+    "url": "https://www.forumcinemas.lv/eng/event/304621/title/song_sung_blue/"
   },
   {
     "title": "The Nutcracker | The Royal Ballet",
@@ -88,8 +60,20 @@
     "url": "https://www.forumcinemas.lv/eng/event/302244/title/the_shining_1980/"
   },
   {
+    "title": "Wicked: For Good",
+    "url": "https://www.forumcinemas.lv/eng/event/304295/title/wicked_for_good/"
+  },
+  {
     "title": "Love Actually (2003)",
     "url": "https://www.forumcinemas.lv/eng/event/299371/title/love_actually_2003/"
+  },
+  {
+    "title": "The Housemaid",
+    "url": "https://www.forumcinemas.lv/eng/event/304575/title/the_housemaid/"
+  },
+  {
+    "title": "Silent Night, Deadly Night",
+    "url": "https://www.forumcinemas.lv/eng/event/304614/title/silent_night_deadly_night/"
   },
   {
     "title": "Ice Tower",
@@ -98,6 +82,10 @@
   {
     "title": "Flow",
     "url": "https://www.forumcinemas.lv/eng/event/304076/title/flow/"
+  },
+  {
+    "title": "Eternity",
+    "url": "https://www.forumcinemas.lv/eng/event/304573/title/eternity/"
   },
   {
     "title": "WALL-E (2008)",
@@ -124,6 +112,22 @@
     "url": "https://www.forumcinemas.lv/eng/event/304632/title/batman_returns_1992/"
   },
   {
+    "title": "Nuremberg",
+    "url": "https://www.forumcinemas.lv/eng/event/304604/title/nuremberg/"
+  },
+  {
+    "title": "New wave",
+    "url": "https://www.forumcinemas.lv/eng/event/304630/title/new_wave/"
+  },
+  {
+    "title": "Dog 51",
+    "url": "https://www.forumcinemas.lv/eng/event/304646/title/dog_51/"
+  },
+  {
+    "title": "Predator: Badlands",
+    "url": "https://www.forumcinemas.lv/eng/event/304516/title/predator_badlands/"
+  },
+  {
     "title": "Die Hard (1988)",
     "url": "https://www.forumcinemas.lv/eng/event/302939/title/die_hard_1988/"
   },
@@ -134,6 +138,14 @@
   {
     "title": "Some Like it Hot (1959)",
     "url": "https://www.forumcinemas.lv/eng/event/303619/title/some_like_it_hot_1959/"
+  },
+  {
+    "title": "The Running Man",
+    "url": "https://www.forumcinemas.lv/eng/event/304296/title/the_running_man/"
+  },
+  {
+    "title": "Dog of God",
+    "url": "https://www.forumcinemas.lv/eng/event/304497/title/dog_of_god/"
   },
   {
     "title": "MET Opera: I Puritani",

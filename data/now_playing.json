@@ -4,20 +4,16 @@
     "url": "https://www.forumcinemas.lv/eng/event/304298/title/avatar_fire_and_ash/"
   },
   {
+    "title": "Red Code Blue",
+    "url": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/"
+  },
+  {
     "title": "The SpongeBob Movie: Search For SquarePants",
     "url": "https://www.forumcinemas.lv/eng/event/304608/title/the_spongebob_movie_search_for_squarepants/"
   },
   {
     "title": "A Mouse Hunt for Christmas",
     "url": "https://www.forumcinemas.lv/eng/event/304601/title/a_mouse_hunt_for_christmas/"
-  },
-  {
-    "title": "The Housemaid",
-    "url": "https://www.forumcinemas.lv/eng/event/304575/title/the_housemaid/"
-  },
-  {
-    "title": "Escape Net",
-    "url": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/"
   },
   {
     "title": "Zootopia 2",
@@ -28,56 +24,40 @@
     "url": "https://www.forumcinemas.lv/eng/event/304600/title/mission_santa_yoyo_to_the_rescue/"
   },
   {
-    "title": "Five Night's at Freddy's 2",
-    "url": "https://www.forumcinemas.lv/eng/event/304297/title/five_nights_at_freddys_2/"
+    "title": "Escape Net",
+    "url": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/"
   },
   {
     "title": "Anaconda",
     "url": "https://www.forumcinemas.lv/eng/event/304587/title/anaconda/"
   },
   {
+    "title": "Five Night's at Freddy's 2",
+    "url": "https://www.forumcinemas.lv/eng/event/304297/title/five_nights_at_freddys_2/"
+  },
+  {
+    "title": "The Housemaid",
+    "url": "https://www.forumcinemas.lv/eng/event/304575/title/the_housemaid/"
+  },
+  {
     "title": "Private event",
     "url": "https://www.forumcinemas.lv/eng/event/303398/title/private_event/"
-  },
-  {
-    "title": "Red Code Blue",
-    "url": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/"
-  },
-  {
-    "title": "Wicked: For Good",
-    "url": "https://www.forumcinemas.lv/eng/event/304295/title/wicked_for_good/"
-  },
-  {
-    "title": "Jujutsu Kaisen: Execution",
-    "url": "https://www.forumcinemas.lv/eng/event/304588/title/jujutsu_kaisen_execution/"
   },
   {
     "title": "The Nutcracker | The Royal Ballet",
     "url": "https://www.forumcinemas.lv/eng/event/304530/title/the_nutcracker_the_royal_ballet/"
   },
   {
-    "title": "Die Hard (1988)",
-    "url": "https://www.forumcinemas.lv/eng/event/302939/title/die_hard_1988/"
-  },
-  {
     "title": "Now You See Me: Now You Don't",
     "url": "https://www.forumcinemas.lv/eng/event/304517/title/now_you_see_me_now_you_dont/"
   },
   {
-    "title": "New wave",
-    "url": "https://www.forumcinemas.lv/eng/event/304630/title/new_wave/"
-  },
-  {
-    "title": "Dog 51",
-    "url": "https://www.forumcinemas.lv/eng/event/304646/title/dog_51/"
-  },
-  {
-    "title": "Nuremberg",
-    "url": "https://www.forumcinemas.lv/eng/event/304604/title/nuremberg/"
-  },
-  {
     "title": "How the Grinch Stole Christmas (2000)",
     "url": "https://www.forumcinemas.lv/eng/event/304212/title/how_the_grinch_stole_christmas_2000/"
+  },
+  {
+    "title": "New wave",
+    "url": "https://www.forumcinemas.lv/eng/event/304630/title/new_wave/"
   },
   {
     "title": "Eternity",
@@ -88,12 +68,24 @@
     "url": "https://www.forumcinemas.lv/eng/event/303619/title/some_like_it_hot_1959/"
   },
   {
+    "title": "Nuremberg",
+    "url": "https://www.forumcinemas.lv/eng/event/304604/title/nuremberg/"
+  },
+  {
+    "title": "Dog 51",
+    "url": "https://www.forumcinemas.lv/eng/event/304646/title/dog_51/"
+  },
+  {
     "title": "Song Sung Blue",
     "url": "https://www.forumcinemas.lv/eng/event/304621/title/song_sung_blue/"
   },
   {
     "title": "The Running Man",
     "url": "https://www.forumcinemas.lv/eng/event/304296/title/the_running_man/"
+  },
+  {
+    "title": "Jujutsu Kaisen: Execution",
+    "url": "https://www.forumcinemas.lv/eng/event/304588/title/jujutsu_kaisen_execution/"
   },
   {
     "title": "Silent Night, Deadly Night",
@@ -106,6 +98,10 @@
   {
     "title": "Ice Tower",
     "url": "https://www.forumcinemas.lv/eng/event/304622/title/ice_tower/"
+  },
+  {
+    "title": "Wicked: For Good",
+    "url": "https://www.forumcinemas.lv/eng/event/304295/title/wicked_for_good/"
   },
   {
     "title": "Dreams",

@@ -9,6 +9,15 @@
     "imdbRating": 7.4
   },
   {
+    "title": "Red Code Blue",
+    "releaseYear": 2025,
+    "genres": "Action, Crime, Drama",
+    "imdbId": "tt38573816",
+    "imdbUrl": "https://www.imdb.com/title/tt38573816/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/",
+    "imdbRating": 8.5
+  },
+  {
     "title": "The SpongeBob Movie: Search For SquarePants",
     "releaseYear": 2025,
     "genres": "Animation, Adventure, Comedy",
@@ -27,24 +36,6 @@
     "imdbRating": 6.2
   },
   {
-    "title": "The Housemaid",
-    "releaseYear": 2025,
-    "genres": "Drama, Thriller",
-    "imdbId": "tt27543632",
-    "imdbUrl": "https://www.imdb.com/title/tt27543632/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304575/title/the_housemaid/",
-    "imdbRating": 7
-  },
-  {
-    "title": "Escape Net",
-    "releaseYear": 2025,
-    "genres": "Biography, Drama",
-    "imdbId": "tt21043190",
-    "imdbUrl": "https://www.imdb.com/title/tt21043190/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/",
-    "imdbRating": 8.5
-  },
-  {
     "title": "Zootopia 2",
     "releaseYear": 2025,
     "genres": "Animation, Action, Adventure",
@@ -60,16 +51,16 @@
     "imdbId": "tt35820129",
     "imdbUrl": "https://www.imdb.com/title/tt35820129/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304600/title/mission_santa_yoyo_to_the_rescue/",
-    "imdbRating": 5.6
+    "imdbRating": 5.7
   },
   {
-    "title": "Five Night's at Freddy's 2",
+    "title": "Escape Net",
     "releaseYear": 2025,
-    "genres": "Horror, Mystery, Thriller",
-    "imdbId": "tt30274401",
-    "imdbUrl": "https://www.imdb.com/title/tt30274401/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304297/title/five_nights_at_freddys_2/",
-    "imdbRating": 5.3
+    "genres": "Biography, Drama",
+    "imdbId": "tt21043190",
+    "imdbUrl": "https://www.imdb.com/title/tt21043190/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/",
+    "imdbRating": 8.5
   },
   {
     "title": "Anaconda",
@@ -81,40 +72,22 @@
     "imdbRating": 6.1
   },
   {
-    "title": "Red Code Blue",
+    "title": "Five Night's at Freddy's 2",
     "releaseYear": 2025,
-    "genres": "Action, Crime, Drama",
-    "imdbId": "tt38573816",
-    "imdbUrl": "https://www.imdb.com/title/tt38573816/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/",
-    "imdbRating": 8.5
+    "genres": "Horror, Mystery, Thriller",
+    "imdbId": "tt30274401",
+    "imdbUrl": "https://www.imdb.com/title/tt30274401/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304297/title/five_nights_at_freddys_2/",
+    "imdbRating": 5.3
   },
   {
-    "title": "Wicked: For Good",
+    "title": "The Housemaid",
     "releaseYear": 2025,
-    "genres": "Drama, Family, Fantasy",
-    "imdbId": "tt19847976",
-    "imdbUrl": "https://www.imdb.com/title/tt19847976/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304295/title/wicked_for_good/",
-    "imdbRating": 6.9
-  },
-  {
-    "title": "Jujutsu Kaisen: Execution",
-    "releaseYear": 2025,
-    "genres": "Animation, Action, Fantasy",
-    "imdbId": "tt38121182",
-    "imdbUrl": "https://www.imdb.com/title/tt38121182/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304588/title/jujutsu_kaisen_execution/",
-    "imdbRating": 6.5
-  },
-  {
-    "title": "Die Hard (1988)",
-    "releaseYear": 1988,
-    "genres": "Action, Thriller",
-    "imdbId": "tt0095016",
-    "imdbUrl": "https://www.imdb.com/title/tt0095016/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/302939/title/die_hard_1988/",
-    "imdbRating": 8.2
+    "genres": "Drama, Thriller",
+    "imdbId": "tt27543632",
+    "imdbUrl": "https://www.imdb.com/title/tt27543632/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304575/title/the_housemaid/",
+    "imdbRating": 7
   },
   {
     "title": "Now You See Me: Now You Don't",
@@ -126,33 +99,6 @@
     "imdbRating": 6
   },
   {
-    "title": "New wave",
-    "releaseYear": 2025,
-    "genres": "Biography, Comedy, Drama",
-    "imdbId": "tt31688586",
-    "imdbUrl": "https://www.imdb.com/title/tt31688586/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304630/title/new_wave/",
-    "imdbRating": 7.3
-  },
-  {
-    "title": "Dog 51",
-    "releaseYear": 2025,
-    "genres": "Crime, Sci-Fi, Thriller",
-    "imdbId": "tt33255286",
-    "imdbUrl": "https://www.imdb.com/title/tt33255286/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304646/title/dog_51/",
-    "imdbRating": 6.1
-  },
-  {
-    "title": "Nuremberg",
-    "releaseYear": 2025,
-    "genres": "Biography, Drama, History",
-    "imdbId": "tt29567915",
-    "imdbUrl": "https://www.imdb.com/title/tt29567915/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304604/title/nuremberg/",
-    "imdbRating": 7.4
-  },
-  {
     "title": "How the Grinch Stole Christmas (2000)",
     "releaseYear": 2000,
     "genres": "Comedy, Family, Fantasy",
@@ -160,6 +106,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt0170016/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304212/title/how_the_grinch_stole_christmas_2000/",
     "imdbRating": 6.4
+  },
+  {
+    "title": "New wave",
+    "releaseYear": 2025,
+    "genres": "Biography, Comedy, Drama",
+    "imdbId": "tt31688586",
+    "imdbUrl": "https://www.imdb.com/title/tt31688586/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304630/title/new_wave/",
+    "imdbRating": 7.3
   },
   {
     "title": "Eternity",
@@ -180,6 +135,24 @@
     "imdbRating": 8.2
   },
   {
+    "title": "Nuremberg",
+    "releaseYear": 2025,
+    "genres": "Biography, Drama, History",
+    "imdbId": "tt29567915",
+    "imdbUrl": "https://www.imdb.com/title/tt29567915/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304604/title/nuremberg/",
+    "imdbRating": 7.4
+  },
+  {
+    "title": "Dog 51",
+    "releaseYear": 2025,
+    "genres": "Crime, Sci-Fi, Thriller",
+    "imdbId": "tt33255286",
+    "imdbUrl": "https://www.imdb.com/title/tt33255286/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304646/title/dog_51/",
+    "imdbRating": 6.1
+  },
+  {
     "title": "Song Sung Blue",
     "releaseYear": 2025,
     "genres": "Biography, Drama, History",
@@ -196,6 +169,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt14107334/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304296/title/the_running_man/",
     "imdbRating": 6.4
+  },
+  {
+    "title": "Jujutsu Kaisen: Execution",
+    "releaseYear": 2025,
+    "genres": "Animation, Action, Fantasy",
+    "imdbId": "tt38121182",
+    "imdbUrl": "https://www.imdb.com/title/tt38121182/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304588/title/jujutsu_kaisen_execution/",
+    "imdbRating": 6.5
   },
   {
     "title": "Silent Night, Deadly Night",
@@ -223,6 +205,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt28171985/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304622/title/ice_tower/",
     "imdbRating": 6
+  },
+  {
+    "title": "Wicked: For Good",
+    "releaseYear": 2025,
+    "genres": "Drama, Family, Fantasy",
+    "imdbId": "tt19847976",
+    "imdbUrl": "https://www.imdb.com/title/tt19847976/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304295/title/wicked_for_good/",
+    "imdbRating": 6.8
   },
   {
     "title": "Dreams",

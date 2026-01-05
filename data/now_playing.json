@@ -4,88 +4,44 @@
     "url": "https://www.forumcinemas.lv/eng/event/304298/title/avatar_fire_and_ash/"
   },
   {
-    "title": "Red Code Blue",
-    "url": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/"
-  },
-  {
-    "title": "The SpongeBob Movie: Search For SquarePants",
-    "url": "https://www.forumcinemas.lv/eng/event/304608/title/the_spongebob_movie_search_for_squarepants/"
-  },
-  {
-    "title": "A Mouse Hunt for Christmas",
-    "url": "https://www.forumcinemas.lv/eng/event/304601/title/a_mouse_hunt_for_christmas/"
-  },
-  {
-    "title": "Zootopia 2",
-    "url": "https://www.forumcinemas.lv/eng/event/304299/title/zootopia_2/"
-  },
-  {
-    "title": "Mission Santa: Yoyo to the rescue",
-    "url": "https://www.forumcinemas.lv/eng/event/304600/title/mission_santa_yoyo_to_the_rescue/"
+    "title": "The Housemaid",
+    "url": "https://www.forumcinemas.lv/eng/event/304575/title/the_housemaid/"
   },
   {
     "title": "Escape Net",
     "url": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/"
   },
   {
-    "title": "Anaconda",
-    "url": "https://www.forumcinemas.lv/eng/event/304587/title/anaconda/"
-  },
-  {
-    "title": "Five Night's at Freddy's 2",
-    "url": "https://www.forumcinemas.lv/eng/event/304297/title/five_nights_at_freddys_2/"
-  },
-  {
-    "title": "The Housemaid",
-    "url": "https://www.forumcinemas.lv/eng/event/304575/title/the_housemaid/"
-  },
-  {
-    "title": "Private event",
-    "url": "https://www.forumcinemas.lv/eng/event/303398/title/private_event/"
-  },
-  {
-    "title": "The Nutcracker | The Royal Ballet",
-    "url": "https://www.forumcinemas.lv/eng/event/304530/title/the_nutcracker_the_royal_ballet/"
-  },
-  {
-    "title": "Now You See Me: Now You Don't",
-    "url": "https://www.forumcinemas.lv/eng/event/304517/title/now_you_see_me_now_you_dont/"
-  },
-  {
-    "title": "How the Grinch Stole Christmas (2000)",
-    "url": "https://www.forumcinemas.lv/eng/event/304212/title/how_the_grinch_stole_christmas_2000/"
+    "title": "Mission Santa: Yoyo to the rescue",
+    "url": "https://www.forumcinemas.lv/eng/event/304600/title/mission_santa_yoyo_to_the_rescue/"
   },
   {
     "title": "New wave",
     "url": "https://www.forumcinemas.lv/eng/event/304630/title/new_wave/"
   },
   {
-    "title": "Eternity",
-    "url": "https://www.forumcinemas.lv/eng/event/304573/title/eternity/"
-  },
-  {
-    "title": "Some Like it Hot (1959)",
-    "url": "https://www.forumcinemas.lv/eng/event/303619/title/some_like_it_hot_1959/"
-  },
-  {
-    "title": "Nuremberg",
-    "url": "https://www.forumcinemas.lv/eng/event/304604/title/nuremberg/"
-  },
-  {
-    "title": "Dog 51",
-    "url": "https://www.forumcinemas.lv/eng/event/304646/title/dog_51/"
-  },
-  {
-    "title": "Song Sung Blue",
-    "url": "https://www.forumcinemas.lv/eng/event/304621/title/song_sung_blue/"
-  },
-  {
-    "title": "The Running Man",
-    "url": "https://www.forumcinemas.lv/eng/event/304296/title/the_running_man/"
-  },
-  {
     "title": "Jujutsu Kaisen: Execution",
     "url": "https://www.forumcinemas.lv/eng/event/304588/title/jujutsu_kaisen_execution/"
+  },
+  {
+    "title": "A Mouse Hunt for Christmas",
+    "url": "https://www.forumcinemas.lv/eng/event/304601/title/a_mouse_hunt_for_christmas/"
+  },
+  {
+    "title": "Five Night's at Freddy's 2",
+    "url": "https://www.forumcinemas.lv/eng/event/304297/title/five_nights_at_freddys_2/"
+  },
+  {
+    "title": "The SpongeBob Movie: Search For SquarePants",
+    "url": "https://www.forumcinemas.lv/eng/event/304608/title/the_spongebob_movie_search_for_squarepants/"
+  },
+  {
+    "title": "Zootopia 2",
+    "url": "https://www.forumcinemas.lv/eng/event/304299/title/zootopia_2/"
+  },
+  {
+    "title": "Anaconda",
+    "url": "https://www.forumcinemas.lv/eng/event/304587/title/anaconda/"
   },
   {
     "title": "Silent Night, Deadly Night",
@@ -100,12 +56,48 @@
     "url": "https://www.forumcinemas.lv/eng/event/304622/title/ice_tower/"
   },
   {
+    "title": "Song Sung Blue",
+    "url": "https://www.forumcinemas.lv/eng/event/304621/title/song_sung_blue/"
+  },
+  {
+    "title": "Private event",
+    "url": "https://www.forumcinemas.lv/eng/event/303398/title/private_event/"
+  },
+  {
     "title": "Wicked: For Good",
     "url": "https://www.forumcinemas.lv/eng/event/304295/title/wicked_for_good/"
   },
   {
+    "title": "Nuremberg",
+    "url": "https://www.forumcinemas.lv/eng/event/304604/title/nuremberg/"
+  },
+  {
+    "title": "Red Code Blue",
+    "url": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/"
+  },
+  {
+    "title": "The Running Man",
+    "url": "https://www.forumcinemas.lv/eng/event/304296/title/the_running_man/"
+  },
+  {
+    "title": "Dog 51",
+    "url": "https://www.forumcinemas.lv/eng/event/304646/title/dog_51/"
+  },
+  {
     "title": "Dreams",
     "url": "https://www.forumcinemas.lv/eng/event/304613/title/dreams/"
+  },
+  {
+    "title": "Eternity",
+    "url": "https://www.forumcinemas.lv/eng/event/304573/title/eternity/"
+  },
+  {
+    "title": "The Nutcracker | The Royal Ballet",
+    "url": "https://www.forumcinemas.lv/eng/event/304530/title/the_nutcracker_the_royal_ballet/"
+  },
+  {
+    "title": "Now You See Me: Now You Don't",
+    "url": "https://www.forumcinemas.lv/eng/event/304517/title/now_you_see_me_now_you_dont/"
   },
   {
     "title": "Die My Love",
@@ -202,6 +194,10 @@
   {
     "title": "Lācis, lauva un zars: The Last One For The Road",
     "url": "https://www.forumcinemas.lv/eng/event/304639/title/l%C4%81cis_lauva_un_zars_the_last_one_for_the_road/"
+  },
+  {
+    "title": "Lācis, lauva un zars: Calle Málaga",
+    "url": "https://www.forumcinemas.lv/eng/event/304661/title/l%C4%81cis_lauva_un_zars_calle_m%C3%A1laga/"
   },
   {
     "title": "Lācis, lauva un zars: Sirât",

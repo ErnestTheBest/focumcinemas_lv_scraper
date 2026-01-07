@@ -9,22 +9,13 @@
     "imdbRating": 7.4
   },
   {
-    "title": "The Housemaid",
+    "title": "The Richest Woman in the World",
     "releaseYear": 2025,
-    "genres": "Drama, Thriller",
-    "imdbId": "tt27543632",
-    "imdbUrl": "https://www.imdb.com/title/tt27543632/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304575/title/the_housemaid/",
-    "imdbRating": 7
-  },
-  {
-    "title": "Dreams",
-    "releaseYear": 2026,
-    "genres": "Drama, Romance, Thriller",
-    "imdbId": "tt31710990",
-    "imdbUrl": "https://www.imdb.com/title/tt31710990/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304613/title/dreams/",
-    "imdbRating": 5.7
+    "genres": "Comedy, Drama",
+    "imdbId": "tt32759477",
+    "imdbUrl": "https://www.imdb.com/title/tt32759477/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304616/title/the_richest_woman_in_the_world/",
+    "imdbRating": 6.5
   },
   {
     "title": "Mission Santa: Yoyo to the rescue",
@@ -36,33 +27,6 @@
     "imdbRating": 5.7
   },
   {
-    "title": "Ice Tower",
-    "releaseYear": 2025,
-    "genres": "Drama, Fantasy",
-    "imdbId": "tt28171985",
-    "imdbUrl": "https://www.imdb.com/title/tt28171985/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304622/title/ice_tower/",
-    "imdbRating": 6
-  },
-  {
-    "title": "A Mouse Hunt for Christmas",
-    "releaseYear": 2025,
-    "genres": "Comedy, Family",
-    "imdbId": "tt35727399",
-    "imdbUrl": "https://www.imdb.com/title/tt35727399/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304601/title/a_mouse_hunt_for_christmas/",
-    "imdbRating": 6.2
-  },
-  {
-    "title": "Five Night's at Freddy's 2",
-    "releaseYear": 2025,
-    "genres": "Horror, Mystery, Thriller",
-    "imdbId": "tt30274401",
-    "imdbUrl": "https://www.imdb.com/title/tt30274401/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304297/title/five_nights_at_freddys_2/",
-    "imdbRating": 5.3
-  },
-  {
     "title": "The SpongeBob Movie: Search For SquarePants",
     "releaseYear": 2025,
     "genres": "Animation, Adventure, Comedy",
@@ -70,24 +34,6 @@
     "imdbUrl": "https://www.imdb.com/title/tt23572848/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304608/title/the_spongebob_movie_search_for_squarepants/",
     "imdbRating": 5.8
-  },
-  {
-    "title": "Escape Net",
-    "releaseYear": 2025,
-    "genres": "Biography, Drama",
-    "imdbId": "tt21043190",
-    "imdbUrl": "https://www.imdb.com/title/tt21043190/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/",
-    "imdbRating": 8.4
-  },
-  {
-    "title": "Zootopia 2",
-    "releaseYear": 2025,
-    "genres": "Animation, Action, Adventure",
-    "imdbId": "tt26443597",
-    "imdbUrl": "https://www.imdb.com/title/tt26443597/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304299/title/zootopia_2/",
-    "imdbRating": 7.6
   },
   {
     "title": "Anaconda",
@@ -99,49 +45,58 @@
     "imdbRating": 6.1
   },
   {
-    "title": "Eternity",
+    "title": "Escape Net",
     "releaseYear": 2025,
-    "genres": "Comedy, Drama, Fantasy",
-    "imdbId": "tt24950660",
-    "imdbUrl": "https://www.imdb.com/title/tt24950660/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304573/title/eternity/",
+    "genres": "Biography, Drama",
+    "imdbId": "tt21043190",
+    "imdbUrl": "https://www.imdb.com/title/tt21043190/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/",
+    "imdbRating": 8.4
+  },
+  {
+    "title": "Five Night's at Freddy's 2",
+    "releaseYear": 2025,
+    "genres": "Horror, Mystery, Thriller",
+    "imdbId": "tt30274401",
+    "imdbUrl": "https://www.imdb.com/title/tt30274401/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304297/title/five_nights_at_freddys_2/",
+    "imdbRating": 5.3
+  },
+  {
+    "title": "The Housemaid",
+    "releaseYear": 2025,
+    "genres": "Drama, Thriller",
+    "imdbId": "tt27543632",
+    "imdbUrl": "https://www.imdb.com/title/tt27543632/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304575/title/the_housemaid/",
     "imdbRating": 7
   },
   {
-    "title": "New wave",
+    "title": "Zootopia 2",
     "releaseYear": 2025,
-    "genres": "Biography, Comedy, Drama",
-    "imdbId": "tt31688586",
-    "imdbUrl": "https://www.imdb.com/title/tt31688586/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304630/title/new_wave/",
-    "imdbRating": 7.3
+    "genres": "Animation, Action, Adventure",
+    "imdbId": "tt26443597",
+    "imdbUrl": "https://www.imdb.com/title/tt26443597/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304299/title/zootopia_2/",
+    "imdbRating": 7.6
   },
   {
-    "title": "Nuremberg",
+    "title": "A Mouse Hunt for Christmas",
     "releaseYear": 2025,
-    "genres": "Biography, Drama, History",
-    "imdbId": "tt29567915",
-    "imdbUrl": "https://www.imdb.com/title/tt29567915/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304604/title/nuremberg/",
-    "imdbRating": 7.4
+    "genres": "Comedy, Family",
+    "imdbId": "tt35727399",
+    "imdbUrl": "https://www.imdb.com/title/tt35727399/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304601/title/a_mouse_hunt_for_christmas/",
+    "imdbRating": 6.2
   },
   {
-    "title": "Now You See Me: Now You Don't",
+    "title": "If I Had Legs I'd Kick You",
     "releaseYear": 2025,
-    "genres": "Crime, Thriller",
-    "imdbId": "tt4712810",
-    "imdbUrl": "https://www.imdb.com/title/tt4712810/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304517/title/now_you_see_me_now_you_dont/",
-    "imdbRating": 6
-  },
-  {
-    "title": "Die My Love",
-    "releaseYear": 2025,
-    "genres": "Drama, Thriller",
-    "imdbId": "tt9362736",
-    "imdbUrl": "https://www.imdb.com/title/tt9362736/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304596/title/die_my_love/",
-    "imdbRating": 6.1
+    "genres": "Comedy, Drama, Thriller",
+    "imdbId": "tt18382850",
+    "imdbUrl": "https://www.imdb.com/title/tt18382850/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304595/title/if_i_had_legs_id_kick_you/",
+    "imdbRating": 6.6
   },
   {
     "title": "Red Code Blue",
@@ -153,24 +108,6 @@
     "imdbRating": 8.5
   },
   {
-    "title": "Predator: Badlands",
-    "releaseYear": 2025,
-    "genres": "Action, Adventure, Sci-Fi",
-    "imdbId": "tt31227572",
-    "imdbUrl": "https://www.imdb.com/title/tt31227572/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304516/title/predator_badlands/",
-    "imdbRating": 7.3
-  },
-  {
-    "title": "Wicked: For Good",
-    "releaseYear": 2025,
-    "genres": "Drama, Family, Fantasy",
-    "imdbId": "tt19847976",
-    "imdbUrl": "https://www.imdb.com/title/tt19847976/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304295/title/wicked_for_good/",
-    "imdbRating": 6.8
-  },
-  {
     "title": "Dog 51",
     "releaseYear": 2025,
     "genres": "Crime, Sci-Fi, Thriller",
@@ -180,22 +117,13 @@
     "imdbRating": 6.1
   },
   {
-    "title": "The Richest Woman in the World",
+    "title": "Nuremberg",
     "releaseYear": 2025,
-    "genres": "Comedy, Drama",
-    "imdbId": "tt32759477",
-    "imdbUrl": "https://www.imdb.com/title/tt32759477/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304616/title/the_richest_woman_in_the_world/",
-    "imdbRating": 6.5
-  },
-  {
-    "title": "If I Had Legs I'd Kick You",
-    "releaseYear": 2025,
-    "genres": "Comedy, Drama, Thriller",
-    "imdbId": "tt18382850",
-    "imdbUrl": "https://www.imdb.com/title/tt18382850/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304595/title/if_i_had_legs_id_kick_you/",
-    "imdbRating": 6.6
+    "genres": "Biography, Drama, History",
+    "imdbId": "tt29567915",
+    "imdbUrl": "https://www.imdb.com/title/tt29567915/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304604/title/nuremberg/",
+    "imdbRating": 7.4
   },
   {
     "title": "Bugonia",
@@ -225,6 +153,15 @@
     "imdbRating": 6.5
   },
   {
+    "title": "Now You See Me: Now You Don't",
+    "releaseYear": 2025,
+    "genres": "Crime, Thriller",
+    "imdbId": "tt4712810",
+    "imdbUrl": "https://www.imdb.com/title/tt4712810/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304517/title/now_you_see_me_now_you_dont/",
+    "imdbRating": 6
+  },
+  {
     "title": "Primate",
     "releaseYear": 2026,
     "genres": "Horror",
@@ -232,6 +169,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt33028778/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304648/title/primate/",
     "imdbRating": 6.1
+  },
+  {
+    "title": "New wave",
+    "releaseYear": 2025,
+    "genres": "Biography, Comedy, Drama",
+    "imdbId": "tt31688586",
+    "imdbUrl": "https://www.imdb.com/title/tt31688586/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304630/title/new_wave/",
+    "imdbRating": 7.3
   },
   {
     "title": "Dog of God",
@@ -261,6 +207,15 @@
     "imdbRating": 7.3
   },
   {
+    "title": "Eternity",
+    "releaseYear": 2025,
+    "genres": "Comedy, Drama, Fantasy",
+    "imdbId": "tt24950660",
+    "imdbUrl": "https://www.imdb.com/title/tt24950660/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304573/title/eternity/",
+    "imdbRating": 7
+  },
+  {
     "title": "Greenland: Migration",
     "releaseYear": 2026,
     "genres": "Action, Adventure, Sci-Fi",
@@ -268,6 +223,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt14850054/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304647/title/greenland_migration/",
     "imdbRating": null
+  },
+  {
+    "title": "Ice Tower",
+    "releaseYear": 2025,
+    "genres": "Drama, Fantasy",
+    "imdbId": "tt28171985",
+    "imdbUrl": "https://www.imdb.com/title/tt28171985/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304622/title/ice_tower/",
+    "imdbRating": 6
   },
   {
     "title": "Wisdom of Happiness",
@@ -279,6 +243,15 @@
     "imdbRating": 7.1
   },
   {
+    "title": "Wicked: For Good",
+    "releaseYear": 2025,
+    "genres": "Drama, Family, Fantasy",
+    "imdbId": "tt19847976",
+    "imdbUrl": "https://www.imdb.com/title/tt19847976/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304295/title/wicked_for_good/",
+    "imdbRating": 6.8
+  },
+  {
     "title": "One Battle After Another",
     "releaseYear": 2025,
     "genres": "Action, Crime, Drama",
@@ -288,13 +261,22 @@
     "imdbRating": 7.8
   },
   {
-    "title": "28 Years Later",
+    "title": "28 Years Later (2025)",
     "releaseYear": 2025,
     "genres": "Horror, Sci-Fi, Thriller",
     "imdbId": "tt10548174",
     "imdbUrl": "https://www.imdb.com/title/tt10548174/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304255/title/28_years_later/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304255/title/28_years_later_2025/",
     "imdbRating": 6.6
+  },
+  {
+    "title": "A Girl Named Willow",
+    "releaseYear": 2025,
+    "genres": "Family",
+    "imdbId": "tt35300281",
+    "imdbUrl": "https://www.imdb.com/title/tt35300281/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304542/title/a_girl_named_willow/",
+    "imdbRating": 6
   },
   {
     "title": "28 Years Later: The Bone Temple",
@@ -378,6 +360,15 @@
     "imdbRating": 6.7
   },
   {
+    "title": "Marty Supreme",
+    "releaseYear": 2026,
+    "genres": "Drama, Sport",
+    "imdbId": "tt32916440",
+    "imdbUrl": "https://www.imdb.com/title/tt32916440/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304634/title/marty_supreme/",
+    "imdbRating": 8.3
+  },
+  {
     "title": "Lācis, lauva un zars: Hen",
     "releaseYear": 2026,
     "genres": "Drama, Family",
@@ -402,7 +393,7 @@
     "imdbId": "tt28690468",
     "imdbUrl": "https://www.imdb.com/title/tt28690468/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304645/title/l%C4%81cis_lauva_un_zars_sound_of_falling/",
-    "imdbRating": 7.1
+    "imdbRating": 7.2
   },
   {
     "title": "Lācis, lauva un zars: The Last One For The Road",

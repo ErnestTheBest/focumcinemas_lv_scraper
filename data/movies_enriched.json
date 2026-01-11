@@ -9,15 +9,6 @@
     "imdbRating": 7.4
   },
   {
-    "title": "Zootopia 2",
-    "releaseYear": 2025,
-    "genres": "Animation, Action, Adventure",
-    "imdbId": "tt26443597",
-    "imdbUrl": "https://www.imdb.com/title/tt26443597/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304299/title/zootopia_2/",
-    "imdbRating": 7.6
-  },
-  {
     "title": "A Mouse Hunt for Christmas",
     "releaseYear": 2025,
     "genres": "Comedy, Family",
@@ -25,15 +16,6 @@
     "imdbUrl": "https://www.imdb.com/title/tt35727399/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304601/title/a_mouse_hunt_for_christmas/",
     "imdbRating": 6.2
-  },
-  {
-    "title": "The Housemaid",
-    "releaseYear": 2025,
-    "genres": "Drama, Thriller",
-    "imdbId": "tt27543632",
-    "imdbUrl": "https://www.imdb.com/title/tt27543632/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304575/title/the_housemaid/",
-    "imdbRating": 7
   },
   {
     "title": "The SpongeBob Movie: Search For SquarePants",
@@ -54,6 +36,15 @@
     "imdbRating": 8.4
   },
   {
+    "title": "Song Sung Blue",
+    "releaseYear": 2025,
+    "genres": "Biography, Drama, History",
+    "imdbId": "tt30343021",
+    "imdbUrl": "https://www.imdb.com/title/tt30343021/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304621/title/song_sung_blue/",
+    "imdbRating": 7.6
+  },
+  {
     "title": "North",
     "releaseYear": 2025,
     "genres": "Animation, Adventure, Family",
@@ -63,49 +54,13 @@
     "imdbRating": 7.3
   },
   {
-    "title": "Ice Tower",
+    "title": "Zootopia 2",
     "releaseYear": 2025,
-    "genres": "Drama, Fantasy",
-    "imdbId": "tt28171985",
-    "imdbUrl": "https://www.imdb.com/title/tt28171985/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304622/title/ice_tower/",
-    "imdbRating": 6
-  },
-  {
-    "title": "The Richest Woman in the World",
-    "releaseYear": 2025,
-    "genres": "Comedy, Drama",
-    "imdbId": "tt32759477",
-    "imdbUrl": "https://www.imdb.com/title/tt32759477/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304616/title/the_richest_woman_in_the_world/",
-    "imdbRating": 6.5
-  },
-  {
-    "title": "Wisdom of Happiness",
-    "releaseYear": 2025,
-    "genres": "Documentary",
-    "imdbId": "tt33055004",
-    "imdbUrl": "https://www.imdb.com/title/tt33055004/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304617/title/wisdom_of_happiness/",
-    "imdbRating": 7.1
-  },
-  {
-    "title": "Five Night's at Freddy's 2",
-    "releaseYear": 2025,
-    "genres": "Horror, Mystery, Thriller",
-    "imdbId": "tt30274401",
-    "imdbUrl": "https://www.imdb.com/title/tt30274401/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304297/title/five_nights_at_freddys_2/",
-    "imdbRating": 5.2
-  },
-  {
-    "title": "Red Code Blue",
-    "releaseYear": 2025,
-    "genres": "Action, Crime, Drama",
-    "imdbId": "tt38573816",
-    "imdbUrl": "https://www.imdb.com/title/tt38573816/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/",
-    "imdbRating": 8.5
+    "genres": "Animation, Action, Adventure",
+    "imdbId": "tt26443597",
+    "imdbUrl": "https://www.imdb.com/title/tt26443597/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304299/title/zootopia_2/",
+    "imdbRating": 7.6
   },
   {
     "title": "Primate",
@@ -117,24 +72,6 @@
     "imdbRating": 6.3
   },
   {
-    "title": "Anaconda",
-    "releaseYear": 2025,
-    "genres": "Action, Adventure, Comedy",
-    "imdbId": "tt33244668",
-    "imdbUrl": "https://www.imdb.com/title/tt33244668/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304587/title/anaconda/",
-    "imdbRating": 6
-  },
-  {
-    "title": "Greenland 2: Migration",
-    "releaseYear": 2026,
-    "genres": "Action, Adventure, Sci-Fi",
-    "imdbId": "tt14850054",
-    "imdbUrl": "https://www.imdb.com/title/tt14850054/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304647/title/greenland_2_migration/",
-    "imdbRating": 6.1
-  },
-  {
     "title": "Wicked: For Good",
     "releaseYear": 2025,
     "genres": "Drama, Family, Fantasy",
@@ -144,13 +81,13 @@
     "imdbRating": 6.8
   },
   {
-    "title": "Nuremberg",
+    "title": "Five Night's at Freddy's 2",
     "releaseYear": 2025,
-    "genres": "Biography, Drama, History",
-    "imdbId": "tt29567915",
-    "imdbUrl": "https://www.imdb.com/title/tt29567915/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304604/title/nuremberg/",
-    "imdbRating": 7.4
+    "genres": "Horror, Mystery, Thriller",
+    "imdbId": "tt30274401",
+    "imdbUrl": "https://www.imdb.com/title/tt30274401/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304297/title/five_nights_at_freddys_2/",
+    "imdbRating": 5.2
   },
   {
     "title": "Now You See Me: Now You Don't",
@@ -162,31 +99,49 @@
     "imdbRating": 6
   },
   {
-    "title": "One Battle After Another",
+    "title": "The Housemaid",
+    "releaseYear": 2025,
+    "genres": "Drama, Thriller",
+    "imdbId": "tt27543632",
+    "imdbUrl": "https://www.imdb.com/title/tt27543632/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304575/title/the_housemaid/",
+    "imdbRating": 7
+  },
+  {
+    "title": "Anaconda",
+    "releaseYear": 2025,
+    "genres": "Action, Adventure, Comedy",
+    "imdbId": "tt33244668",
+    "imdbUrl": "https://www.imdb.com/title/tt33244668/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304587/title/anaconda/",
+    "imdbRating": 6
+  },
+  {
+    "title": "Red Code Blue",
     "releaseYear": 2025,
     "genres": "Action, Crime, Drama",
-    "imdbId": "tt30144839",
-    "imdbUrl": "https://www.imdb.com/title/tt30144839/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304397/title/one_battle_after_another/",
-    "imdbRating": 7.8
+    "imdbId": "tt38573816",
+    "imdbUrl": "https://www.imdb.com/title/tt38573816/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/",
+    "imdbRating": 8.5
   },
   {
-    "title": "Dog 51",
-    "releaseYear": 2025,
-    "genres": "Crime, Sci-Fi, Thriller",
-    "imdbId": "tt33255286",
-    "imdbUrl": "https://www.imdb.com/title/tt33255286/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304646/title/dog_51/",
-    "imdbRating": 6.1
+    "title": "Greenland 2: Migration",
+    "releaseYear": 2026,
+    "genres": "Action, Adventure, Sci-Fi",
+    "imdbId": "tt14850054",
+    "imdbUrl": "https://www.imdb.com/title/tt14850054/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304647/title/greenland_2_migration/",
+    "imdbRating": 6
   },
   {
-    "title": "Song Sung Blue",
+    "title": "Nuremberg",
     "releaseYear": 2025,
     "genres": "Biography, Drama, History",
-    "imdbId": "tt30343021",
-    "imdbUrl": "https://www.imdb.com/title/tt30343021/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304621/title/song_sung_blue/",
-    "imdbRating": 7.6
+    "imdbId": "tt29567915",
+    "imdbUrl": "https://www.imdb.com/title/tt29567915/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304604/title/nuremberg/",
+    "imdbRating": 7.4
   },
   {
     "title": "Eternity",
@@ -196,6 +151,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt24950660/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304573/title/eternity/",
     "imdbRating": 7
+  },
+  {
+    "title": "Dog 51",
+    "releaseYear": 2025,
+    "genres": "Crime, Sci-Fi, Thriller",
+    "imdbId": "tt33255286",
+    "imdbUrl": "https://www.imdb.com/title/tt33255286/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304646/title/dog_51/",
+    "imdbRating": 6.1
   },
   {
     "title": "Bugonia",
@@ -250,6 +214,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt32141377/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304623/title/28_years_later_the_bone_temple/",
     "imdbRating": null
+  },
+  {
+    "title": "Ice Tower",
+    "releaseYear": 2025,
+    "genres": "Drama, Fantasy",
+    "imdbId": "tt28171985",
+    "imdbUrl": "https://www.imdb.com/title/tt28171985/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304622/title/ice_tower/",
+    "imdbRating": 6
   },
   {
     "title": "Death of Death",

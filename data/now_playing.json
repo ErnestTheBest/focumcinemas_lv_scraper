@@ -1,83 +1,63 @@
 [
   {
-    "title": "New wave",
-    "url": "https://www.forumcinemas.lv/eng/event/304630/title/new_wave/"
-  },
-  {
-    "title": "The Housemaid",
-    "url": "https://www.forumcinemas.lv/eng/event/304575/title/the_housemaid/"
-  },
-  {
-    "title": "A Mouse Hunt for Christmas",
-    "url": "https://www.forumcinemas.lv/eng/event/304601/title/a_mouse_hunt_for_christmas/"
-  },
-  {
-    "title": "Escape Net",
-    "url": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/"
-  },
-  {
-    "title": "Avatar: Fire and Ash",
-    "url": "https://www.forumcinemas.lv/eng/event/304298/title/avatar_fire_and_ash/"
-  },
-  {
-    "title": "Red Code Blue",
-    "url": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/"
-  },
-  {
-    "title": "The SpongeBob Movie: Search For SquarePants",
-    "url": "https://www.forumcinemas.lv/eng/event/304608/title/the_spongebob_movie_search_for_squarepants/"
-  },
-  {
-    "title": "Zootopia 2",
-    "url": "https://www.forumcinemas.lv/eng/event/304299/title/zootopia_2/"
-  },
-  {
-    "title": "Dog 51",
-    "url": "https://www.forumcinemas.lv/eng/event/304646/title/dog_51/"
-  },
-  {
-    "title": "North",
-    "url": "https://www.forumcinemas.lv/eng/event/304640/title/north/"
-  },
-  {
-    "title": "Primate",
-    "url": "https://www.forumcinemas.lv/eng/event/304648/title/primate/"
-  },
-  {
-    "title": "Greenland 2: Migration",
-    "url": "https://www.forumcinemas.lv/eng/event/304647/title/greenland_2_migration/"
-  },
-  {
-    "title": "Anaconda",
-    "url": "https://www.forumcinemas.lv/eng/event/304587/title/anaconda/"
-  },
-  {
-    "title": "MET Opera: I Puritani",
-    "url": "https://www.forumcinemas.lv/eng/event/304454/title/met_opera_i_puritani/"
-  },
-  {
-    "title": "Now You See Me: Now You Don't",
-    "url": "https://www.forumcinemas.lv/eng/event/304517/title/now_you_see_me_now_you_dont/"
+    "title": "Private event",
+    "url": "https://www.forumcinemas.lv/eng/event/303398/title/private_event/"
   },
   {
     "title": "28 Years Later: The Bone Temple",
     "url": "https://www.forumcinemas.lv/eng/event/304623/title/28_years_later_the_bone_temple/"
   },
   {
+    "title": "Primate",
+    "url": "https://www.forumcinemas.lv/eng/event/304648/title/primate/"
+  },
+  {
+    "title": "Avatar: Fire and Ash",
+    "url": "https://www.forumcinemas.lv/eng/event/304298/title/avatar_fire_and_ash/"
+  },
+  {
+    "title": "North",
+    "url": "https://www.forumcinemas.lv/eng/event/304640/title/north/"
+  },
+  {
     "title": "Nuremberg",
     "url": "https://www.forumcinemas.lv/eng/event/304604/title/nuremberg/"
+  },
+  {
+    "title": "Escape Net",
+    "url": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/"
+  },
+  {
+    "title": "Red Code Blue",
+    "url": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/"
+  },
+  {
+    "title": "The Housemaid",
+    "url": "https://www.forumcinemas.lv/eng/event/304575/title/the_housemaid/"
   },
   {
     "title": "Five Night's at Freddy's 2",
     "url": "https://www.forumcinemas.lv/eng/event/304297/title/five_nights_at_freddys_2/"
   },
   {
-    "title": "Private event",
-    "url": "https://www.forumcinemas.lv/eng/event/303398/title/private_event/"
+    "title": "Zootopia 2",
+    "url": "https://www.forumcinemas.lv/eng/event/304299/title/zootopia_2/"
+  },
+  {
+    "title": "A Mouse Hunt for Christmas",
+    "url": "https://www.forumcinemas.lv/eng/event/304601/title/a_mouse_hunt_for_christmas/"
+  },
+  {
+    "title": "Anaconda",
+    "url": "https://www.forumcinemas.lv/eng/event/304587/title/anaconda/"
   },
   {
     "title": "Eternity",
     "url": "https://www.forumcinemas.lv/eng/event/304573/title/eternity/"
+  },
+  {
+    "title": "New wave",
+    "url": "https://www.forumcinemas.lv/eng/event/304630/title/new_wave/"
   },
   {
     "title": "Ice Tower",
@@ -88,8 +68,20 @@
     "url": "https://www.forumcinemas.lv/eng/event/304660/title/death_of_death/"
   },
   {
+    "title": "The SpongeBob Movie: Search For SquarePants",
+    "url": "https://www.forumcinemas.lv/eng/event/304608/title/the_spongebob_movie_search_for_squarepants/"
+  },
+  {
+    "title": "Greenland 2: Migration",
+    "url": "https://www.forumcinemas.lv/eng/event/304647/title/greenland_2_migration/"
+  },
+  {
     "title": "Bugonia",
     "url": "https://www.forumcinemas.lv/eng/event/304515/title/bugonia/"
+  },
+  {
+    "title": "Now You See Me: Now You Don't",
+    "url": "https://www.forumcinemas.lv/eng/event/304517/title/now_you_see_me_now_you_dont/"
   },
   {
     "title": "Rental Family",
@@ -146,6 +138,10 @@
   {
     "title": "Lācis, lauva un zars: Mirrors No. 3",
     "url": "https://www.forumcinemas.lv/eng/event/304637/title/l%C4%81cis_lauva_un_zars_mirrors_no_3/"
+  },
+  {
+    "title": "Dog 51",
+    "url": "https://www.forumcinemas.lv/eng/event/304646/title/dog_51/"
   },
   {
     "title": "Lācis, lauva un zars: A Poet",
@@ -250,6 +246,10 @@
   {
     "title": "Perfect Strangers",
     "url": "https://www.forumcinemas.lv/eng/event/304657/title/perfect_strangers/"
+  },
+  {
+    "title": "Wuthering Heights",
+    "url": "https://www.forumcinemas.lv/eng/event/304594/title/wuthering_heights/"
   },
   {
     "title": "MET Opera: Cinderella (2022)",

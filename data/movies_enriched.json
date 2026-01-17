@@ -1,41 +1,5 @@
 [
   {
-    "title": "Nuremberg",
-    "releaseYear": 2025,
-    "genres": "Biography, Drama, History",
-    "imdbId": "tt29567915",
-    "imdbUrl": "https://www.imdb.com/title/tt29567915/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304604/title/nuremberg/",
-    "imdbRating": 7.4
-  },
-  {
-    "title": "A Mouse Hunt for Christmas",
-    "releaseYear": 2025,
-    "genres": "Comedy, Family",
-    "imdbId": "tt35727399",
-    "imdbUrl": "https://www.imdb.com/title/tt35727399/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304601/title/a_mouse_hunt_for_christmas/",
-    "imdbRating": 6.2
-  },
-  {
-    "title": "28 Years Later: The Bone Temple",
-    "releaseYear": 2026,
-    "genres": "Horror",
-    "imdbId": "tt32141377",
-    "imdbUrl": "https://www.imdb.com/title/tt32141377/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304623/title/28_years_later_the_bone_temple/",
-    "imdbRating": 7.8
-  },
-  {
-    "title": "Escape Net",
-    "releaseYear": 2025,
-    "genres": "Biography, Drama",
-    "imdbId": "tt21043190",
-    "imdbUrl": "https://www.imdb.com/title/tt21043190/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/",
-    "imdbRating": 8.4
-  },
-  {
     "title": "Avatar: Fire and Ash",
     "releaseYear": 2025,
     "genres": "Animation, Action, Adventure",
@@ -43,78 +7,6 @@
     "imdbUrl": "https://www.imdb.com/title/tt1757678/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304298/title/avatar_fire_and_ash/",
     "imdbRating": 7.4
-  },
-  {
-    "title": "Zootopia 2",
-    "releaseYear": 2025,
-    "genres": "Animation, Action, Adventure",
-    "imdbId": "tt26443597",
-    "imdbUrl": "https://www.imdb.com/title/tt26443597/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304299/title/zootopia_2/",
-    "imdbRating": 7.5
-  },
-  {
-    "title": "Greenland 2: Migration",
-    "releaseYear": 2026,
-    "genres": "Action, Adventure, Sci-Fi",
-    "imdbId": "tt14850054",
-    "imdbUrl": "https://www.imdb.com/title/tt14850054/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304647/title/greenland_2_migration/",
-    "imdbRating": 5.8
-  },
-  {
-    "title": "The Housemaid",
-    "releaseYear": 2025,
-    "genres": "Drama, Thriller",
-    "imdbId": "tt27543632",
-    "imdbUrl": "https://www.imdb.com/title/tt27543632/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304575/title/the_housemaid/",
-    "imdbRating": 7
-  },
-  {
-    "title": "North",
-    "releaseYear": 2025,
-    "genres": "Animation, Adventure, Family",
-    "imdbId": "tt35485979",
-    "imdbUrl": "https://www.imdb.com/title/tt35485979/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304640/title/north/",
-    "imdbRating": 7.3
-  },
-  {
-    "title": "Anaconda",
-    "releaseYear": 2025,
-    "genres": "Action, Adventure, Comedy",
-    "imdbId": "tt33244668",
-    "imdbUrl": "https://www.imdb.com/title/tt33244668/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304587/title/anaconda/",
-    "imdbRating": 6
-  },
-  {
-    "title": "The SpongeBob Movie: Search For SquarePants",
-    "releaseYear": 2025,
-    "genres": "Animation, Adventure, Comedy",
-    "imdbId": "tt23572848",
-    "imdbUrl": "https://www.imdb.com/title/tt23572848/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304608/title/the_spongebob_movie_search_for_squarepants/",
-    "imdbRating": 5.8
-  },
-  {
-    "title": "Rental Family",
-    "releaseYear": 2025,
-    "genres": "Comedy, Drama",
-    "imdbId": "tt14142060",
-    "imdbUrl": "https://www.imdb.com/title/tt14142060/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304652/title/rental_family/",
-    "imdbRating": 7.8
-  },
-  {
-    "title": "Five Night's at Freddy's 2",
-    "releaseYear": 2025,
-    "genres": "Horror, Mystery, Thriller",
-    "imdbId": "tt30274401",
-    "imdbUrl": "https://www.imdb.com/title/tt30274401/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304297/title/five_nights_at_freddys_2/",
-    "imdbRating": 5.2
   },
   {
     "title": "Red Code Blue",
@@ -126,49 +18,49 @@
     "imdbRating": 8.5
   },
   {
-    "title": "Hunger Strike Breakfast",
+    "title": "The SpongeBob Movie: Search For SquarePants",
     "releaseYear": 2025,
-    "genres": "Drama",
-    "imdbId": "tt15289514",
-    "imdbUrl": "https://www.imdb.com/title/tt15289514/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304654/title/hunger_strike_breakfast/",
-    "imdbRating": 8.2
+    "genres": "Animation, Adventure, Comedy",
+    "imdbId": "tt23572848",
+    "imdbUrl": "https://www.imdb.com/title/tt23572848/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304608/title/the_spongebob_movie_search_for_squarepants/",
+    "imdbRating": 5.8
   },
   {
-    "title": "Lācis, lauva un zars: The Blue Trail",
-    "releaseYear": 2026,
-    "genres": "Drama, Sci-Fi",
-    "imdbId": "tt35340614",
-    "imdbUrl": "https://www.imdb.com/title/tt35340614/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304641/title/l%C4%81cis_lauva_un_zars_the_blue_trail/",
-    "imdbRating": 7.2
-  },
-  {
-    "title": "One Battle After Another",
+    "title": "A Mouse Hunt for Christmas",
     "releaseYear": 2025,
-    "genres": "Action, Crime, Drama",
-    "imdbId": "tt30144839",
-    "imdbUrl": "https://www.imdb.com/title/tt30144839/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304397/title/one_battle_after_another/",
-    "imdbRating": 7.8
+    "genres": "Comedy, Family",
+    "imdbId": "tt35727399",
+    "imdbUrl": "https://www.imdb.com/title/tt35727399/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304601/title/a_mouse_hunt_for_christmas/",
+    "imdbRating": 6.2
   },
   {
-    "title": "Sentimental Value",
+    "title": "Zootopia 2",
     "releaseYear": 2025,
-    "genres": "Drama",
-    "imdbId": "tt27714581",
-    "imdbUrl": "https://www.imdb.com/title/tt27714581/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304592/title/sentimental_value/",
-    "imdbRating": 7.9
+    "genres": "Animation, Action, Adventure",
+    "imdbId": "tt26443597",
+    "imdbUrl": "https://www.imdb.com/title/tt26443597/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304299/title/zootopia_2/",
+    "imdbRating": 7.5
   },
   {
-    "title": "Primate",
-    "releaseYear": 2026,
-    "genres": "Horror",
-    "imdbId": "tt33028778",
-    "imdbUrl": "https://www.imdb.com/title/tt33028778/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304648/title/primate/",
-    "imdbRating": 6.3
+    "title": "Escape Net",
+    "releaseYear": 2025,
+    "genres": "Biography, Drama",
+    "imdbId": "tt21043190",
+    "imdbUrl": "https://www.imdb.com/title/tt21043190/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/",
+    "imdbRating": 8.5
+  },
+  {
+    "title": "North",
+    "releaseYear": 2025,
+    "genres": "Animation, Adventure, Family",
+    "imdbId": "tt35485979",
+    "imdbUrl": "https://www.imdb.com/title/tt35485979/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304640/title/north/",
+    "imdbRating": 7.3
   },
   {
     "title": "Mission Santa: Yoyo to the rescue",
@@ -178,6 +70,69 @@
     "imdbUrl": "https://www.imdb.com/title/tt35820129/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304600/title/mission_santa_yoyo_to_the_rescue/",
     "imdbRating": 5.6
+  },
+  {
+    "title": "28 Years Later: The Bone Temple",
+    "releaseYear": 2026,
+    "genres": "Horror",
+    "imdbId": "tt32141377",
+    "imdbUrl": "https://www.imdb.com/title/tt32141377/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304623/title/28_years_later_the_bone_temple/",
+    "imdbRating": 7.8
+  },
+  {
+    "title": "The Housemaid",
+    "releaseYear": 2025,
+    "genres": "Drama, Thriller",
+    "imdbId": "tt27543632",
+    "imdbUrl": "https://www.imdb.com/title/tt27543632/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304575/title/the_housemaid/",
+    "imdbRating": 7
+  },
+  {
+    "title": "Rental Family",
+    "releaseYear": 2025,
+    "genres": "Comedy, Drama",
+    "imdbId": "tt14142060",
+    "imdbUrl": "https://www.imdb.com/title/tt14142060/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304652/title/rental_family/",
+    "imdbRating": 7.8
+  },
+  {
+    "title": "Anaconda",
+    "releaseYear": 2025,
+    "genres": "Action, Adventure, Comedy",
+    "imdbId": "tt33244668",
+    "imdbUrl": "https://www.imdb.com/title/tt33244668/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304587/title/anaconda/",
+    "imdbRating": 6
+  },
+  {
+    "title": "Five Night's at Freddy's 2",
+    "releaseYear": 2025,
+    "genres": "Horror, Mystery, Thriller",
+    "imdbId": "tt30274401",
+    "imdbUrl": "https://www.imdb.com/title/tt30274401/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304297/title/five_nights_at_freddys_2/",
+    "imdbRating": 5.2
+  },
+  {
+    "title": "Nuremberg",
+    "releaseYear": 2025,
+    "genres": "Biography, Drama, History",
+    "imdbId": "tt29567915",
+    "imdbUrl": "https://www.imdb.com/title/tt29567915/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304604/title/nuremberg/",
+    "imdbRating": 7.4
+  },
+  {
+    "title": "Greenland 2: Migration",
+    "releaseYear": 2026,
+    "genres": "Action, Adventure, Sci-Fi",
+    "imdbId": "tt14850054",
+    "imdbUrl": "https://www.imdb.com/title/tt14850054/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304647/title/greenland_2_migration/",
+    "imdbRating": 5.8
   },
   {
     "title": "Spirited Away (2001)",
@@ -207,6 +162,15 @@
     "imdbRating": 6
   },
   {
+    "title": "Primate",
+    "releaseYear": 2026,
+    "genres": "Horror",
+    "imdbId": "tt33028778",
+    "imdbUrl": "https://www.imdb.com/title/tt33028778/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304648/title/primate/",
+    "imdbRating": 6.3
+  },
+  {
     "title": "Song Sung Blue",
     "releaseYear": 2025,
     "genres": "Biography, Drama, History",
@@ -214,6 +178,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt30343021/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304621/title/song_sung_blue/",
     "imdbRating": 7.5
+  },
+  {
+    "title": "Hunger Strike Breakfast",
+    "releaseYear": 2025,
+    "genres": "Drama",
+    "imdbId": "tt15289514",
+    "imdbUrl": "https://www.imdb.com/title/tt15289514/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304654/title/hunger_strike_breakfast/",
+    "imdbRating": 8.2
   },
   {
     "title": "Death of Death",
@@ -259,6 +232,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt32247943/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304637/title/l%C4%81cis_lauva_un_zars_mirrors_no_3/",
     "imdbRating": 6.7
+  },
+  {
+    "title": "One Battle After Another",
+    "releaseYear": 2025,
+    "genres": "Action, Crime, Drama",
+    "imdbId": "tt30144839",
+    "imdbUrl": "https://www.imdb.com/title/tt30144839/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304397/title/one_battle_after_another/",
+    "imdbRating": 7.8
   },
   {
     "title": "Bugonia",
@@ -484,6 +466,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt0107048/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/302061/title/kino_kults_groundhog_day_1993/",
     "imdbRating": 8
+  },
+  {
+    "title": "PRUSAX Shows a Movie | Scott Pilgrim vs. the World (2010)",
+    "releaseYear": 2010,
+    "genres": "Action, Comedy, Fantasy",
+    "imdbId": "tt0446029",
+    "imdbUrl": "https://www.imdb.com/title/tt0446029/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304682/title/prusax_shows_a_movie_scott_pilgrim_vs_the_world_2010/",
+    "imdbRating": 7.5
   },
   {
     "title": "Perfect Strangers",

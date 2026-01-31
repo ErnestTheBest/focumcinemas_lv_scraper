@@ -1,95 +1,19 @@
 [
   {
-    "title": "Marty Supreme",
-    "url": "https://www.forumcinemas.lv/eng/event/304634/title/marty_supreme/"
-  },
-  {
-    "title": "Zootopia 2",
-    "url": "https://www.forumcinemas.lv/eng/event/304299/title/zootopia_2/"
-  },
-  {
-    "title": "The Housemaid",
-    "url": "https://www.forumcinemas.lv/eng/event/304575/title/the_housemaid/"
-  },
-  {
-    "title": "La Grazia",
-    "url": "https://www.forumcinemas.lv/eng/event/304650/title/la_grazia/"
-  },
-  {
-    "title": "Hamnet",
-    "url": "https://www.forumcinemas.lv/eng/event/304625/title/hamnet/"
-  },
-  {
-    "title": "Father Mother Sister Brother",
-    "url": "https://www.forumcinemas.lv/eng/event/304635/title/father_mother_sister_brother/"
-  },
-  {
-    "title": "Mercy",
-    "url": "https://www.forumcinemas.lv/eng/event/304626/title/mercy/"
-  },
-  {
-    "title": "Avatar: Fire and Ash",
-    "url": "https://www.forumcinemas.lv/eng/event/304298/title/avatar_fire_and_ash/"
-  },
-  {
-    "title": "Red Code Blue",
-    "url": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/"
-  },
-  {
-    "title": "Kangaroo",
-    "url": "https://www.forumcinemas.lv/eng/event/304655/title/kangaroo/"
-  },
-  {
-    "title": "Send Help",
-    "url": "https://www.forumcinemas.lv/eng/event/304651/title/send_help/"
-  },
-  {
-    "title": "Greenland 2: Migration",
-    "url": "https://www.forumcinemas.lv/eng/event/304647/title/greenland_2_migration/"
-  },
-  {
-    "title": "Anaconda",
-    "url": "https://www.forumcinemas.lv/eng/event/304587/title/anaconda/"
-  },
-  {
-    "title": "Shelter",
-    "url": "https://www.forumcinemas.lv/eng/event/304656/title/shelter/"
-  },
-  {
-    "title": "Return to Silent Hill",
-    "url": "https://www.forumcinemas.lv/eng/event/304631/title/return_to_silent_hill/"
-  },
-  {
-    "title": "Nausicaä of the Valley of the Wind (1984)",
-    "url": "https://www.forumcinemas.lv/eng/event/304581/title/nausica%C3%A4_of_the_valley_of_the_wind_1984/"
-  },
-  {
-    "title": "Escape Net",
-    "url": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/"
-  },
-  {
-    "title": "Iron Lung",
-    "url": "https://www.forumcinemas.lv/eng/event/304694/title/iron_lung/"
-  },
-  {
-    "title": "28 Years Later: The Bone Temple",
-    "url": "https://www.forumcinemas.lv/eng/event/304623/title/28_years_later_the_bone_temple/"
-  },
-  {
-    "title": "Nuremberg",
-    "url": "https://www.forumcinemas.lv/eng/event/304604/title/nuremberg/"
-  },
-  {
-    "title": "Primate",
-    "url": "https://www.forumcinemas.lv/eng/event/304648/title/primate/"
-  },
-  {
     "title": "Private event",
     "url": "https://www.forumcinemas.lv/eng/event/303398/title/private_event/"
   },
   {
+    "title": "Marty Supreme",
+    "url": "https://www.forumcinemas.lv/eng/event/304634/title/marty_supreme/"
+  },
+  {
     "title": "North",
     "url": "https://www.forumcinemas.lv/eng/event/304640/title/north/"
+  },
+  {
+    "title": "Hamnet",
+    "url": "https://www.forumcinemas.lv/eng/event/304625/title/hamnet/"
   },
   {
     "title": "Fleak",
@@ -100,16 +24,76 @@
     "url": "https://www.forumcinemas.lv/eng/event/304608/title/the_spongebob_movie_search_for_squarepants/"
   },
   {
+    "title": "Anaconda",
+    "url": "https://www.forumcinemas.lv/eng/event/304587/title/anaconda/"
+  },
+  {
+    "title": "Zootopia 2",
+    "url": "https://www.forumcinemas.lv/eng/event/304299/title/zootopia_2/"
+  },
+  {
     "title": "A Mouse Hunt for Christmas",
     "url": "https://www.forumcinemas.lv/eng/event/304601/title/a_mouse_hunt_for_christmas/"
+  },
+  {
+    "title": "Avatar: Fire and Ash",
+    "url": "https://www.forumcinemas.lv/eng/event/304298/title/avatar_fire_and_ash/"
+  },
+  {
+    "title": "Father Mother Sister Brother",
+    "url": "https://www.forumcinemas.lv/eng/event/304635/title/father_mother_sister_brother/"
+  },
+  {
+    "title": "The Housemaid",
+    "url": "https://www.forumcinemas.lv/eng/event/304575/title/the_housemaid/"
+  },
+  {
+    "title": "Kangaroo",
+    "url": "https://www.forumcinemas.lv/eng/event/304655/title/kangaroo/"
+  },
+  {
+    "title": "Escape Net",
+    "url": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/"
+  },
+  {
+    "title": "Mercy",
+    "url": "https://www.forumcinemas.lv/eng/event/304626/title/mercy/"
+  },
+  {
+    "title": "Shelter",
+    "url": "https://www.forumcinemas.lv/eng/event/304656/title/shelter/"
+  },
+  {
+    "title": "Red Code Blue",
+    "url": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/"
+  },
+  {
+    "title": "Return to Silent Hill",
+    "url": "https://www.forumcinemas.lv/eng/event/304631/title/return_to_silent_hill/"
+  },
+  {
+    "title": "Send Help",
+    "url": "https://www.forumcinemas.lv/eng/event/304651/title/send_help/"
+  },
+  {
+    "title": "La Grazia",
+    "url": "https://www.forumcinemas.lv/eng/event/304650/title/la_grazia/"
   },
   {
     "title": "Cinderella | The Royal Ballet",
     "url": "https://www.forumcinemas.lv/eng/event/304529/title/cinderella_the_royal_ballet/"
   },
   {
+    "title": "Iron Lung",
+    "url": "https://www.forumcinemas.lv/eng/event/304694/title/iron_lung/"
+  },
+  {
     "title": "Batman Returns (1992)",
     "url": "https://www.forumcinemas.lv/eng/event/304632/title/batman_returns_1992/"
+  },
+  {
+    "title": "28 Years Later: The Bone Temple",
+    "url": "https://www.forumcinemas.lv/eng/event/304623/title/28_years_later_the_bone_temple/"
   },
   {
     "title": "Wicked: For Good",
@@ -128,12 +112,24 @@
     "url": "https://www.forumcinemas.lv/eng/event/304558/title/the_love_that_remains/"
   },
   {
+    "title": "Nuremberg",
+    "url": "https://www.forumcinemas.lv/eng/event/304604/title/nuremberg/"
+  },
+  {
     "title": "Now You See Me: Now You Don't",
     "url": "https://www.forumcinemas.lv/eng/event/304517/title/now_you_see_me_now_you_dont/"
   },
   {
     "title": "One Battle After Another",
     "url": "https://www.forumcinemas.lv/eng/event/304397/title/one_battle_after_another/"
+  },
+  {
+    "title": "Primate",
+    "url": "https://www.forumcinemas.lv/eng/event/304648/title/primate/"
+  },
+  {
+    "title": "Greenland 2: Migration",
+    "url": "https://www.forumcinemas.lv/eng/event/304647/title/greenland_2_migration/"
   },
   {
     "title": "Groundhog Day (1993)",

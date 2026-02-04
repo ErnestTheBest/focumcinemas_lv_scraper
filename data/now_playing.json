@@ -1,15 +1,19 @@
 [
   {
+    "title": "Escape Net",
+    "url": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/"
+  },
+  {
     "title": "The SpongeBob Movie: Search For SquarePants",
     "url": "https://www.forumcinemas.lv/eng/event/304608/title/the_spongebob_movie_search_for_squarepants/"
   },
   {
-    "title": "Avatar: Fire and Ash",
-    "url": "https://www.forumcinemas.lv/eng/event/304298/title/avatar_fire_and_ash/"
-  },
-  {
     "title": "The Housemaid",
     "url": "https://www.forumcinemas.lv/eng/event/304575/title/the_housemaid/"
+  },
+  {
+    "title": "Kangaroo",
+    "url": "https://www.forumcinemas.lv/eng/event/304655/title/kangaroo/"
   },
   {
     "title": "Return to Silent Hill",
@@ -20,84 +24,60 @@
     "url": "https://www.forumcinemas.lv/eng/event/304649/title/fleak/"
   },
   {
-    "title": "Greenland 2: Migration",
-    "url": "https://www.forumcinemas.lv/eng/event/304647/title/greenland_2_migration/"
-  },
-  {
-    "title": "La Grazia",
-    "url": "https://www.forumcinemas.lv/eng/event/304650/title/la_grazia/"
-  },
-  {
-    "title": "Escape Net",
-    "url": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/"
-  },
-  {
-    "title": "Hamnet",
-    "url": "https://www.forumcinemas.lv/eng/event/304625/title/hamnet/"
-  },
-  {
-    "title": "Anaconda",
-    "url": "https://www.forumcinemas.lv/eng/event/304587/title/anaconda/"
-  },
-  {
-    "title": "Red Code Blue",
-    "url": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/"
-  },
-  {
-    "title": "Marty Supreme",
-    "url": "https://www.forumcinemas.lv/eng/event/304634/title/marty_supreme/"
-  },
-  {
-    "title": "28 Years Later: The Bone Temple",
-    "url": "https://www.forumcinemas.lv/eng/event/304623/title/28_years_later_the_bone_temple/"
-  },
-  {
-    "title": "Zootopia 2",
-    "url": "https://www.forumcinemas.lv/eng/event/304299/title/zootopia_2/"
-  },
-  {
-    "title": "Shelter",
-    "url": "https://www.forumcinemas.lv/eng/event/304656/title/shelter/"
-  },
-  {
-    "title": "Sentimental Value",
-    "url": "https://www.forumcinemas.lv/eng/event/304592/title/sentimental_value/"
-  },
-  {
-    "title": "NT LIVE: A Streetcar Named Desire",
-    "url": "https://www.forumcinemas.lv/eng/event/304373/title/nt_live_a_streetcar_named_desire/"
-  },
-  {
-    "title": "Iron Lung",
-    "url": "https://www.forumcinemas.lv/eng/event/304694/title/iron_lung/"
-  },
-  {
-    "title": "Send Help",
-    "url": "https://www.forumcinemas.lv/eng/event/304651/title/send_help/"
-  },
-  {
-    "title": "One Battle After Another",
-    "url": "https://www.forumcinemas.lv/eng/event/304397/title/one_battle_after_another/"
+    "title": "Avatar: Fire and Ash",
+    "url": "https://www.forumcinemas.lv/eng/event/304298/title/avatar_fire_and_ash/"
   },
   {
     "title": "Father Mother Sister Brother",
     "url": "https://www.forumcinemas.lv/eng/event/304635/title/father_mother_sister_brother/"
   },
   {
+    "title": "Hamnet",
+    "url": "https://www.forumcinemas.lv/eng/event/304625/title/hamnet/"
+  },
+  {
+    "title": "Send Help",
+    "url": "https://www.forumcinemas.lv/eng/event/304651/title/send_help/"
+  },
+  {
     "title": "Mercy",
     "url": "https://www.forumcinemas.lv/eng/event/304626/title/mercy/"
   },
   {
-    "title": "Kangaroo",
-    "url": "https://www.forumcinemas.lv/eng/event/304655/title/kangaroo/"
+    "title": "Marty Supreme",
+    "url": "https://www.forumcinemas.lv/eng/event/304634/title/marty_supreme/"
   },
   {
     "title": "Rental Family",
     "url": "https://www.forumcinemas.lv/eng/event/304652/title/rental_family/"
   },
   {
+    "title": "Zootopia 2",
+    "url": "https://www.forumcinemas.lv/eng/event/304299/title/zootopia_2/"
+  },
+  {
+    "title": "Anaconda",
+    "url": "https://www.forumcinemas.lv/eng/event/304587/title/anaconda/"
+  },
+  {
+    "title": "Shelter",
+    "url": "https://www.forumcinemas.lv/eng/event/304656/title/shelter/"
+  },
+  {
+    "title": "La Grazia",
+    "url": "https://www.forumcinemas.lv/eng/event/304650/title/la_grazia/"
+  },
+  {
+    "title": "Red Code Blue",
+    "url": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/"
+  },
+  {
     "title": "Madagascar (2005)",
     "url": "https://www.forumcinemas.lv/eng/event/304697/title/madagascar_2005/"
+  },
+  {
+    "title": "28 Years Later: The Bone Temple",
+    "url": "https://www.forumcinemas.lv/eng/event/304623/title/28_years_later_the_bone_temple/"
   },
   {
     "title": "Wicked: For Good",
@@ -108,12 +88,20 @@
     "url": "https://www.forumcinemas.lv/eng/event/304648/title/primate/"
   },
   {
+    "title": "Greenland 2: Migration",
+    "url": "https://www.forumcinemas.lv/eng/event/304647/title/greenland_2_migration/"
+  },
+  {
     "title": "North",
     "url": "https://www.forumcinemas.lv/eng/event/304640/title/north/"
   },
   {
     "title": "A Mouse Hunt for Christmas",
     "url": "https://www.forumcinemas.lv/eng/event/304601/title/a_mouse_hunt_for_christmas/"
+  },
+  {
+    "title": "Iron Lung",
+    "url": "https://www.forumcinemas.lv/eng/event/304694/title/iron_lung/"
   },
   {
     "title": "Nuremberg",
@@ -148,8 +136,8 @@
     "url": "https://www.forumcinemas.lv/eng/event/304658/title/cold_storage/"
   },
   {
-    "title": "2026 Winter Olympics | Opening Ceremony",
-    "url": "https://www.forumcinemas.lv/eng/event/304706/title/2026_winter_olympics_opening_ceremony/"
+    "title": "Winter Games | Opening Ceremony",
+    "url": "https://www.forumcinemas.lv/eng/event/304706/title/winter_games_opening_ceremony/"
   },
   {
     "title": "Private event",
@@ -178,6 +166,10 @@
   {
     "title": "Sinners",
     "url": "https://www.forumcinemas.lv/eng/event/304256/title/sinners/"
+  },
+  {
+    "title": "Sentimental Value",
+    "url": "https://www.forumcinemas.lv/eng/event/304592/title/sentimental_value/"
   },
   {
     "title": "Roman Holiday (1953)",
@@ -216,12 +208,12 @@
     "url": "https://www.forumcinemas.lv/eng/event/304671/title/crime_101/"
   },
   {
-    "title": "2026 Winter Olympics | Ice Hockey | Latvia - United States",
-    "url": "https://www.forumcinemas.lv/eng/event/304709/title/2026_winter_olympics_ice_hockey_latvia_-_united_states/"
+    "title": "Winter Games | Ice Hockey: Latvia - United States",
+    "url": "https://www.forumcinemas.lv/eng/event/304709/title/winter_games_ice_hockey_latvia_-_united_states/"
   },
   {
-    "title": "2026 Winter Olympics | Ice Hockey | Germany - Latvia",
-    "url": "https://www.forumcinemas.lv/eng/event/304710/title/2026_winter_olympics_ice_hockey_germany_-_latvia/"
+    "title": "Winter Games | Ice Hockey: Germany - Latvia",
+    "url": "https://www.forumcinemas.lv/eng/event/304710/title/winter_games_ice_hockey_germany_-_latvia/"
   },
   {
     "title": "La La Land (2016)",
@@ -240,8 +232,8 @@
     "url": "https://www.forumcinemas.lv/eng/event/303613/title/moulin_rouge_2001/"
   },
   {
-    "title": "2026 Winter Olympics | Ice Hockey | Denmark - Latvia",
-    "url": "https://www.forumcinemas.lv/eng/event/304711/title/2026_winter_olympics_ice_hockey_denmark_-_latvia/"
+    "title": "Winter Games | Ice Hockey: Denmark - Latvia",
+    "url": "https://www.forumcinemas.lv/eng/event/304711/title/winter_games_ice_hockey_denmark_-_latvia/"
   },
   {
     "title": "NT LIVE: Inter Alia",
@@ -260,8 +252,8 @@
     "url": "https://www.forumcinemas.lv/eng/event/304702/title/castle_in_the_sky_1986/"
   },
   {
-    "title": "2026 Winter Olympics | Ice Hockey | Gold medal game",
-    "url": "https://www.forumcinemas.lv/eng/event/304712/title/2026_winter_olympics_ice_hockey_gold_medal_game/"
+    "title": "Winter Games | Ice Hockey: Gold medal game",
+    "url": "https://www.forumcinemas.lv/eng/event/304712/title/winter_games_ice_hockey_gold_medal_game/"
   },
   {
     "title": "Scott Pilgrim Vs. The World (2010)",
@@ -294,6 +286,14 @@
   {
     "title": "The Wind Rises (2013)",
     "url": "https://www.forumcinemas.lv/eng/event/304703/title/the_wind_rises_2013/"
+  },
+  {
+    "title": "NT LIVE: A Streetcar Named Desire",
+    "url": "https://www.forumcinemas.lv/eng/event/304373/title/nt_live_a_streetcar_named_desire/"
+  },
+  {
+    "title": "ENHYPEN [WALK THE LINE SUMMER EDITION] IN CINEMAS",
+    "url": "https://www.forumcinemas.lv/eng/event/304704/title/enhypen_walk_the_line_summer_edition_in_cinemas/"
   },
   {
     "title": "Woolf Works | The Royal Ballet",

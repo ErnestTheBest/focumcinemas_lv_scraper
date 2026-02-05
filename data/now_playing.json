@@ -1,11 +1,11 @@
 [
   {
-    "title": "Escape Net",
-    "url": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/"
+    "title": "North",
+    "url": "https://www.forumcinemas.lv/eng/event/304640/title/north/"
   },
   {
-    "title": "The SpongeBob Movie: Search For SquarePants",
-    "url": "https://www.forumcinemas.lv/eng/event/304608/title/the_spongebob_movie_search_for_squarepants/"
+    "title": "Father Mother Sister Brother",
+    "url": "https://www.forumcinemas.lv/eng/event/304635/title/father_mother_sister_brother/"
   },
   {
     "title": "The Housemaid",
@@ -28,76 +28,48 @@
     "url": "https://www.forumcinemas.lv/eng/event/304298/title/avatar_fire_and_ash/"
   },
   {
-    "title": "Father Mother Sister Brother",
-    "url": "https://www.forumcinemas.lv/eng/event/304635/title/father_mother_sister_brother/"
+    "title": "Escape Net",
+    "url": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/"
   },
   {
     "title": "Hamnet",
     "url": "https://www.forumcinemas.lv/eng/event/304625/title/hamnet/"
   },
   {
-    "title": "Send Help",
-    "url": "https://www.forumcinemas.lv/eng/event/304651/title/send_help/"
-  },
-  {
-    "title": "Mercy",
-    "url": "https://www.forumcinemas.lv/eng/event/304626/title/mercy/"
-  },
-  {
-    "title": "Marty Supreme",
-    "url": "https://www.forumcinemas.lv/eng/event/304634/title/marty_supreme/"
-  },
-  {
-    "title": "Rental Family",
-    "url": "https://www.forumcinemas.lv/eng/event/304652/title/rental_family/"
-  },
-  {
     "title": "Zootopia 2",
     "url": "https://www.forumcinemas.lv/eng/event/304299/title/zootopia_2/"
-  },
-  {
-    "title": "Anaconda",
-    "url": "https://www.forumcinemas.lv/eng/event/304587/title/anaconda/"
   },
   {
     "title": "Shelter",
     "url": "https://www.forumcinemas.lv/eng/event/304656/title/shelter/"
   },
   {
+    "title": "Marty Supreme",
+    "url": "https://www.forumcinemas.lv/eng/event/304634/title/marty_supreme/"
+  },
+  {
+    "title": "A Mouse Hunt for Christmas",
+    "url": "https://www.forumcinemas.lv/eng/event/304601/title/a_mouse_hunt_for_christmas/"
+  },
+  {
+    "title": "Send Help",
+    "url": "https://www.forumcinemas.lv/eng/event/304651/title/send_help/"
+  },
+  {
     "title": "La Grazia",
     "url": "https://www.forumcinemas.lv/eng/event/304650/title/la_grazia/"
   },
   {
-    "title": "Red Code Blue",
-    "url": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/"
-  },
-  {
-    "title": "Madagascar (2005)",
-    "url": "https://www.forumcinemas.lv/eng/event/304697/title/madagascar_2005/"
+    "title": "Anaconda",
+    "url": "https://www.forumcinemas.lv/eng/event/304587/title/anaconda/"
   },
   {
     "title": "28 Years Later: The Bone Temple",
     "url": "https://www.forumcinemas.lv/eng/event/304623/title/28_years_later_the_bone_temple/"
   },
   {
-    "title": "Wicked: For Good",
-    "url": "https://www.forumcinemas.lv/eng/event/304295/title/wicked_for_good/"
-  },
-  {
-    "title": "Primate",
-    "url": "https://www.forumcinemas.lv/eng/event/304648/title/primate/"
-  },
-  {
-    "title": "Greenland 2: Migration",
-    "url": "https://www.forumcinemas.lv/eng/event/304647/title/greenland_2_migration/"
-  },
-  {
-    "title": "North",
-    "url": "https://www.forumcinemas.lv/eng/event/304640/title/north/"
-  },
-  {
-    "title": "A Mouse Hunt for Christmas",
-    "url": "https://www.forumcinemas.lv/eng/event/304601/title/a_mouse_hunt_for_christmas/"
+    "title": "Red Code Blue",
+    "url": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/"
   },
   {
     "title": "Iron Lung",
@@ -108,8 +80,16 @@
     "url": "https://www.forumcinemas.lv/eng/event/304604/title/nuremberg/"
   },
   {
+    "title": "Mercy",
+    "url": "https://www.forumcinemas.lv/eng/event/304626/title/mercy/"
+  },
+  {
     "title": "Charlie the Wonderdog",
     "url": "https://www.forumcinemas.lv/eng/event/304668/title/charlie_the_wonderdog/"
+  },
+  {
+    "title": "Rental Family",
+    "url": "https://www.forumcinemas.lv/eng/event/304652/title/rental_family/"
   },
   {
     "title": "No Other Choice",
@@ -140,8 +120,16 @@
     "url": "https://www.forumcinemas.lv/eng/event/304706/title/winter_games_opening_ceremony/"
   },
   {
+    "title": "The SpongeBob Movie: Search For SquarePants",
+    "url": "https://www.forumcinemas.lv/eng/event/304608/title/the_spongebob_movie_search_for_squarepants/"
+  },
+  {
     "title": "Private event",
     "url": "https://www.forumcinemas.lv/eng/event/303398/title/private_event/"
+  },
+  {
+    "title": "Madagascar (2005)",
+    "url": "https://www.forumcinemas.lv/eng/event/304697/title/madagascar_2005/"
   },
   {
     "title": "When Harry Met Sally (1989)",
@@ -182,6 +170,10 @@
   {
     "title": "Fifty Shades of Grey (2015)",
     "url": "https://www.forumcinemas.lv/eng/event/301155/title/fifty_shades_of_grey_2015/"
+  },
+  {
+    "title": "Greenland 2: Migration",
+    "url": "https://www.forumcinemas.lv/eng/event/304647/title/greenland_2_migration/"
   },
   {
     "title": "Nine 1/2 Weeks (1986)",

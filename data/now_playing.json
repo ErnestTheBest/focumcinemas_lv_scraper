@@ -1,95 +1,35 @@
 [
   {
-    "title": "North",
-    "url": "https://www.forumcinemas.lv/eng/event/304640/title/north/"
-  },
-  {
-    "title": "Father Mother Sister Brother",
-    "url": "https://www.forumcinemas.lv/eng/event/304635/title/father_mother_sister_brother/"
-  },
-  {
-    "title": "The Housemaid",
-    "url": "https://www.forumcinemas.lv/eng/event/304575/title/the_housemaid/"
-  },
-  {
-    "title": "Kangaroo",
-    "url": "https://www.forumcinemas.lv/eng/event/304655/title/kangaroo/"
-  },
-  {
-    "title": "Return to Silent Hill",
-    "url": "https://www.forumcinemas.lv/eng/event/304631/title/return_to_silent_hill/"
-  },
-  {
-    "title": "Fleak",
-    "url": "https://www.forumcinemas.lv/eng/event/304649/title/fleak/"
-  },
-  {
-    "title": "Avatar: Fire and Ash",
-    "url": "https://www.forumcinemas.lv/eng/event/304298/title/avatar_fire_and_ash/"
-  },
-  {
-    "title": "Escape Net",
-    "url": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/"
-  },
-  {
-    "title": "Hamnet",
-    "url": "https://www.forumcinemas.lv/eng/event/304625/title/hamnet/"
-  },
-  {
-    "title": "Zootopia 2",
-    "url": "https://www.forumcinemas.lv/eng/event/304299/title/zootopia_2/"
-  },
-  {
-    "title": "Shelter",
-    "url": "https://www.forumcinemas.lv/eng/event/304656/title/shelter/"
-  },
-  {
-    "title": "Marty Supreme",
-    "url": "https://www.forumcinemas.lv/eng/event/304634/title/marty_supreme/"
-  },
-  {
-    "title": "A Mouse Hunt for Christmas",
-    "url": "https://www.forumcinemas.lv/eng/event/304601/title/a_mouse_hunt_for_christmas/"
-  },
-  {
-    "title": "Send Help",
-    "url": "https://www.forumcinemas.lv/eng/event/304651/title/send_help/"
-  },
-  {
-    "title": "La Grazia",
-    "url": "https://www.forumcinemas.lv/eng/event/304650/title/la_grazia/"
-  },
-  {
-    "title": "Anaconda",
-    "url": "https://www.forumcinemas.lv/eng/event/304587/title/anaconda/"
-  },
-  {
-    "title": "28 Years Later: The Bone Temple",
-    "url": "https://www.forumcinemas.lv/eng/event/304623/title/28_years_later_the_bone_temple/"
-  },
-  {
-    "title": "Red Code Blue",
-    "url": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/"
-  },
-  {
-    "title": "Iron Lung",
-    "url": "https://www.forumcinemas.lv/eng/event/304694/title/iron_lung/"
-  },
-  {
-    "title": "Nuremberg",
-    "url": "https://www.forumcinemas.lv/eng/event/304604/title/nuremberg/"
-  },
-  {
-    "title": "Mercy",
-    "url": "https://www.forumcinemas.lv/eng/event/304626/title/mercy/"
-  },
-  {
     "title": "Charlie the Wonderdog",
     "url": "https://www.forumcinemas.lv/eng/event/304668/title/charlie_the_wonderdog/"
   },
   {
     "title": "Rental Family",
     "url": "https://www.forumcinemas.lv/eng/event/304652/title/rental_family/"
+  },
+  {
+    "title": "North",
+    "url": "https://www.forumcinemas.lv/eng/event/304640/title/north/"
+  },
+  {
+    "title": "Marty Supreme",
+    "url": "https://www.forumcinemas.lv/eng/event/304634/title/marty_supreme/"
+  },
+  {
+    "title": "Hamnet",
+    "url": "https://www.forumcinemas.lv/eng/event/304625/title/hamnet/"
+  },
+  {
+    "title": "Mercy",
+    "url": "https://www.forumcinemas.lv/eng/event/304626/title/mercy/"
+  },
+  {
+    "title": "Father Mother Sister Brother",
+    "url": "https://www.forumcinemas.lv/eng/event/304635/title/father_mother_sister_brother/"
+  },
+  {
+    "title": "Avatar: Fire and Ash",
+    "url": "https://www.forumcinemas.lv/eng/event/304298/title/avatar_fire_and_ash/"
   },
   {
     "title": "No Other Choice",
@@ -100,12 +40,36 @@
     "url": "https://www.forumcinemas.lv/eng/event/304659/title/is_this_thing_on/"
   },
   {
+    "title": "The Housemaid",
+    "url": "https://www.forumcinemas.lv/eng/event/304575/title/the_housemaid/"
+  },
+  {
+    "title": "Zootopia 2",
+    "url": "https://www.forumcinemas.lv/eng/event/304299/title/zootopia_2/"
+  },
+  {
     "title": "The Wizard of the Kremlin",
     "url": "https://www.forumcinemas.lv/eng/event/304669/title/the_wizard_of_the_kremlin/"
   },
   {
+    "title": "Send Help",
+    "url": "https://www.forumcinemas.lv/eng/event/304651/title/send_help/"
+  },
+  {
+    "title": "Escape Net",
+    "url": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/"
+  },
+  {
+    "title": "Return to Silent Hill",
+    "url": "https://www.forumcinemas.lv/eng/event/304631/title/return_to_silent_hill/"
+  },
+  {
     "title": "PRUSAX Shows a Movie | Scott Pilgrim vs. the World (2010)",
     "url": "https://www.forumcinemas.lv/eng/event/304682/title/prusax_shows_a_movie_scott_pilgrim_vs_the_world_2010/"
+  },
+  {
+    "title": "Shelter",
+    "url": "https://www.forumcinemas.lv/eng/event/304656/title/shelter/"
   },
   {
     "title": "Stray Kids: The dominATE Experience",
@@ -116,12 +80,28 @@
     "url": "https://www.forumcinemas.lv/eng/event/304658/title/cold_storage/"
   },
   {
+    "title": "Red Code Blue",
+    "url": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/"
+  },
+  {
     "title": "Winter Games | Opening Ceremony",
     "url": "https://www.forumcinemas.lv/eng/event/304706/title/winter_games_opening_ceremony/"
   },
   {
     "title": "The SpongeBob Movie: Search For SquarePants",
     "url": "https://www.forumcinemas.lv/eng/event/304608/title/the_spongebob_movie_search_for_squarepants/"
+  },
+  {
+    "title": "Fleak",
+    "url": "https://www.forumcinemas.lv/eng/event/304649/title/fleak/"
+  },
+  {
+    "title": "Kangaroo",
+    "url": "https://www.forumcinemas.lv/eng/event/304655/title/kangaroo/"
+  },
+  {
+    "title": "Anaconda",
+    "url": "https://www.forumcinemas.lv/eng/event/304587/title/anaconda/"
   },
   {
     "title": "Private event",
@@ -132,8 +112,16 @@
     "url": "https://www.forumcinemas.lv/eng/event/304697/title/madagascar_2005/"
   },
   {
+    "title": "Iron Lung",
+    "url": "https://www.forumcinemas.lv/eng/event/304694/title/iron_lung/"
+  },
+  {
     "title": "When Harry Met Sally (1989)",
     "url": "https://www.forumcinemas.lv/eng/event/304698/title/when_harry_met_sally_1989/"
+  },
+  {
+    "title": "La Grazia",
+    "url": "https://www.forumcinemas.lv/eng/event/304650/title/la_grazia/"
   },
   {
     "title": "Ponyo (2008)",
@@ -154,6 +142,14 @@
   {
     "title": "Sinners",
     "url": "https://www.forumcinemas.lv/eng/event/304256/title/sinners/"
+  },
+  {
+    "title": "28 Years Later: The Bone Temple",
+    "url": "https://www.forumcinemas.lv/eng/event/304623/title/28_years_later_the_bone_temple/"
+  },
+  {
+    "title": "Nuremberg",
+    "url": "https://www.forumcinemas.lv/eng/event/304604/title/nuremberg/"
   },
   {
     "title": "Sentimental Value",

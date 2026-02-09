@@ -1,5 +1,14 @@
 [
   {
+    "title": "Kangaroo",
+    "releaseYear": 2025,
+    "genres": "Comedy, Family",
+    "imdbId": "tt20204886",
+    "imdbUrl": "https://www.imdb.com/title/tt20204886/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304655/title/kangaroo/",
+    "imdbRating": 6.5
+  },
+  {
     "title": "The Housemaid",
     "releaseYear": 2025,
     "genres": "Drama, Mystery, Thriller",
@@ -18,22 +27,13 @@
     "imdbRating": 7.4
   },
   {
-    "title": "Anaconda",
-    "releaseYear": 2025,
-    "genres": "Action, Adventure, Comedy",
-    "imdbId": "tt33244668",
-    "imdbUrl": "https://www.imdb.com/title/tt33244668/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304587/title/anaconda/",
-    "imdbRating": 5.7
-  },
-  {
-    "title": "The SpongeBob Movie: Search For SquarePants",
-    "releaseYear": 2025,
+    "title": "Fleak",
+    "releaseYear": 2026,
     "genres": "Animation, Adventure, Comedy",
-    "imdbId": "tt23572848",
-    "imdbUrl": "https://www.imdb.com/title/tt23572848/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304608/title/the_spongebob_movie_search_for_squarepants/",
-    "imdbRating": 5.7
+    "imdbId": "tt14813764",
+    "imdbUrl": "https://www.imdb.com/title/tt14813764/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304649/title/fleak/",
+    "imdbRating": 7
   },
   {
     "title": "Hamnet",
@@ -45,49 +45,22 @@
     "imdbRating": 8
   },
   {
+    "title": "Return to Silent Hill",
+    "releaseYear": 2026,
+    "genres": "Drama, Horror, Mystery",
+    "imdbId": "tt22868010",
+    "imdbUrl": "https://www.imdb.com/title/tt22868010/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304631/title/return_to_silent_hill/",
+    "imdbRating": 4.2
+  },
+  {
     "title": "The Wizard of the Kremlin",
     "releaseYear": 2026,
     "genres": "Drama, History, Thriller",
     "imdbId": "tt32386654",
     "imdbUrl": "https://www.imdb.com/title/tt32386654/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304669/title/the_wizard_of_the_kremlin/",
-    "imdbRating": 6
-  },
-  {
-    "title": "Charlie the Wonderdog",
-    "releaseYear": 2026,
-    "genres": "Animation, Comedy, Family",
-    "imdbId": "tt29612071",
-    "imdbUrl": "https://www.imdb.com/title/tt29612071/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304668/title/charlie_the_wonderdog/",
-    "imdbRating": 5.4
-  },
-  {
-    "title": "La Grazia",
-    "releaseYear": 2025,
-    "genres": "Drama",
-    "imdbId": "tt34886821",
-    "imdbUrl": "https://www.imdb.com/title/tt34886821/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304650/title/la_grazia/",
-    "imdbRating": 7.4
-  },
-  {
-    "title": "Zootopia 2",
-    "releaseYear": 2025,
-    "genres": "Animation, Action, Adventure",
-    "imdbId": "tt26443597",
-    "imdbUrl": "https://www.imdb.com/title/tt26443597/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304299/title/zootopia_2/",
-    "imdbRating": 7.5
-  },
-  {
-    "title": "Is This Thing On?",
-    "releaseYear": 2025,
-    "genres": "Comedy, Drama",
-    "imdbId": "tt28083456",
-    "imdbUrl": "https://www.imdb.com/title/tt28083456/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304659/title/is_this_thing_on/",
-    "imdbRating": 7.1
+    "imdbRating": 6.1
   },
   {
     "title": "Escape Net",
@@ -99,6 +72,33 @@
     "imdbRating": 8.4
   },
   {
+    "title": "Anaconda",
+    "releaseYear": 2025,
+    "genres": "Action, Adventure, Comedy",
+    "imdbId": "tt33244668",
+    "imdbUrl": "https://www.imdb.com/title/tt33244668/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304587/title/anaconda/",
+    "imdbRating": 5.7
+  },
+  {
+    "title": "Is This Thing On?",
+    "releaseYear": 2025,
+    "genres": "Comedy, Drama",
+    "imdbId": "tt28083456",
+    "imdbUrl": "https://www.imdb.com/title/tt28083456/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304659/title/is_this_thing_on/",
+    "imdbRating": 7.1
+  },
+  {
+    "title": "Charlie the Wonderdog",
+    "releaseYear": 2026,
+    "genres": "Animation, Comedy, Family",
+    "imdbId": "tt29612071",
+    "imdbUrl": "https://www.imdb.com/title/tt29612071/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304668/title/charlie_the_wonderdog/",
+    "imdbRating": 5.4
+  },
+  {
     "title": "Marty Supreme",
     "releaseYear": 2025,
     "genres": "Drama, Sport",
@@ -106,141 +106,6 @@
     "imdbUrl": "https://www.imdb.com/title/tt32916440/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304634/title/marty_supreme/",
     "imdbRating": 8.1
-  },
-  {
-    "title": "Kangaroo",
-    "releaseYear": 2025,
-    "genres": "Comedy, Family",
-    "imdbId": "tt20204886",
-    "imdbUrl": "https://www.imdb.com/title/tt20204886/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304655/title/kangaroo/",
-    "imdbRating": 6.5
-  },
-  {
-    "title": "Father Mother Sister Brother",
-    "releaseYear": 2025,
-    "genres": "Comedy, Drama",
-    "imdbId": "tt31189315",
-    "imdbUrl": "https://www.imdb.com/title/tt31189315/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304635/title/father_mother_sister_brother/",
-    "imdbRating": 6.7
-  },
-  {
-    "title": "Cold Storage",
-    "releaseYear": 2026,
-    "genres": "Comedy, Horror, Sci-Fi",
-    "imdbId": "tt8879928",
-    "imdbUrl": "https://www.imdb.com/title/tt8879928/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304658/title/cold_storage/",
-    "imdbRating": 6.2
-  },
-  {
-    "title": "Return to Silent Hill",
-    "releaseYear": 2026,
-    "genres": "Drama, Horror, Mystery",
-    "imdbId": "tt22868010",
-    "imdbUrl": "https://www.imdb.com/title/tt22868010/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304631/title/return_to_silent_hill/",
-    "imdbRating": 4.2
-  },
-  {
-    "title": "Shelter",
-    "releaseYear": 2026,
-    "genres": "Action, Thriller",
-    "imdbId": "tt32357218",
-    "imdbUrl": "https://www.imdb.com/title/tt32357218/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304656/title/shelter/",
-    "imdbRating": 6.5
-  },
-  {
-    "title": "Red Code Blue",
-    "releaseYear": 2025,
-    "genres": "Action, Crime, Drama",
-    "imdbId": "tt38573816",
-    "imdbUrl": "https://www.imdb.com/title/tt38573816/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/",
-    "imdbRating": 8.5
-  },
-  {
-    "title": "Ponyo (2008)",
-    "releaseYear": 2009,
-    "genres": "Animation, Adventure, Comedy",
-    "imdbId": "tt0876563",
-    "imdbUrl": "https://www.imdb.com/title/tt0876563/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304701/title/ponyo_2008/",
-    "imdbRating": 7.6
-  },
-  {
-    "title": "Groundhog Day (1993)",
-    "releaseYear": 1993,
-    "genres": "Comedy, Drama, Fantasy",
-    "imdbId": "tt0107048",
-    "imdbUrl": "https://www.imdb.com/title/tt0107048/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/302061/title/groundhog_day_1993/",
-    "imdbRating": 8
-  },
-  {
-    "title": "The Love That Remains",
-    "releaseYear": 2026,
-    "genres": "Comedy, Drama, Family",
-    "imdbId": "tt33381401",
-    "imdbUrl": "https://www.imdb.com/title/tt33381401/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304558/title/the_love_that_remains/",
-    "imdbRating": 6.9
-  },
-  {
-    "title": "Iron Lung",
-    "releaseYear": 2026,
-    "genres": "Horror, Sci-Fi",
-    "imdbId": "tt27564844",
-    "imdbUrl": "https://www.imdb.com/title/tt27564844/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304694/title/iron_lung/",
-    "imdbRating": 6.6
-  },
-  {
-    "title": "Dog of God",
-    "releaseYear": 2025,
-    "genres": "Animation, Comedy, Fantasy",
-    "imdbId": "tt33738802",
-    "imdbUrl": "https://www.imdb.com/title/tt33738802/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304497/title/dog_of_god/",
-    "imdbRating": 6.6
-  },
-  {
-    "title": "Send Help",
-    "releaseYear": 2026,
-    "genres": "Adventure, Horror, Thriller",
-    "imdbId": "tt8036976",
-    "imdbUrl": "https://www.imdb.com/title/tt8036976/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304651/title/send_help/",
-    "imdbRating": 7.2
-  },
-  {
-    "title": "No Other Choice",
-    "releaseYear": 2026,
-    "genres": "Comedy, Crime, Drama",
-    "imdbId": "tt1527793",
-    "imdbUrl": "https://www.imdb.com/title/tt1527793/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304670/title/no_other_choice/",
-    "imdbRating": 7.6
-  },
-  {
-    "title": "Mercy",
-    "releaseYear": 2026,
-    "genres": "Action, Crime, Drama",
-    "imdbId": "tt31050594",
-    "imdbUrl": "https://www.imdb.com/title/tt31050594/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304626/title/mercy/",
-    "imdbRating": 6.2
-  },
-  {
-    "title": "Fleak",
-    "releaseYear": 2026,
-    "genres": "Animation, Adventure, Comedy",
-    "imdbId": "tt14813764",
-    "imdbUrl": "https://www.imdb.com/title/tt14813764/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304649/title/fleak/",
-    "imdbRating": 7
   },
   {
     "title": "Rental Family",
@@ -252,6 +117,60 @@
     "imdbRating": 7.6
   },
   {
+    "title": "Zootopia 2",
+    "releaseYear": 2025,
+    "genres": "Animation, Action, Adventure",
+    "imdbId": "tt26443597",
+    "imdbUrl": "https://www.imdb.com/title/tt26443597/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304299/title/zootopia_2/",
+    "imdbRating": 7.5
+  },
+  {
+    "title": "Send Help",
+    "releaseYear": 2026,
+    "genres": "Adventure, Horror, Thriller",
+    "imdbId": "tt8036976",
+    "imdbUrl": "https://www.imdb.com/title/tt8036976/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304651/title/send_help/",
+    "imdbRating": 7.2
+  },
+  {
+    "title": "Mercy",
+    "releaseYear": 2026,
+    "genres": "Action, Crime, Drama",
+    "imdbId": "tt31050594",
+    "imdbUrl": "https://www.imdb.com/title/tt31050594/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304626/title/mercy/",
+    "imdbRating": 6.2
+  },
+  {
+    "title": "Cold Storage",
+    "releaseYear": 2026,
+    "genres": "Comedy, Horror, Sci-Fi",
+    "imdbId": "tt8879928",
+    "imdbUrl": "https://www.imdb.com/title/tt8879928/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304658/title/cold_storage/",
+    "imdbRating": 6.2
+  },
+  {
+    "title": "Father Mother Sister Brother",
+    "releaseYear": 2025,
+    "genres": "Comedy, Drama",
+    "imdbId": "tt31189315",
+    "imdbUrl": "https://www.imdb.com/title/tt31189315/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304635/title/father_mother_sister_brother/",
+    "imdbRating": 6.7
+  },
+  {
+    "title": "Red Code Blue",
+    "releaseYear": 2025,
+    "genres": "Action, Crime, Drama",
+    "imdbId": "tt38573816",
+    "imdbUrl": "https://www.imdb.com/title/tt38573816/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/",
+    "imdbRating": 8.5
+  },
+  {
     "title": "Sinners",
     "releaseYear": 2025,
     "genres": "Action, Drama, Horror",
@@ -259,6 +178,24 @@
     "imdbUrl": "https://www.imdb.com/title/tt31193180/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304256/title/sinners/",
     "imdbRating": 7.5
+  },
+  {
+    "title": "Shelter",
+    "releaseYear": 2026,
+    "genres": "Action, Thriller",
+    "imdbId": "tt32357218",
+    "imdbUrl": "https://www.imdb.com/title/tt32357218/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304656/title/shelter/",
+    "imdbRating": 6.5
+  },
+  {
+    "title": "No Other Choice",
+    "releaseYear": 2026,
+    "genres": "Comedy, Crime, Drama",
+    "imdbId": "tt1527793",
+    "imdbUrl": "https://www.imdb.com/title/tt1527793/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304670/title/no_other_choice/",
+    "imdbRating": 7.6
   },
   {
     "title": "28 Years Later: The Bone Temple",
@@ -297,6 +234,15 @@
     "imdbRating": 8
   },
   {
+    "title": "The Love That Remains",
+    "releaseYear": 2026,
+    "genres": "Comedy, Drama, Family",
+    "imdbId": "tt33381401",
+    "imdbUrl": "https://www.imdb.com/title/tt33381401/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304558/title/the_love_that_remains/",
+    "imdbRating": 6.9
+  },
+  {
     "title": "Fifty Shades of Grey (2015)",
     "releaseYear": 2015,
     "genres": "Drama, Romance, Thriller",
@@ -306,6 +252,15 @@
     "imdbRating": 4.2
   },
   {
+    "title": "Iron Lung",
+    "releaseYear": 2026,
+    "genres": "Horror, Sci-Fi",
+    "imdbId": "tt27564844",
+    "imdbUrl": "https://www.imdb.com/title/tt27564844/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304694/title/iron_lung/",
+    "imdbRating": 6.6
+  },
+  {
     "title": "Greenland 2: Migration",
     "releaseYear": 2026,
     "genres": "Action, Adventure, Sci-Fi",
@@ -313,6 +268,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt14850054/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304647/title/greenland_2_migration/",
     "imdbRating": 5.3
+  },
+  {
+    "title": "La Grazia",
+    "releaseYear": 2025,
+    "genres": "Drama",
+    "imdbId": "tt34886821",
+    "imdbUrl": "https://www.imdb.com/title/tt34886821/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304650/title/la_grazia/",
+    "imdbRating": 7.4
   },
   {
     "title": "Nine 1/2 Weeks (1986)",
@@ -396,6 +360,33 @@
     "imdbRating": 7.5
   },
   {
+    "title": "Ponyo (2008)",
+    "releaseYear": 2009,
+    "genres": "Animation, Adventure, Comedy",
+    "imdbId": "tt0876563",
+    "imdbUrl": "https://www.imdb.com/title/tt0876563/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304701/title/ponyo_2008/",
+    "imdbRating": 7.6
+  },
+  {
+    "title": "Dog of God",
+    "releaseYear": 2025,
+    "genres": "Animation, Comedy, Fantasy",
+    "imdbId": "tt33738802",
+    "imdbUrl": "https://www.imdb.com/title/tt33738802/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304497/title/dog_of_god/",
+    "imdbRating": 6.6
+  },
+  {
+    "title": "Groundhog Day (1993)",
+    "releaseYear": 1993,
+    "genres": "Comedy, Drama, Fantasy",
+    "imdbId": "tt0107048",
+    "imdbUrl": "https://www.imdb.com/title/tt0107048/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/302061/title/groundhog_day_1993/",
+    "imdbRating": 8
+  },
+  {
     "title": "Rēcīgie komentāri: Fifty Shades of Grey (2015)",
     "releaseYear": 2015,
     "genres": "Drama, Romance, Thriller",
@@ -430,6 +421,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt35727399/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304601/title/a_mouse_hunt_for_christmas/",
     "imdbRating": 6.2
+  },
+  {
+    "title": "The SpongeBob Movie: Search For SquarePants",
+    "releaseYear": 2025,
+    "genres": "Animation, Adventure, Comedy",
+    "imdbId": "tt23572848",
+    "imdbUrl": "https://www.imdb.com/title/tt23572848/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304608/title/the_spongebob_movie_search_for_squarepants/",
+    "imdbRating": 5.7
   },
   {
     "title": "North",

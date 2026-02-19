@@ -1,91 +1,7 @@
 [
   {
-    "title": "Zootopia 2",
-    "url": "https://www.forumcinemas.lv/eng/event/304299/title/zootopia_2/"
-  },
-  {
-    "title": "Wuthering Heights",
-    "url": "https://www.forumcinemas.lv/eng/event/304594/title/wuthering_heights/"
-  },
-  {
-    "title": "Perfect Strangers",
-    "url": "https://www.forumcinemas.lv/eng/event/304657/title/perfect_strangers/"
-  },
-  {
-    "title": "The Housemaid",
-    "url": "https://www.forumcinemas.lv/eng/event/304575/title/the_housemaid/"
-  },
-  {
     "title": "Momo",
     "url": "https://www.forumcinemas.lv/eng/event/304672/title/momo/"
-  },
-  {
-    "title": "Red Code Blue",
-    "url": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/"
-  },
-  {
-    "title": "Hamnet",
-    "url": "https://www.forumcinemas.lv/eng/event/304625/title/hamnet/"
-  },
-  {
-    "title": "Kangaroo",
-    "url": "https://www.forumcinemas.lv/eng/event/304655/title/kangaroo/"
-  },
-  {
-    "title": "Crime 101",
-    "url": "https://www.forumcinemas.lv/eng/event/304671/title/crime_101/"
-  },
-  {
-    "title": "Is This Thing On?",
-    "url": "https://www.forumcinemas.lv/eng/event/304659/title/is_this_thing_on/"
-  },
-  {
-    "title": "Marty Supreme",
-    "url": "https://www.forumcinemas.lv/eng/event/304634/title/marty_supreme/"
-  },
-  {
-    "title": "Avatar: Fire and Ash",
-    "url": "https://www.forumcinemas.lv/eng/event/304298/title/avatar_fire_and_ash/"
-  },
-  {
-    "title": "Shelter",
-    "url": "https://www.forumcinemas.lv/eng/event/304656/title/shelter/"
-  },
-  {
-    "title": "Groundhog Day (1993)",
-    "url": "https://www.forumcinemas.lv/eng/event/302061/title/groundhog_day_1993/"
-  },
-  {
-    "title": "Escape Net",
-    "url": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/"
-  },
-  {
-    "title": "Send Help",
-    "url": "https://www.forumcinemas.lv/eng/event/304651/title/send_help/"
-  },
-  {
-    "title": "La La Land (2016)",
-    "url": "https://www.forumcinemas.lv/eng/event/302012/title/la_la_land_2016/"
-  },
-  {
-    "title": "Iron Lung",
-    "url": "https://www.forumcinemas.lv/eng/event/304694/title/iron_lung/"
-  },
-  {
-    "title": "Sentimental Value",
-    "url": "https://www.forumcinemas.lv/eng/event/304592/title/sentimental_value/"
-  },
-  {
-    "title": "The Wizard of the Kremlin",
-    "url": "https://www.forumcinemas.lv/eng/event/304669/title/the_wizard_of_the_kremlin/"
-  },
-  {
-    "title": "Cold Storage",
-    "url": "https://www.forumcinemas.lv/eng/event/304658/title/cold_storage/"
-  },
-  {
-    "title": "Return to Silent Hill",
-    "url": "https://www.forumcinemas.lv/eng/event/304631/title/return_to_silent_hill/"
   },
   {
     "title": "Father Mother Sister Brother",
@@ -96,12 +12,64 @@
     "url": "https://www.forumcinemas.lv/eng/event/304670/title/no_other_choice/"
   },
   {
+    "title": "The Housemaid",
+    "url": "https://www.forumcinemas.lv/eng/event/304575/title/the_housemaid/"
+  },
+  {
+    "title": "Hamnet",
+    "url": "https://www.forumcinemas.lv/eng/event/304625/title/hamnet/"
+  },
+  {
     "title": "La Grazia",
     "url": "https://www.forumcinemas.lv/eng/event/304650/title/la_grazia/"
   },
   {
+    "title": "Perfect Strangers",
+    "url": "https://www.forumcinemas.lv/eng/event/304657/title/perfect_strangers/"
+  },
+  {
+    "title": "Kangaroo",
+    "url": "https://www.forumcinemas.lv/eng/event/304655/title/kangaroo/"
+  },
+  {
+    "title": "Avatar: Fire and Ash",
+    "url": "https://www.forumcinemas.lv/eng/event/304298/title/avatar_fire_and_ash/"
+  },
+  {
+    "title": "Is This Thing On?",
+    "url": "https://www.forumcinemas.lv/eng/event/304659/title/is_this_thing_on/"
+  },
+  {
+    "title": "Wuthering Heights",
+    "url": "https://www.forumcinemas.lv/eng/event/304594/title/wuthering_heights/"
+  },
+  {
+    "title": "Crime 101",
+    "url": "https://www.forumcinemas.lv/eng/event/304671/title/crime_101/"
+  },
+  {
+    "title": "Marty Supreme",
+    "url": "https://www.forumcinemas.lv/eng/event/304634/title/marty_supreme/"
+  },
+  {
+    "title": "Zootopia 2",
+    "url": "https://www.forumcinemas.lv/eng/event/304299/title/zootopia_2/"
+  },
+  {
     "title": "28 Years Later: The Bone Temple",
     "url": "https://www.forumcinemas.lv/eng/event/304623/title/28_years_later_the_bone_temple/"
+  },
+  {
+    "title": "Escape Net",
+    "url": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/"
+  },
+  {
+    "title": "The Wizard of the Kremlin",
+    "url": "https://www.forumcinemas.lv/eng/event/304669/title/the_wizard_of_the_kremlin/"
+  },
+  {
+    "title": "Return to Silent Hill",
+    "url": "https://www.forumcinemas.lv/eng/event/304631/title/return_to_silent_hill/"
   },
   {
     "title": "Mercy",
@@ -114,6 +82,22 @@
   {
     "title": "Rēcīgie komentāri: Fifty Shades of Grey (2015)",
     "url": "https://www.forumcinemas.lv/eng/event/304687/title/r%C4%93c%C4%ABgie_koment%C4%81ri_fifty_shades_of_grey_2015/"
+  },
+  {
+    "title": "Iron Lung",
+    "url": "https://www.forumcinemas.lv/eng/event/304694/title/iron_lung/"
+  },
+  {
+    "title": "Red Code Blue",
+    "url": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/"
+  },
+  {
+    "title": "Shelter",
+    "url": "https://www.forumcinemas.lv/eng/event/304656/title/shelter/"
+  },
+  {
+    "title": "Cold Storage",
+    "url": "https://www.forumcinemas.lv/eng/event/304658/title/cold_storage/"
   },
   {
     "title": "GOAT",
@@ -164,6 +148,10 @@
     "url": "https://www.forumcinemas.lv/eng/event/304699/title/nine_12_weeks_1986/"
   },
   {
+    "title": "Send Help",
+    "url": "https://www.forumcinemas.lv/eng/event/304651/title/send_help/"
+  },
+  {
     "title": "A Mouse Hunt for Christmas",
     "url": "https://www.forumcinemas.lv/eng/event/304601/title/a_mouse_hunt_for_christmas/"
   },
@@ -212,6 +200,10 @@
     "url": "https://www.forumcinemas.lv/eng/event/304680/title/couture/"
   },
   {
+    "title": "Sentimental Value",
+    "url": "https://www.forumcinemas.lv/eng/event/304592/title/sentimental_value/"
+  },
+  {
     "title": "Twenty One Pilots: More Than We Ever Imagined",
     "url": "https://www.forumcinemas.lv/eng/event/304663/title/twenty_one_pilots_more_than_we_ever_imagined/"
   },
@@ -256,16 +248,32 @@
     "url": "https://www.forumcinemas.lv/eng/event/304704/title/enhypen_walk_the_line_summer_edition_in_cinemas/"
   },
   {
+    "title": "Tales from the Magic Garden",
+    "url": "https://www.forumcinemas.lv/eng/event/304718/title/tales_from_the_magic_garden/"
+  },
+  {
     "title": "Labyrinth (1986)",
     "url": "https://www.forumcinemas.lv/eng/event/304714/title/labyrinth_1986/"
+  },
+  {
+    "title": "How to Steal a Million (1966)",
+    "url": "https://www.forumcinemas.lv/eng/event/304729/title/how_to_steal_a_million_1966/"
   },
   {
     "title": "Woolf Works | The Royal Ballet",
     "url": "https://www.forumcinemas.lv/eng/event/304531/title/woolf_works_the_royal_ballet/"
   },
   {
+    "title": "La La Land (2016)",
+    "url": "https://www.forumcinemas.lv/eng/event/302012/title/la_la_land_2016/"
+  },
+  {
     "title": "Exhibition On Screen | Turner & Constable",
     "url": "https://www.forumcinemas.lv/eng/event/304538/title/exhibition_on_screen_turner_and_constable/"
+  },
+  {
+    "title": "The Shawshank Redemption (1994)",
+    "url": "https://www.forumcinemas.lv/eng/event/304705/title/the_shawshank_redemption_1994/"
   },
   {
     "title": "NT LIVE: The Fifth Step",
@@ -274,6 +282,10 @@
   {
     "title": "Reminders of Him",
     "url": "https://www.forumcinemas.lv/eng/event/304719/title/reminders_of_him/"
+  },
+  {
+    "title": "Showgirls (1995)",
+    "url": "https://www.forumcinemas.lv/eng/event/304707/title/showgirls_1995/"
   },
   {
     "title": "NT LIVE: Inter Alia",
@@ -298,6 +310,10 @@
   {
     "title": "NT LIVE: Hamlet (2026)",
     "url": "https://www.forumcinemas.lv/eng/event/304466/title/nt_live_hamlet_2026/"
+  },
+  {
+    "title": "Robocop (Director’s Cut) (1987)",
+    "url": "https://www.forumcinemas.lv/eng/event/304728/title/robocop_directors_cut_1987/"
   },
   {
     "title": "MET Opera: Eugene Onegin",

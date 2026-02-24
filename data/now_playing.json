@@ -1,95 +1,59 @@
 [
   {
-    "title": "The Housemaid",
-    "url": "https://www.forumcinemas.lv/eng/event/304575/title/the_housemaid/"
-  },
-  {
-    "title": "Perfect Strangers",
-    "url": "https://www.forumcinemas.lv/eng/event/304657/title/perfect_strangers/"
-  },
-  {
-    "title": "Wuthering Heights",
-    "url": "https://www.forumcinemas.lv/eng/event/304594/title/wuthering_heights/"
-  },
-  {
-    "title": "GOAT",
-    "url": "https://www.forumcinemas.lv/eng/event/304673/title/goat/"
-  },
-  {
-    "title": "Marty Supreme",
-    "url": "https://www.forumcinemas.lv/eng/event/304634/title/marty_supreme/"
-  },
-  {
-    "title": "Red Code Blue",
-    "url": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/"
-  },
-  {
-    "title": "Hamnet",
-    "url": "https://www.forumcinemas.lv/eng/event/304625/title/hamnet/"
-  },
-  {
-    "title": "The Wizard of the Kremlin",
-    "url": "https://www.forumcinemas.lv/eng/event/304669/title/the_wizard_of_the_kremlin/"
-  },
-  {
-    "title": "Avatar: Fire and Ash",
-    "url": "https://www.forumcinemas.lv/eng/event/304298/title/avatar_fire_and_ash/"
-  },
-  {
-    "title": "Cold Storage",
-    "url": "https://www.forumcinemas.lv/eng/event/304658/title/cold_storage/"
-  },
-  {
-    "title": "Crime 101",
-    "url": "https://www.forumcinemas.lv/eng/event/304671/title/crime_101/"
-  },
-  {
-    "title": "I Swear",
-    "url": "https://www.forumcinemas.lv/eng/event/304679/title/i_swear/"
-  },
-  {
-    "title": "Sirât",
-    "url": "https://www.forumcinemas.lv/eng/event/304636/title/sir%C3%A2t/"
-  },
-  {
-    "title": "Private event",
-    "url": "https://www.forumcinemas.lv/eng/event/303398/title/private_event/"
-  },
-  {
-    "title": "How to Make a Killing",
-    "url": "https://www.forumcinemas.lv/eng/event/304678/title/how_to_make_a_killing/"
-  },
-  {
-    "title": "Dog of God",
-    "url": "https://www.forumcinemas.lv/eng/event/304497/title/dog_of_god/"
-  },
-  {
-    "title": "Franz",
-    "url": "https://www.forumcinemas.lv/eng/event/304688/title/franz/"
-  },
-  {
-    "title": "Whistle",
-    "url": "https://www.forumcinemas.lv/eng/event/304674/title/whistle/"
-  },
-  {
-    "title": "One Battle After Another",
-    "url": "https://www.forumcinemas.lv/eng/event/304397/title/one_battle_after_another/"
-  },
-  {
-    "title": "Return to Silent Hill",
-    "url": "https://www.forumcinemas.lv/eng/event/304631/title/return_to_silent_hill/"
-  },
-  {
-    "title": "Shelter",
-    "url": "https://www.forumcinemas.lv/eng/event/304656/title/shelter/"
-  },
-  {
     "title": "Escape Net",
     "url": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/"
   },
   {
     "title": "Kangaroo",
     "url": "https://www.forumcinemas.lv/eng/event/304655/title/kangaroo/"
+  },
+  {
+    "title": "Wuthering Heights",
+    "url": "https://www.forumcinemas.lv/eng/event/304594/title/wuthering_heights/"
+  },
+  {
+    "title": "Crime 101",
+    "url": "https://www.forumcinemas.lv/eng/event/304671/title/crime_101/"
+  },
+  {
+    "title": "Perfect Strangers",
+    "url": "https://www.forumcinemas.lv/eng/event/304657/title/perfect_strangers/"
+  },
+  {
+    "title": "Hamnet",
+    "url": "https://www.forumcinemas.lv/eng/event/304625/title/hamnet/"
+  },
+  {
+    "title": "Shelter",
+    "url": "https://www.forumcinemas.lv/eng/event/304656/title/shelter/"
+  },
+  {
+    "title": "I Swear",
+    "url": "https://www.forumcinemas.lv/eng/event/304679/title/i_swear/"
+  },
+  {
+    "title": "Marty Supreme",
+    "url": "https://www.forumcinemas.lv/eng/event/304634/title/marty_supreme/"
+  },
+  {
+    "title": "The Housemaid",
+    "url": "https://www.forumcinemas.lv/eng/event/304575/title/the_housemaid/"
+  },
+  {
+    "title": "GOAT",
+    "url": "https://www.forumcinemas.lv/eng/event/304673/title/goat/"
+  },
+  {
+    "title": "Avatar: Fire and Ash",
+    "url": "https://www.forumcinemas.lv/eng/event/304298/title/avatar_fire_and_ash/"
+  },
+  {
+    "title": "How to Make a Killing",
+    "url": "https://www.forumcinemas.lv/eng/event/304678/title/how_to_make_a_killing/"
+  },
+  {
+    "title": "Whistle",
+    "url": "https://www.forumcinemas.lv/eng/event/304674/title/whistle/"
   },
   {
     "title": "Iron Lung",
@@ -104,12 +68,28 @@
     "url": "https://www.forumcinemas.lv/eng/event/304449/title/nt_live_mrs_warrens_profession/"
   },
   {
+    "title": "Private event",
+    "url": "https://www.forumcinemas.lv/eng/event/303398/title/private_event/"
+  },
+  {
     "title": "Sinners",
     "url": "https://www.forumcinemas.lv/eng/event/304256/title/sinners/"
   },
   {
     "title": "Send Help",
     "url": "https://www.forumcinemas.lv/eng/event/304651/title/send_help/"
+  },
+  {
+    "title": "Franz",
+    "url": "https://www.forumcinemas.lv/eng/event/304688/title/franz/"
+  },
+  {
+    "title": "Sirât",
+    "url": "https://www.forumcinemas.lv/eng/event/304636/title/sir%C3%A2t/"
+  },
+  {
+    "title": "The Wizard of the Kremlin",
+    "url": "https://www.forumcinemas.lv/eng/event/304669/title/the_wizard_of_the_kremlin/"
   },
   {
     "title": "Momo",
@@ -136,16 +116,16 @@
     "url": "https://www.forumcinemas.lv/eng/event/304592/title/sentimental_value/"
   },
   {
+    "title": "Return to Silent Hill",
+    "url": "https://www.forumcinemas.lv/eng/event/304631/title/return_to_silent_hill/"
+  },
+  {
     "title": "Zootopia 2",
     "url": "https://www.forumcinemas.lv/eng/event/304299/title/zootopia_2/"
   },
   {
     "title": "No Other Choice",
     "url": "https://www.forumcinemas.lv/eng/event/304670/title/no_other_choice/"
-  },
-  {
-    "title": "Mercy",
-    "url": "https://www.forumcinemas.lv/eng/event/304626/title/mercy/"
   },
   {
     "title": "Father Mother Sister Brother",
@@ -156,6 +136,10 @@
     "url": "https://www.forumcinemas.lv/eng/event/304663/title/twenty_one_pilots_more_than_we_ever_imagined/"
   },
   {
+    "title": "Red Code Blue",
+    "url": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/"
+  },
+  {
     "title": "28 Years Later: The Bone Temple",
     "url": "https://www.forumcinemas.lv/eng/event/304623/title/28_years_later_the_bone_temple/"
   },
@@ -164,16 +148,32 @@
     "url": "https://www.forumcinemas.lv/eng/event/304708/title/flesh_blood_even_a_heart/"
   },
   {
-    "title": "EPiC: Elvis Presley in Concert",
-    "url": "https://www.forumcinemas.lv/eng/event/304686/title/epic_elvis_presley_in_concert/"
+    "title": "Solo Mio",
+    "url": "https://www.forumcinemas.lv/eng/event/304727/title/solo_mio/"
   },
   {
     "title": "Scream 7",
     "url": "https://www.forumcinemas.lv/eng/event/304628/title/scream_7/"
   },
   {
+    "title": "EPiC: Elvis Presley in Concert",
+    "url": "https://www.forumcinemas.lv/eng/event/304686/title/epic_elvis_presley_in_concert/"
+  },
+  {
+    "title": "The Great Arch",
+    "url": "https://www.forumcinemas.lv/eng/event/304683/title/the_great_arch/"
+  },
+  {
     "title": "Hoppers",
     "url": "https://www.forumcinemas.lv/eng/event/304681/title/hoppers/"
+  },
+  {
+    "title": "Charlie the Wonderdog",
+    "url": "https://www.forumcinemas.lv/eng/event/304668/title/charlie_the_wonderdog/"
+  },
+  {
+    "title": "The SpongeBob Movie: Search For SquarePants",
+    "url": "https://www.forumcinemas.lv/eng/event/304608/title/the_spongebob_movie_search_for_squarepants/"
   },
   {
     "title": "Fargo (1996)",
@@ -280,8 +280,16 @@
     "url": "https://www.forumcinemas.lv/eng/event/304466/title/nt_live_hamlet_2026/"
   },
   {
+    "title": "BTS WORLD TOUR ‘ARIRANG’ IN GOYANG: LIVE VIEWING",
+    "url": "https://www.forumcinemas.lv/eng/event/304730/title/bts_world_tour_arirang_in_goyang_live_viewing/"
+  },
+  {
     "title": "Robocop (Director’s Cut) (1987)",
     "url": "https://www.forumcinemas.lv/eng/event/304728/title/robocop_directors_cut_1987/"
+  },
+  {
+    "title": "BTS WORLD TOUR ‘ARIRANG’ IN JAPAN: LIVE VIEWING",
+    "url": "https://www.forumcinemas.lv/eng/event/304731/title/bts_world_tour_arirang_in_japan_live_viewing/"
   },
   {
     "title": "MET Opera: Eugene Onegin",

@@ -4,36 +4,28 @@
     "url": "https://www.forumcinemas.lv/eng/event/304657/title/perfect_strangers/"
   },
   {
-    "title": "GOAT",
-    "url": "https://www.forumcinemas.lv/eng/event/304673/title/goat/"
-  },
-  {
-    "title": "The Wizard of the Kremlin",
-    "url": "https://www.forumcinemas.lv/eng/event/304669/title/the_wizard_of_the_kremlin/"
-  },
-  {
-    "title": "Hamnet",
-    "url": "https://www.forumcinemas.lv/eng/event/304625/title/hamnet/"
-  },
-  {
-    "title": "Momo",
-    "url": "https://www.forumcinemas.lv/eng/event/304672/title/momo/"
-  },
-  {
-    "title": "How to Make a Killing",
-    "url": "https://www.forumcinemas.lv/eng/event/304678/title/how_to_make_a_killing/"
+    "title": "Kangaroo",
+    "url": "https://www.forumcinemas.lv/eng/event/304655/title/kangaroo/"
   },
   {
     "title": "The Housemaid",
     "url": "https://www.forumcinemas.lv/eng/event/304575/title/the_housemaid/"
   },
   {
-    "title": "Marty Supreme",
-    "url": "https://www.forumcinemas.lv/eng/event/304634/title/marty_supreme/"
+    "title": "Momo",
+    "url": "https://www.forumcinemas.lv/eng/event/304672/title/momo/"
   },
   {
-    "title": "I Swear",
-    "url": "https://www.forumcinemas.lv/eng/event/304679/title/i_swear/"
+    "title": "Franz",
+    "url": "https://www.forumcinemas.lv/eng/event/304688/title/franz/"
+  },
+  {
+    "title": "GOAT",
+    "url": "https://www.forumcinemas.lv/eng/event/304673/title/goat/"
+  },
+  {
+    "title": "Avatar: Fire and Ash",
+    "url": "https://www.forumcinemas.lv/eng/event/304298/title/avatar_fire_and_ash/"
   },
   {
     "title": "Wuthering Heights",
@@ -44,60 +36,8 @@
     "url": "https://www.forumcinemas.lv/eng/event/304671/title/crime_101/"
   },
   {
-    "title": "Whistle",
-    "url": "https://www.forumcinemas.lv/eng/event/304674/title/whistle/"
-  },
-  {
-    "title": "Franz",
-    "url": "https://www.forumcinemas.lv/eng/event/304688/title/franz/"
-  },
-  {
-    "title": "Avatar: Fire and Ash",
-    "url": "https://www.forumcinemas.lv/eng/event/304298/title/avatar_fire_and_ash/"
-  },
-  {
-    "title": "Castle in the Sky (1986)",
-    "url": "https://www.forumcinemas.lv/eng/event/304702/title/castle_in_the_sky_1986/"
-  },
-  {
-    "title": "Iron Lung",
-    "url": "https://www.forumcinemas.lv/eng/event/304694/title/iron_lung/"
-  },
-  {
-    "title": "Private event",
-    "url": "https://www.forumcinemas.lv/eng/event/303398/title/private_event/"
-  },
-  {
-    "title": "The Secret Agent",
-    "url": "https://www.forumcinemas.lv/eng/event/304562/title/the_secret_agent/"
-  },
-  {
-    "title": "Shelter",
-    "url": "https://www.forumcinemas.lv/eng/event/304656/title/shelter/"
-  },
-  {
-    "title": "Couture",
-    "url": "https://www.forumcinemas.lv/eng/event/304680/title/couture/"
-  },
-  {
-    "title": "Scott Pilgrim Vs. The World (2010)",
-    "url": "https://www.forumcinemas.lv/eng/event/299512/title/scott_pilgrim_vs_the_world_2010/"
-  },
-  {
-    "title": "Sentimental Value",
-    "url": "https://www.forumcinemas.lv/eng/event/304592/title/sentimental_value/"
-  },
-  {
-    "title": "Sirât",
-    "url": "https://www.forumcinemas.lv/eng/event/304636/title/sir%C3%A2t/"
-  },
-  {
-    "title": "Return to Silent Hill",
-    "url": "https://www.forumcinemas.lv/eng/event/304631/title/return_to_silent_hill/"
-  },
-  {
-    "title": "Kangaroo",
-    "url": "https://www.forumcinemas.lv/eng/event/304655/title/kangaroo/"
+    "title": "I Swear",
+    "url": "https://www.forumcinemas.lv/eng/event/304679/title/i_swear/"
   },
   {
     "title": "Zootopia 2",
@@ -108,20 +48,52 @@
     "url": "https://www.forumcinemas.lv/eng/event/304670/title/no_other_choice/"
   },
   {
+    "title": "Hamnet",
+    "url": "https://www.forumcinemas.lv/eng/event/304625/title/hamnet/"
+  },
+  {
+    "title": "Marty Supreme",
+    "url": "https://www.forumcinemas.lv/eng/event/304634/title/marty_supreme/"
+  },
+  {
+    "title": "Sirât",
+    "url": "https://www.forumcinemas.lv/eng/event/304636/title/sir%C3%A2t/"
+  },
+  {
+    "title": "How to Make a Killing",
+    "url": "https://www.forumcinemas.lv/eng/event/304678/title/how_to_make_a_killing/"
+  },
+  {
     "title": "Escape Net",
     "url": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/"
+  },
+  {
+    "title": "Return to Silent Hill",
+    "url": "https://www.forumcinemas.lv/eng/event/304631/title/return_to_silent_hill/"
   },
   {
     "title": "Father Mother Sister Brother",
     "url": "https://www.forumcinemas.lv/eng/event/304635/title/father_mother_sister_brother/"
   },
   {
+    "title": "Shelter",
+    "url": "https://www.forumcinemas.lv/eng/event/304656/title/shelter/"
+  },
+  {
     "title": "Send Help",
     "url": "https://www.forumcinemas.lv/eng/event/304651/title/send_help/"
   },
   {
+    "title": "The Wizard of the Kremlin",
+    "url": "https://www.forumcinemas.lv/eng/event/304669/title/the_wizard_of_the_kremlin/"
+  },
+  {
     "title": "Twenty One Pilots: More Than We Ever Imagined",
     "url": "https://www.forumcinemas.lv/eng/event/304663/title/twenty_one_pilots_more_than_we_ever_imagined/"
+  },
+  {
+    "title": "Whistle",
+    "url": "https://www.forumcinemas.lv/eng/event/304674/title/whistle/"
   },
   {
     "title": "Red Code Blue",
@@ -138,6 +110,10 @@
   {
     "title": "Solo Mio",
     "url": "https://www.forumcinemas.lv/eng/event/304727/title/solo_mio/"
+  },
+  {
+    "title": "Couture",
+    "url": "https://www.forumcinemas.lv/eng/event/304680/title/couture/"
   },
   {
     "title": "Scream 7",
@@ -164,6 +140,10 @@
     "url": "https://www.forumcinemas.lv/eng/event/304608/title/the_spongebob_movie_search_for_squarepants/"
   },
   {
+    "title": "Private event",
+    "url": "https://www.forumcinemas.lv/eng/event/303398/title/private_event/"
+  },
+  {
     "title": "Fargo (1996)",
     "url": "https://www.forumcinemas.lv/eng/event/304721/title/fargo_1996/"
   },
@@ -174,6 +154,10 @@
   {
     "title": "Porco Rosso (1992)",
     "url": "https://www.forumcinemas.lv/eng/event/304700/title/porco_rosso_1992/"
+  },
+  {
+    "title": "The Secret Agent",
+    "url": "https://www.forumcinemas.lv/eng/event/304562/title/the_secret_agent/"
   },
   {
     "title": "Parent's Meeting",

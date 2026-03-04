@@ -1,111 +1,71 @@
 [
   {
-    "title": "Escape Net",
-    "url": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/"
-  },
-  {
-    "title": "Parent's Meeting",
-    "url": "https://www.forumcinemas.lv/eng/event/304249/title/parents_meeting/"
-  },
-  {
-    "title": "Momo",
-    "url": "https://www.forumcinemas.lv/eng/event/304672/title/momo/"
-  },
-  {
-    "title": "Perfect Strangers",
-    "url": "https://www.forumcinemas.lv/eng/event/304657/title/perfect_strangers/"
-  },
-  {
-    "title": "Wuthering Heights",
-    "url": "https://www.forumcinemas.lv/eng/event/304594/title/wuthering_heights/"
-  },
-  {
-    "title": "The Great Arch",
-    "url": "https://www.forumcinemas.lv/eng/event/304683/title/the_great_arch/"
-  },
-  {
-    "title": "Zootopia 2",
-    "url": "https://www.forumcinemas.lv/eng/event/304299/title/zootopia_2/"
-  },
-  {
     "title": "GOAT",
     "url": "https://www.forumcinemas.lv/eng/event/304673/title/goat/"
-  },
-  {
-    "title": "Couture",
-    "url": "https://www.forumcinemas.lv/eng/event/304680/title/couture/"
-  },
-  {
-    "title": "Solo Mio",
-    "url": "https://www.forumcinemas.lv/eng/event/304727/title/solo_mio/"
-  },
-  {
-    "title": "Scream 7",
-    "url": "https://www.forumcinemas.lv/eng/event/304628/title/scream_7/"
   },
   {
     "title": "I Swear",
     "url": "https://www.forumcinemas.lv/eng/event/304679/title/i_swear/"
   },
   {
-    "title": "Franz",
-    "url": "https://www.forumcinemas.lv/eng/event/304688/title/franz/"
+    "title": "EPiC: Elvis Presley in Concert",
+    "url": "https://www.forumcinemas.lv/eng/event/304686/title/epic_elvis_presley_in_concert/"
   },
   {
-    "title": "Avatar: Fire and Ash",
-    "url": "https://www.forumcinemas.lv/eng/event/304298/title/avatar_fire_and_ash/"
-  },
-  {
-    "title": "The Housemaid",
-    "url": "https://www.forumcinemas.lv/eng/event/304575/title/the_housemaid/"
+    "title": "Wuthering Heights",
+    "url": "https://www.forumcinemas.lv/eng/event/304594/title/wuthering_heights/"
   },
   {
     "title": "Hamnet",
     "url": "https://www.forumcinemas.lv/eng/event/304625/title/hamnet/"
   },
   {
-    "title": "Marty Supreme",
-    "url": "https://www.forumcinemas.lv/eng/event/304634/title/marty_supreme/"
+    "title": "Scarecrows",
+    "url": "https://www.forumcinemas.lv/eng/event/304734/title/scarecrows/"
   },
   {
-    "title": "The Wind Rises (2013)",
-    "url": "https://www.forumcinemas.lv/eng/event/304703/title/the_wind_rises_2013/"
-  },
-  {
-    "title": "NT LIVE: A Streetcar Named Desire",
-    "url": "https://www.forumcinemas.lv/eng/event/304373/title/nt_live_a_streetcar_named_desire/"
-  },
-  {
-    "title": "EPiC: Elvis Presley in Concert",
-    "url": "https://www.forumcinemas.lv/eng/event/304686/title/epic_elvis_presley_in_concert/"
-  },
-  {
-    "title": "Red Code Blue",
-    "url": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/"
+    "title": "Perfect Strangers",
+    "url": "https://www.forumcinemas.lv/eng/event/304657/title/perfect_strangers/"
   },
   {
     "title": "How to Make a Killing",
     "url": "https://www.forumcinemas.lv/eng/event/304678/title/how_to_make_a_killing/"
   },
   {
-    "title": "Scarecrows",
-    "url": "https://www.forumcinemas.lv/eng/event/304734/title/scarecrows/"
-  },
-  {
-    "title": "Crime 101",
-    "url": "https://www.forumcinemas.lv/eng/event/304671/title/crime_101/"
-  },
-  {
-    "title": "Whistle",
-    "url": "https://www.forumcinemas.lv/eng/event/304674/title/whistle/"
-  },
-  {
     "title": "Charlie the Wonderdog",
     "url": "https://www.forumcinemas.lv/eng/event/304668/title/charlie_the_wonderdog/"
   },
   {
+    "title": "Solo Mio",
+    "url": "https://www.forumcinemas.lv/eng/event/304727/title/solo_mio/"
+  },
+  {
+    "title": "Avatar: Fire and Ash",
+    "url": "https://www.forumcinemas.lv/eng/event/304298/title/avatar_fire_and_ash/"
+  },
+  {
+    "title": "Scream 7",
+    "url": "https://www.forumcinemas.lv/eng/event/304628/title/scream_7/"
+  },
+  {
+    "title": "Couture",
+    "url": "https://www.forumcinemas.lv/eng/event/304680/title/couture/"
+  },
+  {
+    "title": "The Great Arch",
+    "url": "https://www.forumcinemas.lv/eng/event/304683/title/the_great_arch/"
+  },
+  {
     "title": "The Wizard of the Kremlin",
     "url": "https://www.forumcinemas.lv/eng/event/304669/title/the_wizard_of_the_kremlin/"
+  },
+  {
+    "title": "The Housemaid",
+    "url": "https://www.forumcinemas.lv/eng/event/304575/title/the_housemaid/"
+  },
+  {
+    "title": "Marty Supreme",
+    "url": "https://www.forumcinemas.lv/eng/event/304634/title/marty_supreme/"
   },
   {
     "title": "The Bride!",
@@ -116,20 +76,36 @@
     "url": "https://www.forumcinemas.lv/eng/event/304562/title/the_secret_agent/"
   },
   {
+    "title": "Escape Net",
+    "url": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/"
+  },
+  {
     "title": "Sirât",
     "url": "https://www.forumcinemas.lv/eng/event/304636/title/sir%C3%A2t/"
+  },
+  {
+    "title": "Crime 101",
+    "url": "https://www.forumcinemas.lv/eng/event/304671/title/crime_101/"
+  },
+  {
+    "title": "Whistle",
+    "url": "https://www.forumcinemas.lv/eng/event/304674/title/whistle/"
   },
   {
     "title": "Kangaroo",
     "url": "https://www.forumcinemas.lv/eng/event/304655/title/kangaroo/"
   },
   {
+    "title": "Zootopia 2",
+    "url": "https://www.forumcinemas.lv/eng/event/304299/title/zootopia_2/"
+  },
+  {
     "title": "Cold Storage",
     "url": "https://www.forumcinemas.lv/eng/event/304658/title/cold_storage/"
   },
   {
-    "title": "Private event",
-    "url": "https://www.forumcinemas.lv/eng/event/303398/title/private_event/"
+    "title": "Red Code Blue",
+    "url": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/"
   },
   {
     "title": "Shelter",
@@ -160,16 +136,36 @@
     "url": "https://www.forumcinemas.lv/eng/event/304631/title/return_to_silent_hill/"
   },
   {
+    "title": "Private event",
+    "url": "https://www.forumcinemas.lv/eng/event/303398/title/private_event/"
+  },
+  {
     "title": "Hoppers",
     "url": "https://www.forumcinemas.lv/eng/event/304681/title/hoppers/"
+  },
+  {
+    "title": "Primavera",
+    "url": "https://www.forumcinemas.lv/eng/event/304733/title/primavera/"
   },
   {
     "title": "Labyrinth (1986)",
     "url": "https://www.forumcinemas.lv/eng/event/304714/title/labyrinth_1986/"
   },
   {
+    "title": "Momo",
+    "url": "https://www.forumcinemas.lv/eng/event/304672/title/momo/"
+  },
+  {
+    "title": "The Wind Rises (2013)",
+    "url": "https://www.forumcinemas.lv/eng/event/304703/title/the_wind_rises_2013/"
+  },
+  {
     "title": "Moulin Rouge! (2001)",
     "url": "https://www.forumcinemas.lv/eng/event/303613/title/moulin_rouge_2001/"
+  },
+  {
+    "title": "The SpongeBob Movie: Search For SquarePants",
+    "url": "https://www.forumcinemas.lv/eng/event/304608/title/the_spongebob_movie_search_for_squarepants/"
   },
   {
     "title": "How to Steal a Million (1966)",
@@ -184,12 +180,32 @@
     "url": "https://www.forumcinemas.lv/eng/event/302012/title/la_la_land_2016/"
   },
   {
+    "title": "Franz",
+    "url": "https://www.forumcinemas.lv/eng/event/304688/title/franz/"
+  },
+  {
+    "title": "Flow",
+    "url": "https://www.forumcinemas.lv/eng/event/304076/title/flow/"
+  },
+  {
+    "title": "Sinners",
+    "url": "https://www.forumcinemas.lv/eng/event/304256/title/sinners/"
+  },
+  {
     "title": "Exhibition On Screen | Turner & Constable",
     "url": "https://www.forumcinemas.lv/eng/event/304538/title/exhibition_on_screen_turner_and_constable/"
   },
   {
+    "title": "Howl’s Moving Castle (2004)",
+    "url": "https://www.forumcinemas.lv/eng/event/304611/title/howls_moving_castle_2004/"
+  },
+  {
     "title": "The Shawshank Redemption (1994)",
     "url": "https://www.forumcinemas.lv/eng/event/304705/title/the_shawshank_redemption_1994/"
+  },
+  {
+    "title": "Spirited Away (2001)",
+    "url": "https://www.forumcinemas.lv/eng/event/304580/title/spirited_away_2001/"
   },
   {
     "title": "Fargo (1996)",
@@ -200,8 +216,16 @@
     "url": "https://www.forumcinemas.lv/eng/event/304465/title/nt_live_the_fifth_step/"
   },
   {
+    "title": "Madagascar (2005)",
+    "url": "https://www.forumcinemas.lv/eng/event/304697/title/madagascar_2005/"
+  },
+  {
     "title": "Reminders of Him",
     "url": "https://www.forumcinemas.lv/eng/event/304719/title/reminders_of_him/"
+  },
+  {
+    "title": "WALL-E (2008)",
+    "url": "https://www.forumcinemas.lv/eng/event/299838/title/wall-e_2008/"
   },
   {
     "title": "Clueless (1995)",
@@ -230,6 +254,10 @@
   {
     "title": "IL VOLO at the Valley of the Temples",
     "url": "https://www.forumcinemas.lv/eng/event/304732/title/il_volo_at_the_valley_of_the_temples/"
+  },
+  {
+    "title": "NT LIVE: A Streetcar Named Desire",
+    "url": "https://www.forumcinemas.lv/eng/event/304373/title/nt_live_a_streetcar_named_desire/"
   },
   {
     "title": "Bring Me The Horizon - L.I.V.E. in São Paulo",

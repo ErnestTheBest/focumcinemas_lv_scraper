@@ -1,50 +1,5 @@
 [
   {
-    "title": "The Bride!",
-    "releaseYear": 2026,
-    "genres": "Drama, Horror, Romance",
-    "imdbId": "tt30851137",
-    "imdbUrl": "https://www.imdb.com/title/tt30851137/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304627/title/the_bride/",
-    "imdbRating": 6.1
-  },
-  {
-    "title": "Hoppers",
-    "releaseYear": 2026,
-    "genres": "Animation, Adventure, Comedy",
-    "imdbId": "tt26443616",
-    "imdbUrl": "https://www.imdb.com/title/tt26443616/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304681/title/hoppers/",
-    "imdbRating": null
-  },
-  {
-    "title": "Perfect Strangers",
-    "releaseYear": 2026,
-    "genres": "Comedy, Drama",
-    "imdbId": "tt39109902",
-    "imdbUrl": "https://www.imdb.com/title/tt39109902/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304657/title/perfect_strangers/",
-    "imdbRating": 8.3
-  },
-  {
-    "title": "Flesh, Blood, Even a Heart",
-    "releaseYear": 2025,
-    "genres": "Comedy, Drama",
-    "imdbId": "tt31777665",
-    "imdbUrl": "https://www.imdb.com/title/tt31777665/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304708/title/flesh_blood_even_a_heart/",
-    "imdbRating": 7.2
-  },
-  {
-    "title": "Primavera",
-    "releaseYear": 2025,
-    "genres": "Biography, Drama, History",
-    "imdbId": "tt33586629",
-    "imdbUrl": "https://www.imdb.com/title/tt33586629/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304733/title/primavera/",
-    "imdbRating": 7.2
-  },
-  {
     "title": "GOAT",
     "releaseYear": 2026,
     "genres": "Animation, Action, Adventure",
@@ -54,103 +9,22 @@
     "imdbRating": 6.9
   },
   {
-    "title": "Escape Net",
-    "releaseYear": 2025,
-    "genres": "Biography, Drama, Sport",
-    "imdbId": "tt21043190",
-    "imdbUrl": "https://www.imdb.com/title/tt21043190/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/",
+    "title": "Hoppers",
+    "releaseYear": 2026,
+    "genres": "Animation, Adventure, Comedy",
+    "imdbId": "tt26443616",
+    "imdbUrl": "https://www.imdb.com/title/tt26443616/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304681/title/hoppers/",
+    "imdbRating": 7.7
+  },
+  {
+    "title": "Perfect Strangers",
+    "releaseYear": 2026,
+    "genres": "Comedy, Drama",
+    "imdbId": "tt39109902",
+    "imdbUrl": "https://www.imdb.com/title/tt39109902/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304657/title/perfect_strangers/",
     "imdbRating": 8.4
-  },
-  {
-    "title": "The Secret Agent",
-    "releaseYear": 2025,
-    "genres": "Crime, Drama, Mystery",
-    "imdbId": "tt27847051",
-    "imdbUrl": "https://www.imdb.com/title/tt27847051/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304562/title/the_secret_agent/",
-    "imdbRating": 7.3
-  },
-  {
-    "title": "Wuthering Heights",
-    "releaseYear": 2026,
-    "genres": "Drama, Romance",
-    "imdbId": "tt32897959",
-    "imdbUrl": "https://www.imdb.com/title/tt32897959/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304594/title/wuthering_heights/",
-    "imdbRating": 6.3
-  },
-  {
-    "title": "Scream 7",
-    "releaseYear": 2026,
-    "genres": "Horror, Mystery",
-    "imdbId": "tt27047903",
-    "imdbUrl": "https://www.imdb.com/title/tt27047903/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304628/title/scream_7/",
-    "imdbRating": 5.9
-  },
-  {
-    "title": "Hamnet",
-    "releaseYear": 2025,
-    "genres": "Biography, Drama, History",
-    "imdbId": "tt14905854",
-    "imdbUrl": "https://www.imdb.com/title/tt14905854/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304625/title/hamnet/",
-    "imdbRating": 7.9
-  },
-  {
-    "title": "Solo Mio",
-    "releaseYear": 2026,
-    "genres": "Comedy, Romance",
-    "imdbId": "tt32306991",
-    "imdbUrl": "https://www.imdb.com/title/tt32306991/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304727/title/solo_mio/",
-    "imdbRating": 7.5
-  },
-  {
-    "title": "Whistle",
-    "releaseYear": 2026,
-    "genres": "Horror",
-    "imdbId": "tt29550683",
-    "imdbUrl": "https://www.imdb.com/title/tt29550683/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304674/title/whistle/",
-    "imdbRating": 5.4
-  },
-  {
-    "title": "Couture",
-    "releaseYear": 2026,
-    "genres": "Drama",
-    "imdbId": "tt34688195",
-    "imdbUrl": "https://www.imdb.com/title/tt34688195/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304680/title/couture/",
-    "imdbRating": 6.2
-  },
-  {
-    "title": "Labyrinth (1986)",
-    "releaseYear": 1986,
-    "genres": "Adventure, Family, Fantasy",
-    "imdbId": "tt0091369",
-    "imdbUrl": "https://www.imdb.com/title/tt0091369/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304714/title/labyrinth_1986/",
-    "imdbRating": 7.3
-  },
-  {
-    "title": "Avatar: Fire and Ash",
-    "releaseYear": 2025,
-    "genres": "Animation, Action, Adventure",
-    "imdbId": "tt1757678",
-    "imdbUrl": "https://www.imdb.com/title/tt1757678/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304298/title/avatar_fire_and_ash/",
-    "imdbRating": 7.4
-  },
-  {
-    "title": "Marty Supreme",
-    "releaseYear": 2025,
-    "genres": "Drama, Sport",
-    "imdbId": "tt32916440",
-    "imdbUrl": "https://www.imdb.com/title/tt32916440/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304634/title/marty_supreme/",
-    "imdbRating": 7.8
   },
   {
     "title": "The Housemaid",
@@ -169,24 +43,6 @@
     "imdbUrl": "https://www.imdb.com/title/tt4357198/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304678/title/how_to_make_a_killing/",
     "imdbRating": 6.7
-  },
-  {
-    "title": "Red Code Blue",
-    "releaseYear": 2025,
-    "genres": "Action, Crime, Drama",
-    "imdbId": "tt38573816",
-    "imdbUrl": "https://www.imdb.com/title/tt38573816/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/",
-    "imdbRating": 8.5
-  },
-  {
-    "title": "Crime 101",
-    "releaseYear": 2026,
-    "genres": "Crime, Drama, Thriller",
-    "imdbId": "tt32430579",
-    "imdbUrl": "https://www.imdb.com/title/tt32430579/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304671/title/crime_101/",
-    "imdbRating": 7.1
   },
   {
     "title": "Kangaroo",
@@ -216,6 +72,42 @@
     "imdbRating": 5.4
   },
   {
+    "title": "Scream 7",
+    "releaseYear": 2026,
+    "genres": "Horror, Mystery",
+    "imdbId": "tt27047903",
+    "imdbUrl": "https://www.imdb.com/title/tt27047903/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304628/title/scream_7/",
+    "imdbRating": 5.9
+  },
+  {
+    "title": "Primavera",
+    "releaseYear": 2025,
+    "genres": "Biography, Drama, History",
+    "imdbId": "tt33586629",
+    "imdbUrl": "https://www.imdb.com/title/tt33586629/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304733/title/primavera/",
+    "imdbRating": 7.2
+  },
+  {
+    "title": "Solo Mio",
+    "releaseYear": 2026,
+    "genres": "Comedy, Romance",
+    "imdbId": "tt32306991",
+    "imdbUrl": "https://www.imdb.com/title/tt32306991/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304727/title/solo_mio/",
+    "imdbRating": 7.5
+  },
+  {
+    "title": "The Bride!",
+    "releaseYear": 2026,
+    "genres": "Drama, Horror, Romance",
+    "imdbId": "tt30851137",
+    "imdbUrl": "https://www.imdb.com/title/tt30851137/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304627/title/the_bride/",
+    "imdbRating": 6.1
+  },
+  {
     "title": "Momo",
     "releaseYear": 2025,
     "genres": "Family, Fantasy",
@@ -223,6 +115,42 @@
     "imdbUrl": "https://www.imdb.com/title/tt26325131/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304672/title/momo/",
     "imdbRating": 6
+  },
+  {
+    "title": "Escape Net",
+    "releaseYear": 2025,
+    "genres": "Biography, Drama, Sport",
+    "imdbId": "tt21043190",
+    "imdbUrl": "https://www.imdb.com/title/tt21043190/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/",
+    "imdbRating": 8.4
+  },
+  {
+    "title": "Flesh, Blood, Even a Heart",
+    "releaseYear": 2025,
+    "genres": "Comedy, Drama",
+    "imdbId": "tt31777665",
+    "imdbUrl": "https://www.imdb.com/title/tt31777665/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304708/title/flesh_blood_even_a_heart/",
+    "imdbRating": 7.4
+  },
+  {
+    "title": "Wuthering Heights",
+    "releaseYear": 2026,
+    "genres": "Drama, Romance",
+    "imdbId": "tt32897959",
+    "imdbUrl": "https://www.imdb.com/title/tt32897959/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304594/title/wuthering_heights/",
+    "imdbRating": 6.3
+  },
+  {
+    "title": "Couture",
+    "releaseYear": 2026,
+    "genres": "Drama",
+    "imdbId": "tt34688195",
+    "imdbUrl": "https://www.imdb.com/title/tt34688195/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304680/title/couture/",
+    "imdbRating": 6.2
   },
   {
     "title": "The Wind Rises (2013)",
@@ -234,6 +162,15 @@
     "imdbRating": 7.8
   },
   {
+    "title": "Avatar: Fire and Ash",
+    "releaseYear": 2025,
+    "genres": "Animation, Action, Adventure",
+    "imdbId": "tt1757678",
+    "imdbUrl": "https://www.imdb.com/title/tt1757678/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304298/title/avatar_fire_and_ash/",
+    "imdbRating": 7.4
+  },
+  {
     "title": "EPiC: Elvis Presley in Concert",
     "releaseYear": 2026,
     "genres": "Documentary, Music",
@@ -241,6 +178,24 @@
     "imdbUrl": "https://www.imdb.com/title/tt35003538/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304686/title/epic_elvis_presley_in_concert/",
     "imdbRating": 8.4
+  },
+  {
+    "title": "Hamnet",
+    "releaseYear": 2025,
+    "genres": "Biography, Drama, History",
+    "imdbId": "tt14905854",
+    "imdbUrl": "https://www.imdb.com/title/tt14905854/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304625/title/hamnet/",
+    "imdbRating": 7.9
+  },
+  {
+    "title": "Red Code Blue",
+    "releaseYear": 2025,
+    "genres": "Action, Crime, Drama",
+    "imdbId": "tt38573816",
+    "imdbUrl": "https://www.imdb.com/title/tt38573816/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/",
+    "imdbRating": 8.5
   },
   {
     "title": "Moulin Rouge! (2001)",
@@ -259,6 +214,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt32386654/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304669/title/the_wizard_of_the_kremlin/",
     "imdbRating": 6.1
+  },
+  {
+    "title": "Marty Supreme",
+    "releaseYear": 2025,
+    "genres": "Drama, Sport",
+    "imdbId": "tt32916440",
+    "imdbUrl": "https://www.imdb.com/title/tt32916440/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304634/title/marty_supreme/",
+    "imdbRating": 7.8
   },
   {
     "title": "The SpongeBob Movie: Search For SquarePants",
@@ -342,6 +306,15 @@
     "imdbRating": 7
   },
   {
+    "title": "Crime 101",
+    "releaseYear": 2026,
+    "genres": "Crime, Drama, Thriller",
+    "imdbId": "tt32430579",
+    "imdbUrl": "https://www.imdb.com/title/tt32430579/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304671/title/crime_101/",
+    "imdbRating": 7.1
+  },
+  {
     "title": "Howl’s Moving Castle (2004)",
     "releaseYear": 2005,
     "genres": "Animation, Adventure, Family",
@@ -369,6 +342,15 @@
     "imdbRating": null
   },
   {
+    "title": "Labyrinth (1986)",
+    "releaseYear": 1986,
+    "genres": "Adventure, Family, Fantasy",
+    "imdbId": "tt0091369",
+    "imdbUrl": "https://www.imdb.com/title/tt0091369/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304714/title/labyrinth_1986/",
+    "imdbRating": 7.3
+  },
+  {
     "title": "Shelter",
     "releaseYear": 2026,
     "genres": "Action, Thriller",
@@ -376,6 +358,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt32357218/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304656/title/shelter/",
     "imdbRating": 6.2
+  },
+  {
+    "title": "Whistle",
+    "releaseYear": 2026,
+    "genres": "Horror",
+    "imdbId": "tt29550683",
+    "imdbUrl": "https://www.imdb.com/title/tt29550683/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304674/title/whistle/",
+    "imdbRating": 5.4
   },
   {
     "title": "Spirited Away (2001)",
@@ -412,6 +403,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt33714084/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304719/title/reminders_of_him/",
     "imdbRating": null
+  },
+  {
+    "title": "The Secret Agent",
+    "releaseYear": 2025,
+    "genres": "Crime, Drama, Mystery",
+    "imdbId": "tt27847051",
+    "imdbUrl": "https://www.imdb.com/title/tt27847051/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304562/title/the_secret_agent/",
+    "imdbRating": 7.3
   },
   {
     "title": "WALL-E (2008)",
@@ -468,6 +468,15 @@
     "imdbRating": 8.8
   },
   {
+    "title": "The Dark Knight (2008)",
+    "releaseYear": 2008,
+    "genres": "Action, Crime, Drama",
+    "imdbId": "tt0468569",
+    "imdbUrl": "https://www.imdb.com/title/tt0468569/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/299710/title/the_dark_knight_2008/",
+    "imdbRating": 9.1
+  },
+  {
     "title": "Bring Me The Horizon - L.I.V.E. in São Paulo",
     "releaseYear": 2026,
     "genres": "Music",
@@ -522,7 +531,16 @@
     "imdbRating": 9
   },
   {
-    "title": "Robocop (Director’s Cut) (1987)",
+    "title": "Rēcīgie komentāri: Eat Pray Love (2010)",
+    "releaseYear": 2010,
+    "genres": "Biography, Comedy, Drama",
+    "imdbId": "tt0879870",
+    "imdbUrl": "https://www.imdb.com/title/tt0879870/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304746/title/r%C4%93c%C4%ABgie_koment%C4%81ri_eat_pray_love_2010/",
+    "imdbRating": 5.9
+  },
+  {
+    "title": "RoboCop (Director’s Cut) (1987)",
     "releaseYear": 1987,
     "genres": "Action, Crime, Sci-Fi",
     "imdbId": "tt0093870",

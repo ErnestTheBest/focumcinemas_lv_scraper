@@ -1,115 +1,71 @@
 [
   {
-    "title": "Perfect Strangers",
-    "url": "https://www.forumcinemas.lv/eng/event/304657/title/perfect_strangers/"
+    "title": "GOAT",
+    "url": "https://www.forumcinemas.lv/eng/event/304673/title/goat/"
   },
   {
     "title": "The SpongeBob Movie: Search For SquarePants",
     "url": "https://www.forumcinemas.lv/eng/event/304608/title/the_spongebob_movie_search_for_squarepants/"
   },
   {
-    "title": "Charlie the Wonderdog",
-    "url": "https://www.forumcinemas.lv/eng/event/304668/title/charlie_the_wonderdog/"
-  },
-  {
-    "title": "The Bride!",
-    "url": "https://www.forumcinemas.lv/eng/event/304627/title/the_bride/"
-  },
-  {
-    "title": "GOAT",
-    "url": "https://www.forumcinemas.lv/eng/event/304673/title/goat/"
-  },
-  {
-    "title": "Tales from the Magic Garden",
-    "url": "https://www.forumcinemas.lv/eng/event/304718/title/tales_from_the_magic_garden/"
-  },
-  {
-    "title": "Zootopia 2",
-    "url": "https://www.forumcinemas.lv/eng/event/304299/title/zootopia_2/"
-  },
-  {
-    "title": "Avatar: Fire and Ash",
-    "url": "https://www.forumcinemas.lv/eng/event/304298/title/avatar_fire_and_ash/"
-  },
-  {
-    "title": "Hoppers",
-    "url": "https://www.forumcinemas.lv/eng/event/304681/title/hoppers/"
-  },
-  {
     "title": "Kangaroo",
     "url": "https://www.forumcinemas.lv/eng/event/304655/title/kangaroo/"
-  },
-  {
-    "title": "Flesh, Blood, Even a Heart",
-    "url": "https://www.forumcinemas.lv/eng/event/304708/title/flesh_blood_even_a_heart/"
-  },
-  {
-    "title": "Franz",
-    "url": "https://www.forumcinemas.lv/eng/event/304688/title/franz/"
   },
   {
     "title": "Wuthering Heights",
     "url": "https://www.forumcinemas.lv/eng/event/304594/title/wuthering_heights/"
   },
   {
-    "title": "Momo",
-    "url": "https://www.forumcinemas.lv/eng/event/304672/title/momo/"
+    "title": "Perfect Strangers",
+    "url": "https://www.forumcinemas.lv/eng/event/304657/title/perfect_strangers/"
   },
   {
-    "title": "Scream 7",
-    "url": "https://www.forumcinemas.lv/eng/event/304628/title/scream_7/"
+    "title": "Avatar: Fire and Ash",
+    "url": "https://www.forumcinemas.lv/eng/event/304298/title/avatar_fire_and_ash/"
   },
   {
-    "title": "I Swear",
-    "url": "https://www.forumcinemas.lv/eng/event/304679/title/i_swear/"
+    "title": "Tales from the Magic Garden",
+    "url": "https://www.forumcinemas.lv/eng/event/304718/title/tales_from_the_magic_garden/"
   },
   {
-    "title": "Primavera",
-    "url": "https://www.forumcinemas.lv/eng/event/304733/title/primavera/"
+    "title": "Hoppers",
+    "url": "https://www.forumcinemas.lv/eng/event/304681/title/hoppers/"
   },
   {
-    "title": "Flow",
-    "url": "https://www.forumcinemas.lv/eng/event/304076/title/flow/"
-  },
-  {
-    "title": "Couture",
-    "url": "https://www.forumcinemas.lv/eng/event/304680/title/couture/"
-  },
-  {
-    "title": "The Housemaid",
-    "url": "https://www.forumcinemas.lv/eng/event/304575/title/the_housemaid/"
+    "title": "Zootopia 2",
+    "url": "https://www.forumcinemas.lv/eng/event/304299/title/zootopia_2/"
   },
   {
     "title": "Escape Net",
     "url": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/"
   },
   {
-    "title": "The Great Arch",
-    "url": "https://www.forumcinemas.lv/eng/event/304683/title/the_great_arch/"
+    "title": "Charlie the Wonderdog",
+    "url": "https://www.forumcinemas.lv/eng/event/304668/title/charlie_the_wonderdog/"
   },
   {
-    "title": "How to Make a Killing",
-    "url": "https://www.forumcinemas.lv/eng/event/304678/title/how_to_make_a_killing/"
+    "title": "Momo",
+    "url": "https://www.forumcinemas.lv/eng/event/304672/title/momo/"
   },
   {
-    "title": "Marty Supreme",
-    "url": "https://www.forumcinemas.lv/eng/event/304634/title/marty_supreme/"
+    "title": "The Bride!",
+    "url": "https://www.forumcinemas.lv/eng/event/304627/title/the_bride/"
   },
   {
-    "title": "Hamnet",
-    "url": "https://www.forumcinemas.lv/eng/event/304625/title/hamnet/"
+    "title": "Scream 7",
+    "url": "https://www.forumcinemas.lv/eng/event/304628/title/scream_7/"
   },
   {
-    "title": "Crime 101",
-    "url": "https://www.forumcinemas.lv/eng/event/304671/title/crime_101/"
-  },
-  {
-    "title": "Sirât",
-    "url": "https://www.forumcinemas.lv/eng/event/304636/title/sir%C3%A2t/"
+    "title": "Primavera",
+    "url": "https://www.forumcinemas.lv/eng/event/304733/title/primavera/"
   },
   {
     "title": "Solo Mio",
     "url": "https://www.forumcinemas.lv/eng/event/304727/title/solo_mio/"
+  },
+  {
+    "title": "Couture",
+    "url": "https://www.forumcinemas.lv/eng/event/304680/title/couture/"
   },
   {
     "title": "Exhibition On Screen | Turner & Constable",
@@ -120,8 +76,16 @@
     "url": "https://www.forumcinemas.lv/eng/event/304611/title/howls_moving_castle_2004/"
   },
   {
+    "title": "Flesh, Blood, Even a Heart",
+    "url": "https://www.forumcinemas.lv/eng/event/304708/title/flesh_blood_even_a_heart/"
+  },
+  {
     "title": "The Shawshank Redemption (1994)",
     "url": "https://www.forumcinemas.lv/eng/event/304705/title/the_shawshank_redemption_1994/"
+  },
+  {
+    "title": "Hamnet",
+    "url": "https://www.forumcinemas.lv/eng/event/304625/title/hamnet/"
   },
   {
     "title": "Scarecrows",
@@ -136,12 +100,28 @@
     "url": "https://www.forumcinemas.lv/eng/event/304656/title/shelter/"
   },
   {
+    "title": "Marty Supreme",
+    "url": "https://www.forumcinemas.lv/eng/event/304634/title/marty_supreme/"
+  },
+  {
+    "title": "How to Make a Killing",
+    "url": "https://www.forumcinemas.lv/eng/event/304678/title/how_to_make_a_killing/"
+  },
+  {
+    "title": "The Housemaid",
+    "url": "https://www.forumcinemas.lv/eng/event/304575/title/the_housemaid/"
+  },
+  {
     "title": "Whistle",
     "url": "https://www.forumcinemas.lv/eng/event/304674/title/whistle/"
   },
   {
     "title": "Spirited Away (2001)",
     "url": "https://www.forumcinemas.lv/eng/event/304580/title/spirited_away_2001/"
+  },
+  {
+    "title": "Flow",
+    "url": "https://www.forumcinemas.lv/eng/event/304076/title/flow/"
   },
   {
     "title": "Fargo (1996)",
@@ -160,6 +140,10 @@
     "url": "https://www.forumcinemas.lv/eng/event/304729/title/how_to_steal_a_million_1966/"
   },
   {
+    "title": "Crime 101",
+    "url": "https://www.forumcinemas.lv/eng/event/304671/title/crime_101/"
+  },
+  {
     "title": "Madagascar (2005)",
     "url": "https://www.forumcinemas.lv/eng/event/304697/title/madagascar_2005/"
   },
@@ -176,6 +160,14 @@
     "url": "https://www.forumcinemas.lv/eng/event/304669/title/the_wizard_of_the_kremlin/"
   },
   {
+    "title": "Sirât",
+    "url": "https://www.forumcinemas.lv/eng/event/304636/title/sir%C3%A2t/"
+  },
+  {
+    "title": "Marsupilami",
+    "url": "https://www.forumcinemas.lv/eng/event/304720/title/marsupilami/"
+  },
+  {
     "title": "WALL-E (2008)",
     "url": "https://www.forumcinemas.lv/eng/event/299838/title/wall-e_2008/"
   },
@@ -184,12 +176,36 @@
     "url": "https://www.forumcinemas.lv/eng/event/304662/title/stray_kids_the_dominate_experience/"
   },
   {
+    "title": "Fuori",
+    "url": "https://www.forumcinemas.lv/eng/event/304737/title/fuori/"
+  },
+  {
     "title": "Clueless (1995)",
     "url": "https://www.forumcinemas.lv/eng/event/304739/title/clueless_1995/"
   },
   {
+    "title": "Sinners",
+    "url": "https://www.forumcinemas.lv/eng/event/304256/title/sinners/"
+  },
+  {
+    "title": "Private event",
+    "url": "https://www.forumcinemas.lv/eng/event/303398/title/private_event/"
+  },
+  {
     "title": "Showgirls (1995)",
     "url": "https://www.forumcinemas.lv/eng/event/304707/title/showgirls_1995/"
+  },
+  {
+    "title": "EPiC: Elvis Presley in Concert",
+    "url": "https://www.forumcinemas.lv/eng/event/304686/title/epic_elvis_presley_in_concert/"
+  },
+  {
+    "title": "I Swear",
+    "url": "https://www.forumcinemas.lv/eng/event/304679/title/i_swear/"
+  },
+  {
+    "title": "One Battle After Another",
+    "url": "https://www.forumcinemas.lv/eng/event/304397/title/one_battle_after_another/"
   },
   {
     "title": "Woolf Works | The Royal Ballet",

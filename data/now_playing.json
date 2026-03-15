@@ -1,11 +1,11 @@
 [
   {
-    "title": "Marsupilami",
-    "url": "https://www.forumcinemas.lv/eng/event/304720/title/marsupilami/"
-  },
-  {
     "title": "GOAT",
     "url": "https://www.forumcinemas.lv/eng/event/304673/title/goat/"
+  },
+  {
+    "title": "Marsupilami",
+    "url": "https://www.forumcinemas.lv/eng/event/304720/title/marsupilami/"
   },
   {
     "title": "Zootopia 2",
@@ -28,80 +28,32 @@
     "url": "https://www.forumcinemas.lv/eng/event/304608/title/the_spongebob_movie_search_for_squarepants/"
   },
   {
-    "title": "Fuori",
-    "url": "https://www.forumcinemas.lv/eng/event/304737/title/fuori/"
-  },
-  {
-    "title": "Avatar: Fire and Ash",
-    "url": "https://www.forumcinemas.lv/eng/event/304298/title/avatar_fire_and_ash/"
+    "title": "Primavera",
+    "url": "https://www.forumcinemas.lv/eng/event/304733/title/primavera/"
   },
   {
     "title": "Wuthering Heights",
     "url": "https://www.forumcinemas.lv/eng/event/304594/title/wuthering_heights/"
   },
   {
-    "title": "Solo Mio",
-    "url": "https://www.forumcinemas.lv/eng/event/304727/title/solo_mio/"
+    "title": "Flesh, Blood, Even a Heart",
+    "url": "https://www.forumcinemas.lv/eng/event/304708/title/flesh_blood_even_a_heart/"
+  },
+  {
+    "title": "Momo",
+    "url": "https://www.forumcinemas.lv/eng/event/304672/title/momo/"
   },
   {
     "title": "The Bride!",
     "url": "https://www.forumcinemas.lv/eng/event/304627/title/the_bride/"
   },
   {
-    "title": "Escape Net",
-    "url": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/"
-  },
-  {
-    "title": "Primavera",
-    "url": "https://www.forumcinemas.lv/eng/event/304733/title/primavera/"
-  },
-  {
-    "title": "Labyrinth (1986)",
-    "url": "https://www.forumcinemas.lv/eng/event/304714/title/labyrinth_1986/"
-  },
-  {
-    "title": "How to Make a Killing",
-    "url": "https://www.forumcinemas.lv/eng/event/304678/title/how_to_make_a_killing/"
-  },
-  {
-    "title": "Madagascar (2005)",
-    "url": "https://www.forumcinemas.lv/eng/event/304697/title/madagascar_2005/"
-  },
-  {
     "title": "Scream 7",
     "url": "https://www.forumcinemas.lv/eng/event/304628/title/scream_7/"
   },
   {
-    "title": "Private event",
-    "url": "https://www.forumcinemas.lv/eng/event/303398/title/private_event/"
-  },
-  {
-    "title": "Red Code Blue",
-    "url": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/"
-  },
-  {
-    "title": "The Shawshank Redemption (1994)",
-    "url": "https://www.forumcinemas.lv/eng/event/304705/title/the_shawshank_redemption_1994/"
-  },
-  {
-    "title": "Flesh, Blood, Even a Heart",
-    "url": "https://www.forumcinemas.lv/eng/event/304708/title/flesh_blood_even_a_heart/"
-  },
-  {
-    "title": "The Housemaid",
-    "url": "https://www.forumcinemas.lv/eng/event/304575/title/the_housemaid/"
-  },
-  {
-    "title": "The Wizard of the Kremlin",
-    "url": "https://www.forumcinemas.lv/eng/event/304669/title/the_wizard_of_the_kremlin/"
-  },
-  {
-    "title": "Whistle",
-    "url": "https://www.forumcinemas.lv/eng/event/304674/title/whistle/"
-  },
-  {
-    "title": "Momo",
-    "url": "https://www.forumcinemas.lv/eng/event/304672/title/momo/"
+    "title": "Avatar: Fire and Ash",
+    "url": "https://www.forumcinemas.lv/eng/event/304298/title/avatar_fire_and_ash/"
   },
   {
     "title": "Hamnet",
@@ -112,16 +64,40 @@
     "url": "https://www.forumcinemas.lv/eng/event/299838/title/wall-e_2008/"
   },
   {
+    "title": "Labyrinth (1986)",
+    "url": "https://www.forumcinemas.lv/eng/event/304714/title/labyrinth_1986/"
+  },
+  {
     "title": "Couture",
     "url": "https://www.forumcinemas.lv/eng/event/304680/title/couture/"
+  },
+  {
+    "title": "Private event",
+    "url": "https://www.forumcinemas.lv/eng/event/303398/title/private_event/"
   },
   {
     "title": "Showgirls (1995)",
     "url": "https://www.forumcinemas.lv/eng/event/304707/title/showgirls_1995/"
   },
   {
+    "title": "Solo Mio",
+    "url": "https://www.forumcinemas.lv/eng/event/304727/title/solo_mio/"
+  },
+  {
+    "title": "How to Make a Killing",
+    "url": "https://www.forumcinemas.lv/eng/event/304678/title/how_to_make_a_killing/"
+  },
+  {
+    "title": "The Housemaid",
+    "url": "https://www.forumcinemas.lv/eng/event/304575/title/the_housemaid/"
+  },
+  {
     "title": "Marty Supreme",
     "url": "https://www.forumcinemas.lv/eng/event/304634/title/marty_supreme/"
+  },
+  {
+    "title": "Fuori",
+    "url": "https://www.forumcinemas.lv/eng/event/304737/title/fuori/"
   },
   {
     "title": "Crime 101",
@@ -140,8 +116,16 @@
     "url": "https://www.forumcinemas.lv/eng/event/304397/title/one_battle_after_another/"
   },
   {
+    "title": "The Wizard of the Kremlin",
+    "url": "https://www.forumcinemas.lv/eng/event/304669/title/the_wizard_of_the_kremlin/"
+  },
+  {
     "title": "Shelter",
     "url": "https://www.forumcinemas.lv/eng/event/304656/title/shelter/"
+  },
+  {
+    "title": "Escape Net",
+    "url": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/"
   },
   {
     "title": "Woolf Works | The Royal Ballet",
@@ -150,6 +134,10 @@
   {
     "title": "Sinners",
     "url": "https://www.forumcinemas.lv/eng/event/304256/title/sinners/"
+  },
+  {
+    "title": "Red Code Blue",
+    "url": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/"
   },
   {
     "title": "Tales from the Magic Garden",
@@ -234,6 +222,10 @@
   {
     "title": "The Dark Knight (2008)",
     "url": "https://www.forumcinemas.lv/eng/event/299710/title/the_dark_knight_2008/"
+  },
+  {
+    "title": "The Shawshank Redemption (1994)",
+    "url": "https://www.forumcinemas.lv/eng/event/304705/title/the_shawshank_redemption_1994/"
   },
   {
     "title": "Bring Me The Horizon - L.I.V.E. in São Paulo",

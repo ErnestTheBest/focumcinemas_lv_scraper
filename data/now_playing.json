@@ -1,7 +1,15 @@
 [
   {
-    "title": "Sirât",
-    "url": "https://www.forumcinemas.lv/eng/event/304636/title/sir%C3%A2t/"
+    "title": "Project Hail Mary",
+    "url": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/"
+  },
+  {
+    "title": "Escape Net",
+    "url": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/"
+  },
+  {
+    "title": "Sentimental Value",
+    "url": "https://www.forumcinemas.lv/eng/event/304592/title/sentimental_value/"
   },
   {
     "title": "GOAT",
@@ -12,36 +20,32 @@
     "url": "https://www.forumcinemas.lv/eng/event/304718/title/tales_from_the_magic_garden/"
   },
   {
-    "title": "Fuori",
-    "url": "https://www.forumcinemas.lv/eng/event/304737/title/fuori/"
-  },
-  {
-    "title": "Marsupilami",
-    "url": "https://www.forumcinemas.lv/eng/event/304720/title/marsupilami/"
+    "title": "Primavera",
+    "url": "https://www.forumcinemas.lv/eng/event/304733/title/primavera/"
   },
   {
     "title": "Perfect Strangers",
     "url": "https://www.forumcinemas.lv/eng/event/304657/title/perfect_strangers/"
   },
   {
-    "title": "Avatar: Fire and Ash",
-    "url": "https://www.forumcinemas.lv/eng/event/304298/title/avatar_fire_and_ash/"
-  },
-  {
-    "title": "The Bride!",
-    "url": "https://www.forumcinemas.lv/eng/event/304627/title/the_bride/"
-  },
-  {
-    "title": "Flesh, Blood, Even a Heart",
-    "url": "https://www.forumcinemas.lv/eng/event/304708/title/flesh_blood_even_a_heart/"
-  },
-  {
-    "title": "Sinners",
-    "url": "https://www.forumcinemas.lv/eng/event/304256/title/sinners/"
+    "title": "Hamnet",
+    "url": "https://www.forumcinemas.lv/eng/event/304625/title/hamnet/"
   },
   {
     "title": "How to Make a Killing",
     "url": "https://www.forumcinemas.lv/eng/event/304678/title/how_to_make_a_killing/"
+  },
+  {
+    "title": "Marsupilami",
+    "url": "https://www.forumcinemas.lv/eng/event/304720/title/marsupilami/"
+  },
+  {
+    "title": "Wuthering Heights",
+    "url": "https://www.forumcinemas.lv/eng/event/304594/title/wuthering_heights/"
+  },
+  {
+    "title": "Flesh, Blood, Even a Heart",
+    "url": "https://www.forumcinemas.lv/eng/event/304708/title/flesh_blood_even_a_heart/"
   },
   {
     "title": "Scream 7",
@@ -52,60 +56,28 @@
     "url": "https://www.forumcinemas.lv/eng/event/304681/title/hoppers/"
   },
   {
-    "title": "Couture",
-    "url": "https://www.forumcinemas.lv/eng/event/304680/title/couture/"
+    "title": "Fuori",
+    "url": "https://www.forumcinemas.lv/eng/event/304737/title/fuori/"
   },
   {
     "title": "Reminders of Him",
     "url": "https://www.forumcinemas.lv/eng/event/304719/title/reminders_of_him/"
   },
   {
-    "title": "Wuthering Heights",
-    "url": "https://www.forumcinemas.lv/eng/event/304594/title/wuthering_heights/"
+    "title": "Sinners",
+    "url": "https://www.forumcinemas.lv/eng/event/304256/title/sinners/"
   },
   {
-    "title": "Hamnet",
-    "url": "https://www.forumcinemas.lv/eng/event/304625/title/hamnet/"
-  },
-  {
-    "title": "NT LIVE: Inter Alia",
-    "url": "https://www.forumcinemas.lv/eng/event/304374/title/nt_live_inter_alia/"
-  },
-  {
-    "title": "The Secret Agent",
-    "url": "https://www.forumcinemas.lv/eng/event/304562/title/the_secret_agent/"
-  },
-  {
-    "title": "Project Hail Mary",
-    "url": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/"
-  },
-  {
-    "title": "Sentimental Value",
-    "url": "https://www.forumcinemas.lv/eng/event/304592/title/sentimental_value/"
-  },
-  {
-    "title": "The Housemaid",
-    "url": "https://www.forumcinemas.lv/eng/event/304575/title/the_housemaid/"
+    "title": "Solo Mio",
+    "url": "https://www.forumcinemas.lv/eng/event/304727/title/solo_mio/"
   },
   {
     "title": "Marty Supreme",
     "url": "https://www.forumcinemas.lv/eng/event/304634/title/marty_supreme/"
   },
   {
-    "title": "Crime 101",
-    "url": "https://www.forumcinemas.lv/eng/event/304671/title/crime_101/"
-  },
-  {
-    "title": "Escape Net",
-    "url": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/"
-  },
-  {
-    "title": "Primavera",
-    "url": "https://www.forumcinemas.lv/eng/event/304733/title/primavera/"
-  },
-  {
-    "title": "Solo Mio",
-    "url": "https://www.forumcinemas.lv/eng/event/304727/title/solo_mio/"
+    "title": "The Bride!",
+    "url": "https://www.forumcinemas.lv/eng/event/304627/title/the_bride/"
   },
   {
     "title": "Clueless (1995)",
@@ -118,6 +90,14 @@
   {
     "title": "Dhurandhar: The Revenge",
     "url": "https://www.forumcinemas.lv/eng/event/304742/title/dhurandhar_the_revenge/"
+  },
+  {
+    "title": "Sirât",
+    "url": "https://www.forumcinemas.lv/eng/event/304636/title/sir%C3%A2t/"
+  },
+  {
+    "title": "The Housemaid",
+    "url": "https://www.forumcinemas.lv/eng/event/304575/title/the_housemaid/"
   },
   {
     "title": "The Pout-Pout Fish",
@@ -152,6 +132,10 @@
     "url": "https://www.forumcinemas.lv/eng/event/304299/title/zootopia_2/"
   },
   {
+    "title": "Avatar: Fire and Ash",
+    "url": "https://www.forumcinemas.lv/eng/event/304298/title/avatar_fire_and_ash/"
+  },
+  {
     "title": "MET Opera: Tristan und Isolde",
     "url": "https://www.forumcinemas.lv/eng/event/304456/title/met_opera_tristan_und_isolde/"
   },
@@ -170,6 +154,10 @@
   {
     "title": "I Swear",
     "url": "https://www.forumcinemas.lv/eng/event/304679/title/i_swear/"
+  },
+  {
+    "title": "Couture",
+    "url": "https://www.forumcinemas.lv/eng/event/304680/title/couture/"
   },
   {
     "title": "IL VOLO at the Valley of the Temples",
@@ -280,8 +268,8 @@
     "url": "https://www.forumcinemas.lv/eng/event/302579/title/the_lord_of_the_rings_the_return_of_the_king_2003/"
   },
   {
-    "title": "Rēcīgie komentāri: Eat Pray Love (2010)",
-    "url": "https://www.forumcinemas.lv/eng/event/304746/title/r%C4%93c%C4%ABgie_koment%C4%81ri_eat_pray_love_2010/"
+    "title": "Stand-up kino | Eat Pray Love (2010)",
+    "url": "https://www.forumcinemas.lv/eng/event/304746/title/stand-up_kino_eat_pray_love_2010/"
   },
   {
     "title": "RoboCop (Director’s Cut) (1987)",

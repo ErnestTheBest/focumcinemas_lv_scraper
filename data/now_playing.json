@@ -1,99 +1,7 @@
 [
   {
-    "title": "The Thing with Feathers",
-    "url": "https://www.forumcinemas.lv/eng/event/304726/title/the_thing_with_feathers/"
-  },
-  {
-    "title": "Zootopia 2",
-    "url": "https://www.forumcinemas.lv/eng/event/304299/title/zootopia_2/"
-  },
-  {
-    "title": "Project Hail Mary",
-    "url": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/"
-  },
-  {
-    "title": "Perfect Strangers",
-    "url": "https://www.forumcinemas.lv/eng/event/304657/title/perfect_strangers/"
-  },
-  {
     "title": "Hoppers",
     "url": "https://www.forumcinemas.lv/eng/event/304681/title/hoppers/"
-  },
-  {
-    "title": "Primavera",
-    "url": "https://www.forumcinemas.lv/eng/event/304733/title/primavera/"
-  },
-  {
-    "title": "Avatar: Fire and Ash",
-    "url": "https://www.forumcinemas.lv/eng/event/304298/title/avatar_fire_and_ash/"
-  },
-  {
-    "title": "Wuthering Heights",
-    "url": "https://www.forumcinemas.lv/eng/event/304594/title/wuthering_heights/"
-  },
-  {
-    "title": "Marty Supreme",
-    "url": "https://www.forumcinemas.lv/eng/event/304634/title/marty_supreme/"
-  },
-  {
-    "title": "The Chronology of Water",
-    "url": "https://www.forumcinemas.lv/eng/event/304624/title/the_chronology_of_water/"
-  },
-  {
-    "title": "They Will Kill You",
-    "url": "https://www.forumcinemas.lv/eng/event/304725/title/they_will_kill_you/"
-  },
-  {
-    "title": "Ready or Not 2: Here I Come",
-    "url": "https://www.forumcinemas.lv/eng/event/304723/title/ready_or_not_2_here_i_come/"
-  },
-  {
-    "title": "Reminders of Him",
-    "url": "https://www.forumcinemas.lv/eng/event/304719/title/reminders_of_him/"
-  },
-  {
-    "title": "Hamnet",
-    "url": "https://www.forumcinemas.lv/eng/event/304625/title/hamnet/"
-  },
-  {
-    "title": "Scarecrows",
-    "url": "https://www.forumcinemas.lv/eng/event/304734/title/scarecrows/"
-  },
-  {
-    "title": "Scream 7",
-    "url": "https://www.forumcinemas.lv/eng/event/304628/title/scream_7/"
-  },
-  {
-    "title": "Flesh, Blood, Even a Heart",
-    "url": "https://www.forumcinemas.lv/eng/event/304708/title/flesh_blood_even_a_heart/"
-  },
-  {
-    "title": "Dhurandhar: The Revenge",
-    "url": "https://www.forumcinemas.lv/eng/event/304742/title/dhurandhar_the_revenge/"
-  },
-  {
-    "title": "Clueless (1995)",
-    "url": "https://www.forumcinemas.lv/eng/event/304739/title/clueless_1995/"
-  },
-  {
-    "title": "Bring Me The Horizon - L.I.V.E. in São Paulo",
-    "url": "https://www.forumcinemas.lv/eng/event/304716/title/bring_me_the_horizon_-_l_i_v_e_in_s%C3%A3o_paulo/"
-  },
-  {
-    "title": "One Battle After Another",
-    "url": "https://www.forumcinemas.lv/eng/event/304397/title/one_battle_after_another/"
-  },
-  {
-    "title": "The Wizard of the Kremlin",
-    "url": "https://www.forumcinemas.lv/eng/event/304669/title/the_wizard_of_the_kremlin/"
-  },
-  {
-    "title": "How to Make a Killing",
-    "url": "https://www.forumcinemas.lv/eng/event/304678/title/how_to_make_a_killing/"
-  },
-  {
-    "title": "Couture",
-    "url": "https://www.forumcinemas.lv/eng/event/304680/title/couture/"
   },
   {
     "title": "The Pout-Pout Fish",
@@ -104,12 +12,24 @@
     "url": "https://www.forumcinemas.lv/eng/event/304718/title/tales_from_the_magic_garden/"
   },
   {
+    "title": "Zootopia 2",
+    "url": "https://www.forumcinemas.lv/eng/event/304299/title/zootopia_2/"
+  },
+  {
+    "title": "Project Hail Mary",
+    "url": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/"
+  },
+  {
     "title": "Momo",
     "url": "https://www.forumcinemas.lv/eng/event/304672/title/momo/"
   },
   {
     "title": "Marsupilami",
     "url": "https://www.forumcinemas.lv/eng/event/304720/title/marsupilami/"
+  },
+  {
+    "title": "Perfect Strangers",
+    "url": "https://www.forumcinemas.lv/eng/event/304657/title/perfect_strangers/"
   },
   {
     "title": "Kangaroo",
@@ -128,6 +48,30 @@
     "url": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/"
   },
   {
+    "title": "Ready or Not 2: Here I Come",
+    "url": "https://www.forumcinemas.lv/eng/event/304723/title/ready_or_not_2_here_i_come/"
+  },
+  {
+    "title": "Marty Supreme",
+    "url": "https://www.forumcinemas.lv/eng/event/304634/title/marty_supreme/"
+  },
+  {
+    "title": "Wuthering Heights",
+    "url": "https://www.forumcinemas.lv/eng/event/304594/title/wuthering_heights/"
+  },
+  {
+    "title": "The Chronology of Water",
+    "url": "https://www.forumcinemas.lv/eng/event/304624/title/the_chronology_of_water/"
+  },
+  {
+    "title": "They Will Kill You",
+    "url": "https://www.forumcinemas.lv/eng/event/304725/title/they_will_kill_you/"
+  },
+  {
+    "title": "Reminders of Him",
+    "url": "https://www.forumcinemas.lv/eng/event/304719/title/reminders_of_him/"
+  },
+  {
     "title": "I Swear",
     "url": "https://www.forumcinemas.lv/eng/event/304679/title/i_swear/"
   },
@@ -136,16 +80,48 @@
     "url": "https://www.forumcinemas.lv/eng/event/304714/title/labyrinth_1986/"
   },
   {
+    "title": "Scream 7",
+    "url": "https://www.forumcinemas.lv/eng/event/304628/title/scream_7/"
+  },
+  {
+    "title": "One Battle After Another",
+    "url": "https://www.forumcinemas.lv/eng/event/304397/title/one_battle_after_another/"
+  },
+  {
+    "title": "Hamnet",
+    "url": "https://www.forumcinemas.lv/eng/event/304625/title/hamnet/"
+  },
+  {
+    "title": "Private event",
+    "url": "https://www.forumcinemas.lv/eng/event/303398/title/private_event/"
+  },
+  {
+    "title": "Bring Me The Horizon - L.I.V.E. in São Paulo",
+    "url": "https://www.forumcinemas.lv/eng/event/304716/title/bring_me_the_horizon_-_l_i_v_e_in_s%C3%A3o_paulo/"
+  },
+  {
     "title": "IL VOLO at the Valley of the Temples",
     "url": "https://www.forumcinemas.lv/eng/event/304732/title/il_volo_at_the_valley_of_the_temples/"
+  },
+  {
+    "title": "How to Make a Killing",
+    "url": "https://www.forumcinemas.lv/eng/event/304678/title/how_to_make_a_killing/"
   },
   {
     "title": "Fargo (1996)",
     "url": "https://www.forumcinemas.lv/eng/event/304721/title/fargo_1996/"
   },
   {
+    "title": "Dhurandhar: The Revenge",
+    "url": "https://www.forumcinemas.lv/eng/event/304742/title/dhurandhar_the_revenge/"
+  },
+  {
     "title": "Red Code Blue",
     "url": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/"
+  },
+  {
+    "title": "Flesh, Blood, Even a Heart",
+    "url": "https://www.forumcinemas.lv/eng/event/304708/title/flesh_blood_even_a_heart/"
   },
   {
     "title": "The Bride!",
@@ -168,6 +144,14 @@
     "url": "https://www.forumcinemas.lv/eng/event/304707/title/showgirls_1995/"
   },
   {
+    "title": "Avatar: Fire and Ash",
+    "url": "https://www.forumcinemas.lv/eng/event/304298/title/avatar_fire_and_ash/"
+  },
+  {
+    "title": "Couture",
+    "url": "https://www.forumcinemas.lv/eng/event/304680/title/couture/"
+  },
+  {
     "title": "Franz",
     "url": "https://www.forumcinemas.lv/eng/event/304688/title/franz/"
   },
@@ -176,8 +160,16 @@
     "url": "https://www.forumcinemas.lv/eng/event/304256/title/sinners/"
   },
   {
+    "title": "The Wizard of the Kremlin",
+    "url": "https://www.forumcinemas.lv/eng/event/304669/title/the_wizard_of_the_kremlin/"
+  },
+  {
     "title": "Solo Mio",
     "url": "https://www.forumcinemas.lv/eng/event/304727/title/solo_mio/"
+  },
+  {
+    "title": "Scarecrows",
+    "url": "https://www.forumcinemas.lv/eng/event/304734/title/scarecrows/"
   },
   {
     "title": "Sudden Lights arēnā",
@@ -186,6 +178,14 @@
   {
     "title": "Sirât",
     "url": "https://www.forumcinemas.lv/eng/event/304636/title/sir%C3%A2t/"
+  },
+  {
+    "title": "The Thing with Feathers",
+    "url": "https://www.forumcinemas.lv/eng/event/304726/title/the_thing_with_feathers/"
+  },
+  {
+    "title": "Primavera",
+    "url": "https://www.forumcinemas.lv/eng/event/304733/title/primavera/"
   },
   {
     "title": "The Secret Agent",

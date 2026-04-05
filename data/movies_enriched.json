@@ -1,32 +1,5 @@
 [
   {
-    "title": "The Super Mario Galaxy Movie",
-    "releaseYear": 2026,
-    "genres": "Animation, Adventure, Comedy",
-    "imdbId": "tt28650488",
-    "imdbUrl": "https://www.imdb.com/title/tt28650488/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304620/title/the_super_mario_galaxy_movie/",
-    "imdbRating": 6.6
-  },
-  {
-    "title": "Hoppers",
-    "releaseYear": 2026,
-    "genres": "Animation, Adventure, Comedy",
-    "imdbId": "tt26443616",
-    "imdbUrl": "https://www.imdb.com/title/tt26443616/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304681/title/hoppers/",
-    "imdbRating": 7.5
-  },
-  {
-    "title": "The Pout-Pout Fish",
-    "releaseYear": 2026,
-    "genres": "Animation, Adventure, Comedy",
-    "imdbId": "tt12824390",
-    "imdbUrl": "https://www.imdb.com/title/tt12824390/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304724/title/the_pout-pout_fish/",
-    "imdbRating": 5.3
-  },
-  {
     "title": "Arco",
     "releaseYear": 2025,
     "genres": "Animation, Adventure, Fantasy",
@@ -34,6 +7,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt14883538/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304755/title/arco/",
     "imdbRating": 7.3
+  },
+  {
+    "title": "The Super Mario Galaxy Movie",
+    "releaseYear": 2026,
+    "genres": "Animation, Adventure, Comedy",
+    "imdbId": "tt28650488",
+    "imdbUrl": "https://www.imdb.com/title/tt28650488/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304620/title/the_super_mario_galaxy_movie/",
+    "imdbRating": 6.6
   },
   {
     "title": "Perfect Strangers",
@@ -45,13 +27,13 @@
     "imdbRating": 8.1
   },
   {
-    "title": "Marsupilami",
+    "title": "Hoppers",
     "releaseYear": 2026,
-    "genres": "Adventure, Comedy, Family",
-    "imdbId": "tt33029380",
-    "imdbUrl": "https://www.imdb.com/title/tt33029380/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304720/title/marsupilami/",
-    "imdbRating": 6.4
+    "genres": "Animation, Adventure, Comedy",
+    "imdbId": "tt26443616",
+    "imdbUrl": "https://www.imdb.com/title/tt26443616/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304681/title/hoppers/",
+    "imdbRating": 7.5
   },
   {
     "title": "Project Hail Mary",
@@ -63,22 +45,22 @@
     "imdbRating": 8.4
   },
   {
-    "title": "Escape Net",
+    "title": "Primavera",
     "releaseYear": 2025,
-    "genres": "Biography, Drama, Sport",
-    "imdbId": "tt21043190",
-    "imdbUrl": "https://www.imdb.com/title/tt21043190/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/",
-    "imdbRating": 8.4
+    "genres": "Biography, Drama, History",
+    "imdbId": "tt33586629",
+    "imdbUrl": "https://www.imdb.com/title/tt33586629/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304733/title/primavera/",
+    "imdbRating": 7.2
   },
   {
-    "title": "GOAT",
+    "title": "The Pout-Pout Fish",
     "releaseYear": 2026,
-    "genres": "Animation, Action, Adventure",
-    "imdbId": "tt27613895",
-    "imdbUrl": "https://www.imdb.com/title/tt27613895/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304673/title/goat/",
-    "imdbRating": 6.7
+    "genres": "Animation, Adventure, Comedy",
+    "imdbId": "tt12824390",
+    "imdbUrl": "https://www.imdb.com/title/tt12824390/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304724/title/the_pout-pout_fish/",
+    "imdbRating": 5.2
   },
   {
     "title": "Wuthering Heights",
@@ -99,13 +81,31 @@
     "imdbRating": 7.6
   },
   {
-    "title": "Ready or Not 2: Here I Come",
+    "title": "GOAT",
     "releaseYear": 2026,
-    "genres": "Comedy, Horror, Thriller",
-    "imdbId": "tt33978029",
-    "imdbUrl": "https://www.imdb.com/title/tt33978029/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304723/title/ready_or_not_2_here_i_come/",
-    "imdbRating": 6.9
+    "genres": "Animation, Action, Adventure",
+    "imdbId": "tt27613895",
+    "imdbUrl": "https://www.imdb.com/title/tt27613895/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304673/title/goat/",
+    "imdbRating": 6.7
+  },
+  {
+    "title": "Reminders of Him",
+    "releaseYear": 2026,
+    "genres": "Drama, Romance",
+    "imdbId": "tt33714084",
+    "imdbUrl": "https://www.imdb.com/title/tt33714084/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304719/title/reminders_of_him/",
+    "imdbRating": 6.4
+  },
+  {
+    "title": "The Wizard of the Kremlin",
+    "releaseYear": 2026,
+    "genres": "Drama, History, Thriller",
+    "imdbId": "tt32386654",
+    "imdbUrl": "https://www.imdb.com/title/tt32386654/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304669/title/the_wizard_of_the_kremlin/",
+    "imdbRating": 6.1
   },
   {
     "title": "They Will Kill You",
@@ -126,103 +126,13 @@
     "imdbRating": 6.5
   },
   {
-    "title": "Scream 7",
-    "releaseYear": 2026,
-    "genres": "Horror, Mystery",
-    "imdbId": "tt27047903",
-    "imdbUrl": "https://www.imdb.com/title/tt27047903/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304628/title/scream_7/",
-    "imdbRating": 5.6
-  },
-  {
-    "title": "The Chronology of Water",
-    "releaseYear": 2026,
-    "genres": "Biography, Drama, Romance",
-    "imdbId": "tt8667404",
-    "imdbUrl": "https://www.imdb.com/title/tt8667404/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304624/title/the_chronology_of_water/",
-    "imdbRating": 6.4
-  },
-  {
-    "title": "Spirited Away (2001)",
-    "releaseYear": 2003,
-    "genres": "Animation, Adventure, Family",
-    "imdbId": "tt0245429",
-    "imdbUrl": "https://www.imdb.com/title/tt0245429/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304580/title/spirited_away_2001/",
-    "imdbRating": 8.6
-  },
-  {
-    "title": "Reminders of Him",
-    "releaseYear": 2026,
-    "genres": "Drama, Romance",
-    "imdbId": "tt33714084",
-    "imdbUrl": "https://www.imdb.com/title/tt33714084/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304719/title/reminders_of_him/",
-    "imdbRating": 6.4
-  },
-  {
-    "title": "How to Steal a Million (1966)",
-    "releaseYear": 1966,
-    "genres": "Comedy, Crime, Romance",
-    "imdbId": "tt0060522",
-    "imdbUrl": "https://www.imdb.com/title/tt0060522/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304729/title/how_to_steal_a_million_1966/",
-    "imdbRating": 7.5
-  },
-  {
-    "title": "Back to the Future Part II (1989)",
-    "releaseYear": 1989,
-    "genres": "Adventure, Comedy, Sci-Fi",
-    "imdbId": "tt0096874",
-    "imdbUrl": "https://www.imdb.com/title/tt0096874/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/301739/title/back_to_the_future_part_ii_1989/",
-    "imdbRating": 7.8
-  },
-  {
-    "title": "The Thing with Feathers",
+    "title": "Escape Net",
     "releaseYear": 2025,
-    "genres": "Drama",
-    "imdbId": "tt27773954",
-    "imdbUrl": "https://www.imdb.com/title/tt27773954/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304726/title/the_thing_with_feathers/",
-    "imdbRating": 5.7
-  },
-  {
-    "title": "Flesh, Blood, Even a Heart",
-    "releaseYear": 2025,
-    "genres": "Comedy, Drama",
-    "imdbId": "tt31777665",
-    "imdbUrl": "https://www.imdb.com/title/tt31777665/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304708/title/flesh_blood_even_a_heart/",
-    "imdbRating": 7.2
-  },
-  {
-    "title": "Red Code Blue",
-    "releaseYear": 2025,
-    "genres": "Action, Crime, Drama",
-    "imdbId": "tt38573816",
-    "imdbUrl": "https://www.imdb.com/title/tt38573816/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/",
-    "imdbRating": 8.5
-  },
-  {
-    "title": "Primavera",
-    "releaseYear": 2025,
-    "genres": "Biography, Drama, History",
-    "imdbId": "tt33586629",
-    "imdbUrl": "https://www.imdb.com/title/tt33586629/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304733/title/primavera/",
-    "imdbRating": 7.2
-  },
-  {
-    "title": "The Wizard of the Kremlin",
-    "releaseYear": 2026,
-    "genres": "Drama, History, Thriller",
-    "imdbId": "tt32386654",
-    "imdbUrl": "https://www.imdb.com/title/tt32386654/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304669/title/the_wizard_of_the_kremlin/",
-    "imdbRating": 6.1
+    "genres": "Biography, Drama, Sport",
+    "imdbId": "tt21043190",
+    "imdbUrl": "https://www.imdb.com/title/tt21043190/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/",
+    "imdbRating": 8.4
   },
   {
     "title": "My Neighbour Totoro (1988)",
@@ -232,6 +142,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt0096283/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304579/title/my_neighbour_totoro_1988/",
     "imdbRating": 8.1
+  },
+  {
+    "title": "Scream 7",
+    "releaseYear": 2026,
+    "genres": "Horror, Mystery",
+    "imdbId": "tt27047903",
+    "imdbUrl": "https://www.imdb.com/title/tt27047903/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304628/title/scream_7/",
+    "imdbRating": 5.6
   },
   {
     "title": "Back to the Future Part III (1990)",
@@ -252,6 +171,33 @@
     "imdbRating": 8.1
   },
   {
+    "title": "The Chronology of Water",
+    "releaseYear": 2026,
+    "genres": "Biography, Drama, Romance",
+    "imdbId": "tt8667404",
+    "imdbUrl": "https://www.imdb.com/title/tt8667404/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304624/title/the_chronology_of_water/",
+    "imdbRating": 6.4
+  },
+  {
+    "title": "Ready or Not 2: Here I Come",
+    "releaseYear": 2026,
+    "genres": "Comedy, Horror, Thriller",
+    "imdbId": "tt33978029",
+    "imdbUrl": "https://www.imdb.com/title/tt33978029/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304723/title/ready_or_not_2_here_i_come/",
+    "imdbRating": 6.9
+  },
+  {
+    "title": "Red Code Blue",
+    "releaseYear": 2025,
+    "genres": "Action, Crime, Drama",
+    "imdbId": "tt38573816",
+    "imdbUrl": "https://www.imdb.com/title/tt38573816/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/",
+    "imdbRating": 8.5
+  },
+  {
     "title": "Avatar: Fire and Ash",
     "releaseYear": 2025,
     "genres": "Animation, Action, Adventure",
@@ -259,6 +205,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt1757678/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304298/title/avatar_fire_and_ash/",
     "imdbRating": 7.3
+  },
+  {
+    "title": "The Thing with Feathers",
+    "releaseYear": 2025,
+    "genres": "Drama",
+    "imdbId": "tt27773954",
+    "imdbUrl": "https://www.imdb.com/title/tt27773954/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304726/title/the_thing_with_feathers/",
+    "imdbRating": 5.7
   },
   {
     "title": "The Bride!",
@@ -270,6 +225,15 @@
     "imdbRating": 5.8
   },
   {
+    "title": "Flesh, Blood, Even a Heart",
+    "releaseYear": 2025,
+    "genres": "Comedy, Drama",
+    "imdbId": "tt31777665",
+    "imdbUrl": "https://www.imdb.com/title/tt31777665/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304708/title/flesh_blood_even_a_heart/",
+    "imdbRating": 7.1
+  },
+  {
     "title": "How to Make a Killing",
     "releaseYear": 2026,
     "genres": "Comedy, Drama, Thriller",
@@ -277,6 +241,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt4357198/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304678/title/how_to_make_a_killing/",
     "imdbRating": 6.5
+  },
+  {
+    "title": "Marsupilami",
+    "releaseYear": 2026,
+    "genres": "Adventure, Comedy, Family",
+    "imdbId": "tt33029380",
+    "imdbUrl": "https://www.imdb.com/title/tt33029380/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304720/title/marsupilami/",
+    "imdbRating": 6.4
   },
   {
     "title": "Zootopia 2",
@@ -466,6 +439,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt0240772/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/299497/title/oceans_eleven_2001/",
     "imdbRating": 7.7
+  },
+  {
+    "title": "Back to the Future Part II (1989)",
+    "releaseYear": 1989,
+    "genres": "Adventure, Comedy, Sci-Fi",
+    "imdbId": "tt0096874",
+    "imdbUrl": "https://www.imdb.com/title/tt0096874/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/301739/title/back_to_the_future_part_ii_1989/",
+    "imdbRating": 7.8
   },
   {
     "title": "Eat Pray Love (2010)",

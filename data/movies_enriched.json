@@ -1,23 +1,5 @@
 [
   {
-    "title": "Project Hail Mary",
-    "releaseYear": 2026,
-    "genres": "Adventure, Comedy, Sci-Fi",
-    "imdbId": "tt12042730",
-    "imdbUrl": "https://www.imdb.com/title/tt12042730/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/",
-    "imdbRating": 8.4
-  },
-  {
-    "title": "Perfect Strangers",
-    "releaseYear": 2026,
-    "genres": "Comedy, Drama",
-    "imdbId": "tt39109902",
-    "imdbUrl": "https://www.imdb.com/title/tt39109902/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304657/title/perfect_strangers/",
-    "imdbRating": 8.1
-  },
-  {
     "title": "Hoppers",
     "releaseYear": 2026,
     "genres": "Animation, Adventure, Comedy",
@@ -25,33 +7,6 @@
     "imdbUrl": "https://www.imdb.com/title/tt26443616/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304681/title/hoppers/",
     "imdbRating": 7.5
-  },
-  {
-    "title": "Love In Separate Beds",
-    "releaseYear": 2026,
-    "genres": "Comedy",
-    "imdbId": "tt36284371",
-    "imdbUrl": "https://www.imdb.com/title/tt36284371/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304754/title/love_in_separate_beds/",
-    "imdbRating": 6.5
-  },
-  {
-    "title": "The Housemaid",
-    "releaseYear": 2025,
-    "genres": "Drama, Mystery, Thriller",
-    "imdbId": "tt27543632",
-    "imdbUrl": "https://www.imdb.com/title/tt27543632/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304575/title/the_housemaid/",
-    "imdbRating": 6.8
-  },
-  {
-    "title": "Marsupilami",
-    "releaseYear": 2026,
-    "genres": "Adventure, Comedy, Family",
-    "imdbId": "tt33029380",
-    "imdbUrl": "https://www.imdb.com/title/tt33029380/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304720/title/marsupilami/",
-    "imdbRating": 6.4
   },
   {
     "title": "The Drama",
@@ -72,69 +27,6 @@
     "imdbRating": 6.5
   },
   {
-    "title": "Wuthering Heights",
-    "releaseYear": 2026,
-    "genres": "Drama, Romance",
-    "imdbId": "tt32897959",
-    "imdbUrl": "https://www.imdb.com/title/tt32897959/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304594/title/wuthering_heights/",
-    "imdbRating": 6.2
-  },
-  {
-    "title": "Ready or Not 2: Here I Come",
-    "releaseYear": 2026,
-    "genres": "Comedy, Horror, Thriller",
-    "imdbId": "tt33978029",
-    "imdbUrl": "https://www.imdb.com/title/tt33978029/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304723/title/ready_or_not_2_here_i_come/",
-    "imdbRating": 6.9
-  },
-  {
-    "title": "They Will Kill You",
-    "releaseYear": 2026,
-    "genres": "Action, Comedy, Horror",
-    "imdbId": "tt31728330",
-    "imdbUrl": "https://www.imdb.com/title/tt31728330/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304725/title/they_will_kill_you/",
-    "imdbRating": 6.5
-  },
-  {
-    "title": "Flesh, Blood, Even a Heart",
-    "releaseYear": 2025,
-    "genres": "Comedy, Drama",
-    "imdbId": "tt31777665",
-    "imdbUrl": "https://www.imdb.com/title/tt31777665/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304708/title/flesh_blood_even_a_heart/",
-    "imdbRating": 7.3
-  },
-  {
-    "title": "The Lord of the Rings: The Fellowship of the Ring (2001)",
-    "releaseYear": 2001,
-    "genres": "Adventure, Drama, Fantasy",
-    "imdbId": "tt0120737",
-    "imdbUrl": "https://www.imdb.com/title/tt0120737/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/302577/title/the_lord_of_the_rings_the_fellowship_of_the_ring_2001/",
-    "imdbRating": 8.9
-  },
-  {
-    "title": "I Swear",
-    "releaseYear": 2026,
-    "genres": "Biography, Drama",
-    "imdbId": "tt31514146",
-    "imdbUrl": "https://www.imdb.com/title/tt31514146/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304679/title/i_swear/",
-    "imdbRating": 8.4
-  },
-  {
-    "title": "Scream 7",
-    "releaseYear": 2026,
-    "genres": "Horror, Mystery",
-    "imdbId": "tt27047903",
-    "imdbUrl": "https://www.imdb.com/title/tt27047903/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304628/title/scream_7/",
-    "imdbRating": 5.6
-  },
-  {
     "title": "The Pout-Pout Fish",
     "releaseYear": 2026,
     "genres": "Animation, Adventure, Comedy",
@@ -142,6 +34,33 @@
     "imdbUrl": "https://www.imdb.com/title/tt12824390/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304724/title/the_pout-pout_fish/",
     "imdbRating": 5.2
+  },
+  {
+    "title": "The Housemaid",
+    "releaseYear": 2025,
+    "genres": "Drama, Mystery, Thriller",
+    "imdbId": "tt27543632",
+    "imdbUrl": "https://www.imdb.com/title/tt27543632/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304575/title/the_housemaid/",
+    "imdbRating": 6.8
+  },
+  {
+    "title": "Perfect Strangers",
+    "releaseYear": 2026,
+    "genres": "Comedy, Drama",
+    "imdbId": "tt39109902",
+    "imdbUrl": "https://www.imdb.com/title/tt39109902/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304657/title/perfect_strangers/",
+    "imdbRating": 8.1
+  },
+  {
+    "title": "Project Hail Mary",
+    "releaseYear": 2026,
+    "genres": "Adventure, Comedy, Sci-Fi",
+    "imdbId": "tt12042730",
+    "imdbUrl": "https://www.imdb.com/title/tt12042730/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/",
+    "imdbRating": 8.4
   },
   {
     "title": "Zootopia 2",
@@ -171,6 +90,33 @@
     "imdbRating": 8.4
   },
   {
+    "title": "Ready or Not 2: Here I Come",
+    "releaseYear": 2026,
+    "genres": "Comedy, Horror, Thriller",
+    "imdbId": "tt33978029",
+    "imdbUrl": "https://www.imdb.com/title/tt33978029/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304723/title/ready_or_not_2_here_i_come/",
+    "imdbRating": 6.9
+  },
+  {
+    "title": "Marsupilami",
+    "releaseYear": 2026,
+    "genres": "Adventure, Comedy, Family",
+    "imdbId": "tt33029380",
+    "imdbUrl": "https://www.imdb.com/title/tt33029380/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304720/title/marsupilami/",
+    "imdbRating": 6.5
+  },
+  {
+    "title": "They Will Kill You",
+    "releaseYear": 2026,
+    "genres": "Action, Comedy, Horror",
+    "imdbId": "tt31728330",
+    "imdbUrl": "https://www.imdb.com/title/tt31728330/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304725/title/they_will_kill_you/",
+    "imdbRating": 6.5
+  },
+  {
     "title": "Hamnet",
     "releaseYear": 2025,
     "genres": "Biography, Drama, History",
@@ -180,6 +126,15 @@
     "imdbRating": 7.8
   },
   {
+    "title": "Wuthering Heights",
+    "releaseYear": 2026,
+    "genres": "Drama, Romance",
+    "imdbId": "tt32897959",
+    "imdbUrl": "https://www.imdb.com/title/tt32897959/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304594/title/wuthering_heights/",
+    "imdbRating": 6.2
+  },
+  {
     "title": "The Lord of the Rings: The Two Towers (2002)",
     "releaseYear": 2002,
     "genres": "Adventure, Drama, Fantasy",
@@ -187,6 +142,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt0167261/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/302578/title/the_lord_of_the_rings_the_two_towers_2002/",
     "imdbRating": 8.8
+  },
+  {
+    "title": "Love In Separate Beds",
+    "releaseYear": 2026,
+    "genres": "Comedy",
+    "imdbId": "tt36284371",
+    "imdbUrl": "https://www.imdb.com/title/tt36284371/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304754/title/love_in_separate_beds/",
+    "imdbRating": 6.5
   },
   {
     "title": "The Chronology of Water",
@@ -205,6 +169,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt38573816/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/",
     "imdbRating": 8.5
+  },
+  {
+    "title": "Scream 7",
+    "releaseYear": 2026,
+    "genres": "Horror, Mystery",
+    "imdbId": "tt27047903",
+    "imdbUrl": "https://www.imdb.com/title/tt27047903/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304628/title/scream_7/",
+    "imdbRating": 5.6
   },
   {
     "title": "Reminders of Him",
@@ -252,6 +225,24 @@
     "imdbRating": 6.1
   },
   {
+    "title": "I Swear",
+    "releaseYear": 2026,
+    "genres": "Biography, Drama",
+    "imdbId": "tt31514146",
+    "imdbUrl": "https://www.imdb.com/title/tt31514146/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304679/title/i_swear/",
+    "imdbRating": 8.4
+  },
+  {
+    "title": "Flesh, Blood, Even a Heart",
+    "releaseYear": 2025,
+    "genres": "Comedy, Drama",
+    "imdbId": "tt31777665",
+    "imdbUrl": "https://www.imdb.com/title/tt31777665/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304708/title/flesh_blood_even_a_heart/",
+    "imdbRating": 7.3
+  },
+  {
     "title": "Primavera",
     "releaseYear": 2025,
     "genres": "Biography, Drama, History",
@@ -285,7 +276,7 @@
     "imdbId": "tt32430579",
     "imdbUrl": "https://www.imdb.com/title/tt32430579/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304671/title/crime_101/",
-    "imdbRating": 6.9
+    "imdbRating": 6.8
   },
   {
     "title": "The Bride!",
@@ -459,6 +450,15 @@
     "imdbRating": null
   },
   {
+    "title": "The Sheep Detectives",
+    "releaseYear": 2026,
+    "genres": "Action, Comedy, Mystery",
+    "imdbId": "tt32565993",
+    "imdbUrl": "https://www.imdb.com/title/tt32565993/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304774/title/the_sheep_detectives/",
+    "imdbRating": null
+  },
+  {
     "title": "Ocean's Thirteen (2007)",
     "releaseYear": 2007,
     "genres": "Crime, Thriller",
@@ -466,6 +466,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt0496806/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/299232/title/oceans_thirteen_2007/",
     "imdbRating": 6.9
+  },
+  {
+    "title": "Iron Maiden: Burning Ambition",
+    "releaseYear": 2026,
+    "genres": "Documentary, Biography, Music",
+    "imdbId": "tt36163614",
+    "imdbUrl": "https://www.imdb.com/title/tt36163614/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304759/title/iron_maiden_burning_ambition/",
+    "imdbRating": null
   },
   {
     "title": "Interstellar (2014)",

@@ -18,15 +18,6 @@
     "imdbRating": 7.5
   },
   {
-    "title": "The Super Mario Galaxy Movie",
-    "releaseYear": 2026,
-    "genres": "Animation, Adventure, Comedy",
-    "imdbId": "tt28650488",
-    "imdbUrl": "https://www.imdb.com/title/tt28650488/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304620/title/the_super_mario_galaxy_movie/",
-    "imdbRating": 6.5
-  },
-  {
     "title": "The Pout-Pout Fish",
     "releaseYear": 2026,
     "genres": "Animation, Adventure, Comedy",
@@ -36,13 +27,13 @@
     "imdbRating": 5.2
   },
   {
-    "title": "The Housemaid",
-    "releaseYear": 2025,
-    "genres": "Drama, Mystery, Thriller",
-    "imdbId": "tt27543632",
-    "imdbUrl": "https://www.imdb.com/title/tt27543632/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304575/title/the_housemaid/",
-    "imdbRating": 6.8
+    "title": "The Super Mario Galaxy Movie",
+    "releaseYear": 2026,
+    "genres": "Animation, Adventure, Comedy",
+    "imdbId": "tt28650488",
+    "imdbUrl": "https://www.imdb.com/title/tt28650488/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304620/title/the_super_mario_galaxy_movie/",
+    "imdbRating": 6.5
   },
   {
     "title": "Perfect Strangers",
@@ -54,15 +45,6 @@
     "imdbRating": 8.1
   },
   {
-    "title": "Project Hail Mary",
-    "releaseYear": 2026,
-    "genres": "Adventure, Comedy, Sci-Fi",
-    "imdbId": "tt12042730",
-    "imdbUrl": "https://www.imdb.com/title/tt12042730/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/",
-    "imdbRating": 8.4
-  },
-  {
     "title": "Zootopia 2",
     "releaseYear": 2025,
     "genres": "Animation, Action, Adventure",
@@ -70,6 +52,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt26443597/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304299/title/zootopia_2/",
     "imdbRating": 7.4
+  },
+  {
+    "title": "Project Hail Mary",
+    "releaseYear": 2026,
+    "genres": "Adventure, Comedy, Sci-Fi",
+    "imdbId": "tt12042730",
+    "imdbUrl": "https://www.imdb.com/title/tt12042730/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/",
+    "imdbRating": 8.4
   },
   {
     "title": "GOAT",
@@ -81,6 +72,15 @@
     "imdbRating": 6.7
   },
   {
+    "title": "Reminders of Him",
+    "releaseYear": 2026,
+    "genres": "Drama, Romance",
+    "imdbId": "tt33714084",
+    "imdbUrl": "https://www.imdb.com/title/tt33714084/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304719/title/reminders_of_him/",
+    "imdbRating": 6.4
+  },
+  {
     "title": "Escape Net",
     "releaseYear": 2025,
     "genres": "Biography, Drama, Sport",
@@ -88,15 +88,6 @@
     "imdbUrl": "https://www.imdb.com/title/tt21043190/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/",
     "imdbRating": 8.4
-  },
-  {
-    "title": "Ready or Not 2: Here I Come",
-    "releaseYear": 2026,
-    "genres": "Comedy, Horror, Thriller",
-    "imdbId": "tt33978029",
-    "imdbUrl": "https://www.imdb.com/title/tt33978029/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304723/title/ready_or_not_2_here_i_come/",
-    "imdbRating": 6.9
   },
   {
     "title": "Marsupilami",
@@ -117,15 +108,6 @@
     "imdbRating": 6.5
   },
   {
-    "title": "Hamnet",
-    "releaseYear": 2025,
-    "genres": "Biography, Drama, History",
-    "imdbId": "tt14905854",
-    "imdbUrl": "https://www.imdb.com/title/tt14905854/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304625/title/hamnet/",
-    "imdbRating": 7.8
-  },
-  {
     "title": "Wuthering Heights",
     "releaseYear": 2026,
     "genres": "Drama, Romance",
@@ -135,40 +117,22 @@
     "imdbRating": 6.2
   },
   {
-    "title": "The Lord of the Rings: The Two Towers (2002)",
-    "releaseYear": 2002,
+    "title": "Ready or Not 2: Here I Come",
+    "releaseYear": 2026,
+    "genres": "Comedy, Horror, Thriller",
+    "imdbId": "tt33978029",
+    "imdbUrl": "https://www.imdb.com/title/tt33978029/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304723/title/ready_or_not_2_here_i_come/",
+    "imdbRating": 6.9
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King (2003)",
+    "releaseYear": 2003,
     "genres": "Adventure, Drama, Fantasy",
-    "imdbId": "tt0167261",
-    "imdbUrl": "https://www.imdb.com/title/tt0167261/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/302578/title/the_lord_of_the_rings_the_two_towers_2002/",
-    "imdbRating": 8.8
-  },
-  {
-    "title": "Love In Separate Beds",
-    "releaseYear": 2026,
-    "genres": "Comedy",
-    "imdbId": "tt36284371",
-    "imdbUrl": "https://www.imdb.com/title/tt36284371/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304754/title/love_in_separate_beds/",
-    "imdbRating": 6.5
-  },
-  {
-    "title": "The Chronology of Water",
-    "releaseYear": 2026,
-    "genres": "Biography, Drama, Romance",
-    "imdbId": "tt8667404",
-    "imdbUrl": "https://www.imdb.com/title/tt8667404/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304624/title/the_chronology_of_water/",
-    "imdbRating": 6.4
-  },
-  {
-    "title": "Red Code Blue",
-    "releaseYear": 2025,
-    "genres": "Action, Crime, Drama",
-    "imdbId": "tt38573816",
-    "imdbUrl": "https://www.imdb.com/title/tt38573816/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/",
-    "imdbRating": 8.5
+    "imdbId": "tt0167260",
+    "imdbUrl": "https://www.imdb.com/title/tt0167260/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/302579/title/the_lord_of_the_rings_the_return_of_the_king_2003/",
+    "imdbRating": 9
   },
   {
     "title": "Scream 7",
@@ -180,22 +144,13 @@
     "imdbRating": 5.6
   },
   {
-    "title": "Reminders of Him",
+    "title": "Love In Separate Beds",
     "releaseYear": 2026,
-    "genres": "Drama, Romance",
-    "imdbId": "tt33714084",
-    "imdbUrl": "https://www.imdb.com/title/tt33714084/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304719/title/reminders_of_him/",
-    "imdbRating": 6.4
-  },
-  {
-    "title": "The Lord of the Rings: The Return of the King (2003)",
-    "releaseYear": 2003,
-    "genres": "Adventure, Drama, Fantasy",
-    "imdbId": "tt0167260",
-    "imdbUrl": "https://www.imdb.com/title/tt0167260/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/302579/title/the_lord_of_the_rings_the_return_of_the_king_2003/",
-    "imdbRating": 9
+    "genres": "Comedy",
+    "imdbId": "tt36284371",
+    "imdbUrl": "https://www.imdb.com/title/tt36284371/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304754/title/love_in_separate_beds/",
+    "imdbRating": 6.5
   },
   {
     "title": "Avatar: Fire and Ash",
@@ -223,6 +178,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt32386654/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304669/title/the_wizard_of_the_kremlin/",
     "imdbRating": 6.1
+  },
+  {
+    "title": "The Chronology of Water",
+    "releaseYear": 2026,
+    "genres": "Biography, Drama, Romance",
+    "imdbId": "tt8667404",
+    "imdbUrl": "https://www.imdb.com/title/tt8667404/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304624/title/the_chronology_of_water/",
+    "imdbRating": 6.4
   },
   {
     "title": "I Swear",
@@ -261,6 +225,24 @@
     "imdbRating": 9.1
   },
   {
+    "title": "Hamnet",
+    "releaseYear": 2025,
+    "genres": "Biography, Drama, History",
+    "imdbId": "tt14905854",
+    "imdbUrl": "https://www.imdb.com/title/tt14905854/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304625/title/hamnet/",
+    "imdbRating": 7.8
+  },
+  {
+    "title": "The Housemaid",
+    "releaseYear": 2025,
+    "genres": "Drama, Mystery, Thriller",
+    "imdbId": "tt27543632",
+    "imdbUrl": "https://www.imdb.com/title/tt27543632/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304575/title/the_housemaid/",
+    "imdbRating": 6.8
+  },
+  {
     "title": "Stand-up kino | Eat Pray Love (2010)",
     "releaseYear": 2010,
     "genres": "Biography, Comedy, Drama",
@@ -268,6 +250,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt0879870/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304746/title/stand-up_kino_eat_pray_love_2010/",
     "imdbRating": 5.9
+  },
+  {
+    "title": "Red Code Blue",
+    "releaseYear": 2025,
+    "genres": "Action, Crime, Drama",
+    "imdbId": "tt38573816",
+    "imdbUrl": "https://www.imdb.com/title/tt38573816/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/",
+    "imdbRating": 8.5
   },
   {
     "title": "Crime 101",
@@ -339,7 +330,7 @@
     "imdbId": "tt35708159",
     "imdbUrl": "https://www.imdb.com/title/tt35708159/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304740/title/woodwalkers_2/",
-    "imdbRating": 5.3
+    "imdbRating": 5.4
   },
   {
     "title": "Ocean's Eleven (2001)",

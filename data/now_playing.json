@@ -1,71 +1,35 @@
 [
   {
-    "title": "Project Hail Mary",
-    "url": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/"
+    "title": "Hoppers",
+    "url": "https://www.forumcinemas.lv/eng/event/304681/title/hoppers/"
   },
   {
-    "title": "Rufus: The Sea Serpent Who Couldn't Swim",
-    "url": "https://www.forumcinemas.lv/eng/event/304753/title/rufus_the_sea_serpent_who_couldnt_swim/"
+    "title": "Project Hail Mary",
+    "url": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/"
   },
   {
     "title": "The Super Mario Galaxy Movie",
     "url": "https://www.forumcinemas.lv/eng/event/304620/title/the_super_mario_galaxy_movie/"
   },
   {
-    "title": "The Drama",
-    "url": "https://www.forumcinemas.lv/eng/event/304735/title/the_drama/"
+    "title": "Rufus: The Sea Serpent Who Couldn't Swim",
+    "url": "https://www.forumcinemas.lv/eng/event/304753/title/rufus_the_sea_serpent_who_couldnt_swim/"
   },
   {
     "title": "Lee Cronin's The Mummy",
     "url": "https://www.forumcinemas.lv/eng/event/304744/title/lee_cronins_the_mummy/"
   },
   {
-    "title": "Hoppers",
-    "url": "https://www.forumcinemas.lv/eng/event/304681/title/hoppers/"
-  },
-  {
     "title": "Perfect Strangers",
     "url": "https://www.forumcinemas.lv/eng/event/304657/title/perfect_strangers/"
-  },
-  {
-    "title": "Scream 7",
-    "url": "https://www.forumcinemas.lv/eng/event/304628/title/scream_7/"
-  },
-  {
-    "title": "Flow",
-    "url": "https://www.forumcinemas.lv/eng/event/304076/title/flow/"
-  },
-  {
-    "title": "Wuthering Heights",
-    "url": "https://www.forumcinemas.lv/eng/event/304594/title/wuthering_heights/"
-  },
-  {
-    "title": "Escape Net",
-    "url": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/"
-  },
-  {
-    "title": "Bhooth Bangla - Haunted Mansion",
-    "url": "https://www.forumcinemas.lv/eng/event/304775/title/bhooth_bangla_-_haunted_mansion/"
-  },
-  {
-    "title": "The Bride!",
-    "url": "https://www.forumcinemas.lv/eng/event/304627/title/the_bride/"
-  },
-  {
-    "title": "Ready or Not 2: Here I Come",
-    "url": "https://www.forumcinemas.lv/eng/event/304723/title/ready_or_not_2_here_i_come/"
-  },
-  {
-    "title": "Flesh, Blood, Even a Heart",
-    "url": "https://www.forumcinemas.lv/eng/event/304708/title/flesh_blood_even_a_heart/"
   },
   {
     "title": "Marsupilami",
     "url": "https://www.forumcinemas.lv/eng/event/304720/title/marsupilami/"
   },
   {
-    "title": "GOAT",
-    "url": "https://www.forumcinemas.lv/eng/event/304673/title/goat/"
+    "title": "The Drama",
+    "url": "https://www.forumcinemas.lv/eng/event/304735/title/the_drama/"
   },
   {
     "title": "Love In Separate Beds",
@@ -80,12 +44,28 @@
     "url": "https://www.forumcinemas.lv/eng/event/304719/title/reminders_of_him/"
   },
   {
+    "title": "Wuthering Heights",
+    "url": "https://www.forumcinemas.lv/eng/event/304594/title/wuthering_heights/"
+  },
+  {
+    "title": "Flesh, Blood, Even a Heart",
+    "url": "https://www.forumcinemas.lv/eng/event/304708/title/flesh_blood_even_a_heart/"
+  },
+  {
     "title": "Avatar: Fire and Ash",
     "url": "https://www.forumcinemas.lv/eng/event/304298/title/avatar_fire_and_ash/"
   },
   {
-    "title": "They Will Kill You",
-    "url": "https://www.forumcinemas.lv/eng/event/304725/title/they_will_kill_you/"
+    "title": "Ready or Not 2: Here I Come",
+    "url": "https://www.forumcinemas.lv/eng/event/304723/title/ready_or_not_2_here_i_come/"
+  },
+  {
+    "title": "Scream 7",
+    "url": "https://www.forumcinemas.lv/eng/event/304628/title/scream_7/"
+  },
+  {
+    "title": "Escape Net",
+    "url": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/"
   },
   {
     "title": "Michael",
@@ -96,8 +76,16 @@
     "url": "https://www.forumcinemas.lv/eng/event/299497/title/oceans_eleven_2001/"
   },
   {
+    "title": "They Will Kill You",
+    "url": "https://www.forumcinemas.lv/eng/event/304725/title/they_will_kill_you/"
+  },
+  {
     "title": "The Wizard of the Kremlin",
     "url": "https://www.forumcinemas.lv/eng/event/304669/title/the_wizard_of_the_kremlin/"
+  },
+  {
+    "title": "GOAT",
+    "url": "https://www.forumcinemas.lv/eng/event/304673/title/goat/"
   },
   {
     "title": "Hamnet",
@@ -116,24 +104,40 @@
     "url": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/"
   },
   {
+    "title": "Woodwalkers 2",
+    "url": "https://www.forumcinemas.lv/eng/event/304740/title/woodwalkers_2/"
+  },
+  {
+    "title": "Normal",
+    "url": "https://www.forumcinemas.lv/eng/event/304747/title/normal/"
+  },
+  {
+    "title": "The Voice of Hind Rajab",
+    "url": "https://www.forumcinemas.lv/eng/event/304750/title/the_voice_of_hind_rajab/"
+  },
+  {
+    "title": "The Yeti",
+    "url": "https://www.forumcinemas.lv/eng/event/304751/title/the_yeti/"
+  },
+  {
     "title": "The Shawshank Redemption (1994)",
     "url": "https://www.forumcinemas.lv/eng/event/304705/title/the_shawshank_redemption_1994/"
-  },
-  {
-    "title": "Spirited Away (2001)",
-    "url": "https://www.forumcinemas.lv/eng/event/304580/title/spirited_away_2001/"
-  },
-  {
-    "title": "Ocean's Twelve (2004)",
-    "url": "https://www.forumcinemas.lv/eng/event/299236/title/oceans_twelve_2004/"
   },
   {
     "title": "Zootopia 2",
     "url": "https://www.forumcinemas.lv/eng/event/304299/title/zootopia_2/"
   },
   {
-    "title": "Woodwalkers 2",
-    "url": "https://www.forumcinemas.lv/eng/event/304740/title/woodwalkers_2/"
+    "title": "Spirited Away (2001)",
+    "url": "https://www.forumcinemas.lv/eng/event/304580/title/spirited_away_2001/"
+  },
+  {
+    "title": "Private event",
+    "url": "https://www.forumcinemas.lv/eng/event/303398/title/private_event/"
+  },
+  {
+    "title": "Ocean's Twelve (2004)",
+    "url": "https://www.forumcinemas.lv/eng/event/299236/title/oceans_twelve_2004/"
   },
   {
     "title": "The Pout-Pout Fish",
@@ -178,6 +182,10 @@
   {
     "title": "Ocean's Thirteen (2007)",
     "url": "https://www.forumcinemas.lv/eng/event/299232/title/oceans_thirteen_2007/"
+  },
+  {
+    "title": "In the Grey",
+    "url": "https://www.forumcinemas.lv/eng/event/304761/title/in_the_grey/"
   },
   {
     "title": "Iron Maiden: Burning Ambition",
@@ -226,6 +234,10 @@
   {
     "title": "IIHF Worlds | Hungary - Latvia",
     "url": "https://www.forumcinemas.lv/eng/event/304772/title/iihf_worlds_hungary_-_latvia/"
+  },
+  {
+    "title": "Backrooms",
+    "url": "https://www.forumcinemas.lv/eng/event/304736/title/backrooms/"
   },
   {
     "title": "All You Need Is Kill",

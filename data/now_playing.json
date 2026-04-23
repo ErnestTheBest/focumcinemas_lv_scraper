@@ -1,67 +1,19 @@
 [
   {
-    "title": "Hoppers",
-    "url": "https://www.forumcinemas.lv/eng/event/304681/title/hoppers/"
-  },
-  {
-    "title": "Escape Net",
-    "url": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/"
-  },
-  {
-    "title": "Michael",
-    "url": "https://www.forumcinemas.lv/eng/event/303990/title/michael/"
+    "title": "The Super Mario Galaxy Movie",
+    "url": "https://www.forumcinemas.lv/eng/event/304620/title/the_super_mario_galaxy_movie/"
   },
   {
     "title": "The Drama",
     "url": "https://www.forumcinemas.lv/eng/event/304735/title/the_drama/"
   },
   {
-    "title": "The Super Mario Galaxy Movie",
-    "url": "https://www.forumcinemas.lv/eng/event/304620/title/the_super_mario_galaxy_movie/"
-  },
-  {
-    "title": "Project Hail Mary",
-    "url": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/"
-  },
-  {
-    "title": "Love In Separate Beds",
-    "url": "https://www.forumcinemas.lv/eng/event/304754/title/love_in_separate_beds/"
-  },
-  {
-    "title": "Lee Cronin's The Mummy",
-    "url": "https://www.forumcinemas.lv/eng/event/304744/title/lee_cronins_the_mummy/"
+    "title": "Rufus: The Sea Serpent Who Couldn't Swim",
+    "url": "https://www.forumcinemas.lv/eng/event/304753/title/rufus_the_sea_serpent_who_couldnt_swim/"
   },
   {
     "title": "Perfect Strangers",
     "url": "https://www.forumcinemas.lv/eng/event/304657/title/perfect_strangers/"
-  },
-  {
-    "title": "Scream 7",
-    "url": "https://www.forumcinemas.lv/eng/event/304628/title/scream_7/"
-  },
-  {
-    "title": "Ocean's Eleven (2001)",
-    "url": "https://www.forumcinemas.lv/eng/event/299497/title/oceans_eleven_2001/"
-  },
-  {
-    "title": "Wuthering Heights",
-    "url": "https://www.forumcinemas.lv/eng/event/304594/title/wuthering_heights/"
-  },
-  {
-    "title": "Ready or Not 2: Here I Come",
-    "url": "https://www.forumcinemas.lv/eng/event/304723/title/ready_or_not_2_here_i_come/"
-  },
-  {
-    "title": "Flesh, Blood, Even a Heart",
-    "url": "https://www.forumcinemas.lv/eng/event/304708/title/flesh_blood_even_a_heart/"
-  },
-  {
-    "title": "They Will Kill You",
-    "url": "https://www.forumcinemas.lv/eng/event/304725/title/they_will_kill_you/"
-  },
-  {
-    "title": "Rufus: The Sea Serpent Who Couldn't Swim",
-    "url": "https://www.forumcinemas.lv/eng/event/304753/title/rufus_the_sea_serpent_who_couldnt_swim/"
   },
   {
     "title": "Marsupilami",
@@ -72,6 +24,14 @@
     "url": "https://www.forumcinemas.lv/eng/event/304669/title/the_wizard_of_the_kremlin/"
   },
   {
+    "title": "Lee Cronin's The Mummy",
+    "url": "https://www.forumcinemas.lv/eng/event/304744/title/lee_cronins_the_mummy/"
+  },
+  {
+    "title": "Michael",
+    "url": "https://www.forumcinemas.lv/eng/event/303990/title/michael/"
+  },
+  {
     "title": "GOAT",
     "url": "https://www.forumcinemas.lv/eng/event/304673/title/goat/"
   },
@@ -80,16 +40,44 @@
     "url": "https://www.forumcinemas.lv/eng/event/304719/title/reminders_of_him/"
   },
   {
+    "title": "Hoppers",
+    "url": "https://www.forumcinemas.lv/eng/event/304681/title/hoppers/"
+  },
+  {
+    "title": "Project Hail Mary",
+    "url": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/"
+  },
+  {
+    "title": "They Will Kill You",
+    "url": "https://www.forumcinemas.lv/eng/event/304725/title/they_will_kill_you/"
+  },
+  {
     "title": "Hamnet",
     "url": "https://www.forumcinemas.lv/eng/event/304625/title/hamnet/"
+  },
+  {
+    "title": "Wuthering Heights",
+    "url": "https://www.forumcinemas.lv/eng/event/304594/title/wuthering_heights/"
+  },
+  {
+    "title": "Scream 7",
+    "url": "https://www.forumcinemas.lv/eng/event/304628/title/scream_7/"
   },
   {
     "title": "The Housemaid",
     "url": "https://www.forumcinemas.lv/eng/event/304575/title/the_housemaid/"
   },
   {
+    "title": "Escape Net",
+    "url": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/"
+  },
+  {
     "title": "The Big Lebowski (1998)",
     "url": "https://www.forumcinemas.lv/eng/event/302382/title/the_big_lebowski_1998/"
+  },
+  {
+    "title": "Ready or Not 2: Here I Come",
+    "url": "https://www.forumcinemas.lv/eng/event/304723/title/ready_or_not_2_here_i_come/"
   },
   {
     "title": "Red Code Blue",
@@ -148,8 +136,16 @@
     "url": "https://www.forumcinemas.lv/eng/event/304298/title/avatar_fire_and_ash/"
   },
   {
+    "title": "Flesh, Blood, Even a Heart",
+    "url": "https://www.forumcinemas.lv/eng/event/304708/title/flesh_blood_even_a_heart/"
+  },
+  {
     "title": "Marty Supreme",
     "url": "https://www.forumcinemas.lv/eng/event/304634/title/marty_supreme/"
+  },
+  {
+    "title": "Love In Separate Beds",
+    "url": "https://www.forumcinemas.lv/eng/event/304754/title/love_in_separate_beds/"
   },
   {
     "title": "RoboCop (Director’s Cut) (1987)",
@@ -172,8 +168,28 @@
     "url": "https://www.forumcinemas.lv/eng/event/304774/title/the_sheep_detectives/"
   },
   {
+    "title": "My Neighbour Totoro (1988)",
+    "url": "https://www.forumcinemas.lv/eng/event/304579/title/my_neighbour_totoro_1988/"
+  },
+  {
+    "title": "Princess Mononoke (1997)",
+    "url": "https://www.forumcinemas.lv/eng/event/304633/title/princess_mononoke_1997/"
+  },
+  {
     "title": "MET Opera: Eugene Onegin",
     "url": "https://www.forumcinemas.lv/eng/event/304457/title/met_opera_eugene_onegin/"
+  },
+  {
+    "title": "Howl’s Moving Castle (2004)",
+    "url": "https://www.forumcinemas.lv/eng/event/304611/title/howls_moving_castle_2004/"
+  },
+  {
+    "title": "Ocean's Eleven (2001)",
+    "url": "https://www.forumcinemas.lv/eng/event/299497/title/oceans_eleven_2001/"
+  },
+  {
+    "title": "Roman Holiday (1953)",
+    "url": "https://www.forumcinemas.lv/eng/event/303951/title/roman_holiday_1953/"
   },
   {
     "title": "Mortal Kombat II",
@@ -186,6 +202,14 @@
   {
     "title": "Ocean's Thirteen (2007)",
     "url": "https://www.forumcinemas.lv/eng/event/299232/title/oceans_thirteen_2007/"
+  },
+  {
+    "title": "Charade (1963)",
+    "url": "https://www.forumcinemas.lv/eng/event/304780/title/charade_1963/"
+  },
+  {
+    "title": "How to Steal a Million (1966)",
+    "url": "https://www.forumcinemas.lv/eng/event/304729/title/how_to_steal_a_million_1966/"
   },
   {
     "title": "Top Gun (1986)",
@@ -218,6 +242,10 @@
   {
     "title": "Exhibition On Screen | Frida Kahlo",
     "url": "https://www.forumcinemas.lv/eng/event/302746/title/exhibition_on_screen_frida_kahlo/"
+  },
+  {
+    "title": "PRUSAX Shows a Movie | I Saw the Devil (2010)",
+    "url": "https://www.forumcinemas.lv/eng/event/304782/title/prusax_shows_a_movie_i_saw_the_devil_2010/"
   },
   {
     "title": "IIHF Worlds | Latvia - Finland",

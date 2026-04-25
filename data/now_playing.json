@@ -1,7 +1,7 @@
 [
   {
-    "title": "Woodwalkers 2",
-    "url": "https://www.forumcinemas.lv/eng/event/304740/title/woodwalkers_2/"
+    "title": "The Drama",
+    "url": "https://www.forumcinemas.lv/eng/event/304735/title/the_drama/"
   },
   {
     "title": "Rufus: The Sea Serpent Who Couldn't Swim",
@@ -12,6 +12,22 @@
     "url": "https://www.forumcinemas.lv/eng/event/304620/title/the_super_mario_galaxy_movie/"
   },
   {
+    "title": "Perfect Strangers",
+    "url": "https://www.forumcinemas.lv/eng/event/304657/title/perfect_strangers/"
+  },
+  {
+    "title": "Project Hail Mary",
+    "url": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/"
+  },
+  {
+    "title": "Wuthering Heights",
+    "url": "https://www.forumcinemas.lv/eng/event/304594/title/wuthering_heights/"
+  },
+  {
+    "title": "GOAT",
+    "url": "https://www.forumcinemas.lv/eng/event/304673/title/goat/"
+  },
+  {
     "title": "Michael",
     "url": "https://www.forumcinemas.lv/eng/event/303990/title/michael/"
   },
@@ -20,52 +36,8 @@
     "url": "https://www.forumcinemas.lv/eng/event/304681/title/hoppers/"
   },
   {
-    "title": "The Drama",
-    "url": "https://www.forumcinemas.lv/eng/event/304735/title/the_drama/"
-  },
-  {
-    "title": "Normal",
-    "url": "https://www.forumcinemas.lv/eng/event/304747/title/normal/"
-  },
-  {
-    "title": "Project Hail Mary",
-    "url": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/"
-  },
-  {
-    "title": "Lee Cronin's The Mummy",
-    "url": "https://www.forumcinemas.lv/eng/event/304744/title/lee_cronins_the_mummy/"
-  },
-  {
-    "title": "The Voice of Hind Rajab",
-    "url": "https://www.forumcinemas.lv/eng/event/304750/title/the_voice_of_hind_rajab/"
-  },
-  {
-    "title": "The Yeti",
-    "url": "https://www.forumcinemas.lv/eng/event/304751/title/the_yeti/"
-  },
-  {
-    "title": "Perfect Strangers",
-    "url": "https://www.forumcinemas.lv/eng/event/304657/title/perfect_strangers/"
-  },
-  {
-    "title": "The Shawshank Redemption (1994)",
-    "url": "https://www.forumcinemas.lv/eng/event/304705/title/the_shawshank_redemption_1994/"
-  },
-  {
-    "title": "Wuthering Heights",
-    "url": "https://www.forumcinemas.lv/eng/event/304594/title/wuthering_heights/"
-  },
-  {
-    "title": "Ready or Not 2: Here I Come",
-    "url": "https://www.forumcinemas.lv/eng/event/304723/title/ready_or_not_2_here_i_come/"
-  },
-  {
-    "title": "Scream 7",
-    "url": "https://www.forumcinemas.lv/eng/event/304628/title/scream_7/"
-  },
-  {
-    "title": "GOAT",
-    "url": "https://www.forumcinemas.lv/eng/event/304673/title/goat/"
+    "title": "Woodwalkers 2",
+    "url": "https://www.forumcinemas.lv/eng/event/304740/title/woodwalkers_2/"
   },
   {
     "title": "Zootopia 2",
@@ -76,8 +48,24 @@
     "url": "https://www.forumcinemas.lv/eng/event/304719/title/reminders_of_him/"
   },
   {
+    "title": "The Yeti",
+    "url": "https://www.forumcinemas.lv/eng/event/304751/title/the_yeti/"
+  },
+  {
     "title": "Escape Net",
     "url": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/"
+  },
+  {
+    "title": "Lee Cronin's The Mummy",
+    "url": "https://www.forumcinemas.lv/eng/event/304744/title/lee_cronins_the_mummy/"
+  },
+  {
+    "title": "Normal",
+    "url": "https://www.forumcinemas.lv/eng/event/304747/title/normal/"
+  },
+  {
+    "title": "Scream 7",
+    "url": "https://www.forumcinemas.lv/eng/event/304628/title/scream_7/"
   },
   {
     "title": "Spirited Away (2001)",
@@ -88,8 +76,16 @@
     "url": "https://www.forumcinemas.lv/eng/event/303398/title/private_event/"
   },
   {
+    "title": "Ready or Not 2: Here I Come",
+    "url": "https://www.forumcinemas.lv/eng/event/304723/title/ready_or_not_2_here_i_come/"
+  },
+  {
     "title": "Ocean's Twelve (2004)",
     "url": "https://www.forumcinemas.lv/eng/event/299236/title/oceans_twelve_2004/"
+  },
+  {
+    "title": "The Voice of Hind Rajab",
+    "url": "https://www.forumcinemas.lv/eng/event/304750/title/the_voice_of_hind_rajab/"
   },
   {
     "title": "Red Code Blue",
@@ -158,6 +154,10 @@
   {
     "title": "My Neighbour Totoro (1988)",
     "url": "https://www.forumcinemas.lv/eng/event/304579/title/my_neighbour_totoro_1988/"
+  },
+  {
+    "title": "The Shawshank Redemption (1994)",
+    "url": "https://www.forumcinemas.lv/eng/event/304705/title/the_shawshank_redemption_1994/"
   },
   {
     "title": "Princess Mononoke (1997)",

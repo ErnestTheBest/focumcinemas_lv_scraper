@@ -6,115 +6,7 @@
     "imdbId": "tt33612209",
     "imdbUrl": "https://www.imdb.com/title/tt33612209/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304665/title/the_devil_wears_prada_2/",
-    "imdbRating": null
-  },
-  {
-    "title": "Project Hail Mary",
-    "releaseYear": 2026,
-    "genres": "Adventure, Comedy, Sci-Fi",
-    "imdbId": "tt12042730",
-    "imdbUrl": "https://www.imdb.com/title/tt12042730/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/",
-    "imdbRating": 8.3
-  },
-  {
-    "title": "Michael",
-    "releaseYear": 2026,
-    "genres": "Biography, Drama, History",
-    "imdbId": "tt11378946",
-    "imdbUrl": "https://www.imdb.com/title/tt11378946/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/303990/title/michael/",
-    "imdbRating": 7.7
-  },
-  {
-    "title": "The Drama",
-    "releaseYear": 2026,
-    "genres": "Comedy, Drama, Romance",
-    "imdbId": "tt33071426",
-    "imdbUrl": "https://www.imdb.com/title/tt33071426/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304735/title/the_drama/",
-    "imdbRating": 7.5
-  },
-  {
-    "title": "The Super Mario Galaxy Movie",
-    "releaseYear": 2026,
-    "genres": "Animation, Adventure, Comedy",
-    "imdbId": "tt28650488",
-    "imdbUrl": "https://www.imdb.com/title/tt28650488/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304620/title/the_super_mario_galaxy_movie/",
-    "imdbRating": 6.4
-  },
-  {
-    "title": "Rufus: The Sea Serpent Who Couldn't Swim",
-    "releaseYear": 2025,
-    "genres": "Animation, Family",
-    "imdbId": "tt32267711",
-    "imdbUrl": "https://www.imdb.com/title/tt32267711/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304753/title/rufus_the_sea_serpent_who_couldnt_swim/",
-    "imdbRating": 6.7
-  },
-  {
-    "title": "Normal",
-    "releaseYear": 2026,
-    "genres": "Action, Crime, Thriller",
-    "imdbId": "tt31195136",
-    "imdbUrl": "https://www.imdb.com/title/tt31195136/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304747/title/normal/",
-    "imdbRating": 6.7
-  },
-  {
-    "title": "The Voice of Hind Rajab",
-    "releaseYear": 2025,
-    "genres": "Drama",
-    "imdbId": "tt36943034",
-    "imdbUrl": "https://www.imdb.com/title/tt36943034/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304750/title/the_voice_of_hind_rajab/",
-    "imdbRating": 8.2
-  },
-  {
-    "title": "Lee Cronin's The Mummy",
-    "releaseYear": 2026,
-    "genres": "Horror",
-    "imdbId": "tt32612507",
-    "imdbUrl": "https://www.imdb.com/title/tt32612507/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304744/title/lee_cronins_the_mummy/",
-    "imdbRating": 6.4
-  },
-  {
-    "title": "Red Code Blue",
-    "releaseYear": 2025,
-    "genres": "Action, Crime, Drama",
-    "imdbId": "tt38573816",
-    "imdbUrl": "https://www.imdb.com/title/tt38573816/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/",
-    "imdbRating": 8.5
-  },
-  {
-    "title": "The Yeti",
-    "releaseYear": 2026,
-    "genres": "Horror",
-    "imdbId": "tt14500286",
-    "imdbUrl": "https://www.imdb.com/title/tt14500286/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304751/title/the_yeti/",
-    "imdbRating": 3.7
-  },
-  {
-    "title": "Power To The People: John & Yoko Live in NYC",
-    "releaseYear": 2026,
-    "genres": "Documentary, Music",
-    "imdbId": "tt40622377",
-    "imdbUrl": "https://www.imdb.com/title/tt40622377/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304765/title/power_to_the_people_john_and_yoko_live_in_nyc/",
-    "imdbRating": null
-  },
-  {
-    "title": "Perfect Strangers",
-    "releaseYear": 2026,
-    "genres": "Comedy, Drama",
-    "imdbId": "tt39109902",
-    "imdbUrl": "https://www.imdb.com/title/tt39109902/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304657/title/perfect_strangers/",
-    "imdbRating": 8.1
+    "imdbRating": 7.1
   },
   {
     "title": "Marsupilami",
@@ -126,6 +18,51 @@
     "imdbRating": 6.5
   },
   {
+    "title": "The Drama",
+    "releaseYear": 2026,
+    "genres": "Comedy, Drama, Romance",
+    "imdbId": "tt33071426",
+    "imdbUrl": "https://www.imdb.com/title/tt33071426/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304735/title/the_drama/",
+    "imdbRating": 7.5
+  },
+  {
+    "title": "Rufus: The Sea Serpent Who Couldn't Swim",
+    "releaseYear": 2025,
+    "genres": "Animation, Family",
+    "imdbId": "tt32267711",
+    "imdbUrl": "https://www.imdb.com/title/tt32267711/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304753/title/rufus_the_sea_serpent_who_couldnt_swim/",
+    "imdbRating": 6.7
+  },
+  {
+    "title": "The Super Mario Galaxy Movie",
+    "releaseYear": 2026,
+    "genres": "Animation, Adventure, Comedy",
+    "imdbId": "tt28650488",
+    "imdbUrl": "https://www.imdb.com/title/tt28650488/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304620/title/the_super_mario_galaxy_movie/",
+    "imdbRating": 6.4
+  },
+  {
+    "title": "Michael",
+    "releaseYear": 2026,
+    "genres": "Biography, Drama, History",
+    "imdbId": "tt11378946",
+    "imdbUrl": "https://www.imdb.com/title/tt11378946/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/303990/title/michael/",
+    "imdbRating": 7.7
+  },
+  {
+    "title": "Perfect Strangers",
+    "releaseYear": 2026,
+    "genres": "Comedy, Drama",
+    "imdbId": "tt39109902",
+    "imdbUrl": "https://www.imdb.com/title/tt39109902/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304657/title/perfect_strangers/",
+    "imdbRating": 8.1
+  },
+  {
     "title": "Woodwalkers 2",
     "releaseYear": 2026,
     "genres": "Family, Fantasy",
@@ -135,6 +72,33 @@
     "imdbRating": 5.4
   },
   {
+    "title": "Lee Cronin's The Mummy",
+    "releaseYear": 2026,
+    "genres": "Horror",
+    "imdbId": "tt32612507",
+    "imdbUrl": "https://www.imdb.com/title/tt32612507/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304744/title/lee_cronins_the_mummy/",
+    "imdbRating": 6.4
+  },
+  {
+    "title": "Project Hail Mary",
+    "releaseYear": 2026,
+    "genres": "Adventure, Comedy, Sci-Fi",
+    "imdbId": "tt12042730",
+    "imdbUrl": "https://www.imdb.com/title/tt12042730/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/",
+    "imdbRating": 8.3
+  },
+  {
+    "title": "Normal",
+    "releaseYear": 2026,
+    "genres": "Action, Crime, Thriller",
+    "imdbId": "tt31195136",
+    "imdbUrl": "https://www.imdb.com/title/tt31195136/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304747/title/normal/",
+    "imdbRating": 6.7
+  },
+  {
     "title": "Wuthering Heights",
     "releaseYear": 2026,
     "genres": "Drama, Romance",
@@ -142,6 +106,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt32897959/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304594/title/wuthering_heights/",
     "imdbRating": 6.1
+  },
+  {
+    "title": "The Yeti",
+    "releaseYear": 2026,
+    "genres": "Horror",
+    "imdbId": "tt14500286",
+    "imdbUrl": "https://www.imdb.com/title/tt14500286/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304751/title/the_yeti/",
+    "imdbRating": 3.7
   },
   {
     "title": "Eat Pray Love (2010)",
@@ -171,6 +144,15 @@
     "imdbRating": 6.4
   },
   {
+    "title": "The Voice of Hind Rajab",
+    "releaseYear": 2025,
+    "genres": "Drama",
+    "imdbId": "tt36943034",
+    "imdbUrl": "https://www.imdb.com/title/tt36943034/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304750/title/the_voice_of_hind_rajab/",
+    "imdbRating": 8.2
+  },
+  {
     "title": "Hoppers",
     "releaseYear": 2026,
     "genres": "Animation, Adventure, Comedy",
@@ -182,29 +164,11 @@
   {
     "title": "The Sheep Detectives",
     "releaseYear": 2026,
-    "genres": "Action, Comedy, Mystery",
+    "genres": "Action, Comedy, Family",
     "imdbId": "tt32565993",
     "imdbUrl": "https://www.imdb.com/title/tt32565993/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304774/title/the_sheep_detectives/",
     "imdbRating": null
-  },
-  {
-    "title": "Fuze",
-    "releaseYear": 2026,
-    "genres": "Action, Crime, Drama",
-    "imdbId": "tt31189814",
-    "imdbUrl": "https://www.imdb.com/title/tt31189814/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304763/title/fuze/",
-    "imdbRating": 6.4
-  },
-  {
-    "title": "My Neighbour Totoro (1988)",
-    "releaseYear": 1990,
-    "genres": "Animation, Adventure, Comedy",
-    "imdbId": "tt0096283",
-    "imdbUrl": "https://www.imdb.com/title/tt0096283/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304579/title/my_neighbour_totoro_1988/",
-    "imdbRating": 8.1
   },
   {
     "title": "Hokum",
@@ -214,6 +178,24 @@
     "imdbUrl": "https://www.imdb.com/title/tt35672862/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304760/title/hokum/",
     "imdbRating": 7.5
+  },
+  {
+    "title": "Fuze",
+    "releaseYear": 2026,
+    "genres": "Action, Crime, Drama",
+    "imdbId": "tt31189814",
+    "imdbUrl": "https://www.imdb.com/title/tt31189814/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304763/title/fuze/",
+    "imdbRating": 6.5
+  },
+  {
+    "title": "My Neighbour Totoro (1988)",
+    "releaseYear": 1990,
+    "genres": "Animation, Adventure, Comedy",
+    "imdbId": "tt0096283",
+    "imdbUrl": "https://www.imdb.com/title/tt0096283/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304579/title/my_neighbour_totoro_1988/",
+    "imdbRating": 8.1
   },
   {
     "title": "The Shawshank Redemption (1994)",
@@ -288,6 +270,15 @@
     "imdbRating": 8.2
   },
   {
+    "title": "Power To The People: John & Yoko Live in NYC",
+    "releaseYear": 2026,
+    "genres": "Documentary, Music",
+    "imdbId": "tt40622377",
+    "imdbUrl": "https://www.imdb.com/title/tt40622377/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304765/title/power_to_the_people_john_and_yoko_live_in_nyc/",
+    "imdbRating": 7.8
+  },
+  {
     "title": "Ocean's Eleven (2001)",
     "releaseYear": 2001,
     "genres": "Crime, Thriller",
@@ -331,6 +322,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt0245429/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304580/title/spirited_away_2001/",
     "imdbRating": 8.6
+  },
+  {
+    "title": "Red Code Blue",
+    "releaseYear": 2025,
+    "genres": "Action, Crime, Drama",
+    "imdbId": "tt38573816",
+    "imdbUrl": "https://www.imdb.com/title/tt38573816/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/",
+    "imdbRating": 8.5
   },
   {
     "title": "Roman Holiday (1953)",
@@ -384,7 +384,7 @@
     "imdbId": "tt39018643",
     "imdbUrl": "https://www.imdb.com/title/tt39018643/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304773/title/billie_eilish_hit_me_hard_and_soft_-_the_tour_live_in_3d/",
-    "imdbRating": 4.5
+    "imdbRating": 5.4
   },
   {
     "title": "The Matrix (1999)",
@@ -457,6 +457,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt36163614/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304759/title/iron_maiden_burning_ambition/",
     "imdbRating": null
+  },
+  {
+    "title": "Street Fighter (1994)",
+    "releaseYear": 1994,
+    "genres": "Action, Adventure, Comedy",
+    "imdbId": "tt0111301",
+    "imdbUrl": "https://www.imdb.com/title/tt0111301/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304785/title/street_fighter_1994/",
+    "imdbRating": 4.1
   },
   {
     "title": "RoboCop (Director’s Cut) (1987)",

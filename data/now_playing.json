@@ -1,75 +1,43 @@
 [
   {
-    "title": "Hoppers",
-    "url": "https://www.forumcinemas.lv/eng/event/304681/title/hoppers/"
-  },
-  {
-    "title": "Private event",
-    "url": "https://www.forumcinemas.lv/eng/event/303398/title/private_event/"
-  },
-  {
-    "title": "The Sheep Detectives",
-    "url": "https://www.forumcinemas.lv/eng/event/304774/title/the_sheep_detectives/"
-  },
-  {
-    "title": "Rufus: The Sea Serpent Who Couldn't Swim",
-    "url": "https://www.forumcinemas.lv/eng/event/304753/title/rufus_the_sea_serpent_who_couldnt_swim/"
-  },
-  {
-    "title": "Michael",
-    "url": "https://www.forumcinemas.lv/eng/event/303990/title/michael/"
-  },
-  {
     "title": "The Devil Wears Prada 2",
     "url": "https://www.forumcinemas.lv/eng/event/304665/title/the_devil_wears_prada_2/"
-  },
-  {
-    "title": "Woodwalkers 2",
-    "url": "https://www.forumcinemas.lv/eng/event/304740/title/woodwalkers_2/"
-  },
-  {
-    "title": "Perfect Strangers",
-    "url": "https://www.forumcinemas.lv/eng/event/304657/title/perfect_strangers/"
-  },
-  {
-    "title": "The Super Mario Galaxy Movie",
-    "url": "https://www.forumcinemas.lv/eng/event/304620/title/the_super_mario_galaxy_movie/"
-  },
-  {
-    "title": "Project Hail Mary",
-    "url": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/"
   },
   {
     "title": "The Drama",
     "url": "https://www.forumcinemas.lv/eng/event/304735/title/the_drama/"
   },
   {
-    "title": "Normal",
-    "url": "https://www.forumcinemas.lv/eng/event/304747/title/normal/"
+    "title": "Michael",
+    "url": "https://www.forumcinemas.lv/eng/event/303990/title/michael/"
   },
   {
-    "title": "Hokum",
-    "url": "https://www.forumcinemas.lv/eng/event/304760/title/hokum/"
+    "title": "Rufus: The Sea Serpent Who Couldn't Swim",
+    "url": "https://www.forumcinemas.lv/eng/event/304753/title/rufus_the_sea_serpent_who_couldnt_swim/"
   },
   {
-    "title": "Fuze",
-    "url": "https://www.forumcinemas.lv/eng/event/304763/title/fuze/"
+    "title": "The Super Mario Galaxy Movie",
+    "url": "https://www.forumcinemas.lv/eng/event/304620/title/the_super_mario_galaxy_movie/"
   },
   {
-    "title": "Lee Cronin's The Mummy",
-    "url": "https://www.forumcinemas.lv/eng/event/304744/title/lee_cronins_the_mummy/"
+    "title": "The Sheep Detectives",
+    "url": "https://www.forumcinemas.lv/eng/event/304774/title/the_sheep_detectives/"
   },
   {
-    "title": "My Neighbour Totoro (1988)",
-    "url": "https://www.forumcinemas.lv/eng/event/304579/title/my_neighbour_totoro_1988/"
+    "title": "Hoppers",
+    "url": "https://www.forumcinemas.lv/eng/event/304681/title/hoppers/"
   },
   {
-    "title": "The Shawshank Redemption (1994)",
-    "url": "https://www.forumcinemas.lv/eng/event/304705/title/the_shawshank_redemption_1994/"
+    "title": "Project Hail Mary",
+    "url": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/"
   },
   {
-    "title": "The Yeti",
-    "url": "https://www.forumcinemas.lv/eng/event/304751/title/the_yeti/"
+    "title": "Perfect Strangers",
+    "url": "https://www.forumcinemas.lv/eng/event/304657/title/perfect_strangers/"
+  },
+  {
+    "title": "Woodwalkers 2",
+    "url": "https://www.forumcinemas.lv/eng/event/304740/title/woodwalkers_2/"
   },
   {
     "title": "Zootopia 2",
@@ -80,12 +48,32 @@
     "url": "https://www.forumcinemas.lv/eng/event/304673/title/goat/"
   },
   {
+    "title": "Normal",
+    "url": "https://www.forumcinemas.lv/eng/event/304747/title/normal/"
+  },
+  {
+    "title": "Hokum",
+    "url": "https://www.forumcinemas.lv/eng/event/304760/title/hokum/"
+  },
+  {
     "title": "Money maker",
     "url": "https://www.forumcinemas.lv/eng/event/304777/title/money_maker/"
   },
   {
+    "title": "Fuze",
+    "url": "https://www.forumcinemas.lv/eng/event/304763/title/fuze/"
+  },
+  {
+    "title": "Lee Cronin's The Mummy",
+    "url": "https://www.forumcinemas.lv/eng/event/304744/title/lee_cronins_the_mummy/"
+  },
+  {
     "title": "Princess Mononoke (1997)",
     "url": "https://www.forumcinemas.lv/eng/event/304633/title/princess_mononoke_1997/"
+  },
+  {
+    "title": "Private event",
+    "url": "https://www.forumcinemas.lv/eng/event/303398/title/private_event/"
   },
   {
     "title": "MET Opera: Eugene Onegin",
@@ -114,6 +102,10 @@
   {
     "title": "Scream 7",
     "url": "https://www.forumcinemas.lv/eng/event/304628/title/scream_7/"
+  },
+  {
+    "title": "The Yeti",
+    "url": "https://www.forumcinemas.lv/eng/event/304751/title/the_yeti/"
   },
   {
     "title": "Flesh, Blood, Even a Heart",

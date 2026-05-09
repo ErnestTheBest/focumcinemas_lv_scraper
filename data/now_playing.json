@@ -1,59 +1,7 @@
 [
   {
-    "title": "Normal",
-    "url": "https://www.forumcinemas.lv/eng/event/304747/title/normal/"
-  },
-  {
-    "title": "The Sheep Detectives",
-    "url": "https://www.forumcinemas.lv/eng/event/304774/title/the_sheep_detectives/"
-  },
-  {
-    "title": "Fuze",
-    "url": "https://www.forumcinemas.lv/eng/event/304763/title/fuze/"
-  },
-  {
-    "title": "The Devil Wears Prada 2",
-    "url": "https://www.forumcinemas.lv/eng/event/304665/title/the_devil_wears_prada_2/"
-  },
-  {
     "title": "Michael",
     "url": "https://www.forumcinemas.lv/eng/event/303990/title/michael/"
-  },
-  {
-    "title": "Mortal Kombat II",
-    "url": "https://www.forumcinemas.lv/eng/event/304469/title/mortal_kombat_ii/"
-  },
-  {
-    "title": "The Super Mario Galaxy Movie",
-    "url": "https://www.forumcinemas.lv/eng/event/304620/title/the_super_mario_galaxy_movie/"
-  },
-  {
-    "title": "Perfect Strangers",
-    "url": "https://www.forumcinemas.lv/eng/event/304657/title/perfect_strangers/"
-  },
-  {
-    "title": "The Drama",
-    "url": "https://www.forumcinemas.lv/eng/event/304735/title/the_drama/"
-  },
-  {
-    "title": "Billie Eilish: Hit Me Hard and Soft - The Tour Live in 3D",
-    "url": "https://www.forumcinemas.lv/eng/event/304773/title/billie_eilish_hit_me_hard_and_soft_-_the_tour_live_in_3d/"
-  },
-  {
-    "title": "Hokum",
-    "url": "https://www.forumcinemas.lv/eng/event/304760/title/hokum/"
-  },
-  {
-    "title": "Project Hail Mary",
-    "url": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/"
-  },
-  {
-    "title": "The Matrix (1999)",
-    "url": "https://www.forumcinemas.lv/eng/event/302895/title/the_matrix_1999/"
-  },
-  {
-    "title": "Lee Cronin's The Mummy",
-    "url": "https://www.forumcinemas.lv/eng/event/304744/title/lee_cronins_the_mummy/"
   },
   {
     "title": "Rufus: The Sea Serpent Who Couldn't Swim",
@@ -68,16 +16,64 @@
     "url": "https://www.forumcinemas.lv/eng/event/304740/title/woodwalkers_2/"
   },
   {
+    "title": "Fuze",
+    "url": "https://www.forumcinemas.lv/eng/event/304763/title/fuze/"
+  },
+  {
+    "title": "The Super Mario Galaxy Movie",
+    "url": "https://www.forumcinemas.lv/eng/event/304620/title/the_super_mario_galaxy_movie/"
+  },
+  {
+    "title": "The Devil Wears Prada 2",
+    "url": "https://www.forumcinemas.lv/eng/event/304665/title/the_devil_wears_prada_2/"
+  },
+  {
     "title": "GOAT",
     "url": "https://www.forumcinemas.lv/eng/event/304673/title/goat/"
+  },
+  {
+    "title": "The Sheep Detectives",
+    "url": "https://www.forumcinemas.lv/eng/event/304774/title/the_sheep_detectives/"
+  },
+  {
+    "title": "Mortal Kombat II",
+    "url": "https://www.forumcinemas.lv/eng/event/304469/title/mortal_kombat_ii/"
+  },
+  {
+    "title": "Billie Eilish: Hit Me Hard and Soft - The Tour Live in 3D",
+    "url": "https://www.forumcinemas.lv/eng/event/304773/title/billie_eilish_hit_me_hard_and_soft_-_the_tour_live_in_3d/"
+  },
+  {
+    "title": "Perfect Strangers",
+    "url": "https://www.forumcinemas.lv/eng/event/304657/title/perfect_strangers/"
   },
   {
     "title": "Wuthering Heights",
     "url": "https://www.forumcinemas.lv/eng/event/304594/title/wuthering_heights/"
   },
   {
+    "title": "The Drama",
+    "url": "https://www.forumcinemas.lv/eng/event/304735/title/the_drama/"
+  },
+  {
+    "title": "Project Hail Mary",
+    "url": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/"
+  },
+  {
+    "title": "Hokum",
+    "url": "https://www.forumcinemas.lv/eng/event/304760/title/hokum/"
+  },
+  {
     "title": "Ocean's Thirteen (2007)",
     "url": "https://www.forumcinemas.lv/eng/event/299232/title/oceans_thirteen_2007/"
+  },
+  {
+    "title": "Lee Cronin's The Mummy",
+    "url": "https://www.forumcinemas.lv/eng/event/304744/title/lee_cronins_the_mummy/"
+  },
+  {
+    "title": "Normal",
+    "url": "https://www.forumcinemas.lv/eng/event/304747/title/normal/"
   },
   {
     "title": "Ready or Not 2: Here I Come",
@@ -150,6 +146,10 @@
   {
     "title": "Roman Holiday (1953)",
     "url": "https://www.forumcinemas.lv/eng/event/303951/title/roman_holiday_1953/"
+  },
+  {
+    "title": "The Matrix (1999)",
+    "url": "https://www.forumcinemas.lv/eng/event/302895/title/the_matrix_1999/"
   },
   {
     "title": "IIHF Worlds | Germany - Latvia",
@@ -226,6 +226,10 @@
   {
     "title": "2001: A Space Odyssey (1968)",
     "url": "https://www.forumcinemas.lv/eng/event/304790/title/2001_a_space_odyssey_1968/"
+  },
+  {
+    "title": "Masters of the Universe",
+    "url": "https://www.forumcinemas.lv/eng/event/304791/title/masters_of_the_universe/"
   },
   {
     "title": "The Amazing Digital Circus: The Last Act",

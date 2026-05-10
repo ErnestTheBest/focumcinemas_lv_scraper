@@ -8,6 +8,22 @@
     "url": "https://www.forumcinemas.lv/eng/event/304753/title/rufus_the_sea_serpent_who_couldnt_swim/"
   },
   {
+    "title": "The Super Mario Galaxy Movie",
+    "url": "https://www.forumcinemas.lv/eng/event/304620/title/the_super_mario_galaxy_movie/"
+  },
+  {
+    "title": "The Drama",
+    "url": "https://www.forumcinemas.lv/eng/event/304735/title/the_drama/"
+  },
+  {
+    "title": "The Sheep Detectives",
+    "url": "https://www.forumcinemas.lv/eng/event/304774/title/the_sheep_detectives/"
+  },
+  {
+    "title": "The Devil Wears Prada 2",
+    "url": "https://www.forumcinemas.lv/eng/event/304665/title/the_devil_wears_prada_2/"
+  },
+  {
     "title": "Hoppers",
     "url": "https://www.forumcinemas.lv/eng/event/304681/title/hoppers/"
   },
@@ -16,28 +32,16 @@
     "url": "https://www.forumcinemas.lv/eng/event/304740/title/woodwalkers_2/"
   },
   {
-    "title": "Fuze",
-    "url": "https://www.forumcinemas.lv/eng/event/304763/title/fuze/"
-  },
-  {
-    "title": "The Super Mario Galaxy Movie",
-    "url": "https://www.forumcinemas.lv/eng/event/304620/title/the_super_mario_galaxy_movie/"
-  },
-  {
-    "title": "The Devil Wears Prada 2",
-    "url": "https://www.forumcinemas.lv/eng/event/304665/title/the_devil_wears_prada_2/"
-  },
-  {
-    "title": "GOAT",
-    "url": "https://www.forumcinemas.lv/eng/event/304673/title/goat/"
-  },
-  {
-    "title": "The Sheep Detectives",
-    "url": "https://www.forumcinemas.lv/eng/event/304774/title/the_sheep_detectives/"
+    "title": "Wuthering Heights",
+    "url": "https://www.forumcinemas.lv/eng/event/304594/title/wuthering_heights/"
   },
   {
     "title": "Mortal Kombat II",
     "url": "https://www.forumcinemas.lv/eng/event/304469/title/mortal_kombat_ii/"
+  },
+  {
+    "title": "Project Hail Mary",
+    "url": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/"
   },
   {
     "title": "Billie Eilish: Hit Me Hard and Soft - The Tour Live in 3D",
@@ -48,48 +52,32 @@
     "url": "https://www.forumcinemas.lv/eng/event/304657/title/perfect_strangers/"
   },
   {
-    "title": "Wuthering Heights",
-    "url": "https://www.forumcinemas.lv/eng/event/304594/title/wuthering_heights/"
+    "title": "Private event",
+    "url": "https://www.forumcinemas.lv/eng/event/303398/title/private_event/"
   },
   {
-    "title": "The Drama",
-    "url": "https://www.forumcinemas.lv/eng/event/304735/title/the_drama/"
-  },
-  {
-    "title": "Project Hail Mary",
-    "url": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/"
-  },
-  {
-    "title": "Hokum",
-    "url": "https://www.forumcinemas.lv/eng/event/304760/title/hokum/"
-  },
-  {
-    "title": "Ocean's Thirteen (2007)",
-    "url": "https://www.forumcinemas.lv/eng/event/299232/title/oceans_thirteen_2007/"
-  },
-  {
-    "title": "Lee Cronin's The Mummy",
-    "url": "https://www.forumcinemas.lv/eng/event/304744/title/lee_cronins_the_mummy/"
+    "title": "Fuze",
+    "url": "https://www.forumcinemas.lv/eng/event/304763/title/fuze/"
   },
   {
     "title": "Normal",
     "url": "https://www.forumcinemas.lv/eng/event/304747/title/normal/"
   },
   {
-    "title": "Ready or Not 2: Here I Come",
-    "url": "https://www.forumcinemas.lv/eng/event/304723/title/ready_or_not_2_here_i_come/"
-  },
-  {
-    "title": "Scream 7",
-    "url": "https://www.forumcinemas.lv/eng/event/304628/title/scream_7/"
-  },
-  {
-    "title": "Private event",
-    "url": "https://www.forumcinemas.lv/eng/event/303398/title/private_event/"
+    "title": "Hokum",
+    "url": "https://www.forumcinemas.lv/eng/event/304760/title/hokum/"
   },
   {
     "title": "Charade (1963)",
     "url": "https://www.forumcinemas.lv/eng/event/304780/title/charade_1963/"
+  },
+  {
+    "title": "Lee Cronin's The Mummy",
+    "url": "https://www.forumcinemas.lv/eng/event/304744/title/lee_cronins_the_mummy/"
+  },
+  {
+    "title": "Scream 7",
+    "url": "https://www.forumcinemas.lv/eng/event/304628/title/scream_7/"
   },
   {
     "title": "Money maker",
@@ -110,6 +98,10 @@
   {
     "title": "Top Gun (1986)",
     "url": "https://www.forumcinemas.lv/eng/event/304392/title/top_gun_1986/"
+  },
+  {
+    "title": "Ocean's Thirteen (2007)",
+    "url": "https://www.forumcinemas.lv/eng/event/299232/title/oceans_thirteen_2007/"
   },
   {
     "title": "Top Gun: Maverick (2022)",

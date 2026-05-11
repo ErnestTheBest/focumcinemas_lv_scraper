@@ -1,15 +1,11 @@
 [
   {
-    "title": "Michael",
-    "url": "https://www.forumcinemas.lv/eng/event/303990/title/michael/"
+    "title": "The Devil Wears Prada 2",
+    "url": "https://www.forumcinemas.lv/eng/event/304665/title/the_devil_wears_prada_2/"
   },
   {
     "title": "Rufus: The Sea Serpent Who Couldn't Swim",
     "url": "https://www.forumcinemas.lv/eng/event/304753/title/rufus_the_sea_serpent_who_couldnt_swim/"
-  },
-  {
-    "title": "The Super Mario Galaxy Movie",
-    "url": "https://www.forumcinemas.lv/eng/event/304620/title/the_super_mario_galaxy_movie/"
   },
   {
     "title": "The Drama",
@@ -20,16 +16,20 @@
     "url": "https://www.forumcinemas.lv/eng/event/304774/title/the_sheep_detectives/"
   },
   {
-    "title": "The Devil Wears Prada 2",
-    "url": "https://www.forumcinemas.lv/eng/event/304665/title/the_devil_wears_prada_2/"
-  },
-  {
-    "title": "Hoppers",
-    "url": "https://www.forumcinemas.lv/eng/event/304681/title/hoppers/"
-  },
-  {
     "title": "Woodwalkers 2",
     "url": "https://www.forumcinemas.lv/eng/event/304740/title/woodwalkers_2/"
+  },
+  {
+    "title": "Michael",
+    "url": "https://www.forumcinemas.lv/eng/event/303990/title/michael/"
+  },
+  {
+    "title": "The Super Mario Galaxy Movie",
+    "url": "https://www.forumcinemas.lv/eng/event/304620/title/the_super_mario_galaxy_movie/"
+  },
+  {
+    "title": "Project Hail Mary",
+    "url": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/"
   },
   {
     "title": "Wuthering Heights",
@@ -40,8 +40,16 @@
     "url": "https://www.forumcinemas.lv/eng/event/304469/title/mortal_kombat_ii/"
   },
   {
-    "title": "Project Hail Mary",
-    "url": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/"
+    "title": "Hoppers",
+    "url": "https://www.forumcinemas.lv/eng/event/304681/title/hoppers/"
+  },
+  {
+    "title": "Hokum",
+    "url": "https://www.forumcinemas.lv/eng/event/304760/title/hokum/"
+  },
+  {
+    "title": "Fuze",
+    "url": "https://www.forumcinemas.lv/eng/event/304763/title/fuze/"
   },
   {
     "title": "Billie Eilish: Hit Me Hard and Soft - The Tour Live in 3D",
@@ -50,26 +58,6 @@
   {
     "title": "Perfect Strangers",
     "url": "https://www.forumcinemas.lv/eng/event/304657/title/perfect_strangers/"
-  },
-  {
-    "title": "Private event",
-    "url": "https://www.forumcinemas.lv/eng/event/303398/title/private_event/"
-  },
-  {
-    "title": "Fuze",
-    "url": "https://www.forumcinemas.lv/eng/event/304763/title/fuze/"
-  },
-  {
-    "title": "Normal",
-    "url": "https://www.forumcinemas.lv/eng/event/304747/title/normal/"
-  },
-  {
-    "title": "Hokum",
-    "url": "https://www.forumcinemas.lv/eng/event/304760/title/hokum/"
-  },
-  {
-    "title": "Charade (1963)",
-    "url": "https://www.forumcinemas.lv/eng/event/304780/title/charade_1963/"
   },
   {
     "title": "Lee Cronin's The Mummy",
@@ -86,6 +74,10 @@
   {
     "title": "How to Steal a Million (1966)",
     "url": "https://www.forumcinemas.lv/eng/event/304729/title/how_to_steal_a_million_1966/"
+  },
+  {
+    "title": "Normal",
+    "url": "https://www.forumcinemas.lv/eng/event/304747/title/normal/"
   },
   {
     "title": "Eurovision 2026 First Semi-Final Live",
@@ -118,6 +110,10 @@
   {
     "title": "Iron Maiden: Burning Ambition",
     "url": "https://www.forumcinemas.lv/eng/event/304759/title/iron_maiden_burning_ambition/"
+  },
+  {
+    "title": "Private event",
+    "url": "https://www.forumcinemas.lv/eng/event/303398/title/private_event/"
   },
   {
     "title": "Street Fighter (1994)",
@@ -154,6 +150,10 @@
   {
     "title": "Exhibition On Screen | Frida Kahlo",
     "url": "https://www.forumcinemas.lv/eng/event/302746/title/exhibition_on_screen_frida_kahlo/"
+  },
+  {
+    "title": "Charade (1963)",
+    "url": "https://www.forumcinemas.lv/eng/event/304780/title/charade_1963/"
   },
   {
     "title": "PRUSAX Shows a Movie | I Saw the Devil (2010)",

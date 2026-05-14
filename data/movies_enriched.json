@@ -27,33 +27,6 @@
     "imdbRating": 6.3
   },
   {
-    "title": "Project Hail Mary",
-    "releaseYear": 2026,
-    "genres": "Adventure, Comedy, Drama",
-    "imdbId": "tt12042730",
-    "imdbUrl": "https://www.imdb.com/title/tt12042730/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/",
-    "imdbRating": 8.3
-  },
-  {
-    "title": "Fuze",
-    "releaseYear": 2026,
-    "genres": "Action, Crime, Drama",
-    "imdbId": "tt31189814",
-    "imdbUrl": "https://www.imdb.com/title/tt31189814/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304763/title/fuze/",
-    "imdbRating": 6.2
-  },
-  {
-    "title": "Mortal Kombat II",
-    "releaseYear": 2026,
-    "genres": "Action, Adventure, Fantasy",
-    "imdbId": "tt17490712",
-    "imdbUrl": "https://www.imdb.com/title/tt17490712/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304469/title/mortal_kombat_ii/",
-    "imdbRating": 7
-  },
-  {
     "title": "The Devil Wears Prada 2",
     "releaseYear": 2026,
     "genres": "Comedy, Drama",
@@ -61,6 +34,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt33612209/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304665/title/the_devil_wears_prada_2/",
     "imdbRating": 6.7
+  },
+  {
+    "title": "Hoppers",
+    "releaseYear": 2026,
+    "genres": "Animation, Adventure, Comedy",
+    "imdbId": "tt26443616",
+    "imdbUrl": "https://www.imdb.com/title/tt26443616/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304681/title/hoppers/",
+    "imdbRating": 7.4
   },
   {
     "title": "Woodwalkers 2",
@@ -72,21 +54,21 @@
     "imdbRating": 5.4
   },
   {
-    "title": "Lee Cronin's The Mummy",
+    "title": "Mortal Kombat II",
     "releaseYear": 2026,
-    "genres": "Horror",
-    "imdbId": "tt32612507",
-    "imdbUrl": "https://www.imdb.com/title/tt32612507/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304744/title/lee_cronins_the_mummy/",
-    "imdbRating": 6.4
+    "genres": "Action, Adventure, Fantasy",
+    "imdbId": "tt17490712",
+    "imdbUrl": "https://www.imdb.com/title/tt17490712/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304469/title/mortal_kombat_ii/",
+    "imdbRating": 7
   },
   {
-    "title": "The Drama",
+    "title": "Hokum",
     "releaseYear": 2026,
-    "genres": "Comedy, Drama, Romance",
-    "imdbId": "tt33071426",
-    "imdbUrl": "https://www.imdb.com/title/tt33071426/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304735/title/the_drama/",
+    "genres": "Horror, Thriller",
+    "imdbId": "tt35672862",
+    "imdbUrl": "https://www.imdb.com/title/tt35672862/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304760/title/hokum/",
     "imdbRating": 7.3
   },
   {
@@ -99,13 +81,31 @@
     "imdbRating": 8.4
   },
   {
-    "title": "Hokum",
+    "title": "The Drama",
     "releaseYear": 2026,
-    "genres": "Horror, Thriller",
-    "imdbId": "tt35672862",
-    "imdbUrl": "https://www.imdb.com/title/tt35672862/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304760/title/hokum/",
+    "genres": "Comedy, Drama, Romance",
+    "imdbId": "tt33071426",
+    "imdbUrl": "https://www.imdb.com/title/tt33071426/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304735/title/the_drama/",
     "imdbRating": 7.3
+  },
+  {
+    "title": "In the Grey",
+    "releaseYear": 2026,
+    "genres": "Action, Drama, Thriller",
+    "imdbId": "tt27681354",
+    "imdbUrl": "https://www.imdb.com/title/tt27681354/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304761/title/in_the_grey/",
+    "imdbRating": 7
+  },
+  {
+    "title": "Project Hail Mary",
+    "releaseYear": 2026,
+    "genres": "Adventure, Comedy, Drama",
+    "imdbId": "tt12042730",
+    "imdbUrl": "https://www.imdb.com/title/tt12042730/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/",
+    "imdbRating": 8.3
   },
   {
     "title": "Perfect Strangers",
@@ -117,49 +117,22 @@
     "imdbRating": 8.1
   },
   {
-    "title": "Top Gun (1986)",
-    "releaseYear": 1986,
-    "genres": "Action, Drama",
-    "imdbId": "tt0092099",
-    "imdbUrl": "https://www.imdb.com/title/tt0092099/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304392/title/top_gun_1986/",
-    "imdbRating": 7
-  },
-  {
-    "title": "Ocean's Thirteen (2007)",
-    "releaseYear": 2007,
-    "genres": "Crime, Thriller",
-    "imdbId": "tt0496806",
-    "imdbUrl": "https://www.imdb.com/title/tt0496806/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/299232/title/oceans_thirteen_2007/",
-    "imdbRating": 6.9
-  },
-  {
-    "title": "Top Gun: Maverick (2022)",
-    "releaseYear": 2022,
-    "genres": "Action, Drama",
-    "imdbId": "tt1745960",
-    "imdbUrl": "https://www.imdb.com/title/tt1745960/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/302481/title/top_gun_maverick_2022/",
-    "imdbRating": 8.2
-  },
-  {
-    "title": "Hoppers",
+    "title": "Fuze",
     "releaseYear": 2026,
-    "genres": "Animation, Adventure, Comedy",
-    "imdbId": "tt26443616",
-    "imdbUrl": "https://www.imdb.com/title/tt26443616/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304681/title/hoppers/",
-    "imdbRating": 7.4
+    "genres": "Action, Crime, Drama",
+    "imdbId": "tt31189814",
+    "imdbUrl": "https://www.imdb.com/title/tt31189814/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304763/title/fuze/",
+    "imdbRating": 6.2
   },
   {
-    "title": "In the Grey",
+    "title": "Lee Cronin's The Mummy",
     "releaseYear": 2026,
-    "genres": "Action, Drama, Thriller",
-    "imdbId": "tt27681354",
-    "imdbUrl": "https://www.imdb.com/title/tt27681354/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304761/title/in_the_grey/",
-    "imdbRating": 7.3
+    "genres": "Horror",
+    "imdbId": "tt32612507",
+    "imdbUrl": "https://www.imdb.com/title/tt32612507/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304744/title/lee_cronins_the_mummy/",
+    "imdbRating": 6.4
   },
   {
     "title": "Wuthering Heights",
@@ -207,6 +180,15 @@
     "imdbRating": 7.6
   },
   {
+    "title": "Top Gun (1986)",
+    "releaseYear": 1986,
+    "genres": "Action, Drama",
+    "imdbId": "tt0092099",
+    "imdbUrl": "https://www.imdb.com/title/tt0092099/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304392/title/top_gun_1986/",
+    "imdbRating": 7
+  },
+  {
     "title": "Iron Maiden: Burning Ambition",
     "releaseYear": 2026,
     "genres": "Documentary, Biography, Music",
@@ -223,6 +205,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt0111301/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304785/title/street_fighter_1994/",
     "imdbRating": 4.1
+  },
+  {
+    "title": "Top Gun: Maverick (2022)",
+    "releaseYear": 2022,
+    "genres": "Action, Drama",
+    "imdbId": "tt1745960",
+    "imdbUrl": "https://www.imdb.com/title/tt1745960/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/302481/title/top_gun_maverick_2022/",
+    "imdbRating": 8.2
   },
   {
     "title": "RoboCop (Director’s Cut) (1987)",
@@ -378,6 +369,15 @@
     "imdbRating": null
   },
   {
+    "title": "Blade (1998)",
+    "releaseYear": 1998,
+    "genres": "Action, Horror, Sci-Fi",
+    "imdbId": "tt0120611",
+    "imdbUrl": "https://www.imdb.com/title/tt0120611/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/302401/title/blade_1998/",
+    "imdbRating": 7.1
+  },
+  {
     "title": "The Amazing Digital Circus: The Last Act",
     "releaseYear": 2026,
     "genres": "Animation, Adventure, Comedy",
@@ -385,5 +385,14 @@
     "imdbUrl": "https://www.imdb.com/title/tt41635245/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304781/title/the_amazing_digital_circus_the_last_act/",
     "imdbRating": null
+  },
+  {
+    "title": "Midsommar *Director’s Cut* (2019)",
+    "releaseYear": 2019,
+    "genres": "Drama, Horror, Mystery",
+    "imdbId": "tt8772262",
+    "imdbUrl": "https://www.imdb.com/title/tt8772262/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/303702/title/midsommar_directors_cut_2019/",
+    "imdbRating": 7.1
   }
 ]

@@ -1,14 +1,5 @@
 [
   {
-    "title": "Rufus: The Sea Serpent Who Couldn't Swim",
-    "releaseYear": 2025,
-    "genres": "Animation, Family",
-    "imdbId": "tt32267711",
-    "imdbUrl": "https://www.imdb.com/title/tt32267711/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304753/title/rufus_the_sea_serpent_who_couldnt_swim/",
-    "imdbRating": 6.7
-  },
-  {
     "title": "The Devil Wears Prada 2",
     "releaseYear": 2026,
     "genres": "Comedy, Drama",
@@ -24,16 +15,34 @@
     "imdbId": "tt7734244",
     "imdbUrl": "https://www.imdb.com/title/tt7734244/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304776/title/the_magic_faraway_tree/",
-    "imdbRating": 6.8
+    "imdbRating": 6.7
   },
   {
-    "title": "Fuze",
+    "title": "Rufus: The Sea Serpent Who Couldn't Swim",
+    "releaseYear": 2025,
+    "genres": "Animation, Family",
+    "imdbId": "tt32267711",
+    "imdbUrl": "https://www.imdb.com/title/tt32267711/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304753/title/rufus_the_sea_serpent_who_couldnt_swim/",
+    "imdbRating": 6.7
+  },
+  {
+    "title": "The Drama",
     "releaseYear": 2026,
-    "genres": "Action, Crime, Drama",
-    "imdbId": "tt31189814",
-    "imdbUrl": "https://www.imdb.com/title/tt31189814/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304763/title/fuze/",
-    "imdbRating": 6.2
+    "genres": "Comedy, Drama, Romance",
+    "imdbId": "tt33071426",
+    "imdbUrl": "https://www.imdb.com/title/tt33071426/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304735/title/the_drama/",
+    "imdbRating": 7.3
+  },
+  {
+    "title": "Michael",
+    "releaseYear": 2026,
+    "genres": "Biography, Drama, History",
+    "imdbId": "tt11378946",
+    "imdbUrl": "https://www.imdb.com/title/tt11378946/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/303990/title/michael/",
+    "imdbRating": 7.7
   },
   {
     "title": "The Sheep Detectives",
@@ -45,30 +54,12 @@
     "imdbRating": 7.7
   },
   {
-    "title": "In the Grey",
-    "releaseYear": 2026,
-    "genres": "Action, Drama, Thriller",
-    "imdbId": "tt27681354",
-    "imdbUrl": "https://www.imdb.com/title/tt27681354/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304761/title/in_the_grey/",
-    "imdbRating": 6.8
-  },
-  {
-    "title": "The Super Mario Galaxy Movie",
+    "title": "Hoppers",
     "releaseYear": 2026,
     "genres": "Animation, Adventure, Comedy",
-    "imdbId": "tt28650488",
-    "imdbUrl": "https://www.imdb.com/title/tt28650488/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304620/title/the_super_mario_galaxy_movie/",
-    "imdbRating": 6.3
-  },
-  {
-    "title": "Hokum",
-    "releaseYear": 2026,
-    "genres": "Horror, Thriller",
-    "imdbId": "tt35672862",
-    "imdbUrl": "https://www.imdb.com/title/tt35672862/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304760/title/hokum/",
+    "imdbId": "tt26443616",
+    "imdbUrl": "https://www.imdb.com/title/tt26443616/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304681/title/hoppers/",
     "imdbRating": 7.3
   },
   {
@@ -81,13 +72,40 @@
     "imdbRating": 7.1
   },
   {
-    "title": "Michael",
+    "title": "Project Hail Mary",
     "releaseYear": 2026,
-    "genres": "Biography, Drama, History",
-    "imdbId": "tt11378946",
-    "imdbUrl": "https://www.imdb.com/title/tt11378946/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/303990/title/michael/",
-    "imdbRating": 7.7
+    "genres": "Adventure, Comedy, Drama",
+    "imdbId": "tt12042730",
+    "imdbUrl": "https://www.imdb.com/title/tt12042730/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/",
+    "imdbRating": 8.3
+  },
+  {
+    "title": "The Super Mario Galaxy Movie",
+    "releaseYear": 2026,
+    "genres": "Animation, Adventure, Comedy",
+    "imdbId": "tt28650488",
+    "imdbUrl": "https://www.imdb.com/title/tt28650488/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304620/title/the_super_mario_galaxy_movie/",
+    "imdbRating": 6.3
+  },
+  {
+    "title": "In the Grey",
+    "releaseYear": 2026,
+    "genres": "Action, Drama, Thriller",
+    "imdbId": "tt27681354",
+    "imdbUrl": "https://www.imdb.com/title/tt27681354/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304761/title/in_the_grey/",
+    "imdbRating": 6.7
+  },
+  {
+    "title": "Hokum",
+    "releaseYear": 2026,
+    "genres": "Horror, Thriller",
+    "imdbId": "tt35672862",
+    "imdbUrl": "https://www.imdb.com/title/tt35672862/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304760/title/hokum/",
+    "imdbRating": 7.3
   },
   {
     "title": "Billie Eilish: Hit Me Hard and Soft - The Tour Live in 3D",
@@ -99,15 +117,6 @@
     "imdbRating": 7.6
   },
   {
-    "title": "The Drama",
-    "releaseYear": 2026,
-    "genres": "Comedy, Drama, Romance",
-    "imdbId": "tt33071426",
-    "imdbUrl": "https://www.imdb.com/title/tt33071426/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304735/title/the_drama/",
-    "imdbRating": 7.3
-  },
-  {
     "title": "Mortal Kombat II",
     "releaseYear": 2026,
     "genres": "Action, Adventure, Fantasy",
@@ -117,58 +126,13 @@
     "imdbRating": 7
   },
   {
-    "title": "Top Gun (1986)",
-    "releaseYear": 1986,
-    "genres": "Action, Drama",
-    "imdbId": "tt0092099",
-    "imdbUrl": "https://www.imdb.com/title/tt0092099/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304392/title/top_gun_1986/",
-    "imdbRating": 7
-  },
-  {
-    "title": "Iron Maiden: Burning Ambition",
+    "title": "Fuze",
     "releaseYear": 2026,
-    "genres": "Documentary, Biography, Music",
-    "imdbId": "tt36163614",
-    "imdbUrl": "https://www.imdb.com/title/tt36163614/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304759/title/iron_maiden_burning_ambition/",
-    "imdbRating": 7.7
-  },
-  {
-    "title": "Project Hail Mary",
-    "releaseYear": 2026,
-    "genres": "Adventure, Comedy, Drama",
-    "imdbId": "tt12042730",
-    "imdbUrl": "https://www.imdb.com/title/tt12042730/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/",
-    "imdbRating": 8.3
-  },
-  {
-    "title": "Street Fighter (1994)",
-    "releaseYear": 1994,
-    "genres": "Action, Adventure, Comedy",
-    "imdbId": "tt0111301",
-    "imdbUrl": "https://www.imdb.com/title/tt0111301/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304785/title/street_fighter_1994/",
-    "imdbRating": 4.1
-  },
-  {
-    "title": "Top Gun: Maverick (2022)",
-    "releaseYear": 2022,
-    "genres": "Action, Drama",
-    "imdbId": "tt1745960",
-    "imdbUrl": "https://www.imdb.com/title/tt1745960/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/302481/title/top_gun_maverick_2022/",
-    "imdbRating": 8.2
-  },
-  {
-    "title": "Hoppers",
-    "releaseYear": 2026,
-    "genres": "Animation, Adventure, Comedy",
-    "imdbId": "tt26443616",
-    "imdbUrl": "https://www.imdb.com/title/tt26443616/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304681/title/hoppers/",
-    "imdbRating": 7.3
+    "genres": "Action, Crime, Drama",
+    "imdbId": "tt31189814",
+    "imdbUrl": "https://www.imdb.com/title/tt31189814/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304763/title/fuze/",
+    "imdbRating": 6.2
   },
   {
     "title": "RoboCop (Director’s Cut) (1987)",
@@ -196,6 +160,24 @@
     "imdbUrl": "https://www.imdb.com/title/tt39109902/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304657/title/perfect_strangers/",
     "imdbRating": 8.1
+  },
+  {
+    "title": "Top Gun: Maverick (2022)",
+    "releaseYear": 2022,
+    "genres": "Action, Drama",
+    "imdbId": "tt1745960",
+    "imdbUrl": "https://www.imdb.com/title/tt1745960/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/302481/title/top_gun_maverick_2022/",
+    "imdbRating": 8.2
+  },
+  {
+    "title": "Iron Maiden: Burning Ambition",
+    "releaseYear": 2026,
+    "genres": "Documentary, Biography, Music",
+    "imdbId": "tt36163614",
+    "imdbUrl": "https://www.imdb.com/title/tt36163614/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304759/title/iron_maiden_burning_ambition/",
+    "imdbRating": 7.6
   },
   {
     "title": "Roman Holiday (1953)",
@@ -403,5 +385,14 @@
     "imdbUrl": "https://www.imdb.com/title/tt8772262/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/303702/title/midsommar_directors_cut_2019/",
     "imdbRating": 7.1
+  },
+  {
+    "title": "GoodFellas (1990)",
+    "releaseYear": 1990,
+    "genres": "Biography, Crime, Drama",
+    "imdbId": "tt0099685",
+    "imdbUrl": "https://www.imdb.com/title/tt0099685/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304798/title/goodfellas_1990/",
+    "imdbRating": 8.7
   }
 ]

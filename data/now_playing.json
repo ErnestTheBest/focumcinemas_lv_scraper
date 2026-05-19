@@ -1,17 +1,5 @@
 [
   {
-    "title": "The Magic Faraway Tree",
-    "url": "https://www.forumcinemas.lv/eng/event/304776/title/the_magic_faraway_tree/"
-  },
-  {
-    "title": "The Sheep Detectives",
-    "url": "https://www.forumcinemas.lv/eng/event/304774/title/the_sheep_detectives/"
-  },
-  {
-    "title": "The Devil Wears Prada 2",
-    "url": "https://www.forumcinemas.lv/eng/event/304665/title/the_devil_wears_prada_2/"
-  },
-  {
     "title": "Michael",
     "url": "https://www.forumcinemas.lv/eng/event/303990/title/michael/"
   },
@@ -20,16 +8,32 @@
     "url": "https://www.forumcinemas.lv/eng/event/304753/title/rufus_the_sea_serpent_who_couldnt_swim/"
   },
   {
-    "title": "The Drama",
-    "url": "https://www.forumcinemas.lv/eng/event/304735/title/the_drama/"
+    "title": "The Sheep Detectives",
+    "url": "https://www.forumcinemas.lv/eng/event/304774/title/the_sheep_detectives/"
   },
   {
-    "title": "Escape Net",
-    "url": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/"
+    "title": "The Magic Faraway Tree",
+    "url": "https://www.forumcinemas.lv/eng/event/304776/title/the_magic_faraway_tree/"
+  },
+  {
+    "title": "The Devil Wears Prada 2",
+    "url": "https://www.forumcinemas.lv/eng/event/304665/title/the_devil_wears_prada_2/"
   },
   {
     "title": "Perfect Strangers",
     "url": "https://www.forumcinemas.lv/eng/event/304657/title/perfect_strangers/"
+  },
+  {
+    "title": "The Drama",
+    "url": "https://www.forumcinemas.lv/eng/event/304735/title/the_drama/"
+  },
+  {
+    "title": "Lee Cronin's The Mummy",
+    "url": "https://www.forumcinemas.lv/eng/event/304744/title/lee_cronins_the_mummy/"
+  },
+  {
+    "title": "In the Grey",
+    "url": "https://www.forumcinemas.lv/eng/event/304761/title/in_the_grey/"
   },
   {
     "title": "The Super Mario Galaxy Movie",
@@ -40,36 +44,8 @@
     "url": "https://www.forumcinemas.lv/eng/event/304469/title/mortal_kombat_ii/"
   },
   {
-    "title": "Project Hail Mary",
-    "url": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/"
-  },
-  {
-    "title": "In the Grey",
-    "url": "https://www.forumcinemas.lv/eng/event/304761/title/in_the_grey/"
-  },
-  {
     "title": "Over Your Dead Body",
     "url": "https://www.forumcinemas.lv/eng/event/304797/title/over_your_dead_body/"
-  },
-  {
-    "title": "Billie Eilish: Hit Me Hard and Soft - The Tour Live in 3D",
-    "url": "https://www.forumcinemas.lv/eng/event/304773/title/billie_eilish_hit_me_hard_and_soft_-_the_tour_live_in_3d/"
-  },
-  {
-    "title": "Hokum",
-    "url": "https://www.forumcinemas.lv/eng/event/304760/title/hokum/"
-  },
-  {
-    "title": "Fuze",
-    "url": "https://www.forumcinemas.lv/eng/event/304763/title/fuze/"
-  },
-  {
-    "title": "Normal",
-    "url": "https://www.forumcinemas.lv/eng/event/304747/title/normal/"
-  },
-  {
-    "title": "Lee Cronin's The Mummy",
-    "url": "https://www.forumcinemas.lv/eng/event/304744/title/lee_cronins_the_mummy/"
   },
   {
     "title": "IIHF Worlds | Latvia - Austria",
@@ -80,12 +56,20 @@
     "url": "https://www.forumcinemas.lv/eng/event/302746/title/exhibition_on_screen_frida_kahlo/"
   },
   {
+    "title": "Project Hail Mary",
+    "url": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/"
+  },
+  {
     "title": "Charade (1963)",
     "url": "https://www.forumcinemas.lv/eng/event/304780/title/charade_1963/"
   },
   {
     "title": "PRUSAX Shows a Movie | I Saw the Devil (2010)",
     "url": "https://www.forumcinemas.lv/eng/event/304782/title/prusax_shows_a_movie_i_saw_the_devil_2010/"
+  },
+  {
+    "title": "Hokum",
+    "url": "https://www.forumcinemas.lv/eng/event/304760/title/hokum/"
   },
   {
     "title": "Star Wars: The Mandalorian and Grogu",
@@ -100,8 +84,16 @@
     "url": "https://www.forumcinemas.lv/eng/event/304759/title/iron_maiden_burning_ambition/"
   },
   {
+    "title": "Fuze",
+    "url": "https://www.forumcinemas.lv/eng/event/304763/title/fuze/"
+  },
+  {
     "title": "Private event",
     "url": "https://www.forumcinemas.lv/eng/event/303398/title/private_event/"
+  },
+  {
+    "title": "Escape Net",
+    "url": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/"
   },
   {
     "title": "Wuthering Heights",
@@ -112,12 +104,24 @@
     "url": "https://www.forumcinemas.lv/eng/event/304769/title/iihf_worlds_latvia_-_finland/"
   },
   {
+    "title": "Spiked",
+    "url": "https://www.forumcinemas.lv/eng/event/304788/title/spiked/"
+  },
+  {
+    "title": "Passenger",
+    "url": "https://www.forumcinemas.lv/eng/event/304789/title/passenger/"
+  },
+  {
     "title": "Interstellar (2014)",
     "url": "https://www.forumcinemas.lv/eng/event/301459/title/interstellar_2014/"
   },
   {
     "title": "IIHF Worlds | Latvia - USA",
     "url": "https://www.forumcinemas.lv/eng/event/304770/title/iihf_worlds_latvia_-_usa/"
+  },
+  {
+    "title": "Hoppers",
+    "url": "https://www.forumcinemas.lv/eng/event/304681/title/hoppers/"
   },
   {
     "title": "The Dark Knight (2008)",
@@ -140,8 +144,16 @@
     "url": "https://www.forumcinemas.lv/eng/event/299159/title/inception_2010/"
   },
   {
+    "title": "Red Code Blue",
+    "url": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/"
+  },
+  {
     "title": "IIHF Worlds | Hungary - Latvia",
     "url": "https://www.forumcinemas.lv/eng/event/304772/title/iihf_worlds_hungary_-_latvia/"
+  },
+  {
+    "title": "Billie Eilish: Hit Me Hard and Soft - The Tour Live in 3D",
+    "url": "https://www.forumcinemas.lv/eng/event/304773/title/billie_eilish_hit_me_hard_and_soft_-_the_tour_live_in_3d/"
   },
   {
     "title": "“Kino Kults” Patreon + Kino Guru screening",

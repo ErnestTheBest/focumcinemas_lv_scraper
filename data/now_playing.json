@@ -1,73 +1,5 @@
 [
   {
-    "title": "The Super Mario Galaxy Movie",
-    "url": "https://www.forumcinemas.lv/eng/event/304620/title/the_super_mario_galaxy_movie/"
-  },
-  {
-    "title": "Star Wars: The Mandalorian and Grogu",
-    "url": "https://www.forumcinemas.lv/eng/event/304666/title/star_wars_the_mandalorian_and_grogu/"
-  },
-  {
-    "title": "The Devil Wears Prada 2",
-    "url": "https://www.forumcinemas.lv/eng/event/304665/title/the_devil_wears_prada_2/"
-  },
-  {
-    "title": "The Sheep Detectives",
-    "url": "https://www.forumcinemas.lv/eng/event/304774/title/the_sheep_detectives/"
-  },
-  {
-    "title": "In the Grey",
-    "url": "https://www.forumcinemas.lv/eng/event/304761/title/in_the_grey/"
-  },
-  {
-    "title": "The Magic Faraway Tree",
-    "url": "https://www.forumcinemas.lv/eng/event/304776/title/the_magic_faraway_tree/"
-  },
-  {
-    "title": "The Drama",
-    "url": "https://www.forumcinemas.lv/eng/event/304735/title/the_drama/"
-  },
-  {
-    "title": "Michael",
-    "url": "https://www.forumcinemas.lv/eng/event/303990/title/michael/"
-  },
-  {
-    "title": "Over Your Dead Body",
-    "url": "https://www.forumcinemas.lv/eng/event/304797/title/over_your_dead_body/"
-  },
-  {
-    "title": "Mortal Kombat II",
-    "url": "https://www.forumcinemas.lv/eng/event/304469/title/mortal_kombat_ii/"
-  },
-  {
-    "title": "Project Hail Mary",
-    "url": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/"
-  },
-  {
-    "title": "MET Opera: Eugene Onegin",
-    "url": "https://www.forumcinemas.lv/eng/event/304457/title/met_opera_eugene_onegin/"
-  },
-  {
-    "title": "Perfect Strangers",
-    "url": "https://www.forumcinemas.lv/eng/event/304657/title/perfect_strangers/"
-  },
-  {
-    "title": "Iron Maiden: Burning Ambition",
-    "url": "https://www.forumcinemas.lv/eng/event/304759/title/iron_maiden_burning_ambition/"
-  },
-  {
-    "title": "Lee Cronin's The Mummy",
-    "url": "https://www.forumcinemas.lv/eng/event/304744/title/lee_cronins_the_mummy/"
-  },
-  {
-    "title": "Fuze",
-    "url": "https://www.forumcinemas.lv/eng/event/304763/title/fuze/"
-  },
-  {
-    "title": "Hokum",
-    "url": "https://www.forumcinemas.lv/eng/event/304760/title/hokum/"
-  },
-  {
     "title": "Rufus: The Sea Serpent Who Couldn't Swim",
     "url": "https://www.forumcinemas.lv/eng/event/304753/title/rufus_the_sea_serpent_who_couldnt_swim/"
   },
@@ -76,12 +8,72 @@
     "url": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/"
   },
   {
+    "title": "The Devil Wears Prada 2",
+    "url": "https://www.forumcinemas.lv/eng/event/304665/title/the_devil_wears_prada_2/"
+  },
+  {
+    "title": "The Magic Faraway Tree",
+    "url": "https://www.forumcinemas.lv/eng/event/304776/title/the_magic_faraway_tree/"
+  },
+  {
+    "title": "The Super Mario Galaxy Movie",
+    "url": "https://www.forumcinemas.lv/eng/event/304620/title/the_super_mario_galaxy_movie/"
+  },
+  {
+    "title": "Michael",
+    "url": "https://www.forumcinemas.lv/eng/event/303990/title/michael/"
+  },
+  {
+    "title": "Mortal Kombat II",
+    "url": "https://www.forumcinemas.lv/eng/event/304469/title/mortal_kombat_ii/"
+  },
+  {
     "title": "Wuthering Heights",
     "url": "https://www.forumcinemas.lv/eng/event/304594/title/wuthering_heights/"
   },
   {
+    "title": "Star Wars: The Mandalorian and Grogu",
+    "url": "https://www.forumcinemas.lv/eng/event/304666/title/star_wars_the_mandalorian_and_grogu/"
+  },
+  {
+    "title": "In the Grey",
+    "url": "https://www.forumcinemas.lv/eng/event/304761/title/in_the_grey/"
+  },
+  {
+    "title": "Hokum",
+    "url": "https://www.forumcinemas.lv/eng/event/304760/title/hokum/"
+  },
+  {
+    "title": "The Sheep Detectives",
+    "url": "https://www.forumcinemas.lv/eng/event/304774/title/the_sheep_detectives/"
+  },
+  {
+    "title": "Perfect Strangers",
+    "url": "https://www.forumcinemas.lv/eng/event/304657/title/perfect_strangers/"
+  },
+  {
+    "title": "Project Hail Mary",
+    "url": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/"
+  },
+  {
+    "title": "Over Your Dead Body",
+    "url": "https://www.forumcinemas.lv/eng/event/304797/title/over_your_dead_body/"
+  },
+  {
     "title": "IIHF Worlds | Latvia - Finland",
     "url": "https://www.forumcinemas.lv/eng/event/304769/title/iihf_worlds_latvia_-_finland/"
+  },
+  {
+    "title": "The Drama",
+    "url": "https://www.forumcinemas.lv/eng/event/304735/title/the_drama/"
+  },
+  {
+    "title": "Lee Cronin's The Mummy",
+    "url": "https://www.forumcinemas.lv/eng/event/304744/title/lee_cronins_the_mummy/"
+  },
+  {
+    "title": "Fuze",
+    "url": "https://www.forumcinemas.lv/eng/event/304763/title/fuze/"
   },
   {
     "title": "Spiked",
@@ -124,16 +116,16 @@
     "url": "https://www.forumcinemas.lv/eng/event/299159/title/inception_2010/"
   },
   {
+    "title": "Thelma’s perfect Birthday",
+    "url": "https://www.forumcinemas.lv/eng/event/304323/title/thelmas_perfect_birthday/"
+  },
+  {
     "title": "Red Code Blue",
     "url": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/"
   },
   {
     "title": "Erik Stoneheart",
     "url": "https://www.forumcinemas.lv/eng/event/303807/title/erik_stoneheart/"
-  },
-  {
-    "title": "Thelma’s perfect Birthday",
-    "url": "https://www.forumcinemas.lv/eng/event/304323/title/thelmas_perfect_birthday/"
   },
   {
     "title": "Boom!",
@@ -170,6 +162,10 @@
   {
     "title": "Stand-up kino | Housemaid (2025)",
     "url": "https://www.forumcinemas.lv/eng/event/304792/title/stand-up_kino_housemaid_2025/"
+  },
+  {
+    "title": "Law of the Heart",
+    "url": "https://www.forumcinemas.lv/eng/event/303941/title/law_of_the_heart/"
   },
   {
     "title": "Backrooms",
@@ -228,10 +224,6 @@
     "url": "https://www.forumcinemas.lv/eng/event/299070/title/blade_ii_2002/"
   },
   {
-    "title": "Bridesmaids (2011)",
-    "url": "https://www.forumcinemas.lv/eng/event/299766/title/bridesmaids_2011/"
-  },
-  {
     "title": "NT LIVE: The Fifth Step",
     "url": "https://www.forumcinemas.lv/eng/event/304465/title/nt_live_the_fifth_step/"
   },
@@ -242,6 +234,10 @@
   {
     "title": "Midsommar *Director’s Cut* (2019)",
     "url": "https://www.forumcinemas.lv/eng/event/303702/title/midsommar_directors_cut_2019/"
+  },
+  {
+    "title": "Bridesmaids (2011)",
+    "url": "https://www.forumcinemas.lv/eng/event/299766/title/bridesmaids_2011/"
   },
   {
     "title": "GoodFellas (1990)",

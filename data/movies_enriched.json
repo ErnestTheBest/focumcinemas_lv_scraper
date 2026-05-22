@@ -1,21 +1,39 @@
 [
   {
-    "title": "Rufus: The Sea Serpent Who Couldn't Swim",
-    "releaseYear": 2025,
-    "genres": "Animation, Family",
-    "imdbId": "tt32267711",
-    "imdbUrl": "https://www.imdb.com/title/tt32267711/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304753/title/rufus_the_sea_serpent_who_couldnt_swim/",
-    "imdbRating": 6.8
+    "title": "Michael",
+    "releaseYear": 2026,
+    "genres": "Biography, Drama, History",
+    "imdbId": "tt11378946",
+    "imdbUrl": "https://www.imdb.com/title/tt11378946/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/303990/title/michael/",
+    "imdbRating": 7.7
   },
   {
-    "title": "Escape Net",
-    "releaseYear": 2025,
-    "genres": "Biography, Drama, Sport",
-    "imdbId": "tt21043190",
-    "imdbUrl": "https://www.imdb.com/title/tt21043190/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304414/title/escape_net/",
-    "imdbRating": 8.4
+    "title": "The Sheep Detectives",
+    "releaseYear": 2026,
+    "genres": "Comedy, Family, Mystery",
+    "imdbId": "tt32565993",
+    "imdbUrl": "https://www.imdb.com/title/tt32565993/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304774/title/the_sheep_detectives/",
+    "imdbRating": 7.7
+  },
+  {
+    "title": "Star Wars: The Mandalorian and Grogu",
+    "releaseYear": 2026,
+    "genres": "Adventure, Family, Fantasy",
+    "imdbId": "tt30825738",
+    "imdbUrl": "https://www.imdb.com/title/tt30825738/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304666/title/star_wars_the_mandalorian_and_grogu/",
+    "imdbRating": 7
+  },
+  {
+    "title": "Spiked",
+    "releaseYear": 2026,
+    "genres": "Animation, Adventure, Comedy",
+    "imdbId": "tt6930962",
+    "imdbUrl": "https://www.imdb.com/title/tt6930962/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304788/title/spiked/",
+    "imdbRating": 5.4
   },
   {
     "title": "The Devil Wears Prada 2",
@@ -45,13 +63,22 @@
     "imdbRating": 6.3
   },
   {
-    "title": "Michael",
+    "title": "Passenger",
     "releaseYear": 2026,
-    "genres": "Biography, Drama, History",
-    "imdbId": "tt11378946",
-    "imdbUrl": "https://www.imdb.com/title/tt11378946/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/303990/title/michael/",
-    "imdbRating": 7.7
+    "genres": "Horror",
+    "imdbId": "tt33763941",
+    "imdbUrl": "https://www.imdb.com/title/tt33763941/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304789/title/passenger/",
+    "imdbRating": 5.6
+  },
+  {
+    "title": "Over Your Dead Body",
+    "releaseYear": 2026,
+    "genres": "Action, Comedy, Thriller",
+    "imdbId": "tt34685692",
+    "imdbUrl": "https://www.imdb.com/title/tt34685692/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304797/title/over_your_dead_body/",
+    "imdbRating": 7
   },
   {
     "title": "Mortal Kombat II",
@@ -61,24 +88,6 @@
     "imdbUrl": "https://www.imdb.com/title/tt17490712/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304469/title/mortal_kombat_ii/",
     "imdbRating": 6.9
-  },
-  {
-    "title": "Wuthering Heights",
-    "releaseYear": 2026,
-    "genres": "Drama, Romance",
-    "imdbId": "tt32897959",
-    "imdbUrl": "https://www.imdb.com/title/tt32897959/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304594/title/wuthering_heights/",
-    "imdbRating": 6.1
-  },
-  {
-    "title": "Star Wars: The Mandalorian and Grogu",
-    "releaseYear": 2026,
-    "genres": "Action, Adventure, Family",
-    "imdbId": "tt30825738",
-    "imdbUrl": "https://www.imdb.com/title/tt30825738/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304666/title/star_wars_the_mandalorian_and_grogu/",
-    "imdbRating": 7
   },
   {
     "title": "In the Grey",
@@ -99,22 +108,13 @@
     "imdbRating": 7.3
   },
   {
-    "title": "The Sheep Detectives",
+    "title": "The Drama",
     "releaseYear": 2026,
-    "genres": "Action, Comedy, Family",
-    "imdbId": "tt32565993",
-    "imdbUrl": "https://www.imdb.com/title/tt32565993/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304774/title/the_sheep_detectives/",
-    "imdbRating": 7.7
-  },
-  {
-    "title": "Perfect Strangers",
-    "releaseYear": 2026,
-    "genres": "Comedy, Drama",
-    "imdbId": "tt39109902",
-    "imdbUrl": "https://www.imdb.com/title/tt39109902/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304657/title/perfect_strangers/",
-    "imdbRating": 8.1
+    "genres": "Comedy, Drama, Romance",
+    "imdbId": "tt33071426",
+    "imdbUrl": "https://www.imdb.com/title/tt33071426/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304735/title/the_drama/",
+    "imdbRating": 7.3
   },
   {
     "title": "Project Hail Mary",
@@ -126,22 +126,13 @@
     "imdbRating": 8.3
   },
   {
-    "title": "Over Your Dead Body",
-    "releaseYear": 2026,
-    "genres": "Action, Comedy, Thriller",
-    "imdbId": "tt34685692",
-    "imdbUrl": "https://www.imdb.com/title/tt34685692/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304797/title/over_your_dead_body/",
-    "imdbRating": 7.1
-  },
-  {
-    "title": "The Drama",
-    "releaseYear": 2026,
-    "genres": "Comedy, Drama, Romance",
-    "imdbId": "tt33071426",
-    "imdbUrl": "https://www.imdb.com/title/tt33071426/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304735/title/the_drama/",
-    "imdbRating": 7.3
+    "title": "Interstellar (2014)",
+    "releaseYear": 2014,
+    "genres": "Adventure, Drama, Sci-Fi",
+    "imdbId": "tt0816692",
+    "imdbUrl": "https://www.imdb.com/title/tt0816692/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/301459/title/interstellar_2014/",
+    "imdbRating": 8.7
   },
   {
     "title": "Lee Cronin's The Mummy",
@@ -153,40 +144,13 @@
     "imdbRating": 6.3
   },
   {
-    "title": "Fuze",
-    "releaseYear": 2026,
-    "genres": "Action, Crime, Drama",
-    "imdbId": "tt31189814",
-    "imdbUrl": "https://www.imdb.com/title/tt31189814/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304763/title/fuze/",
-    "imdbRating": 6.2
-  },
-  {
-    "title": "Spiked",
-    "releaseYear": 2026,
-    "genres": "Animation, Adventure, Comedy",
-    "imdbId": "tt6930962",
-    "imdbUrl": "https://www.imdb.com/title/tt6930962/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304788/title/spiked/",
-    "imdbRating": 5.4
-  },
-  {
-    "title": "Passenger",
-    "releaseYear": 2026,
-    "genres": "Horror",
-    "imdbId": "tt33763941",
-    "imdbUrl": "https://www.imdb.com/title/tt33763941/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304789/title/passenger/",
-    "imdbRating": 6.1
-  },
-  {
-    "title": "Interstellar (2014)",
-    "releaseYear": 2014,
-    "genres": "Adventure, Drama, Sci-Fi",
-    "imdbId": "tt0816692",
-    "imdbUrl": "https://www.imdb.com/title/tt0816692/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/301459/title/interstellar_2014/",
-    "imdbRating": 8.7
+    "title": "Rufus: The Sea Serpent Who Couldn't Swim",
+    "releaseYear": 2025,
+    "genres": "Animation, Family",
+    "imdbId": "tt32267711",
+    "imdbUrl": "https://www.imdb.com/title/tt32267711/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304753/title/rufus_the_sea_serpent_who_couldnt_swim/",
+    "imdbRating": 6.8
   },
   {
     "title": "Hoppers",
@@ -200,7 +164,7 @@
   {
     "title": "The Dark Knight (2008)",
     "releaseYear": 2008,
-    "genres": "Action, Crime, Thriller",
+    "genres": "Crime, Thriller",
     "imdbId": "tt0468569",
     "imdbUrl": "https://www.imdb.com/title/tt0468569/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/299710/title/the_dark_knight_2008/",
@@ -218,11 +182,20 @@
   {
     "title": "Inception (2010)",
     "releaseYear": 2010,
-    "genres": "Action, Adventure, Sci-Fi",
+    "genres": "Adventure, Sci-Fi, Thriller",
     "imdbId": "tt1375666",
     "imdbUrl": "https://www.imdb.com/title/tt1375666/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/299159/title/inception_2010/",
     "imdbRating": 8.8
+  },
+  {
+    "title": "Perfect Strangers",
+    "releaseYear": 2026,
+    "genres": "Comedy, Drama",
+    "imdbId": "tt39109902",
+    "imdbUrl": "https://www.imdb.com/title/tt39109902/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304657/title/perfect_strangers/",
+    "imdbRating": 8.1
   },
   {
     "title": "Red Code Blue",
@@ -263,7 +236,7 @@
   {
     "title": "GOAT",
     "releaseYear": 2026,
-    "genres": "Animation, Action, Adventure",
+    "genres": "Animation, Adventure, Comedy",
     "imdbId": "tt27613895",
     "imdbUrl": "https://www.imdb.com/title/tt27613895/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304673/title/goat/",
@@ -281,7 +254,7 @@
   {
     "title": "Zootopia 2",
     "releaseYear": 2025,
-    "genres": "Animation, Action, Adventure",
+    "genres": "Animation, Adventure, Comedy",
     "imdbId": "tt26443597",
     "imdbUrl": "https://www.imdb.com/title/tt26443597/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304299/title/zootopia_2/",
@@ -366,7 +339,7 @@
     "imdbId": "tt39544163",
     "imdbUrl": "https://www.imdb.com/title/tt39544163/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304802/title/nt_live_all_my_sons/",
-    "imdbRating": 8.8
+    "imdbRating": 8.7
   },
   {
     "title": "Scary Movie 6",
@@ -416,7 +389,7 @@
   {
     "title": "Troy: Director’s Cut (2004)",
     "releaseYear": 2004,
-    "genres": "Action, Adventure, Drama",
+    "genres": "Adventure, Fantasy",
     "imdbId": "tt0332452",
     "imdbUrl": "https://www.imdb.com/title/tt0332452/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304806/title/troy_directors_cut_2004/",

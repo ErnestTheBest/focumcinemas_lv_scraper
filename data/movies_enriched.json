@@ -1,12 +1,21 @@
 [
   {
-    "title": "Red Code Blue",
-    "releaseYear": 2025,
-    "genres": "Action, Crime, Drama",
-    "imdbId": "tt38573816",
-    "imdbUrl": "https://www.imdb.com/title/tt38573816/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/",
-    "imdbRating": 8.5
+    "title": "Law of the Heart",
+    "releaseYear": 2024,
+    "genres": "Animation",
+    "imdbId": "tt30809339",
+    "imdbUrl": "https://www.imdb.com/title/tt30809339/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/303941/title/law_of_the_heart/",
+    "imdbRating": 7.2
+  },
+  {
+    "title": "Michael",
+    "releaseYear": 2026,
+    "genres": "Biography, Drama, History",
+    "imdbId": "tt11378946",
+    "imdbUrl": "https://www.imdb.com/title/tt11378946/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/303990/title/michael/",
+    "imdbRating": 7.7
   },
   {
     "title": "Rufus: The Sea Serpent Who Couldn't Swim",
@@ -18,15 +27,6 @@
     "imdbRating": 6.7
   },
   {
-    "title": "Boom!",
-    "releaseYear": 2024,
-    "genres": "Adventure, Family",
-    "imdbId": "tt32097000",
-    "imdbUrl": "https://www.imdb.com/title/tt32097000/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304151/title/boom/",
-    "imdbRating": 7.4
-  },
-  {
     "title": "The Super Mario Galaxy Movie",
     "releaseYear": 2026,
     "genres": "Animation, Adventure, Comedy",
@@ -36,13 +36,22 @@
     "imdbRating": 6.3
   },
   {
-    "title": "The Magic Faraway Tree",
+    "title": "Hoppers",
     "releaseYear": 2026,
-    "genres": "Adventure, Family, Fantasy",
-    "imdbId": "tt7734244",
-    "imdbUrl": "https://www.imdb.com/title/tt7734244/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304776/title/the_magic_faraway_tree/",
-    "imdbRating": 6.4
+    "genres": "Animation, Adventure, Comedy",
+    "imdbId": "tt26443616",
+    "imdbUrl": "https://www.imdb.com/title/tt26443616/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304681/title/hoppers/",
+    "imdbRating": 7.3
+  },
+  {
+    "title": "Project Hail Mary",
+    "releaseYear": 2026,
+    "genres": "Adventure, Comedy, Drama",
+    "imdbId": "tt12042730",
+    "imdbUrl": "https://www.imdb.com/title/tt12042730/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/",
+    "imdbRating": 8.3
   },
   {
     "title": "The Devil Wears Prada 2",
@@ -63,40 +72,13 @@
     "imdbRating": 5.3
   },
   {
-    "title": "GOAT",
+    "title": "The Magic Faraway Tree",
     "releaseYear": 2026,
-    "genres": "Animation, Adventure, Comedy",
-    "imdbId": "tt27613895",
-    "imdbUrl": "https://www.imdb.com/title/tt27613895/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304673/title/goat/",
-    "imdbRating": 6.7
-  },
-  {
-    "title": "Michael",
-    "releaseYear": 2026,
-    "genres": "Biography, Drama, History",
-    "imdbId": "tt11378946",
-    "imdbUrl": "https://www.imdb.com/title/tt11378946/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/303990/title/michael/",
-    "imdbRating": 7.7
-  },
-  {
-    "title": "Hoppers",
-    "releaseYear": 2026,
-    "genres": "Animation, Adventure, Comedy",
-    "imdbId": "tt26443616",
-    "imdbUrl": "https://www.imdb.com/title/tt26443616/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304681/title/hoppers/",
-    "imdbRating": 7.3
-  },
-  {
-    "title": "Woodwalkers 2",
-    "releaseYear": 2026,
-    "genres": "Family, Fantasy",
-    "imdbId": "tt35708159",
-    "imdbUrl": "https://www.imdb.com/title/tt35708159/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304740/title/woodwalkers_2/",
-    "imdbRating": 5.5
+    "genres": "Adventure, Family, Fantasy",
+    "imdbId": "tt7734244",
+    "imdbUrl": "https://www.imdb.com/title/tt7734244/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304776/title/the_magic_faraway_tree/",
+    "imdbRating": 6.4
   },
   {
     "title": "The Sheep Detectives",
@@ -108,6 +90,15 @@
     "imdbRating": 7.7
   },
   {
+    "title": "Backrooms",
+    "releaseYear": 2026,
+    "genres": "Horror, Sci-Fi, Thriller",
+    "imdbId": "tt26657236",
+    "imdbUrl": "https://www.imdb.com/title/tt26657236/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304736/title/backrooms/",
+    "imdbRating": 7.3
+  },
+  {
     "title": "Star Wars: The Mandalorian and Grogu",
     "releaseYear": 2026,
     "genres": "Action, Adventure, Family",
@@ -115,15 +106,6 @@
     "imdbUrl": "https://www.imdb.com/title/tt30825738/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304666/title/star_wars_the_mandalorian_and_grogu/",
     "imdbRating": 7
-  },
-  {
-    "title": "Zootopia 2",
-    "releaseYear": 2025,
-    "genres": "Animation, Adventure, Comedy",
-    "imdbId": "tt26443597",
-    "imdbUrl": "https://www.imdb.com/title/tt26443597/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304299/title/zootopia_2/",
-    "imdbRating": 7.3
   },
   {
     "title": "Mortal Kombat II",
@@ -135,76 +117,13 @@
     "imdbRating": 6.7
   },
   {
-    "title": "Project Hail Mary",
+    "title": "Perfect Strangers",
     "releaseYear": 2026,
-    "genres": "Adventure, Comedy, Drama",
-    "imdbId": "tt12042730",
-    "imdbUrl": "https://www.imdb.com/title/tt12042730/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/",
-    "imdbRating": 8.3
-  },
-  {
-    "title": "In the Grey",
-    "releaseYear": 2026,
-    "genres": "Action, Drama, Thriller",
-    "imdbId": "tt27681354",
-    "imdbUrl": "https://www.imdb.com/title/tt27681354/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304761/title/in_the_grey/",
-    "imdbRating": 6.6
-  },
-  {
-    "title": "Billie Eilish: Hit Me Hard and Soft - The Tour Live in 3D",
-    "releaseYear": 2026,
-    "genres": "Documentary, Music",
-    "imdbId": "tt39018643",
-    "imdbUrl": "https://www.imdb.com/title/tt39018643/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304773/title/billie_eilish_hit_me_hard_and_soft_-_the_tour_live_in_3d/",
-    "imdbRating": 7.6
-  },
-  {
-    "title": "Stand-up kino | Housemaid (2025)",
-    "releaseYear": 2025,
-    "genres": "Drama, Mystery, Thriller",
-    "imdbId": "tt27543632",
-    "imdbUrl": "https://www.imdb.com/title/tt27543632/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304792/title/stand-up_kino_housemaid_2025/",
-    "imdbRating": 6.7
-  },
-  {
-    "title": "The Drama",
-    "releaseYear": 2026,
-    "genres": "Comedy, Drama, Romance",
-    "imdbId": "tt33071426",
-    "imdbUrl": "https://www.imdb.com/title/tt33071426/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304735/title/the_drama/",
-    "imdbRating": 7.3
-  },
-  {
-    "title": "Passenger",
-    "releaseYear": 2026,
-    "genres": "Horror, Thriller",
-    "imdbId": "tt33763941",
-    "imdbUrl": "https://www.imdb.com/title/tt33763941/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304789/title/passenger/",
-    "imdbRating": 5.6
-  },
-  {
-    "title": "Inception (2010)",
-    "releaseYear": 2010,
-    "genres": "Adventure, Sci-Fi, Thriller",
-    "imdbId": "tt1375666",
-    "imdbUrl": "https://www.imdb.com/title/tt1375666/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/299159/title/inception_2010/",
-    "imdbRating": 8.8
-  },
-  {
-    "title": "Lee Cronin's The Mummy",
-    "releaseYear": 2026,
-    "genres": "Horror",
-    "imdbId": "tt32612507",
-    "imdbUrl": "https://www.imdb.com/title/tt32612507/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304744/title/lee_cronins_the_mummy/",
-    "imdbRating": 6.3
+    "genres": "Comedy, Drama",
+    "imdbId": "tt39109902",
+    "imdbUrl": "https://www.imdb.com/title/tt39109902/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304657/title/perfect_strangers/",
+    "imdbRating": 8
   },
   {
     "title": "Hokum",
@@ -216,31 +135,22 @@
     "imdbRating": 7.3
   },
   {
-    "title": "Law of the Heart",
-    "releaseYear": 2024,
-    "genres": "Animation",
-    "imdbId": "tt30809339",
-    "imdbUrl": "https://www.imdb.com/title/tt30809339/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/303941/title/law_of_the_heart/",
-    "imdbRating": 7.2
+    "title": "In the Grey",
+    "releaseYear": 2026,
+    "genres": "Action, Drama, Thriller",
+    "imdbId": "tt27681354",
+    "imdbUrl": "https://www.imdb.com/title/tt27681354/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304761/title/in_the_grey/",
+    "imdbRating": 6.6
   },
   {
-    "title": "Backrooms",
+    "title": "Passenger",
     "releaseYear": 2026,
-    "genres": "Horror, Sci-Fi, Thriller",
-    "imdbId": "tt26657236",
-    "imdbUrl": "https://www.imdb.com/title/tt26657236/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304736/title/backrooms/",
-    "imdbRating": null
-  },
-  {
-    "title": "Perfect Strangers",
-    "releaseYear": 2026,
-    "genres": "Comedy, Drama",
-    "imdbId": "tt39109902",
-    "imdbUrl": "https://www.imdb.com/title/tt39109902/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304657/title/perfect_strangers/",
-    "imdbRating": 7.9
+    "genres": "Horror, Thriller",
+    "imdbId": "tt33763941",
+    "imdbUrl": "https://www.imdb.com/title/tt33763941/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304789/title/passenger/",
+    "imdbRating": 5.6
   },
   {
     "title": "The Matrix (1999)",
@@ -258,7 +168,16 @@
     "imdbId": "tt34685692",
     "imdbUrl": "https://www.imdb.com/title/tt34685692/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304797/title/over_your_dead_body/",
-    "imdbRating": 6.8
+    "imdbRating": 6.7
+  },
+  {
+    "title": "The Drama",
+    "releaseYear": 2026,
+    "genres": "Comedy, Drama, Romance",
+    "imdbId": "tt33071426",
+    "imdbUrl": "https://www.imdb.com/title/tt33071426/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304735/title/the_drama/",
+    "imdbRating": 7.3
   },
   {
     "title": "The Legendaries",
@@ -315,6 +234,33 @@
     "imdbRating": 8
   },
   {
+    "title": "Woodwalkers 2",
+    "releaseYear": 2026,
+    "genres": "Family, Fantasy",
+    "imdbId": "tt35708159",
+    "imdbUrl": "https://www.imdb.com/title/tt35708159/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304740/title/woodwalkers_2/",
+    "imdbRating": 5.5
+  },
+  {
+    "title": "Zootopia 2",
+    "releaseYear": 2025,
+    "genres": "Animation, Adventure, Comedy",
+    "imdbId": "tt26443597",
+    "imdbUrl": "https://www.imdb.com/title/tt26443597/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304299/title/zootopia_2/",
+    "imdbRating": 7.3
+  },
+  {
+    "title": "GOAT",
+    "releaseYear": 2026,
+    "genres": "Animation, Adventure, Comedy",
+    "imdbId": "tt27613895",
+    "imdbUrl": "https://www.imdb.com/title/tt27613895/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304673/title/goat/",
+    "imdbRating": 6.7
+  },
+  {
     "title": "Charade (1963)",
     "releaseYear": 1963,
     "genres": "Comedy, Mystery, Romance",
@@ -333,6 +279,15 @@
     "imdbRating": 8.3
   },
   {
+    "title": "Billie Eilish: Hit Me Hard and Soft - The Tour Live in 3D",
+    "releaseYear": 2026,
+    "genres": "Documentary, Music",
+    "imdbId": "tt39018643",
+    "imdbUrl": "https://www.imdb.com/title/tt39018643/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304773/title/billie_eilish_hit_me_hard_and_soft_-_the_tour_live_in_3d/",
+    "imdbRating": 7.6
+  },
+  {
     "title": "Bamse and the Vulcano Island",
     "releaseYear": 2021,
     "genres": "Animation, Adventure, Family",
@@ -349,6 +304,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt39544163/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304802/title/nt_live_all_my_sons/",
     "imdbRating": 8.7
+  },
+  {
+    "title": "Lee Cronin's The Mummy",
+    "releaseYear": 2026,
+    "genres": "Horror",
+    "imdbId": "tt32612507",
+    "imdbUrl": "https://www.imdb.com/title/tt32612507/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304744/title/lee_cronins_the_mummy/",
+    "imdbRating": 6.3
   },
   {
     "title": "Scary Movie 6",
@@ -394,6 +358,24 @@
     "imdbUrl": "https://www.imdb.com/title/tt0187738/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/299070/title/blade_ii_2002/",
     "imdbRating": 6.7
+  },
+  {
+    "title": "Shrek (2001)",
+    "releaseYear": 2001,
+    "genres": "Animation, Adventure, Comedy",
+    "imdbId": "tt0126029",
+    "imdbUrl": "https://www.imdb.com/title/tt0126029/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/299973/title/shrek_2001/",
+    "imdbRating": 7.9
+  },
+  {
+    "title": "Disclosure Day",
+    "releaseYear": 2026,
+    "genres": "Drama, Sci-Fi, Thriller",
+    "imdbId": "tt15047880",
+    "imdbUrl": "https://www.imdb.com/title/tt15047880/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304677/title/disclosure_day/",
+    "imdbRating": null
   },
   {
     "title": "Troy: Director’s Cut (2004)",
@@ -459,6 +441,24 @@
     "imdbRating": null
   },
   {
+    "title": "Blade Runner: The Final Cut (1982)",
+    "releaseYear": 1982,
+    "genres": "Action, Drama, Sci-Fi",
+    "imdbId": "tt0083658",
+    "imdbUrl": "https://www.imdb.com/title/tt0083658/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/301878/title/blade_runner_the_final_cut_1982/",
+    "imdbRating": 8.1
+  },
+  {
+    "title": "Thelma & Louise (1991)",
+    "releaseYear": 1991,
+    "genres": "Adventure, Crime, Drama",
+    "imdbId": "tt0103074",
+    "imdbUrl": "https://www.imdb.com/title/tt0103074/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304815/title/thelma_and_louise_1991/",
+    "imdbRating": 7.6
+  },
+  {
     "title": "NT LIVE: The Audience",
     "releaseYear": 2015,
     "genres": "Biography, Drama",
@@ -466,5 +466,23 @@
     "imdbUrl": "https://www.imdb.com/title/tt3154822/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304804/title/nt_live_the_audience/",
     "imdbRating": 8.5
+  },
+  {
+    "title": "The Terminator (1984)",
+    "releaseYear": 1984,
+    "genres": "Action, Adventure, Sci-Fi",
+    "imdbId": "tt0088247",
+    "imdbUrl": "https://www.imdb.com/title/tt0088247/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/302224/title/the_terminator_1984/",
+    "imdbRating": 8.1
+  },
+  {
+    "title": "Taxi Driver (1976)",
+    "releaseYear": 1976,
+    "genres": "Crime, Drama",
+    "imdbId": "tt0075314",
+    "imdbUrl": "https://www.imdb.com/title/tt0075314/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304816/title/taxi_driver_1976/",
+    "imdbRating": 8.2
   }
 ]

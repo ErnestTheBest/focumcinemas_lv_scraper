@@ -1,91 +1,75 @@
 [
   {
-    "title": "Spiked",
-    "url": "https://www.forumcinemas.lv/eng/event/304788/title/spiked/"
-  },
-  {
-    "title": "Project Hail Mary",
-    "url": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/"
-  },
-  {
     "title": "Bamse and the Vulcano Island",
     "url": "https://www.forumcinemas.lv/eng/event/304810/title/bamse_and_the_vulcano_island/"
+  },
+  {
+    "title": "Spiked",
+    "url": "https://www.forumcinemas.lv/eng/event/304788/title/spiked/"
   },
   {
     "title": "The Magic Faraway Tree",
     "url": "https://www.forumcinemas.lv/eng/event/304776/title/the_magic_faraway_tree/"
   },
   {
-    "title": "The Devil Wears Prada 2",
-    "url": "https://www.forumcinemas.lv/eng/event/304665/title/the_devil_wears_prada_2/"
-  },
-  {
-    "title": "The Legendaries",
-    "url": "https://www.forumcinemas.lv/eng/event/304762/title/the_legendaries/"
-  },
-  {
     "title": "The Super Mario Galaxy Movie",
     "url": "https://www.forumcinemas.lv/eng/event/304620/title/the_super_mario_galaxy_movie/"
-  },
-  {
-    "title": "Tuner",
-    "url": "https://www.forumcinemas.lv/eng/event/304779/title/tuner/"
-  },
-  {
-    "title": "Obsession",
-    "url": "https://www.forumcinemas.lv/eng/event/304809/title/obsession/"
-  },
-  {
-    "title": "Star Wars: The Mandalorian and Grogu",
-    "url": "https://www.forumcinemas.lv/eng/event/304666/title/star_wars_the_mandalorian_and_grogu/"
-  },
-  {
-    "title": "Backrooms",
-    "url": "https://www.forumcinemas.lv/eng/event/304736/title/backrooms/"
-  },
-  {
-    "title": "Michael",
-    "url": "https://www.forumcinemas.lv/eng/event/303990/title/michael/"
   },
   {
     "title": "The Sheep Detectives",
     "url": "https://www.forumcinemas.lv/eng/event/304774/title/the_sheep_detectives/"
   },
   {
-    "title": "Over Your Dead Body",
-    "url": "https://www.forumcinemas.lv/eng/event/304797/title/over_your_dead_body/"
+    "title": "Hoppers",
+    "url": "https://www.forumcinemas.lv/eng/event/304681/title/hoppers/"
   },
   {
-    "title": "Passenger",
-    "url": "https://www.forumcinemas.lv/eng/event/304789/title/passenger/"
+    "title": "Backrooms",
+    "url": "https://www.forumcinemas.lv/eng/event/304736/title/backrooms/"
   },
   {
-    "title": "In the Grey",
-    "url": "https://www.forumcinemas.lv/eng/event/304761/title/in_the_grey/"
+    "title": "The Legendaries",
+    "url": "https://www.forumcinemas.lv/eng/event/304762/title/the_legendaries/"
   },
   {
-    "title": "The Drama",
-    "url": "https://www.forumcinemas.lv/eng/event/304735/title/the_drama/"
+    "title": "The Devil Wears Prada 2",
+    "url": "https://www.forumcinemas.lv/eng/event/304665/title/the_devil_wears_prada_2/"
   },
   {
     "title": "Scary Movie",
     "url": "https://www.forumcinemas.lv/eng/event/304741/title/scary_movie/"
   },
   {
-    "title": "Mortal Kombat II",
-    "url": "https://www.forumcinemas.lv/eng/event/304469/title/mortal_kombat_ii/"
+    "title": "Over Your Dead Body",
+    "url": "https://www.forumcinemas.lv/eng/event/304797/title/over_your_dead_body/"
   },
   {
-    "title": "MET Opera: El Último Sueño de Frida y Diego",
-    "url": "https://www.forumcinemas.lv/eng/event/304458/title/met_opera_el_%C3%BAltimo_sue%C3%B1o_de_frida_y_diego/"
+    "title": "Michael",
+    "url": "https://www.forumcinemas.lv/eng/event/303990/title/michael/"
   },
   {
     "title": "Masters of the Universe",
     "url": "https://www.forumcinemas.lv/eng/event/304791/title/masters_of_the_universe/"
   },
   {
-    "title": "Hoppers",
-    "url": "https://www.forumcinemas.lv/eng/event/304681/title/hoppers/"
+    "title": "Passenger",
+    "url": "https://www.forumcinemas.lv/eng/event/304789/title/passenger/"
+  },
+  {
+    "title": "Star Wars: The Mandalorian and Grogu",
+    "url": "https://www.forumcinemas.lv/eng/event/304666/title/star_wars_the_mandalorian_and_grogu/"
+  },
+  {
+    "title": "Obsession",
+    "url": "https://www.forumcinemas.lv/eng/event/304809/title/obsession/"
+  },
+  {
+    "title": "The Drama",
+    "url": "https://www.forumcinemas.lv/eng/event/304735/title/the_drama/"
+  },
+  {
+    "title": "Tuner",
+    "url": "https://www.forumcinemas.lv/eng/event/304779/title/tuner/"
   },
   {
     "title": "Blade (1998)",
@@ -94,6 +78,14 @@
   {
     "title": "The Amazing Digital Circus: The Last Act",
     "url": "https://www.forumcinemas.lv/eng/event/304781/title/the_amazing_digital_circus_the_last_act/"
+  },
+  {
+    "title": "Project Hail Mary",
+    "url": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/"
+  },
+  {
+    "title": "In the Grey",
+    "url": "https://www.forumcinemas.lv/eng/event/304761/title/in_the_grey/"
   },
   {
     "title": "Blade II (2002)",
@@ -122,6 +114,10 @@
   {
     "title": "2001: A Space Odyssey (1968)",
     "url": "https://www.forumcinemas.lv/eng/event/304790/title/2001_a_space_odyssey_1968/"
+  },
+  {
+    "title": "Mortal Kombat II",
+    "url": "https://www.forumcinemas.lv/eng/event/304469/title/mortal_kombat_ii/"
   },
   {
     "title": "Billie Eilish: Hit Me Hard and Soft - The Tour Live in 3D",
@@ -216,8 +212,8 @@
     "url": "https://www.forumcinemas.lv/eng/event/304784/title/the_invite/"
   },
   {
-    "title": "Toms Grēviņš rāda kino | Amadeus (1984)",
-    "url": "https://www.forumcinemas.lv/eng/event/304824/title/toms_gr%C4%93vi%C5%86%C5%A1_r%C4%81da_kino_amadeus_1984/"
+    "title": "Toms Grēviņš Shows a Movie | Amadeus: Director’s Cut (1984)",
+    "url": "https://www.forumcinemas.lv/eng/event/304824/title/toms_gr%C4%93vi%C5%86%C5%A1_shows_a_movie_amadeus_directors_cut_1984/"
   },
   {
     "title": "NT LIVE: Les Liaisons Dangereuses",
@@ -242,6 +238,10 @@
   {
     "title": "The Terminator (1984)",
     "url": "https://www.forumcinemas.lv/eng/event/302224/title/the_terminator_1984/"
+  },
+  {
+    "title": "André Rieu's 2026 Summer Concert: Viva Maastricht!",
+    "url": "https://www.forumcinemas.lv/eng/event/304822/title/andr%C3%A9_rieus_2026_summer_concert_viva_maastricht/"
   },
   {
     "title": "Taxi Driver (1976)",

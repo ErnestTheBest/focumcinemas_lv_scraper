@@ -1,23 +1,31 @@
 [
   {
-    "title": "The Legendaries",
-    "url": "https://www.forumcinemas.lv/eng/event/304762/title/the_legendaries/"
+    "title": "The Secret Floor",
+    "url": "https://www.forumcinemas.lv/eng/event/304758/title/the_secret_floor/"
   },
   {
-    "title": "Rufus: The Sea Serpent Who Couldn't Swim",
-    "url": "https://www.forumcinemas.lv/eng/event/304753/title/rufus_the_sea_serpent_who_couldnt_swim/"
+    "title": "Backrooms",
+    "url": "https://www.forumcinemas.lv/eng/event/304736/title/backrooms/"
   },
   {
-    "title": "The Super Mario Galaxy Movie",
-    "url": "https://www.forumcinemas.lv/eng/event/304620/title/the_super_mario_galaxy_movie/"
+    "title": "Bamse and the Volcano Island",
+    "url": "https://www.forumcinemas.lv/eng/event/304810/title/bamse_and_the_volcano_island/"
   },
   {
     "title": "The Desert Child",
     "url": "https://www.forumcinemas.lv/eng/event/304799/title/the_desert_child/"
   },
   {
-    "title": "The Magic Faraway Tree",
-    "url": "https://www.forumcinemas.lv/eng/event/304776/title/the_magic_faraway_tree/"
+    "title": "Masters of the Universe",
+    "url": "https://www.forumcinemas.lv/eng/event/304791/title/masters_of_the_universe/"
+  },
+  {
+    "title": "The Super Mario Galaxy Movie",
+    "url": "https://www.forumcinemas.lv/eng/event/304620/title/the_super_mario_galaxy_movie/"
+  },
+  {
+    "title": "The Sheep Detectives",
+    "url": "https://www.forumcinemas.lv/eng/event/304774/title/the_sheep_detectives/"
   },
   {
     "title": "Scary Movie",
@@ -28,22 +36,6 @@
     "url": "https://www.forumcinemas.lv/eng/event/304781/title/the_amazing_digital_circus_the_last_act/"
   },
   {
-    "title": "Bamse and the Vulcano Island",
-    "url": "https://www.forumcinemas.lv/eng/event/304810/title/bamse_and_the_vulcano_island/"
-  },
-  {
-    "title": "Backrooms",
-    "url": "https://www.forumcinemas.lv/eng/event/304736/title/backrooms/"
-  },
-  {
-    "title": "The Secret Floor",
-    "url": "https://www.forumcinemas.lv/eng/event/304758/title/the_secret_floor/"
-  },
-  {
-    "title": "The Sheep Detectives",
-    "url": "https://www.forumcinemas.lv/eng/event/304774/title/the_sheep_detectives/"
-  },
-  {
     "title": "Michael",
     "url": "https://www.forumcinemas.lv/eng/event/303990/title/michael/"
   },
@@ -52,44 +44,40 @@
     "url": "https://www.forumcinemas.lv/eng/event/304809/title/obsession/"
   },
   {
+    "title": "Star Wars: The Mandalorian and Grogu",
+    "url": "https://www.forumcinemas.lv/eng/event/304666/title/star_wars_the_mandalorian_and_grogu/"
+  },
+  {
     "title": "The Devil Wears Prada 2",
     "url": "https://www.forumcinemas.lv/eng/event/304665/title/the_devil_wears_prada_2/"
   },
   {
-    "title": "Masters of the Universe",
-    "url": "https://www.forumcinemas.lv/eng/event/304791/title/masters_of_the_universe/"
-  },
-  {
-    "title": "Star Wars: The Mandalorian and Grogu",
-    "url": "https://www.forumcinemas.lv/eng/event/304666/title/star_wars_the_mandalorian_and_grogu/"
+    "title": "The Magic Faraway Tree",
+    "url": "https://www.forumcinemas.lv/eng/event/304776/title/the_magic_faraway_tree/"
   },
   {
     "title": "Tuner",
     "url": "https://www.forumcinemas.lv/eng/event/304779/title/tuner/"
   },
   {
-    "title": "In the Grey",
-    "url": "https://www.forumcinemas.lv/eng/event/304761/title/in_the_grey/"
-  },
-  {
     "title": "Private event",
     "url": "https://www.forumcinemas.lv/eng/event/303398/title/private_event/"
+  },
+  {
+    "title": "2001: A Space Odyssey (1968)",
+    "url": "https://www.forumcinemas.lv/eng/event/304790/title/2001_a_space_odyssey_1968/"
   },
   {
     "title": "Project Hail Mary",
     "url": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/"
   },
   {
+    "title": "In the Grey",
+    "url": "https://www.forumcinemas.lv/eng/event/304761/title/in_the_grey/"
+  },
+  {
     "title": "Passenger",
     "url": "https://www.forumcinemas.lv/eng/event/304789/title/passenger/"
-  },
-  {
-    "title": "Rave On",
-    "url": "https://www.forumcinemas.lv/eng/event/304800/title/rave_on/"
-  },
-  {
-    "title": "2001: A Space Odyssey (1968)",
-    "url": "https://www.forumcinemas.lv/eng/event/304790/title/2001_a_space_odyssey_1968/"
   },
   {
     "title": "Mortal Kombat II",
@@ -98,6 +86,10 @@
   {
     "title": "Spiked",
     "url": "https://www.forumcinemas.lv/eng/event/304788/title/spiked/"
+  },
+  {
+    "title": "The Legendaries",
+    "url": "https://www.forumcinemas.lv/eng/event/304762/title/the_legendaries/"
   },
   {
     "title": "The Drama",
@@ -114,6 +106,10 @@
   {
     "title": "The Matrix (1999)",
     "url": "https://www.forumcinemas.lv/eng/event/302895/title/the_matrix_1999/"
+  },
+  {
+    "title": "Rave On",
+    "url": "https://www.forumcinemas.lv/eng/event/304800/title/rave_on/"
   },
   {
     "title": "Perfect Strangers",

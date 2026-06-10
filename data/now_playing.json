@@ -1,39 +1,51 @@
 [
   {
-    "title": "The Legendaries",
-    "url": "https://www.forumcinemas.lv/eng/event/304762/title/the_legendaries/"
+    "title": "Red Code Blue",
+    "url": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/"
   },
   {
-    "title": "The Desert Child",
-    "url": "https://www.forumcinemas.lv/eng/event/304799/title/the_desert_child/"
-  },
-  {
-    "title": "The Secret Floor",
-    "url": "https://www.forumcinemas.lv/eng/event/304758/title/the_secret_floor/"
+    "title": "The Magic Faraway Tree",
+    "url": "https://www.forumcinemas.lv/eng/event/304776/title/the_magic_faraway_tree/"
   },
   {
     "title": "Masters of the Universe",
     "url": "https://www.forumcinemas.lv/eng/event/304791/title/masters_of_the_universe/"
   },
   {
-    "title": "Backrooms",
-    "url": "https://www.forumcinemas.lv/eng/event/304736/title/backrooms/"
+    "title": "The Super Mario Galaxy Movie",
+    "url": "https://www.forumcinemas.lv/eng/event/304620/title/the_super_mario_galaxy_movie/"
   },
   {
     "title": "Obsession",
     "url": "https://www.forumcinemas.lv/eng/event/304809/title/obsession/"
   },
   {
+    "title": "Backrooms",
+    "url": "https://www.forumcinemas.lv/eng/event/304736/title/backrooms/"
+  },
+  {
+    "title": "The Desert Child",
+    "url": "https://www.forumcinemas.lv/eng/event/304799/title/the_desert_child/"
+  },
+  {
+    "title": "The Legendaries",
+    "url": "https://www.forumcinemas.lv/eng/event/304762/title/the_legendaries/"
+  },
+  {
     "title": "Bamse and the Volcano Island",
     "url": "https://www.forumcinemas.lv/eng/event/304810/title/bamse_and_the_volcano_island/"
   },
   {
-    "title": "The Super Mario Galaxy Movie",
-    "url": "https://www.forumcinemas.lv/eng/event/304620/title/the_super_mario_galaxy_movie/"
+    "title": "Michael",
+    "url": "https://www.forumcinemas.lv/eng/event/303990/title/michael/"
   },
   {
     "title": "The Sheep Detectives",
     "url": "https://www.forumcinemas.lv/eng/event/304774/title/the_sheep_detectives/"
+  },
+  {
+    "title": "The Secret Floor",
+    "url": "https://www.forumcinemas.lv/eng/event/304758/title/the_secret_floor/"
   },
   {
     "title": "The Devil Wears Prada 2",
@@ -44,68 +56,16 @@
     "url": "https://www.forumcinemas.lv/eng/event/304741/title/scary_movie/"
   },
   {
-    "title": "Michael",
-    "url": "https://www.forumcinemas.lv/eng/event/303990/title/michael/"
-  },
-  {
-    "title": "Star Wars: The Mandalorian and Grogu",
-    "url": "https://www.forumcinemas.lv/eng/event/304666/title/star_wars_the_mandalorian_and_grogu/"
-  },
-  {
-    "title": "The Amazing Digital Circus: The Last Act",
-    "url": "https://www.forumcinemas.lv/eng/event/304781/title/the_amazing_digital_circus_the_last_act/"
-  },
-  {
-    "title": "The Magic Faraway Tree",
-    "url": "https://www.forumcinemas.lv/eng/event/304776/title/the_magic_faraway_tree/"
-  },
-  {
-    "title": "Project Hail Mary",
-    "url": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/"
+    "title": "Disclosure Day",
+    "url": "https://www.forumcinemas.lv/eng/event/304677/title/disclosure_day/"
   },
   {
     "title": "Tuner",
     "url": "https://www.forumcinemas.lv/eng/event/304779/title/tuner/"
   },
   {
-    "title": "In the Grey",
-    "url": "https://www.forumcinemas.lv/eng/event/304761/title/in_the_grey/"
-  },
-  {
-    "title": "Over Your Dead Body",
-    "url": "https://www.forumcinemas.lv/eng/event/304797/title/over_your_dead_body/"
-  },
-  {
-    "title": "Rave On",
-    "url": "https://www.forumcinemas.lv/eng/event/304800/title/rave_on/"
-  },
-  {
-    "title": "Blade (1998)",
-    "url": "https://www.forumcinemas.lv/eng/event/302401/title/blade_1998/"
-  },
-  {
-    "title": "NT LIVE: The Fifth Step",
-    "url": "https://www.forumcinemas.lv/eng/event/304465/title/nt_live_the_fifth_step/"
-  },
-  {
-    "title": "Orphan",
-    "url": "https://www.forumcinemas.lv/eng/event/304787/title/orphan/"
-  },
-  {
-    "title": "Lee Cronin's The Mummy",
-    "url": "https://www.forumcinemas.lv/eng/event/304744/title/lee_cronins_the_mummy/"
-  },
-  {
-    "title": "Mortal Kombat II",
-    "url": "https://www.forumcinemas.lv/eng/event/304469/title/mortal_kombat_ii/"
-  },
-  {
-    "title": "Red Code Blue",
-    "url": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/"
-  },
-  {
-    "title": "Disclosure Day",
-    "url": "https://www.forumcinemas.lv/eng/event/304677/title/disclosure_day/"
+    "title": "Star Wars: The Mandalorian and Grogu",
+    "url": "https://www.forumcinemas.lv/eng/event/304666/title/star_wars_the_mandalorian_and_grogu/"
   },
   {
     "title": "Exhibition On Screen | Frida Kahlo",
@@ -120,12 +80,24 @@
     "url": "https://www.forumcinemas.lv/eng/event/304806/title/troy_directors_cut_2004/"
   },
   {
+    "title": "Project Hail Mary",
+    "url": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/"
+  },
+  {
     "title": "Hokum",
     "url": "https://www.forumcinemas.lv/eng/event/304760/title/hokum/"
   },
   {
     "title": "Private event",
     "url": "https://www.forumcinemas.lv/eng/event/303398/title/private_event/"
+  },
+  {
+    "title": "The Amazing Digital Circus: The Last Act",
+    "url": "https://www.forumcinemas.lv/eng/event/304781/title/the_amazing_digital_circus_the_last_act/"
+  },
+  {
+    "title": "Mortal Kombat II",
+    "url": "https://www.forumcinemas.lv/eng/event/304469/title/mortal_kombat_ii/"
   },
   {
     "title": "Shrek (2001)",
@@ -140,12 +112,20 @@
     "url": "https://www.forumcinemas.lv/eng/event/304789/title/passenger/"
   },
   {
+    "title": "In the Grey",
+    "url": "https://www.forumcinemas.lv/eng/event/304761/title/in_the_grey/"
+  },
+  {
     "title": "Hoppers",
     "url": "https://www.forumcinemas.lv/eng/event/304681/title/hoppers/"
   },
   {
     "title": "Mother",
     "url": "https://www.forumcinemas.lv/eng/event/304796/title/mother/"
+  },
+  {
+    "title": "Rave On",
+    "url": "https://www.forumcinemas.lv/eng/event/304800/title/rave_on/"
   },
   {
     "title": "BTS WORLD TOUR 'ARIRANG' IN BUSAN: LIVE VIEWING",
@@ -162,6 +142,10 @@
   {
     "title": "NT LIVE: All My Sons",
     "url": "https://www.forumcinemas.lv/eng/event/304802/title/nt_live_all_my_sons/"
+  },
+  {
+    "title": "Blade (1998)",
+    "url": "https://www.forumcinemas.lv/eng/event/302401/title/blade_1998/"
   },
   {
     "title": "Toy Story 5",
@@ -208,6 +192,34 @@
     "url": "https://www.forumcinemas.lv/eng/event/304824/title/toms_gr%C4%93vi%C5%86%C5%A1_shows_a_movie_amadeus_directors_cut_1984/"
   },
   {
+    "title": "Clueless (1995)",
+    "url": "https://www.forumcinemas.lv/eng/event/304739/title/clueless_1995/"
+  },
+  {
+    "title": "From Dusk Till Dawn (1996)",
+    "url": "https://www.forumcinemas.lv/eng/event/303396/title/from_dusk_till_dawn_1996/"
+  },
+  {
+    "title": "Legally Blonde (2001)",
+    "url": "https://www.forumcinemas.lv/eng/event/304470/title/legally_blonde_2001/"
+  },
+  {
+    "title": "Moana",
+    "url": "https://www.forumcinemas.lv/eng/event/304819/title/moana/"
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring (2001)",
+    "url": "https://www.forumcinemas.lv/eng/event/302577/title/the_lord_of_the_rings_the_fellowship_of_the_ring_2001/"
+  },
+  {
+    "title": "The Lord of the Rings: The Two Towers (2002)",
+    "url": "https://www.forumcinemas.lv/eng/event/302578/title/the_lord_of_the_rings_the_two_towers_2002/"
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King (2003)",
+    "url": "https://www.forumcinemas.lv/eng/event/302579/title/the_lord_of_the_rings_the_return_of_the_king_2003/"
+  },
+  {
     "title": "NT LIVE: Les Liaisons Dangereuses",
     "url": "https://www.forumcinemas.lv/eng/event/304803/title/nt_live_les_liaisons_dangereuses/"
   },
@@ -216,8 +228,16 @@
     "url": "https://www.forumcinemas.lv/eng/event/301878/title/blade_runner_the_final_cut_1982/"
   },
   {
+    "title": "Amadeus: Director’s Cut (1984)",
+    "url": "https://www.forumcinemas.lv/eng/event/304825/title/amadeus_directors_cut_1984/"
+  },
+  {
     "title": "NT LIVE: Hamlet (2026)",
     "url": "https://www.forumcinemas.lv/eng/event/304466/title/nt_live_hamlet_2026/"
+  },
+  {
+    "title": "NT LIVE: The Fifth Step",
+    "url": "https://www.forumcinemas.lv/eng/event/304465/title/nt_live_the_fifth_step/"
   },
   {
     "title": "Thelma & Louise (1991)",

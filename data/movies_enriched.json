@@ -18,6 +18,33 @@
     "imdbRating": 5.4
   },
   {
+    "title": "The Legendaries",
+    "releaseYear": 2026,
+    "genres": "Animation, Action, Adventure",
+    "imdbId": "tt35659725",
+    "imdbUrl": "https://www.imdb.com/title/tt35659725/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304762/title/the_legendaries/",
+    "imdbRating": 6.1
+  },
+  {
+    "title": "Scary Movie",
+    "releaseYear": 2026,
+    "genres": "Comedy, Horror",
+    "imdbId": "tt32093575",
+    "imdbUrl": "https://www.imdb.com/title/tt32093575/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304741/title/scary_movie/",
+    "imdbRating": 5.4
+  },
+  {
+    "title": "Toy Story 5",
+    "releaseYear": 2026,
+    "genres": "Animation, Adventure, Comedy",
+    "imdbId": "tt29355505",
+    "imdbUrl": "https://www.imdb.com/title/tt29355505/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304667/title/toy_story_5/",
+    "imdbRating": null
+  },
+  {
     "title": "Obsession",
     "releaseYear": 2026,
     "genres": "Horror, Romance, Thriller",
@@ -27,33 +54,6 @@
     "imdbRating": 8.1
   },
   {
-    "title": "Michael",
-    "releaseYear": 2026,
-    "genres": "Biography, Drama, History",
-    "imdbId": "tt11378946",
-    "imdbUrl": "https://www.imdb.com/title/tt11378946/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/303990/title/michael/",
-    "imdbRating": 7.6
-  },
-  {
-    "title": "Rave On",
-    "releaseYear": 2025,
-    "genres": "Drama, Music",
-    "imdbId": "tt31643435",
-    "imdbUrl": "https://www.imdb.com/title/tt31643435/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304800/title/rave_on/",
-    "imdbRating": 6.3
-  },
-  {
-    "title": "The Secret Floor",
-    "releaseYear": 2026,
-    "genres": "Family, History",
-    "imdbId": "tt27764052",
-    "imdbUrl": "https://www.imdb.com/title/tt27764052/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304758/title/the_secret_floor/",
-    "imdbRating": 7.5
-  },
-  {
     "title": "Disclosure Day",
     "releaseYear": 2026,
     "genres": "Action, Drama, Mystery",
@@ -61,6 +61,33 @@
     "imdbUrl": "https://www.imdb.com/title/tt15047880/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304677/title/disclosure_day/",
     "imdbRating": 6.8
+  },
+  {
+    "title": "The Sheep Detectives",
+    "releaseYear": 2026,
+    "genres": "Comedy, Family, Mystery",
+    "imdbId": "tt32565993",
+    "imdbUrl": "https://www.imdb.com/title/tt32565993/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304774/title/the_sheep_detectives/",
+    "imdbRating": 7.6
+  },
+  {
+    "title": "The Magic Faraway Tree",
+    "releaseYear": 2026,
+    "genres": "Adventure, Family, Fantasy",
+    "imdbId": "tt7734244",
+    "imdbUrl": "https://www.imdb.com/title/tt7734244/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304776/title/the_magic_faraway_tree/",
+    "imdbRating": 6.3
+  },
+  {
+    "title": "The Desert Child",
+    "releaseYear": 2026,
+    "genres": "Adventure, Family",
+    "imdbId": "tt37495239",
+    "imdbUrl": "https://www.imdb.com/title/tt37495239/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304799/title/the_desert_child/",
+    "imdbRating": 6.9
   },
   {
     "title": "Backrooms",
@@ -90,15 +117,6 @@
     "imdbRating": 7
   },
   {
-    "title": "The Desert Child",
-    "releaseYear": 2026,
-    "genres": "Adventure, Family",
-    "imdbId": "tt37495239",
-    "imdbUrl": "https://www.imdb.com/title/tt37495239/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304799/title/the_desert_child/",
-    "imdbRating": 6.9
-  },
-  {
     "title": "Masters of the Universe",
     "releaseYear": 2026,
     "genres": "Action, Adventure, Fantasy",
@@ -106,42 +124,6 @@
     "imdbUrl": "https://www.imdb.com/title/tt0427340/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304791/title/masters_of_the_universe/",
     "imdbRating": 7.1
-  },
-  {
-    "title": "The Sheep Detectives",
-    "releaseYear": 2026,
-    "genres": "Comedy, Family, Mystery",
-    "imdbId": "tt32565993",
-    "imdbUrl": "https://www.imdb.com/title/tt32565993/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304774/title/the_sheep_detectives/",
-    "imdbRating": 7.6
-  },
-  {
-    "title": "Scary Movie",
-    "releaseYear": 2026,
-    "genres": "Comedy, Horror",
-    "imdbId": "tt32093575",
-    "imdbUrl": "https://www.imdb.com/title/tt32093575/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304741/title/scary_movie/",
-    "imdbRating": 5.4
-  },
-  {
-    "title": "Project Hail Mary",
-    "releaseYear": 2026,
-    "genres": "Adventure, Comedy, Drama",
-    "imdbId": "tt12042730",
-    "imdbUrl": "https://www.imdb.com/title/tt12042730/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/",
-    "imdbRating": 8.3
-  },
-  {
-    "title": "Tuner",
-    "releaseYear": 2026,
-    "genres": "Crime, Drama, Music",
-    "imdbId": "tt33296751",
-    "imdbUrl": "https://www.imdb.com/title/tt33296751/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304779/title/tuner/",
-    "imdbRating": 7.5
   },
   {
     "title": "Mother",
@@ -153,58 +135,22 @@
     "imdbRating": 5.5
   },
   {
-    "title": "The Drama",
+    "title": "Tuner",
     "releaseYear": 2026,
-    "genres": "Comedy, Drama, Romance",
-    "imdbId": "tt33071426",
-    "imdbUrl": "https://www.imdb.com/title/tt33071426/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304735/title/the_drama/",
-    "imdbRating": 7.2
+    "genres": "Crime, Drama, Music",
+    "imdbId": "tt33296751",
+    "imdbUrl": "https://www.imdb.com/title/tt33296751/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304779/title/tuner/",
+    "imdbRating": 7.5
   },
   {
-    "title": "NT LIVE: All My Sons",
+    "title": "Michael",
     "releaseYear": 2026,
-    "genres": "Unknown",
-    "imdbId": "tt39544163",
-    "imdbUrl": "https://www.imdb.com/title/tt39544163/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304802/title/nt_live_all_my_sons/",
-    "imdbRating": 8.6
-  },
-  {
-    "title": "Blade (1998)",
-    "releaseYear": 1998,
-    "genres": "Action, Horror, Sci-Fi",
-    "imdbId": "tt0120611",
-    "imdbUrl": "https://www.imdb.com/title/tt0120611/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/302401/title/blade_1998/",
-    "imdbRating": 7.1
-  },
-  {
-    "title": "Toy Story 5",
-    "releaseYear": 2026,
-    "genres": "Animation, Adventure, Comedy",
-    "imdbId": "tt29355505",
-    "imdbUrl": "https://www.imdb.com/title/tt29355505/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304667/title/toy_story_5/",
-    "imdbRating": null
-  },
-  {
-    "title": "The Legendaries",
-    "releaseYear": 2026,
-    "genres": "Animation, Action, Adventure",
-    "imdbId": "tt35659725",
-    "imdbUrl": "https://www.imdb.com/title/tt35659725/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304762/title/the_legendaries/",
-    "imdbRating": 6.1
-  },
-  {
-    "title": "The Magic Faraway Tree",
-    "releaseYear": 2026,
-    "genres": "Adventure, Family, Fantasy",
-    "imdbId": "tt7734244",
-    "imdbUrl": "https://www.imdb.com/title/tt7734244/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304776/title/the_magic_faraway_tree/",
-    "imdbRating": 6.3
+    "genres": "Biography, Drama, History",
+    "imdbId": "tt11378946",
+    "imdbUrl": "https://www.imdb.com/title/tt11378946/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/303990/title/michael/",
+    "imdbRating": 7.5
   },
   {
     "title": "Bridesmaids (2011)",
@@ -222,6 +168,15 @@
     "imdbId": "tt0062622",
     "imdbUrl": "https://www.imdb.com/title/tt0062622/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304790/title/2001_a_space_odyssey_1968/",
+    "imdbRating": 8.3
+  },
+  {
+    "title": "Project Hail Mary",
+    "releaseYear": 2026,
+    "genres": "Adventure, Comedy, Drama",
+    "imdbId": "tt12042730",
+    "imdbUrl": "https://www.imdb.com/title/tt12042730/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/",
     "imdbRating": 8.3
   },
   {
@@ -243,6 +198,15 @@
     "imdbRating": 6.3
   },
   {
+    "title": "The Drama",
+    "releaseYear": 2026,
+    "genres": "Comedy, Drama, Romance",
+    "imdbId": "tt33071426",
+    "imdbUrl": "https://www.imdb.com/title/tt33071426/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304735/title/the_drama/",
+    "imdbRating": 7.2
+  },
+  {
     "title": "Hoppers",
     "releaseYear": 2026,
     "genres": "Animation, Adventure, Comedy",
@@ -250,6 +214,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt26443616/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304681/title/hoppers/",
     "imdbRating": 7.3
+  },
+  {
+    "title": "The Secret Floor",
+    "releaseYear": 2026,
+    "genres": "Family, History",
+    "imdbId": "tt27764052",
+    "imdbUrl": "https://www.imdb.com/title/tt27764052/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304758/title/the_secret_floor/",
+    "imdbRating": 7.5
   },
   {
     "title": "Three goodbyes",
@@ -286,6 +259,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt8772262/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/303702/title/midsommar_directors_cut_2019/",
     "imdbRating": 7.1
+  },
+  {
+    "title": "Perfect Strangers",
+    "releaseYear": 2026,
+    "genres": "Comedy, Drama",
+    "imdbId": "tt39109902",
+    "imdbUrl": "https://www.imdb.com/title/tt39109902/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304657/title/perfect_strangers/",
+    "imdbRating": 7.9
   },
   {
     "title": "Shrek (2001)",
@@ -349,6 +331,24 @@
     "imdbUrl": "https://www.imdb.com/title/tt0099685/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304798/title/goodfellas_1990/",
     "imdbRating": 8.7
+  },
+  {
+    "title": "Zootopia 2",
+    "releaseYear": 2025,
+    "genres": "Animation, Adventure, Comedy",
+    "imdbId": "tt26443597",
+    "imdbUrl": "https://www.imdb.com/title/tt26443597/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304299/title/zootopia_2/",
+    "imdbRating": 7.3
+  },
+  {
+    "title": "Spiked",
+    "releaseYear": 2026,
+    "genres": "Animation, Adventure, Comedy",
+    "imdbId": "tt6930962",
+    "imdbUrl": "https://www.imdb.com/title/tt6930962/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304788/title/spiked/",
+    "imdbRating": 5.3
   },
   {
     "title": "NT LIVE: The Playboy of the Western World",
@@ -477,6 +477,15 @@
     "imdbRating": 8.1
   },
   {
+    "title": "A Good Year (2006)",
+    "releaseYear": 2006,
+    "genres": "Comedy, Drama, Romance",
+    "imdbId": "tt0401445",
+    "imdbUrl": "https://www.imdb.com/title/tt0401445/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/300408/title/a_good_year_2006/",
+    "imdbRating": 6.9
+  },
+  {
     "title": "Eat Pray Love (2010)",
     "releaseYear": 2010,
     "genres": "Biography, Comedy, Drama",
@@ -529,6 +538,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt0075314/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304816/title/taxi_driver_1976/",
     "imdbRating": 8.2
+  },
+  {
+    "title": "Ulya",
+    "releaseYear": 2026,
+    "genres": "Comedy, Drama, Romance",
+    "imdbId": "tt14173636",
+    "imdbUrl": "https://www.imdb.com/title/tt14173636/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304848/title/ulya/",
+    "imdbRating": 6.9
   },
   {
     "title": "Lawrence of Arabia (1962)",

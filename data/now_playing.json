@@ -1,39 +1,31 @@
 [
   {
-    "title": "The Legendaries",
-    "url": "https://www.forumcinemas.lv/eng/event/304762/title/the_legendaries/"
-  },
-  {
-    "title": "The Secret Floor",
-    "url": "https://www.forumcinemas.lv/eng/event/304758/title/the_secret_floor/"
-  },
-  {
-    "title": "The Super Mario Galaxy Movie",
-    "url": "https://www.forumcinemas.lv/eng/event/304620/title/the_super_mario_galaxy_movie/"
-  },
-  {
-    "title": "Obsession",
-    "url": "https://www.forumcinemas.lv/eng/event/304809/title/obsession/"
+    "title": "The Sheep Detectives",
+    "url": "https://www.forumcinemas.lv/eng/event/304774/title/the_sheep_detectives/"
   },
   {
     "title": "The Desert Child",
     "url": "https://www.forumcinemas.lv/eng/event/304799/title/the_desert_child/"
   },
   {
+    "title": "Toy Story 5",
+    "url": "https://www.forumcinemas.lv/eng/event/304667/title/toy_story_5/"
+  },
+  {
+    "title": "Obsession",
+    "url": "https://www.forumcinemas.lv/eng/event/304809/title/obsession/"
+  },
+  {
+    "title": "The Super Mario Galaxy Movie",
+    "url": "https://www.forumcinemas.lv/eng/event/304620/title/the_super_mario_galaxy_movie/"
+  },
+  {
     "title": "Backrooms",
     "url": "https://www.forumcinemas.lv/eng/event/304736/title/backrooms/"
   },
   {
-    "title": "The Sheep Detectives",
-    "url": "https://www.forumcinemas.lv/eng/event/304774/title/the_sheep_detectives/"
-  },
-  {
-    "title": "The Drama",
-    "url": "https://www.forumcinemas.lv/eng/event/304735/title/the_drama/"
-  },
-  {
-    "title": "Toy Story 5",
-    "url": "https://www.forumcinemas.lv/eng/event/304667/title/toy_story_5/"
+    "title": "Michael",
+    "url": "https://www.forumcinemas.lv/eng/event/303990/title/michael/"
   },
   {
     "title": "Star Wars: The Mandalorian and Grogu",
@@ -44,40 +36,20 @@
     "url": "https://www.forumcinemas.lv/eng/event/304677/title/disclosure_day/"
   },
   {
-    "title": "Scary Movie",
-    "url": "https://www.forumcinemas.lv/eng/event/304741/title/scary_movie/"
-  },
-  {
-    "title": "Michael",
-    "url": "https://www.forumcinemas.lv/eng/event/303990/title/michael/"
-  },
-  {
-    "title": "Mother",
-    "url": "https://www.forumcinemas.lv/eng/event/304796/title/mother/"
+    "title": "Tuner",
+    "url": "https://www.forumcinemas.lv/eng/event/304779/title/tuner/"
   },
   {
     "title": "The Devil Wears Prada 2",
     "url": "https://www.forumcinemas.lv/eng/event/304665/title/the_devil_wears_prada_2/"
   },
   {
-    "title": "Tuner",
-    "url": "https://www.forumcinemas.lv/eng/event/304779/title/tuner/"
+    "title": "Mother",
+    "url": "https://www.forumcinemas.lv/eng/event/304796/title/mother/"
   },
   {
-    "title": "Project Hail Mary",
-    "url": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/"
-  },
-  {
-    "title": "Masters of the Universe",
-    "url": "https://www.forumcinemas.lv/eng/event/304791/title/masters_of_the_universe/"
-  },
-  {
-    "title": "In the Grey",
-    "url": "https://www.forumcinemas.lv/eng/event/304761/title/in_the_grey/"
-  },
-  {
-    "title": "Mortal Kombat II",
-    "url": "https://www.forumcinemas.lv/eng/event/304469/title/mortal_kombat_ii/"
+    "title": "Scary Movie",
+    "url": "https://www.forumcinemas.lv/eng/event/304741/title/scary_movie/"
   },
   {
     "title": "Three goodbyes",
@@ -90,6 +62,10 @@
   {
     "title": "A Limousine the Colour of Midsummer’s Eve (1981)",
     "url": "https://www.forumcinemas.lv/eng/event/300638/title/a_limousine_the_colour_of_midsummers_eve_1981/"
+  },
+  {
+    "title": "Project Hail Mary",
+    "url": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/"
   },
   {
     "title": "The Magic Faraway Tree",
@@ -124,8 +100,36 @@
     "url": "https://www.forumcinemas.lv/eng/event/304493/title/red_code_blue/"
   },
   {
+    "title": "The Drama",
+    "url": "https://www.forumcinemas.lv/eng/event/304735/title/the_drama/"
+  },
+  {
+    "title": "Masters of the Universe",
+    "url": "https://www.forumcinemas.lv/eng/event/304791/title/masters_of_the_universe/"
+  },
+  {
+    "title": "The Legendaries",
+    "url": "https://www.forumcinemas.lv/eng/event/304762/title/the_legendaries/"
+  },
+  {
+    "title": "The Secret Floor",
+    "url": "https://www.forumcinemas.lv/eng/event/304758/title/the_secret_floor/"
+  },
+  {
     "title": "Supergirl",
     "url": "https://www.forumcinemas.lv/eng/event/304676/title/supergirl/"
+  },
+  {
+    "title": "Mortal Kombat II",
+    "url": "https://www.forumcinemas.lv/eng/event/304469/title/mortal_kombat_ii/"
+  },
+  {
+    "title": "The Death of Robin Hood",
+    "url": "https://www.forumcinemas.lv/eng/event/304801/title/the_death_of_robin_hood/"
+  },
+  {
+    "title": "In the Hand of Dante",
+    "url": "https://www.forumcinemas.lv/eng/event/304823/title/in_the_hand_of_dante/"
   },
   {
     "title": "2001: A Space Odyssey (1968)",
@@ -146,14 +150,6 @@
   {
     "title": "Zootopia 2",
     "url": "https://www.forumcinemas.lv/eng/event/304299/title/zootopia_2/"
-  },
-  {
-    "title": "In the Hand of Dante",
-    "url": "https://www.forumcinemas.lv/eng/event/304823/title/in_the_hand_of_dante/"
-  },
-  {
-    "title": "The Death of Robin Hood",
-    "url": "https://www.forumcinemas.lv/eng/event/304801/title/the_death_of_robin_hood/"
   },
   {
     "title": "Bridesmaids (2011)",
@@ -190,6 +186,14 @@
   {
     "title": "Toms Grēviņš Shows a Movie | Amadeus: Director’s Cut (1984)",
     "url": "https://www.forumcinemas.lv/eng/event/304824/title/toms_gr%C4%93vi%C5%86%C5%A1_shows_a_movie_amadeus_directors_cut_1984/"
+  },
+  {
+    "title": "Private event",
+    "url": "https://www.forumcinemas.lv/eng/event/303398/title/private_event/"
+  },
+  {
+    "title": "Colony",
+    "url": "https://www.forumcinemas.lv/eng/event/304864/title/colony/"
   },
   {
     "title": "Football | 1/32 | 1H-2J",

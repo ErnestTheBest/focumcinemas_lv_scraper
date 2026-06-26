@@ -1,25 +1,5 @@
 [
   {
-    "title": "The Legendaries",
-    "url": "https://www.forumcinemas.lv/eng/event/304762/title/the_legendaries/"
-  },
-  {
-    "title": "Obsession",
-    "url": "https://www.forumcinemas.lv/eng/event/304809/title/obsession/"
-  },
-  {
-    "title": "Disclosure Day",
-    "url": "https://www.forumcinemas.lv/eng/event/304677/title/disclosure_day/"
-  },
-  {
-    "title": "The Magic Faraway Tree",
-    "url": "https://www.forumcinemas.lv/eng/event/304776/title/the_magic_faraway_tree/"
-  },
-  {
-    "title": "The Desert Child",
-    "url": "https://www.forumcinemas.lv/eng/event/304799/title/the_desert_child/"
-  },
-  {
     "title": "Backrooms",
     "url": "https://www.forumcinemas.lv/eng/event/304736/title/backrooms/"
   },
@@ -28,64 +8,44 @@
     "url": "https://www.forumcinemas.lv/eng/event/304667/title/toy_story_5/"
   },
   {
-    "title": "Masters of the Universe",
-    "url": "https://www.forumcinemas.lv/eng/event/304791/title/masters_of_the_universe/"
-  },
-  {
     "title": "Scary Movie",
     "url": "https://www.forumcinemas.lv/eng/event/304741/title/scary_movie/"
   },
   {
-    "title": "The Secret Floor",
-    "url": "https://www.forumcinemas.lv/eng/event/304758/title/the_secret_floor/"
-  },
-  {
-    "title": "The Sheep Detectives",
-    "url": "https://www.forumcinemas.lv/eng/event/304774/title/the_sheep_detectives/"
-  },
-  {
-    "title": "Michael",
-    "url": "https://www.forumcinemas.lv/eng/event/303990/title/michael/"
-  },
-  {
-    "title": "The Devil Wears Prada 2",
-    "url": "https://www.forumcinemas.lv/eng/event/304665/title/the_devil_wears_prada_2/"
-  },
-  {
-    "title": "The Super Mario Galaxy Movie",
-    "url": "https://www.forumcinemas.lv/eng/event/304620/title/the_super_mario_galaxy_movie/"
-  },
-  {
-    "title": "Mother",
-    "url": "https://www.forumcinemas.lv/eng/event/304796/title/mother/"
-  },
-  {
-    "title": "Star Wars: The Mandalorian and Grogu",
-    "url": "https://www.forumcinemas.lv/eng/event/304666/title/star_wars_the_mandalorian_and_grogu/"
-  },
-  {
-    "title": "Three goodbyes",
-    "url": "https://www.forumcinemas.lv/eng/event/304821/title/three_goodbyes/"
-  },
-  {
-    "title": "Tuner",
-    "url": "https://www.forumcinemas.lv/eng/event/304779/title/tuner/"
+    "title": "The Desert Child",
+    "url": "https://www.forumcinemas.lv/eng/event/304799/title/the_desert_child/"
   },
   {
     "title": "Supergirl",
     "url": "https://www.forumcinemas.lv/eng/event/304676/title/supergirl/"
   },
   {
-    "title": "Project Hail Mary",
-    "url": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/"
+    "title": "Obsession",
+    "url": "https://www.forumcinemas.lv/eng/event/304809/title/obsession/"
   },
   {
-    "title": "Mortal Kombat II",
-    "url": "https://www.forumcinemas.lv/eng/event/304469/title/mortal_kombat_ii/"
+    "title": "The Devil Wears Prada 2",
+    "url": "https://www.forumcinemas.lv/eng/event/304665/title/the_devil_wears_prada_2/"
+  },
+  {
+    "title": "Michael",
+    "url": "https://www.forumcinemas.lv/eng/event/303990/title/michael/"
+  },
+  {
+    "title": "Disclosure Day",
+    "url": "https://www.forumcinemas.lv/eng/event/304677/title/disclosure_day/"
   },
   {
     "title": "The Death of Robin Hood",
     "url": "https://www.forumcinemas.lv/eng/event/304801/title/the_death_of_robin_hood/"
+  },
+  {
+    "title": "The Sheep Detectives",
+    "url": "https://www.forumcinemas.lv/eng/event/304774/title/the_sheep_detectives/"
+  },
+  {
+    "title": "The Super Mario Galaxy Movie",
+    "url": "https://www.forumcinemas.lv/eng/event/304620/title/the_super_mario_galaxy_movie/"
   },
   {
     "title": "In the Hand of Dante",
@@ -96,12 +56,40 @@
     "url": "https://www.forumcinemas.lv/eng/event/304790/title/2001_a_space_odyssey_1968/"
   },
   {
+    "title": "Star Wars: The Mandalorian and Grogu",
+    "url": "https://www.forumcinemas.lv/eng/event/304666/title/star_wars_the_mandalorian_and_grogu/"
+  },
+  {
+    "title": "Tuner",
+    "url": "https://www.forumcinemas.lv/eng/event/304779/title/tuner/"
+  },
+  {
+    "title": "Masters of the Universe",
+    "url": "https://www.forumcinemas.lv/eng/event/304791/title/masters_of_the_universe/"
+  },
+  {
+    "title": "Mother",
+    "url": "https://www.forumcinemas.lv/eng/event/304796/title/mother/"
+  },
+  {
     "title": "GoodFellas (1990)",
     "url": "https://www.forumcinemas.lv/eng/event/304798/title/goodfellas_1990/"
   },
   {
+    "title": "Project Hail Mary",
+    "url": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/"
+  },
+  {
     "title": "Hoppers",
     "url": "https://www.forumcinemas.lv/eng/event/304681/title/hoppers/"
+  },
+  {
+    "title": "The Magic Faraway Tree",
+    "url": "https://www.forumcinemas.lv/eng/event/304776/title/the_magic_faraway_tree/"
+  },
+  {
+    "title": "The Legendaries",
+    "url": "https://www.forumcinemas.lv/eng/event/304762/title/the_legendaries/"
   },
   {
     "title": "Spiked",
@@ -110,6 +98,10 @@
   {
     "title": "Zootopia 2",
     "url": "https://www.forumcinemas.lv/eng/event/304299/title/zootopia_2/"
+  },
+  {
+    "title": "The Secret Floor",
+    "url": "https://www.forumcinemas.lv/eng/event/304758/title/the_secret_floor/"
   },
   {
     "title": "Bridesmaids (2011)",
@@ -128,8 +120,12 @@
     "url": "https://www.forumcinemas.lv/eng/event/304849/title/football_132_south_africa_-_canada/"
   },
   {
-    "title": "Football | 1/32 | Brazil - 2F",
-    "url": "https://www.forumcinemas.lv/eng/event/304862/title/football_132_brazil_-_2f/"
+    "title": "Football | 1/32 | Brazil - Japan",
+    "url": "https://www.forumcinemas.lv/eng/event/304862/title/football_132_brazil_-_japan/"
+  },
+  {
+    "title": "Three goodbyes",
+    "url": "https://www.forumcinemas.lv/eng/event/304821/title/three_goodbyes/"
   },
   {
     "title": "The Drama",
@@ -144,8 +140,8 @@
     "url": "https://www.forumcinemas.lv/eng/event/304805/title/nt_live_the_playboy_of_the_western_world/"
   },
   {
-    "title": "Football | 1/32 | 2E-2I",
-    "url": "https://www.forumcinemas.lv/eng/event/304850/title/football_132_2e-2i/"
+    "title": "Football | 1/32 | Côte d'Ivoire - 2I",
+    "url": "https://www.forumcinemas.lv/eng/event/304850/title/football_132_c%C3%B4te_divoire_-_2i/"
   },
   {
     "title": "Minions & Monsters",
@@ -176,12 +172,16 @@
     "url": "https://www.forumcinemas.lv/eng/event/304852/title/football_132_1h-2j/"
   },
   {
+    "title": "Bear Country",
+    "url": "https://www.forumcinemas.lv/eng/event/304826/title/bear_country/"
+  },
+  {
     "title": "Devil Wears Prada (2006)",
     "url": "https://www.forumcinemas.lv/eng/event/300358/title/devil_wears_prada_2006/"
   },
   {
-    "title": "Football | 1/32 | 2D-2G",
-    "url": "https://www.forumcinemas.lv/eng/event/304853/title/football_132_2d-2g/"
+    "title": "Football | 1/32 | Australia - 2G",
+    "url": "https://www.forumcinemas.lv/eng/event/304853/title/football_132_australia_-_2g/"
   },
   {
     "title": "Clueless (1995)",
@@ -244,6 +244,10 @@
     "url": "https://www.forumcinemas.lv/eng/event/304859/title/football_sf_w97-w98/"
   },
   {
+    "title": "Last Action Hero (1993)",
+    "url": "https://www.forumcinemas.lv/eng/event/302850/title/last_action_hero_1993/"
+  },
+  {
     "title": "Football | SF | W99-W100",
     "url": "https://www.forumcinemas.lv/eng/event/304860/title/football_sf_w99-w100/"
   },
@@ -272,6 +276,14 @@
     "url": "https://www.forumcinemas.lv/eng/event/300408/title/a_good_year_2006/"
   },
   {
+    "title": "Chocolat (2000)",
+    "url": "https://www.forumcinemas.lv/eng/event/304863/title/chocolat_2000/"
+  },
+  {
+    "title": "A Fistful of Dollars (1964)",
+    "url": "https://www.forumcinemas.lv/eng/event/301957/title/a_fistful_of_dollars_1964/"
+  },
+  {
     "title": "NT LIVE: Hamlet (2026)",
     "url": "https://www.forumcinemas.lv/eng/event/304466/title/nt_live_hamlet_2026/"
   },
@@ -280,12 +292,20 @@
     "url": "https://www.forumcinemas.lv/eng/event/304089/title/met_opera_aida_2025/"
   },
   {
+    "title": "For a Few Dollars More (1965)",
+    "url": "https://www.forumcinemas.lv/eng/event/301955/title/for_a_few_dollars_more_1965/"
+  },
+  {
     "title": "Eat Pray Love (2010)",
     "url": "https://www.forumcinemas.lv/eng/event/298993/title/eat_pray_love_2010/"
   },
   {
     "title": "NT LIVE: The Fifth Step",
     "url": "https://www.forumcinemas.lv/eng/event/304465/title/nt_live_the_fifth_step/"
+  },
+  {
+    "title": "The Good, the Bad and the Ugly (1966)",
+    "url": "https://www.forumcinemas.lv/eng/event/301956/title/the_good_the_bad_and_the_ugly_1966/"
   },
   {
     "title": "Thelma & Louise (1991)",
@@ -302,6 +322,10 @@
   {
     "title": "Terminator 2. Judgment Day *Extended* (1991)",
     "url": "https://www.forumcinemas.lv/eng/event/302211/title/terminator_2_judgment_day_extended_1991/"
+  },
+  {
+    "title": "Trainspotting (1996)",
+    "url": "https://www.forumcinemas.lv/eng/event/302060/title/trainspotting_1996/"
   },
   {
     "title": "André Rieu's 2026 Summer Concert: Viva Maastricht!",

@@ -9,13 +9,13 @@
     "imdbRating": 6.3
   },
   {
-    "title": "Obsession",
+    "title": "The Devil Wears Prada 2",
     "releaseYear": 2026,
-    "genres": "Horror, Romance, Thriller",
-    "imdbId": "tt37287335",
-    "imdbUrl": "https://www.imdb.com/title/tt37287335/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304809/title/obsession/",
-    "imdbRating": 8.1
+    "genres": "Comedy, Drama",
+    "imdbId": "tt33612209",
+    "imdbUrl": "https://www.imdb.com/title/tt33612209/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304665/title/the_devil_wears_prada_2/",
+    "imdbRating": 6.6
   },
   {
     "title": "Backrooms",
@@ -27,6 +27,15 @@
     "imdbRating": 7.1
   },
   {
+    "title": "The Sheep Detectives",
+    "releaseYear": 2026,
+    "genres": "Comedy, Family, Mystery",
+    "imdbId": "tt32565993",
+    "imdbUrl": "https://www.imdb.com/title/tt32565993/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304774/title/the_sheep_detectives/",
+    "imdbRating": 7.5
+  },
+  {
     "title": "The Desert Child",
     "releaseYear": 2026,
     "genres": "Adventure, Family",
@@ -36,40 +45,13 @@
     "imdbRating": 6.8
   },
   {
-    "title": "Toy Story 5",
-    "releaseYear": 2026,
-    "genres": "Animation, Adventure, Comedy",
-    "imdbId": "tt29355505",
-    "imdbUrl": "https://www.imdb.com/title/tt29355505/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304667/title/toy_story_5/",
-    "imdbRating": 7.6
-  },
-  {
-    "title": "The Devil Wears Prada 2",
-    "releaseYear": 2026,
-    "genres": "Comedy, Drama",
-    "imdbId": "tt33612209",
-    "imdbUrl": "https://www.imdb.com/title/tt33612209/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304665/title/the_devil_wears_prada_2/",
-    "imdbRating": 6.6
-  },
-  {
-    "title": "Michael",
-    "releaseYear": 2026,
-    "genres": "Biography, Drama, History",
-    "imdbId": "tt11378946",
-    "imdbUrl": "https://www.imdb.com/title/tt11378946/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/303990/title/michael/",
-    "imdbRating": 7.5
-  },
-  {
     "title": "Supergirl",
     "releaseYear": 2026,
     "genres": "Action, Adventure, Drama",
     "imdbId": "tt8814476",
     "imdbUrl": "https://www.imdb.com/title/tt8814476/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304676/title/supergirl/",
-    "imdbRating": 6.2
+    "imdbRating": 6.1
   },
   {
     "title": "Disclosure Day",
@@ -81,22 +63,31 @@
     "imdbRating": 6.7
   },
   {
-    "title": "The Sheep Detectives",
+    "title": "Toy Story 5",
     "releaseYear": 2026,
-    "genres": "Comedy, Family, Mystery",
-    "imdbId": "tt32565993",
-    "imdbUrl": "https://www.imdb.com/title/tt32565993/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304774/title/the_sheep_detectives/",
+    "genres": "Animation, Adventure, Comedy",
+    "imdbId": "tt29355505",
+    "imdbUrl": "https://www.imdb.com/title/tt29355505/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304667/title/toy_story_5/",
+    "imdbRating": 7.6
+  },
+  {
+    "title": "Michael",
+    "releaseYear": 2026,
+    "genres": "Biography, Drama, History",
+    "imdbId": "tt11378946",
+    "imdbUrl": "https://www.imdb.com/title/tt11378946/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/303990/title/michael/",
     "imdbRating": 7.5
   },
   {
-    "title": "In the Hand of Dante",
+    "title": "Obsession",
     "releaseYear": 2026,
-    "genres": "Crime, Drama, Mystery",
-    "imdbId": "tt1333644",
-    "imdbUrl": "https://www.imdb.com/title/tt1333644/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304823/title/in_the_hand_of_dante/",
-    "imdbRating": 4.8
+    "genres": "Horror, Romance, Thriller",
+    "imdbId": "tt37287335",
+    "imdbUrl": "https://www.imdb.com/title/tt37287335/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304809/title/obsession/",
+    "imdbRating": 8.1
   },
   {
     "title": "Scary Movie",
@@ -108,24 +99,6 @@
     "imdbRating": 5.3
   },
   {
-    "title": "The Death of Robin Hood",
-    "releaseYear": 2026,
-    "genres": "Action, Adventure, Drama",
-    "imdbId": "tt32273171",
-    "imdbUrl": "https://www.imdb.com/title/tt32273171/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304801/title/the_death_of_robin_hood/",
-    "imdbRating": 6.4
-  },
-  {
-    "title": "Project Hail Mary",
-    "releaseYear": 2026,
-    "genres": "Adventure, Comedy, Drama",
-    "imdbId": "tt12042730",
-    "imdbUrl": "https://www.imdb.com/title/tt12042730/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/",
-    "imdbRating": 8.2
-  },
-  {
     "title": "Star Wars: The Mandalorian and Grogu",
     "releaseYear": 2026,
     "genres": "Action, Adventure, Family",
@@ -133,6 +106,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt30825738/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304666/title/star_wars_the_mandalorian_and_grogu/",
     "imdbRating": 7
+  },
+  {
+    "title": "In the Hand of Dante",
+    "releaseYear": 2026,
+    "genres": "Crime, Drama, Mystery",
+    "imdbId": "tt1333644",
+    "imdbUrl": "https://www.imdb.com/title/tt1333644/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304823/title/in_the_hand_of_dante/",
+    "imdbRating": 4.8
   },
   {
     "title": "The Drama",
@@ -160,6 +142,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt33296751/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304779/title/tuner/",
     "imdbRating": 7.3
+  },
+  {
+    "title": "The Death of Robin Hood",
+    "releaseYear": 2026,
+    "genres": "Action, Adventure, Drama",
+    "imdbId": "tt32273171",
+    "imdbUrl": "https://www.imdb.com/title/tt32273171/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304801/title/the_death_of_robin_hood/",
+    "imdbRating": 6.4
   },
   {
     "title": "NT LIVE: The Playboy of the Western World",
@@ -213,7 +204,7 @@
     "imdbId": "tt14173636",
     "imdbUrl": "https://www.imdb.com/title/tt14173636/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304784/title/the_invite/",
-    "imdbRating": 7.5
+    "imdbRating": 7.6
   },
   {
     "title": "Masters of the Universe",
@@ -252,13 +243,31 @@
     "imdbRating": 6.9
   },
   {
+    "title": "Three goodbyes",
+    "releaseYear": 2025,
+    "genres": "Drama",
+    "imdbId": "tt35705184",
+    "imdbUrl": "https://www.imdb.com/title/tt35705184/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304821/title/three_goodbyes/",
+    "imdbRating": 7.1
+  },
+  {
     "title": "Bear Country",
     "releaseYear": 2026,
     "genres": "Action, Thriller",
     "imdbId": "tt32321803",
     "imdbUrl": "https://www.imdb.com/title/tt32321803/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304826/title/bear_country/",
-    "imdbRating": 7.3
+    "imdbRating": 7.2
+  },
+  {
+    "title": "Hungry",
+    "releaseYear": 2026,
+    "genres": "Horror, Thriller",
+    "imdbId": "tt34494076",
+    "imdbUrl": "https://www.imdb.com/title/tt34494076/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304828/title/hungry/",
+    "imdbRating": 5
   },
   {
     "title": "Devil Wears Prada (2006)",
@@ -357,7 +366,7 @@
     "imdbId": "tt40258746",
     "imdbUrl": "https://www.imdb.com/title/tt40258746/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304803/title/nt_live_les_liaisons_dangereuses/",
-    "imdbRating": 8.1
+    "imdbRating": 8.2
   },
   {
     "title": "Last Action Hero (1993)",
@@ -510,7 +519,7 @@
     "imdbId": "tt14173636",
     "imdbUrl": "https://www.imdb.com/title/tt14173636/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304848/title/ulya/",
-    "imdbRating": 7.5
+    "imdbRating": 7.6
   },
   {
     "title": "Lawrence of Arabia (1962)",

@@ -1,14 +1,5 @@
 [
   {
-    "title": "The Sheep Detectives",
-    "releaseYear": 2026,
-    "genres": "Comedy, Family, Mystery",
-    "imdbId": "tt32565993",
-    "imdbUrl": "https://www.imdb.com/title/tt32565993/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304774/title/the_sheep_detectives/",
-    "imdbRating": 7.5
-  },
-  {
     "title": "The Super Mario Galaxy Movie",
     "releaseYear": 2026,
     "genres": "Animation, Adventure, Comedy",
@@ -16,24 +7,6 @@
     "imdbUrl": "https://www.imdb.com/title/tt28650488/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304620/title/the_super_mario_galaxy_movie/",
     "imdbRating": 6.3
-  },
-  {
-    "title": "The Invite",
-    "releaseYear": 2026,
-    "genres": "Comedy, Drama, Romance",
-    "imdbId": "tt14173636",
-    "imdbUrl": "https://www.imdb.com/title/tt14173636/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304784/title/the_invite/",
-    "imdbRating": 7.8
-  },
-  {
-    "title": "Obsession",
-    "releaseYear": 2026,
-    "genres": "Horror, Romance, Thriller",
-    "imdbId": "tt37287335",
-    "imdbUrl": "https://www.imdb.com/title/tt37287335/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304809/title/obsession/",
-    "imdbRating": 8.1
   },
   {
     "title": "Toy Story 5",
@@ -45,48 +18,12 @@
     "imdbRating": 7.6
   },
   {
-    "title": "Minions & Monsters",
+    "title": "The Sheep Detectives",
     "releaseYear": 2026,
-    "genres": "Animation, Adventure, Comedy",
-    "imdbId": "tt32890033",
-    "imdbUrl": "https://www.imdb.com/title/tt32890033/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304684/title/minions_and_monsters/",
-    "imdbRating": 6.6
-  },
-  {
-    "title": "Disclosure Day",
-    "releaseYear": 2026,
-    "genres": "Action, Drama, Mystery",
-    "imdbId": "tt15047880",
-    "imdbUrl": "https://www.imdb.com/title/tt15047880/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304677/title/disclosure_day/",
-    "imdbRating": 6.7
-  },
-  {
-    "title": "Supergirl",
-    "releaseYear": 2026,
-    "genres": "Action, Adventure, Drama",
-    "imdbId": "tt8814476",
-    "imdbUrl": "https://www.imdb.com/title/tt8814476/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304676/title/supergirl/",
-    "imdbRating": 6.1
-  },
-  {
-    "title": "Bear Country",
-    "releaseYear": 2026,
-    "genres": "Action, Thriller",
-    "imdbId": "tt32321803",
-    "imdbUrl": "https://www.imdb.com/title/tt32321803/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304826/title/bear_country/",
-    "imdbRating": 5.4
-  },
-  {
-    "title": "Michael",
-    "releaseYear": 2026,
-    "genres": "Biography, Drama, History",
-    "imdbId": "tt11378946",
-    "imdbUrl": "https://www.imdb.com/title/tt11378946/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/303990/title/michael/",
+    "genres": "Comedy, Family, Mystery",
+    "imdbId": "tt32565993",
+    "imdbUrl": "https://www.imdb.com/title/tt32565993/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304774/title/the_sheep_detectives/",
     "imdbRating": 7.5
   },
   {
@@ -99,13 +36,22 @@
     "imdbRating": 7
   },
   {
-    "title": "The Devil Wears Prada 2",
+    "title": "Minions & Monsters",
     "releaseYear": 2026,
-    "genres": "Comedy, Drama",
-    "imdbId": "tt33612209",
-    "imdbUrl": "https://www.imdb.com/title/tt33612209/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304665/title/the_devil_wears_prada_2/",
+    "genres": "Animation, Adventure, Comedy",
+    "imdbId": "tt32890033",
+    "imdbUrl": "https://www.imdb.com/title/tt32890033/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304684/title/minions_and_monsters/",
     "imdbRating": 6.6
+  },
+  {
+    "title": "Supergirl",
+    "releaseYear": 2026,
+    "genres": "Action, Adventure, Drama",
+    "imdbId": "tt8814476",
+    "imdbUrl": "https://www.imdb.com/title/tt8814476/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304676/title/supergirl/",
+    "imdbRating": 6.1
   },
   {
     "title": "In the Hand of Dante",
@@ -117,49 +63,40 @@
     "imdbRating": 4.9
   },
   {
-    "title": "Hungry",
+    "title": "The Invite",
     "releaseYear": 2026,
-    "genres": "Horror, Thriller",
-    "imdbId": "tt34494076",
-    "imdbUrl": "https://www.imdb.com/title/tt34494076/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304828/title/hungry/",
-    "imdbRating": 5
+    "genres": "Comedy, Drama, Romance",
+    "imdbId": "tt14173636",
+    "imdbUrl": "https://www.imdb.com/title/tt14173636/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304784/title/the_invite/",
+    "imdbRating": 7.8
   },
   {
-    "title": "Colony",
+    "title": "Michael",
     "releaseYear": 2026,
-    "genres": "Action, Adventure, Crime",
-    "imdbId": "tt34385135",
-    "imdbUrl": "https://www.imdb.com/title/tt34385135/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304864/title/colony/",
-    "imdbRating": 6.9
+    "genres": "Biography, Drama, History",
+    "imdbId": "tt11378946",
+    "imdbUrl": "https://www.imdb.com/title/tt11378946/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/303990/title/michael/",
+    "imdbRating": 7.5
   },
   {
-    "title": "Clueless (1995)",
-    "releaseYear": 1995,
-    "genres": "Comedy, Romance",
-    "imdbId": "tt0112697",
-    "imdbUrl": "https://www.imdb.com/title/tt0112697/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304739/title/clueless_1995/",
-    "imdbRating": 6.9
-  },
-  {
-    "title": "From Dusk Till Dawn (1996)",
-    "releaseYear": 1996,
-    "genres": "Action, Crime, Horror",
-    "imdbId": "tt0116367",
-    "imdbUrl": "https://www.imdb.com/title/tt0116367/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/303396/title/from_dusk_till_dawn_1996/",
-    "imdbRating": 7.2
-  },
-  {
-    "title": "The Death of Robin Hood",
+    "title": "Disclosure Day",
     "releaseYear": 2026,
-    "genres": "Action, Adventure, Drama",
-    "imdbId": "tt32273171",
-    "imdbUrl": "https://www.imdb.com/title/tt32273171/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304801/title/the_death_of_robin_hood/",
-    "imdbRating": 6.4
+    "genres": "Action, Drama, Mystery",
+    "imdbId": "tt15047880",
+    "imdbUrl": "https://www.imdb.com/title/tt15047880/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304677/title/disclosure_day/",
+    "imdbRating": 6.7
+  },
+  {
+    "title": "Obsession",
+    "releaseYear": 2026,
+    "genres": "Horror, Romance, Thriller",
+    "imdbId": "tt37287335",
+    "imdbUrl": "https://www.imdb.com/title/tt37287335/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304809/title/obsession/",
+    "imdbRating": 8
   },
   {
     "title": "Star Wars: The Mandalorian and Grogu",
@@ -171,6 +108,33 @@
     "imdbRating": 7
   },
   {
+    "title": "The Death of Robin Hood",
+    "releaseYear": 2026,
+    "genres": "Action, Adventure, Drama",
+    "imdbId": "tt32273171",
+    "imdbUrl": "https://www.imdb.com/title/tt32273171/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304801/title/the_death_of_robin_hood/",
+    "imdbRating": 6.3
+  },
+  {
+    "title": "The Devil Wears Prada 2",
+    "releaseYear": 2026,
+    "genres": "Comedy, Drama",
+    "imdbId": "tt33612209",
+    "imdbUrl": "https://www.imdb.com/title/tt33612209/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304665/title/the_devil_wears_prada_2/",
+    "imdbRating": 6.5
+  },
+  {
+    "title": "Bear Country",
+    "releaseYear": 2026,
+    "genres": "Action, Thriller",
+    "imdbId": "tt32321803",
+    "imdbUrl": "https://www.imdb.com/title/tt32321803/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304826/title/bear_country/",
+    "imdbRating": 5.4
+  },
+  {
     "title": "13 going on 30 (2004)",
     "releaseYear": 2004,
     "genres": "Comedy, Fantasy, Romance",
@@ -180,6 +144,15 @@
     "imdbRating": 6.3
   },
   {
+    "title": "Hungry",
+    "releaseYear": 2026,
+    "genres": "Horror, Thriller",
+    "imdbId": "tt34494076",
+    "imdbUrl": "https://www.imdb.com/title/tt34494076/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304828/title/hungry/",
+    "imdbRating": 5
+  },
+  {
     "title": "GoodFellas (1990)",
     "releaseYear": 1990,
     "genres": "Biography, Crime, Drama",
@@ -187,6 +160,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt0099685/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304798/title/goodfellas_1990/",
     "imdbRating": 8.7
+  },
+  {
+    "title": "Colony",
+    "releaseYear": 2026,
+    "genres": "Action, Adventure, Crime",
+    "imdbId": "tt34385135",
+    "imdbUrl": "https://www.imdb.com/title/tt34385135/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304864/title/colony/",
+    "imdbRating": 6.9
   },
   {
     "title": "Scary Movie",
@@ -261,6 +243,15 @@
     "imdbRating": 7.3
   },
   {
+    "title": "From Dusk Till Dawn (1996)",
+    "releaseYear": 1996,
+    "genres": "Action, Crime, Horror",
+    "imdbId": "tt0116367",
+    "imdbUrl": "https://www.imdb.com/title/tt0116367/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/303396/title/from_dusk_till_dawn_1996/",
+    "imdbRating": 7.2
+  },
+  {
     "title": "Evil Dead Burn",
     "releaseYear": 2026,
     "genres": "Fantasy, Horror, Mystery",
@@ -313,6 +304,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt40258746/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304803/title/nt_live_les_liaisons_dangereuses/",
     "imdbRating": 8.4
+  },
+  {
+    "title": "Clueless (1995)",
+    "releaseYear": 1995,
+    "genres": "Comedy, Romance",
+    "imdbId": "tt0112697",
+    "imdbUrl": "https://www.imdb.com/title/tt0112697/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304739/title/clueless_1995/",
+    "imdbRating": 6.9
   },
   {
     "title": "Last Action Hero (1993)",

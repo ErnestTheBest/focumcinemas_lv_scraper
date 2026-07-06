@@ -9,15 +9,6 @@
     "imdbRating": 6.3
   },
   {
-    "title": "Toy Story 5",
-    "releaseYear": 2026,
-    "genres": "Animation, Adventure, Comedy",
-    "imdbId": "tt29355505",
-    "imdbUrl": "https://www.imdb.com/title/tt29355505/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304667/title/toy_story_5/",
-    "imdbRating": 7.6
-  },
-  {
     "title": "The Sheep Detectives",
     "releaseYear": 2026,
     "genres": "Comedy, Family, Mystery",
@@ -27,13 +18,22 @@
     "imdbRating": 7.5
   },
   {
-    "title": "Backrooms: Everything Must Go",
+    "title": "Toy Story 5",
     "releaseYear": 2026,
-    "genres": "Horror, Sci-Fi, Thriller",
-    "imdbId": "tt26657236",
-    "imdbUrl": "https://www.imdb.com/title/tt26657236/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304736/title/backrooms_everything_must_go/",
-    "imdbRating": 7
+    "genres": "Animation, Adventure, Comedy",
+    "imdbId": "tt29355505",
+    "imdbUrl": "https://www.imdb.com/title/tt29355505/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304667/title/toy_story_5/",
+    "imdbRating": 7.6
+  },
+  {
+    "title": "In the Hand of Dante",
+    "releaseYear": 2026,
+    "genres": "Crime, Drama, Mystery",
+    "imdbId": "tt1333644",
+    "imdbUrl": "https://www.imdb.com/title/tt1333644/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304823/title/in_the_hand_of_dante/",
+    "imdbRating": 4.9
   },
   {
     "title": "Minions & Monsters",
@@ -45,22 +45,22 @@
     "imdbRating": 6.6
   },
   {
-    "title": "Supergirl",
+    "title": "Obsession",
     "releaseYear": 2026,
-    "genres": "Action, Adventure, Drama",
-    "imdbId": "tt8814476",
-    "imdbUrl": "https://www.imdb.com/title/tt8814476/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304676/title/supergirl/",
-    "imdbRating": 6.1
+    "genres": "Horror, Romance, Thriller",
+    "imdbId": "tt37287335",
+    "imdbUrl": "https://www.imdb.com/title/tt37287335/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304809/title/obsession/",
+    "imdbRating": 8
   },
   {
-    "title": "In the Hand of Dante",
+    "title": "Disclosure Day",
     "releaseYear": 2026,
-    "genres": "Crime, Drama, Mystery",
-    "imdbId": "tt1333644",
-    "imdbUrl": "https://www.imdb.com/title/tt1333644/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304823/title/in_the_hand_of_dante/",
-    "imdbRating": 4.9
+    "genres": "Action, Drama, Mystery",
+    "imdbId": "tt15047880",
+    "imdbUrl": "https://www.imdb.com/title/tt15047880/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304677/title/disclosure_day/",
+    "imdbRating": 6.7
   },
   {
     "title": "The Invite",
@@ -81,22 +81,13 @@
     "imdbRating": 7.5
   },
   {
-    "title": "Disclosure Day",
+    "title": "The Devil Wears Prada 2",
     "releaseYear": 2026,
-    "genres": "Action, Drama, Mystery",
-    "imdbId": "tt15047880",
-    "imdbUrl": "https://www.imdb.com/title/tt15047880/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304677/title/disclosure_day/",
-    "imdbRating": 6.7
-  },
-  {
-    "title": "Obsession",
-    "releaseYear": 2026,
-    "genres": "Horror, Romance, Thriller",
-    "imdbId": "tt37287335",
-    "imdbUrl": "https://www.imdb.com/title/tt37287335/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304809/title/obsession/",
-    "imdbRating": 8
+    "genres": "Comedy, Drama",
+    "imdbId": "tt33612209",
+    "imdbUrl": "https://www.imdb.com/title/tt33612209/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304665/title/the_devil_wears_prada_2/",
+    "imdbRating": 6.5
   },
   {
     "title": "Star Wars: The Mandalorian and Grogu",
@@ -108,39 +99,30 @@
     "imdbRating": 7
   },
   {
+    "title": "Backrooms: Everything Must Go",
+    "releaseYear": 2026,
+    "genres": "Horror, Sci-Fi, Thriller",
+    "imdbId": "tt26657236",
+    "imdbUrl": "https://www.imdb.com/title/tt26657236/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304736/title/backrooms_everything_must_go/",
+    "imdbRating": 7
+  },
+  {
+    "title": "Supergirl",
+    "releaseYear": 2026,
+    "genres": "Action, Adventure, Drama",
+    "imdbId": "tt8814476",
+    "imdbUrl": "https://www.imdb.com/title/tt8814476/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304676/title/supergirl/",
+    "imdbRating": 6.1
+  },
+  {
     "title": "The Death of Robin Hood",
     "releaseYear": 2026,
     "genres": "Action, Adventure, Drama",
     "imdbId": "tt32273171",
     "imdbUrl": "https://www.imdb.com/title/tt32273171/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304801/title/the_death_of_robin_hood/",
-    "imdbRating": 6.3
-  },
-  {
-    "title": "The Devil Wears Prada 2",
-    "releaseYear": 2026,
-    "genres": "Comedy, Drama",
-    "imdbId": "tt33612209",
-    "imdbUrl": "https://www.imdb.com/title/tt33612209/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304665/title/the_devil_wears_prada_2/",
-    "imdbRating": 6.5
-  },
-  {
-    "title": "Bear Country",
-    "releaseYear": 2026,
-    "genres": "Action, Thriller",
-    "imdbId": "tt32321803",
-    "imdbUrl": "https://www.imdb.com/title/tt32321803/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304826/title/bear_country/",
-    "imdbRating": 5.4
-  },
-  {
-    "title": "13 going on 30 (2004)",
-    "releaseYear": 2004,
-    "genres": "Comedy, Fantasy, Romance",
-    "imdbId": "tt0337563",
-    "imdbUrl": "https://www.imdb.com/title/tt0337563/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/299344/title/13_going_on_30_2004/",
     "imdbRating": 6.3
   },
   {
@@ -153,13 +135,13 @@
     "imdbRating": 5
   },
   {
-    "title": "GoodFellas (1990)",
-    "releaseYear": 1990,
-    "genres": "Biography, Crime, Drama",
-    "imdbId": "tt0099685",
-    "imdbUrl": "https://www.imdb.com/title/tt0099685/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304798/title/goodfellas_1990/",
-    "imdbRating": 8.7
+    "title": "Bear Country",
+    "releaseYear": 2026,
+    "genres": "Action, Thriller",
+    "imdbId": "tt32321803",
+    "imdbUrl": "https://www.imdb.com/title/tt32321803/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304826/title/bear_country/",
+    "imdbRating": 5.5
   },
   {
     "title": "Colony",
@@ -169,15 +151,6 @@
     "imdbUrl": "https://www.imdb.com/title/tt34385135/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304864/title/colony/",
     "imdbRating": 6.9
-  },
-  {
-    "title": "Scary Movie",
-    "releaseYear": 2026,
-    "genres": "Comedy, Horror",
-    "imdbId": "tt32093575",
-    "imdbUrl": "https://www.imdb.com/title/tt32093575/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304741/title/scary_movie/",
-    "imdbRating": 5.2
   },
   {
     "title": "Project Hail Mary",
@@ -223,6 +196,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt0250494/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304470/title/legally_blonde_2001/",
     "imdbRating": 6.5
+  },
+  {
+    "title": "Scary Movie",
+    "releaseYear": 2026,
+    "genres": "Comedy, Horror",
+    "imdbId": "tt32093575",
+    "imdbUrl": "https://www.imdb.com/title/tt32093575/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304741/title/scary_movie/",
+    "imdbRating": 5.2
   },
   {
     "title": "Moana",
@@ -303,7 +285,16 @@
     "imdbId": "tt40258746",
     "imdbUrl": "https://www.imdb.com/title/tt40258746/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304803/title/nt_live_les_liaisons_dangereuses/",
-    "imdbRating": 8.4
+    "imdbRating": 8.5
+  },
+  {
+    "title": "GoodFellas (1990)",
+    "releaseYear": 1990,
+    "genres": "Biography, Crime, Drama",
+    "imdbId": "tt0099685",
+    "imdbUrl": "https://www.imdb.com/title/tt0099685/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304798/title/goodfellas_1990/",
+    "imdbRating": 8.7
   },
   {
     "title": "Clueless (1995)",
@@ -313,6 +304,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt0112697/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304739/title/clueless_1995/",
     "imdbRating": 6.9
+  },
+  {
+    "title": "13 going on 30 (2004)",
+    "releaseYear": 2004,
+    "genres": "Comedy, Fantasy, Romance",
+    "imdbId": "tt0337563",
+    "imdbUrl": "https://www.imdb.com/title/tt0337563/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/299344/title/13_going_on_30_2004/",
+    "imdbRating": 6.3
   },
   {
     "title": "Last Action Hero (1993)",

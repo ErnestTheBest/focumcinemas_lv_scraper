@@ -1,69 +1,5 @@
 [
   {
-    "title": "Minions & Monsters",
-    "url": "https://www.forumcinemas.lv/eng/event/304684/title/minions_and_monsters/"
-  },
-  {
-    "title": "Michael",
-    "url": "https://www.forumcinemas.lv/eng/event/303990/title/michael/"
-  },
-  {
-    "title": "The Invite",
-    "url": "https://www.forumcinemas.lv/eng/event/304784/title/the_invite/"
-  },
-  {
-    "title": "Moana",
-    "url": "https://www.forumcinemas.lv/eng/event/304819/title/moana/"
-  },
-  {
-    "title": "Toy Story 5",
-    "url": "https://www.forumcinemas.lv/eng/event/304667/title/toy_story_5/"
-  },
-  {
-    "title": "Backrooms: Everything Must Go",
-    "url": "https://www.forumcinemas.lv/eng/event/304736/title/backrooms_everything_must_go/"
-  },
-  {
-    "title": "Disclosure Day",
-    "url": "https://www.forumcinemas.lv/eng/event/304677/title/disclosure_day/"
-  },
-  {
-    "title": "Supergirl",
-    "url": "https://www.forumcinemas.lv/eng/event/304676/title/supergirl/"
-  },
-  {
-    "title": "Obsession",
-    "url": "https://www.forumcinemas.lv/eng/event/304809/title/obsession/"
-  },
-  {
-    "title": "The Sheep Detectives",
-    "url": "https://www.forumcinemas.lv/eng/event/304774/title/the_sheep_detectives/"
-  },
-  {
-    "title": "Hungry",
-    "url": "https://www.forumcinemas.lv/eng/event/304828/title/hungry/"
-  },
-  {
-    "title": "The Devil Wears Prada 2",
-    "url": "https://www.forumcinemas.lv/eng/event/304665/title/the_devil_wears_prada_2/"
-  },
-  {
-    "title": "In the Hand of Dante",
-    "url": "https://www.forumcinemas.lv/eng/event/304823/title/in_the_hand_of_dante/"
-  },
-  {
-    "title": "Bear Country",
-    "url": "https://www.forumcinemas.lv/eng/event/304826/title/bear_country/"
-  },
-  {
-    "title": "Project Hail Mary",
-    "url": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/"
-  },
-  {
-    "title": "The Death of Robin Hood",
-    "url": "https://www.forumcinemas.lv/eng/event/304801/title/the_death_of_robin_hood/"
-  },
-  {
     "title": "The Super Mario Galaxy Movie",
     "url": "https://www.forumcinemas.lv/eng/event/304620/title/the_super_mario_galaxy_movie/"
   },
@@ -76,12 +12,72 @@
     "url": "https://www.forumcinemas.lv/eng/event/304776/title/the_magic_faraway_tree/"
   },
   {
+    "title": "Toy Story 5",
+    "url": "https://www.forumcinemas.lv/eng/event/304667/title/toy_story_5/"
+  },
+  {
+    "title": "The Devil Wears Prada 2",
+    "url": "https://www.forumcinemas.lv/eng/event/304665/title/the_devil_wears_prada_2/"
+  },
+  {
+    "title": "Minions & Monsters",
+    "url": "https://www.forumcinemas.lv/eng/event/304684/title/minions_and_monsters/"
+  },
+  {
+    "title": "The Sheep Detectives",
+    "url": "https://www.forumcinemas.lv/eng/event/304774/title/the_sheep_detectives/"
+  },
+  {
+    "title": "Moana",
+    "url": "https://www.forumcinemas.lv/eng/event/304819/title/moana/"
+  },
+  {
+    "title": "The Invite",
+    "url": "https://www.forumcinemas.lv/eng/event/304784/title/the_invite/"
+  },
+  {
+    "title": "Michael",
+    "url": "https://www.forumcinemas.lv/eng/event/303990/title/michael/"
+  },
+  {
+    "title": "Supergirl",
+    "url": "https://www.forumcinemas.lv/eng/event/304676/title/supergirl/"
+  },
+  {
+    "title": "Obsession",
+    "url": "https://www.forumcinemas.lv/eng/event/304809/title/obsession/"
+  },
+  {
+    "title": "The Death of Robin Hood",
+    "url": "https://www.forumcinemas.lv/eng/event/304801/title/the_death_of_robin_hood/"
+  },
+  {
+    "title": "In the Hand of Dante",
+    "url": "https://www.forumcinemas.lv/eng/event/304823/title/in_the_hand_of_dante/"
+  },
+  {
+    "title": "Bear Country",
+    "url": "https://www.forumcinemas.lv/eng/event/304826/title/bear_country/"
+  },
+  {
     "title": "From Dusk Till Dawn (1996)",
     "url": "https://www.forumcinemas.lv/eng/event/303396/title/from_dusk_till_dawn_1996/"
   },
   {
+    "title": "Backrooms: Everything Must Go",
+    "url": "https://www.forumcinemas.lv/eng/event/304736/title/backrooms_everything_must_go/"
+  },
+  {
+    "title": "Hungry",
+    "url": "https://www.forumcinemas.lv/eng/event/304828/title/hungry/"
+  },
+  {
     "title": "Evil Dead Burn",
     "url": "https://www.forumcinemas.lv/eng/event/304827/title/evil_dead_burn/"
+  },
+  {
+    "title": "Disclosure Day",
+    "url": "https://www.forumcinemas.lv/eng/event/304677/title/disclosure_day/"
   },
   {
     "title": "Colony",
@@ -118,6 +114,10 @@
   {
     "title": "Devil Wears Prada (2006)",
     "url": "https://www.forumcinemas.lv/eng/event/300358/title/devil_wears_prada_2006/"
+  },
+  {
+    "title": "Project Hail Mary",
+    "url": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/"
   },
   {
     "title": "NT LIVE: Les Liaisons Dangereuses",
@@ -230,6 +230,10 @@
   {
     "title": "The Terminator (1984)",
     "url": "https://www.forumcinemas.lv/eng/event/302224/title/the_terminator_1984/"
+  },
+  {
+    "title": "Spa Weekend",
+    "url": "https://www.forumcinemas.lv/eng/event/304871/title/spa_weekend/"
   },
   {
     "title": "Terminator 2. Judgment Day *Extended* (1991)",

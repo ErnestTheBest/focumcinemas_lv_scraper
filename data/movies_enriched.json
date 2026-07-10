@@ -1,57 +1,12 @@
 [
   {
-    "title": "The Super Mario Galaxy Movie",
+    "title": "Backrooms: Everything Must Go",
     "releaseYear": 2026,
-    "genres": "Animation, Adventure, Comedy",
-    "imdbId": "tt28650488",
-    "imdbUrl": "https://www.imdb.com/title/tt28650488/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304620/title/the_super_mario_galaxy_movie/",
-    "imdbRating": 6.3
-  },
-  {
-    "title": "The Secret Floor",
-    "releaseYear": 2026,
-    "genres": "Family, History",
-    "imdbId": "tt27764052",
-    "imdbUrl": "https://www.imdb.com/title/tt27764052/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304758/title/the_secret_floor/",
-    "imdbRating": 7.3
-  },
-  {
-    "title": "The Magic Faraway Tree",
-    "releaseYear": 2026,
-    "genres": "Adventure, Family, Fantasy",
-    "imdbId": "tt7734244",
-    "imdbUrl": "https://www.imdb.com/title/tt7734244/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304776/title/the_magic_faraway_tree/",
-    "imdbRating": 6.3
-  },
-  {
-    "title": "Toy Story 5",
-    "releaseYear": 2026,
-    "genres": "Animation, Adventure, Comedy",
-    "imdbId": "tt29355505",
-    "imdbUrl": "https://www.imdb.com/title/tt29355505/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304667/title/toy_story_5/",
-    "imdbRating": 7.5
-  },
-  {
-    "title": "The Devil Wears Prada 2",
-    "releaseYear": 2026,
-    "genres": "Comedy, Drama",
-    "imdbId": "tt33612209",
-    "imdbUrl": "https://www.imdb.com/title/tt33612209/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304665/title/the_devil_wears_prada_2/",
-    "imdbRating": 6.5
-  },
-  {
-    "title": "Minions & Monsters",
-    "releaseYear": 2026,
-    "genres": "Animation, Adventure, Comedy",
-    "imdbId": "tt32890033",
-    "imdbUrl": "https://www.imdb.com/title/tt32890033/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304684/title/minions_and_monsters/",
-    "imdbRating": 6.6
+    "genres": "Horror, Sci-Fi, Thriller",
+    "imdbId": "tt26657236",
+    "imdbUrl": "https://www.imdb.com/title/tt26657236/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304736/title/backrooms_everything_must_go/",
+    "imdbRating": 7
   },
   {
     "title": "The Sheep Detectives",
@@ -60,6 +15,42 @@
     "imdbId": "tt32565993",
     "imdbUrl": "https://www.imdb.com/title/tt32565993/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304774/title/the_sheep_detectives/",
+    "imdbRating": 7.4
+  },
+  {
+    "title": "Minions & Monsters",
+    "releaseYear": 2026,
+    "genres": "Animation, Adventure, Comedy",
+    "imdbId": "tt32890033",
+    "imdbUrl": "https://www.imdb.com/title/tt32890033/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304684/title/minions_and_monsters/",
+    "imdbRating": 6.5
+  },
+  {
+    "title": "Supergirl",
+    "releaseYear": 2026,
+    "genres": "Action, Adventure, Drama",
+    "imdbId": "tt8814476",
+    "imdbUrl": "https://www.imdb.com/title/tt8814476/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304676/title/supergirl/",
+    "imdbRating": 6.1
+  },
+  {
+    "title": "Evil Dead Burn",
+    "releaseYear": 2026,
+    "genres": "Fantasy, Horror, Mystery",
+    "imdbId": "tt31170389",
+    "imdbUrl": "https://www.imdb.com/title/tt31170389/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304827/title/evil_dead_burn/",
+    "imdbRating": 6.9
+  },
+  {
+    "title": "Toy Story 5",
+    "releaseYear": 2026,
+    "genres": "Animation, Adventure, Comedy",
+    "imdbId": "tt29355505",
+    "imdbUrl": "https://www.imdb.com/title/tt29355505/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304667/title/toy_story_5/",
     "imdbRating": 7.5
   },
   {
@@ -72,13 +63,13 @@
     "imdbRating": 5.6
   },
   {
-    "title": "The Invite",
+    "title": "Obsession",
     "releaseYear": 2026,
-    "genres": "Comedy, Drama, Romance",
-    "imdbId": "tt14173636",
-    "imdbUrl": "https://www.imdb.com/title/tt14173636/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304784/title/the_invite/",
-    "imdbRating": 7.8
+    "genres": "Horror, Romance, Thriller",
+    "imdbId": "tt37287335",
+    "imdbUrl": "https://www.imdb.com/title/tt37287335/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304809/title/obsession/",
+    "imdbRating": 8
   },
   {
     "title": "Michael",
@@ -90,31 +81,13 @@
     "imdbRating": 7.5
   },
   {
-    "title": "Supergirl",
+    "title": "The Invite",
     "releaseYear": 2026,
-    "genres": "Action, Adventure, Drama",
-    "imdbId": "tt8814476",
-    "imdbUrl": "https://www.imdb.com/title/tt8814476/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304676/title/supergirl/",
-    "imdbRating": 6.1
-  },
-  {
-    "title": "Obsession",
-    "releaseYear": 2026,
-    "genres": "Horror, Romance, Thriller",
-    "imdbId": "tt37287335",
-    "imdbUrl": "https://www.imdb.com/title/tt37287335/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304809/title/obsession/",
-    "imdbRating": 8
-  },
-  {
-    "title": "The Death of Robin Hood",
-    "releaseYear": 2026,
-    "genres": "Action, Adventure, Drama",
-    "imdbId": "tt32273171",
-    "imdbUrl": "https://www.imdb.com/title/tt32273171/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304801/title/the_death_of_robin_hood/",
-    "imdbRating": 6.3
+    "genres": "Comedy, Drama, Romance",
+    "imdbId": "tt14173636",
+    "imdbUrl": "https://www.imdb.com/title/tt14173636/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304784/title/the_invite/",
+    "imdbRating": 7.8
   },
   {
     "title": "In the Hand of Dante",
@@ -126,33 +99,6 @@
     "imdbRating": 4.9
   },
   {
-    "title": "Bear Country",
-    "releaseYear": 2026,
-    "genres": "Action, Thriller",
-    "imdbId": "tt32321803",
-    "imdbUrl": "https://www.imdb.com/title/tt32321803/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304826/title/bear_country/",
-    "imdbRating": 5.5
-  },
-  {
-    "title": "From Dusk Till Dawn (1996)",
-    "releaseYear": 1996,
-    "genres": "Action, Crime, Horror",
-    "imdbId": "tt0116367",
-    "imdbUrl": "https://www.imdb.com/title/tt0116367/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/303396/title/from_dusk_till_dawn_1996/",
-    "imdbRating": 7.2
-  },
-  {
-    "title": "Backrooms: Everything Must Go",
-    "releaseYear": 2026,
-    "genres": "Horror, Sci-Fi, Thriller",
-    "imdbId": "tt26657236",
-    "imdbUrl": "https://www.imdb.com/title/tt26657236/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304736/title/backrooms_everything_must_go/",
-    "imdbRating": 7
-  },
-  {
     "title": "Hungry",
     "releaseYear": 2026,
     "genres": "Horror, Thriller",
@@ -162,13 +108,31 @@
     "imdbRating": 5
   },
   {
-    "title": "Evil Dead Burn",
+    "title": "The Devil Wears Prada 2",
     "releaseYear": 2026,
-    "genres": "Fantasy, Horror, Mystery",
-    "imdbId": "tt31170389",
-    "imdbUrl": "https://www.imdb.com/title/tt31170389/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304827/title/evil_dead_burn/",
-    "imdbRating": 6.9
+    "genres": "Comedy, Drama",
+    "imdbId": "tt33612209",
+    "imdbUrl": "https://www.imdb.com/title/tt33612209/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304665/title/the_devil_wears_prada_2/",
+    "imdbRating": 6.5
+  },
+  {
+    "title": "The Eyes of Others",
+    "releaseYear": 2026,
+    "genres": "Drama, Thriller",
+    "imdbId": "tt34625288",
+    "imdbUrl": "https://www.imdb.com/title/tt34625288/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304865/title/the_eyes_of_others/",
+    "imdbRating": 6.2
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring (2001)",
+    "releaseYear": 2001,
+    "genres": "Adventure, Drama, Fantasy",
+    "imdbId": "tt0120737",
+    "imdbUrl": "https://www.imdb.com/title/tt0120737/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/302577/title/the_lord_of_the_rings_the_fellowship_of_the_ring_2001/",
+    "imdbRating": 8.9
   },
   {
     "title": "Disclosure Day",
@@ -189,31 +153,13 @@
     "imdbRating": 6.9
   },
   {
-    "title": "Scary Movie",
+    "title": "The Death of Robin Hood",
     "releaseYear": 2026,
-    "genres": "Comedy, Horror",
-    "imdbId": "tt32093575",
-    "imdbUrl": "https://www.imdb.com/title/tt32093575/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304741/title/scary_movie/",
-    "imdbRating": 5.2
-  },
-  {
-    "title": "The Eyes of Others",
-    "releaseYear": 2026,
-    "genres": "Drama, Thriller",
-    "imdbId": "tt34625288",
-    "imdbUrl": "https://www.imdb.com/title/tt34625288/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304865/title/the_eyes_of_others/",
+    "genres": "Action, Adventure, Drama",
+    "imdbId": "tt32273171",
+    "imdbUrl": "https://www.imdb.com/title/tt32273171/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304801/title/the_death_of_robin_hood/",
     "imdbRating": 6.3
-  },
-  {
-    "title": "The Lord of the Rings: The Fellowship of the Ring (2001)",
-    "releaseYear": 2001,
-    "genres": "Adventure, Drama, Fantasy",
-    "imdbId": "tt0120737",
-    "imdbUrl": "https://www.imdb.com/title/tt0120737/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/302577/title/the_lord_of_the_rings_the_fellowship_of_the_ring_2001/",
-    "imdbRating": 8.9
   },
   {
     "title": "The Lord of the Rings: The Two Towers (2002)",
@@ -223,6 +169,24 @@
     "imdbUrl": "https://www.imdb.com/title/tt0167261/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/302578/title/the_lord_of_the_rings_the_two_towers_2002/",
     "imdbRating": 8.8
+  },
+  {
+    "title": "Scary Movie",
+    "releaseYear": 2026,
+    "genres": "Comedy, Horror",
+    "imdbId": "tt32093575",
+    "imdbUrl": "https://www.imdb.com/title/tt32093575/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304741/title/scary_movie/",
+    "imdbRating": 5.2
+  },
+  {
+    "title": "Bear Country",
+    "releaseYear": 2026,
+    "genres": "Action, Thriller",
+    "imdbId": "tt32321803",
+    "imdbUrl": "https://www.imdb.com/title/tt32321803/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304826/title/bear_country/",
+    "imdbRating": 5.5
   },
   {
     "title": "The Lord of the Rings: The Return of the King (2003)",
@@ -250,6 +214,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt12042730/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/",
     "imdbRating": 8.2
+  },
+  {
+    "title": "The Super Mario Galaxy Movie",
+    "releaseYear": 2026,
+    "genres": "Animation, Adventure, Comedy",
+    "imdbId": "tt28650488",
+    "imdbUrl": "https://www.imdb.com/title/tt28650488/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304620/title/the_super_mario_galaxy_movie/",
+    "imdbRating": 6.3
   },
   {
     "title": "NT LIVE: Les Liaisons Dangereuses",
@@ -322,6 +295,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt0250494/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304470/title/legally_blonde_2001/",
     "imdbRating": 6.5
+  },
+  {
+    "title": "From Dusk Till Dawn (1996)",
+    "releaseYear": 1996,
+    "genres": "Action, Crime, Horror",
+    "imdbId": "tt0116367",
+    "imdbUrl": "https://www.imdb.com/title/tt0116367/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/303396/title/from_dusk_till_dawn_1996/",
+    "imdbRating": 7.2
   },
   {
     "title": "Blade Runner: The Final Cut (1982)",

@@ -1,95 +1,55 @@
 [
   {
-    "title": "The Super Mario Galaxy Movie",
-    "url": "https://www.forumcinemas.lv/eng/event/304620/title/the_super_mario_galaxy_movie/"
-  },
-  {
-    "title": "The Secret Floor",
-    "url": "https://www.forumcinemas.lv/eng/event/304758/title/the_secret_floor/"
-  },
-  {
-    "title": "The Magic Faraway Tree",
-    "url": "https://www.forumcinemas.lv/eng/event/304776/title/the_magic_faraway_tree/"
-  },
-  {
-    "title": "Toy Story 5",
-    "url": "https://www.forumcinemas.lv/eng/event/304667/title/toy_story_5/"
-  },
-  {
-    "title": "The Devil Wears Prada 2",
-    "url": "https://www.forumcinemas.lv/eng/event/304665/title/the_devil_wears_prada_2/"
-  },
-  {
-    "title": "Minions & Monsters",
-    "url": "https://www.forumcinemas.lv/eng/event/304684/title/minions_and_monsters/"
+    "title": "Backrooms: Everything Must Go",
+    "url": "https://www.forumcinemas.lv/eng/event/304736/title/backrooms_everything_must_go/"
   },
   {
     "title": "The Sheep Detectives",
     "url": "https://www.forumcinemas.lv/eng/event/304774/title/the_sheep_detectives/"
   },
   {
-    "title": "Moana",
-    "url": "https://www.forumcinemas.lv/eng/event/304819/title/moana/"
-  },
-  {
-    "title": "The Invite",
-    "url": "https://www.forumcinemas.lv/eng/event/304784/title/the_invite/"
-  },
-  {
-    "title": "Michael",
-    "url": "https://www.forumcinemas.lv/eng/event/303990/title/michael/"
+    "title": "Minions & Monsters",
+    "url": "https://www.forumcinemas.lv/eng/event/304684/title/minions_and_monsters/"
   },
   {
     "title": "Supergirl",
     "url": "https://www.forumcinemas.lv/eng/event/304676/title/supergirl/"
   },
   {
+    "title": "Evil Dead Burn",
+    "url": "https://www.forumcinemas.lv/eng/event/304827/title/evil_dead_burn/"
+  },
+  {
+    "title": "Toy Story 5",
+    "url": "https://www.forumcinemas.lv/eng/event/304667/title/toy_story_5/"
+  },
+  {
+    "title": "Moana",
+    "url": "https://www.forumcinemas.lv/eng/event/304819/title/moana/"
+  },
+  {
     "title": "Obsession",
     "url": "https://www.forumcinemas.lv/eng/event/304809/title/obsession/"
   },
   {
-    "title": "The Death of Robin Hood",
-    "url": "https://www.forumcinemas.lv/eng/event/304801/title/the_death_of_robin_hood/"
+    "title": "Michael",
+    "url": "https://www.forumcinemas.lv/eng/event/303990/title/michael/"
+  },
+  {
+    "title": "The Invite",
+    "url": "https://www.forumcinemas.lv/eng/event/304784/title/the_invite/"
   },
   {
     "title": "In the Hand of Dante",
     "url": "https://www.forumcinemas.lv/eng/event/304823/title/in_the_hand_of_dante/"
   },
   {
-    "title": "Bear Country",
-    "url": "https://www.forumcinemas.lv/eng/event/304826/title/bear_country/"
-  },
-  {
-    "title": "From Dusk Till Dawn (1996)",
-    "url": "https://www.forumcinemas.lv/eng/event/303396/title/from_dusk_till_dawn_1996/"
-  },
-  {
-    "title": "Backrooms: Everything Must Go",
-    "url": "https://www.forumcinemas.lv/eng/event/304736/title/backrooms_everything_must_go/"
-  },
-  {
     "title": "Hungry",
     "url": "https://www.forumcinemas.lv/eng/event/304828/title/hungry/"
   },
   {
-    "title": "Evil Dead Burn",
-    "url": "https://www.forumcinemas.lv/eng/event/304827/title/evil_dead_burn/"
-  },
-  {
-    "title": "Disclosure Day",
-    "url": "https://www.forumcinemas.lv/eng/event/304677/title/disclosure_day/"
-  },
-  {
-    "title": "Colony",
-    "url": "https://www.forumcinemas.lv/eng/event/304864/title/colony/"
-  },
-  {
-    "title": "Scary Movie",
-    "url": "https://www.forumcinemas.lv/eng/event/304741/title/scary_movie/"
-  },
-  {
-    "title": "Football | QF | France - Morocco",
-    "url": "https://www.forumcinemas.lv/eng/event/304857/title/football_qf_france_-_morocco/"
+    "title": "The Devil Wears Prada 2",
+    "url": "https://www.forumcinemas.lv/eng/event/304665/title/the_devil_wears_prada_2/"
   },
   {
     "title": "The Eyes of Others",
@@ -100,12 +60,32 @@
     "url": "https://www.forumcinemas.lv/eng/event/302577/title/the_lord_of_the_rings_the_fellowship_of_the_ring_2001/"
   },
   {
+    "title": "Disclosure Day",
+    "url": "https://www.forumcinemas.lv/eng/event/304677/title/disclosure_day/"
+  },
+  {
+    "title": "Colony",
+    "url": "https://www.forumcinemas.lv/eng/event/304864/title/colony/"
+  },
+  {
+    "title": "The Death of Robin Hood",
+    "url": "https://www.forumcinemas.lv/eng/event/304801/title/the_death_of_robin_hood/"
+  },
+  {
     "title": "Football | QF | Spain - Belgium",
     "url": "https://www.forumcinemas.lv/eng/event/304858/title/football_qf_spain_-_belgium/"
   },
   {
     "title": "The Lord of the Rings: The Two Towers (2002)",
     "url": "https://www.forumcinemas.lv/eng/event/302578/title/the_lord_of_the_rings_the_two_towers_2002/"
+  },
+  {
+    "title": "Scary Movie",
+    "url": "https://www.forumcinemas.lv/eng/event/304741/title/scary_movie/"
+  },
+  {
+    "title": "Bear Country",
+    "url": "https://www.forumcinemas.lv/eng/event/304826/title/bear_country/"
   },
   {
     "title": "The Lord of the Rings: The Return of the King (2003)",
@@ -120,6 +100,10 @@
     "url": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/"
   },
   {
+    "title": "The Super Mario Galaxy Movie",
+    "url": "https://www.forumcinemas.lv/eng/event/304620/title/the_super_mario_galaxy_movie/"
+  },
+  {
     "title": "NT LIVE: Les Liaisons Dangereuses",
     "url": "https://www.forumcinemas.lv/eng/event/304803/title/nt_live_les_liaisons_dangereuses/"
   },
@@ -132,8 +116,8 @@
     "url": "https://www.forumcinemas.lv/eng/event/304739/title/clueless_1995/"
   },
   {
-    "title": "Football | SF | FRA/MAR - ESP/BEL",
-    "url": "https://www.forumcinemas.lv/eng/event/304859/title/football_sf_framar_-_espbel/"
+    "title": "Football | SF | France - ESP/BEL",
+    "url": "https://www.forumcinemas.lv/eng/event/304859/title/football_sf_france_-_espbel/"
   },
   {
     "title": "13 going on 30 (2004)",
@@ -162,6 +146,10 @@
   {
     "title": "Football | Final",
     "url": "https://www.forumcinemas.lv/eng/event/304861/title/football_final/"
+  },
+  {
+    "title": "From Dusk Till Dawn (1996)",
+    "url": "https://www.forumcinemas.lv/eng/event/303396/title/from_dusk_till_dawn_1996/"
   },
   {
     "title": "Met Opera: The Merry Widow (2015)",
@@ -214,6 +202,10 @@
   {
     "title": "One Night Only",
     "url": "https://www.forumcinemas.lv/eng/event/304841/title/one_night_only/"
+  },
+  {
+    "title": "Secret Premiere",
+    "url": "https://www.forumcinemas.lv/eng/event/301864/title/secret_premiere/"
   },
   {
     "title": "The Good, the Bad and the Ugly (1966)",

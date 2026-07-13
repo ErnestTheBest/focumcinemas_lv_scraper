@@ -1,19 +1,27 @@
 [
   {
-    "title": "Minions & Monsters",
-    "url": "https://www.forumcinemas.lv/eng/event/304684/title/minions_and_monsters/"
+    "title": "The Sheep Detectives",
+    "url": "https://www.forumcinemas.lv/eng/event/304774/title/the_sheep_detectives/"
   },
   {
     "title": "Moana",
     "url": "https://www.forumcinemas.lv/eng/event/304819/title/moana/"
   },
   {
-    "title": "Toy Story 5",
-    "url": "https://www.forumcinemas.lv/eng/event/304667/title/toy_story_5/"
+    "title": "Minions & Monsters",
+    "url": "https://www.forumcinemas.lv/eng/event/304684/title/minions_and_monsters/"
   },
   {
-    "title": "The Invite",
-    "url": "https://www.forumcinemas.lv/eng/event/304784/title/the_invite/"
+    "title": "Supergirl",
+    "url": "https://www.forumcinemas.lv/eng/event/304676/title/supergirl/"
+  },
+  {
+    "title": "Evil Dead Burn",
+    "url": "https://www.forumcinemas.lv/eng/event/304827/title/evil_dead_burn/"
+  },
+  {
+    "title": "Toy Story 5",
+    "url": "https://www.forumcinemas.lv/eng/event/304667/title/toy_story_5/"
   },
   {
     "title": "Obsession",
@@ -24,60 +32,24 @@
     "url": "https://www.forumcinemas.lv/eng/event/303990/title/michael/"
   },
   {
-    "title": "The Sheep Detectives",
-    "url": "https://www.forumcinemas.lv/eng/event/304774/title/the_sheep_detectives/"
+    "title": "The Invite",
+    "url": "https://www.forumcinemas.lv/eng/event/304784/title/the_invite/"
   },
   {
-    "title": "Evil Dead Burn",
-    "url": "https://www.forumcinemas.lv/eng/event/304827/title/evil_dead_burn/"
-  },
-  {
-    "title": "Supergirl",
-    "url": "https://www.forumcinemas.lv/eng/event/304676/title/supergirl/"
-  },
-  {
-    "title": "The Devil Wears Prada 2",
-    "url": "https://www.forumcinemas.lv/eng/event/304665/title/the_devil_wears_prada_2/"
-  },
-  {
-    "title": "Bear Country",
-    "url": "https://www.forumcinemas.lv/eng/event/304826/title/bear_country/"
+    "title": "The Eyes of Others",
+    "url": "https://www.forumcinemas.lv/eng/event/304865/title/the_eyes_of_others/"
   },
   {
     "title": "Backrooms: Everything Must Go",
     "url": "https://www.forumcinemas.lv/eng/event/304736/title/backrooms_everything_must_go/"
   },
   {
+    "title": "The Devil Wears Prada 2",
+    "url": "https://www.forumcinemas.lv/eng/event/304665/title/the_devil_wears_prada_2/"
+  },
+  {
     "title": "Disclosure Day",
     "url": "https://www.forumcinemas.lv/eng/event/304677/title/disclosure_day/"
-  },
-  {
-    "title": "Hungry",
-    "url": "https://www.forumcinemas.lv/eng/event/304828/title/hungry/"
-  },
-  {
-    "title": "The Lord of the Rings: The Return of the King (2003)",
-    "url": "https://www.forumcinemas.lv/eng/event/302579/title/the_lord_of_the_rings_the_return_of_the_king_2003/"
-  },
-  {
-    "title": "Devil Wears Prada (2006)",
-    "url": "https://www.forumcinemas.lv/eng/event/300358/title/devil_wears_prada_2006/"
-  },
-  {
-    "title": "The Death of Robin Hood",
-    "url": "https://www.forumcinemas.lv/eng/event/304801/title/the_death_of_robin_hood/"
-  },
-  {
-    "title": "In the Hand of Dante",
-    "url": "https://www.forumcinemas.lv/eng/event/304823/title/in_the_hand_of_dante/"
-  },
-  {
-    "title": "Colony",
-    "url": "https://www.forumcinemas.lv/eng/event/304864/title/colony/"
-  },
-  {
-    "title": "The Eyes of Others",
-    "url": "https://www.forumcinemas.lv/eng/event/304865/title/the_eyes_of_others/"
   },
   {
     "title": "Project Hail Mary",
@@ -86,6 +58,10 @@
   {
     "title": "Scary Movie",
     "url": "https://www.forumcinemas.lv/eng/event/304741/title/scary_movie/"
+  },
+  {
+    "title": "The Death of Robin Hood",
+    "url": "https://www.forumcinemas.lv/eng/event/304801/title/the_death_of_robin_hood/"
   },
   {
     "title": "The Super Mario Galaxy Movie",
@@ -104,6 +80,18 @@
     "url": "https://www.forumcinemas.lv/eng/event/304739/title/clueless_1995/"
   },
   {
+    "title": "Bear Country",
+    "url": "https://www.forumcinemas.lv/eng/event/304826/title/bear_country/"
+  },
+  {
+    "title": "Hungry",
+    "url": "https://www.forumcinemas.lv/eng/event/304828/title/hungry/"
+  },
+  {
+    "title": "Colony",
+    "url": "https://www.forumcinemas.lv/eng/event/304864/title/colony/"
+  },
+  {
     "title": "Football | SF | France - Spain",
     "url": "https://www.forumcinemas.lv/eng/event/304859/title/football_sf_france_-_spain/"
   },
@@ -118,6 +106,10 @@
   {
     "title": "Football | SF | England - Argentina",
     "url": "https://www.forumcinemas.lv/eng/event/304860/title/football_sf_england_-_argentina/"
+  },
+  {
+    "title": "In the Hand of Dante",
+    "url": "https://www.forumcinemas.lv/eng/event/304823/title/in_the_hand_of_dante/"
   },
   {
     "title": "The Odyssey",
@@ -142,6 +134,10 @@
   {
     "title": "Met Opera: The Merry Widow (2015)",
     "url": "https://www.forumcinemas.lv/eng/event/301380/title/met_opera_the_merry_widow_2015/"
+  },
+  {
+    "title": "Devil Wears Prada (2006)",
+    "url": "https://www.forumcinemas.lv/eng/event/300358/title/devil_wears_prada_2006/"
   },
   {
     "title": "Blade Runner: The Final Cut (1982)",
@@ -194,6 +190,10 @@
   {
     "title": "One Night Only",
     "url": "https://www.forumcinemas.lv/eng/event/304841/title/one_night_only/"
+  },
+  {
+    "title": "KATSEYE: WILD HEARTS",
+    "url": "https://www.forumcinemas.lv/eng/event/304875/title/katseye_wild_hearts/"
   },
   {
     "title": "Secret Premiere",

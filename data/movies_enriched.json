@@ -6,7 +6,7 @@
     "imdbId": "tt33764258",
     "imdbUrl": "https://www.imdb.com/title/tt33764258/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304807/title/the_odyssey/",
-    "imdbRating": null
+    "imdbRating": 8.3
   },
   {
     "title": "Moana",
@@ -18,6 +18,15 @@
     "imdbRating": 5.7
   },
   {
+    "title": "The Invite",
+    "releaseYear": 2026,
+    "genres": "Comedy, Drama, Romance",
+    "imdbId": "tt14173636",
+    "imdbUrl": "https://www.imdb.com/title/tt14173636/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304784/title/the_invite/",
+    "imdbRating": 7.9
+  },
+  {
     "title": "Minions & Monsters",
     "releaseYear": 2026,
     "genres": "Animation, Adventure, Comedy",
@@ -27,31 +36,13 @@
     "imdbRating": 6.5
   },
   {
-    "title": "Toy Story 5",
+    "title": "The Sheep Detectives",
     "releaseYear": 2026,
-    "genres": "Animation, Adventure, Comedy",
-    "imdbId": "tt29355505",
-    "imdbUrl": "https://www.imdb.com/title/tt29355505/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304667/title/toy_story_5/",
-    "imdbRating": 7.5
-  },
-  {
-    "title": "Backrooms: Everything Must Go",
-    "releaseYear": 2026,
-    "genres": "Horror, Sci-Fi, Thriller",
-    "imdbId": "tt26657236",
-    "imdbUrl": "https://www.imdb.com/title/tt26657236/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304736/title/backrooms_everything_must_go/",
-    "imdbRating": 7
-  },
-  {
-    "title": "The Invite",
-    "releaseYear": 2026,
-    "genres": "Comedy, Drama, Romance",
-    "imdbId": "tt14173636",
-    "imdbUrl": "https://www.imdb.com/title/tt14173636/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304784/title/the_invite/",
-    "imdbRating": 7.9
+    "genres": "Comedy, Family, Mystery",
+    "imdbId": "tt32565993",
+    "imdbUrl": "https://www.imdb.com/title/tt32565993/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304774/title/the_sheep_detectives/",
+    "imdbRating": 7.4
   },
   {
     "title": "Obsession",
@@ -63,15 +54,6 @@
     "imdbRating": 7.9
   },
   {
-    "title": "The Devil Wears Prada 2",
-    "releaseYear": 2026,
-    "genres": "Comedy, Drama",
-    "imdbId": "tt33612209",
-    "imdbUrl": "https://www.imdb.com/title/tt33612209/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304665/title/the_devil_wears_prada_2/",
-    "imdbRating": 6.5
-  },
-  {
     "title": "Michael",
     "releaseYear": 2026,
     "genres": "Biography, Drama, History",
@@ -81,13 +63,22 @@
     "imdbRating": 7.4
   },
   {
-    "title": "Evil Dead Burn",
+    "title": "Toy Story 5",
     "releaseYear": 2026,
-    "genres": "Fantasy, Horror, Mystery",
-    "imdbId": "tt31170389",
-    "imdbUrl": "https://www.imdb.com/title/tt31170389/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304827/title/evil_dead_burn/",
-    "imdbRating": 6.7
+    "genres": "Animation, Adventure, Comedy",
+    "imdbId": "tt29355505",
+    "imdbUrl": "https://www.imdb.com/title/tt29355505/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304667/title/toy_story_5/",
+    "imdbRating": 7.5
+  },
+  {
+    "title": "The Devil Wears Prada 2",
+    "releaseYear": 2026,
+    "genres": "Comedy, Drama",
+    "imdbId": "tt33612209",
+    "imdbUrl": "https://www.imdb.com/title/tt33612209/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304665/title/the_devil_wears_prada_2/",
+    "imdbRating": 6.5
   },
   {
     "title": "Supergirl",
@@ -99,22 +90,22 @@
     "imdbRating": 6.1
   },
   {
-    "title": "Colony",
+    "title": "Evil Dead Burn",
     "releaseYear": 2026,
-    "genres": "Action, Adventure, Crime",
-    "imdbId": "tt34385135",
-    "imdbUrl": "https://www.imdb.com/title/tt34385135/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304864/title/colony/",
-    "imdbRating": 6.9
+    "genres": "Fantasy, Horror, Mystery",
+    "imdbId": "tt31170389",
+    "imdbUrl": "https://www.imdb.com/title/tt31170389/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304827/title/evil_dead_burn/",
+    "imdbRating": 6.7
   },
   {
-    "title": "The Sheep Detectives",
+    "title": "Backrooms: Everything Must Go",
     "releaseYear": 2026,
-    "genres": "Comedy, Family, Mystery",
-    "imdbId": "tt32565993",
-    "imdbUrl": "https://www.imdb.com/title/tt32565993/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304774/title/the_sheep_detectives/",
-    "imdbRating": 7.4
+    "genres": "Horror, Sci-Fi, Thriller",
+    "imdbId": "tt26657236",
+    "imdbUrl": "https://www.imdb.com/title/tt26657236/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304736/title/backrooms_everything_must_go/",
+    "imdbRating": 7
   },
   {
     "title": "Amadeus: Director’s Cut (1984)",
@@ -196,6 +187,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt12042730/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304518/title/project_hail_mary/",
     "imdbRating": 8.2
+  },
+  {
+    "title": "Colony",
+    "releaseYear": 2026,
+    "genres": "Action, Adventure, Crime",
+    "imdbId": "tt34385135",
+    "imdbUrl": "https://www.imdb.com/title/tt34385135/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304864/title/colony/",
+    "imdbRating": 6.9
   },
   {
     "title": "The Super Mario Galaxy Movie",

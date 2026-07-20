@@ -1,5 +1,14 @@
 [
   {
+    "title": "Toy Story 5",
+    "releaseYear": 2026,
+    "genres": "Animation, Adventure, Comedy",
+    "imdbId": "tt29355505",
+    "imdbUrl": "https://www.imdb.com/title/tt29355505/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304667/title/toy_story_5/",
+    "imdbRating": 7.5
+  },
+  {
     "title": "Moana",
     "releaseYear": 2026,
     "genres": "Action, Adventure, Comedy",
@@ -24,34 +33,7 @@
     "imdbId": "tt33764258",
     "imdbUrl": "https://www.imdb.com/title/tt33764258/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304807/title/the_odyssey/",
-    "imdbRating": 8.3
-  },
-  {
-    "title": "Obsession",
-    "releaseYear": 2026,
-    "genres": "Horror, Romance, Thriller",
-    "imdbId": "tt37287335",
-    "imdbUrl": "https://www.imdb.com/title/tt37287335/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304809/title/obsession/",
-    "imdbRating": 7.9
-  },
-  {
-    "title": "The Invite",
-    "releaseYear": 2026,
-    "genres": "Comedy, Drama, Romance",
-    "imdbId": "tt14173636",
-    "imdbUrl": "https://www.imdb.com/title/tt14173636/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304784/title/the_invite/",
-    "imdbRating": 7.9
-  },
-  {
-    "title": "Toy Story 5",
-    "releaseYear": 2026,
-    "genres": "Animation, Adventure, Comedy",
-    "imdbId": "tt29355505",
-    "imdbUrl": "https://www.imdb.com/title/tt29355505/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304667/title/toy_story_5/",
-    "imdbRating": 7.5
+    "imdbRating": 8.4
   },
   {
     "title": "Michael",
@@ -72,22 +54,31 @@
     "imdbRating": 6.7
   },
   {
+    "title": "Obsession",
+    "releaseYear": 2026,
+    "genres": "Horror, Romance, Thriller",
+    "imdbId": "tt37287335",
+    "imdbUrl": "https://www.imdb.com/title/tt37287335/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304809/title/obsession/",
+    "imdbRating": 7.9
+  },
+  {
+    "title": "The Invite",
+    "releaseYear": 2026,
+    "genres": "Comedy, Drama, Romance",
+    "imdbId": "tt14173636",
+    "imdbUrl": "https://www.imdb.com/title/tt14173636/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304784/title/the_invite/",
+    "imdbRating": 7.9
+  },
+  {
     "title": "The Devil Wears Prada 2",
     "releaseYear": 2026,
     "genres": "Comedy, Drama",
     "imdbId": "tt33612209",
     "imdbUrl": "https://www.imdb.com/title/tt33612209/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304665/title/the_devil_wears_prada_2/",
-    "imdbRating": 6.5
-  },
-  {
-    "title": "Supergirl",
-    "releaseYear": 2026,
-    "genres": "Action, Adventure, Drama",
-    "imdbId": "tt8814476",
-    "imdbUrl": "https://www.imdb.com/title/tt8814476/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304676/title/supergirl/",
-    "imdbRating": 6.1
+    "imdbRating": 6.4
   },
   {
     "title": "Backrooms: Everything Must Go",
@@ -99,22 +90,13 @@
     "imdbRating": 6.9
   },
   {
-    "title": "Legally Blonde (2001)",
-    "releaseYear": 2001,
-    "genres": "Comedy, Romance",
-    "imdbId": "tt0250494",
-    "imdbUrl": "https://www.imdb.com/title/tt0250494/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304470/title/legally_blonde_2001/",
-    "imdbRating": 6.5
-  },
-  {
-    "title": "Disclosure Day",
+    "title": "Supergirl",
     "releaseYear": 2026,
-    "genres": "Action, Drama, Mystery",
-    "imdbId": "tt15047880",
-    "imdbUrl": "https://www.imdb.com/title/tt15047880/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304677/title/disclosure_day/",
-    "imdbRating": 6.7
+    "genres": "Action, Adventure, Drama",
+    "imdbId": "tt8814476",
+    "imdbUrl": "https://www.imdb.com/title/tt8814476/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304676/title/supergirl/",
+    "imdbRating": 6.1
   },
   {
     "title": "In the Hand of Dante",
@@ -180,6 +162,15 @@
     "imdbRating": 6.9
   },
   {
+    "title": "Disclosure Day",
+    "releaseYear": 2026,
+    "genres": "Action, Drama, Mystery",
+    "imdbId": "tt15047880",
+    "imdbUrl": "https://www.imdb.com/title/tt15047880/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304677/title/disclosure_day/",
+    "imdbRating": 6.7
+  },
+  {
     "title": "The Super Mario Galaxy Movie",
     "releaseYear": 2026,
     "genres": "Animation, Adventure, Comedy",
@@ -214,6 +205,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt0337563/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/299344/title/13_going_on_30_2004/",
     "imdbRating": 6.3
+  },
+  {
+    "title": "Legally Blonde (2001)",
+    "releaseYear": 2001,
+    "genres": "Comedy, Romance",
+    "imdbId": "tt0250494",
+    "imdbUrl": "https://www.imdb.com/title/tt0250494/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304470/title/legally_blonde_2001/",
+    "imdbRating": 6.5
   },
   {
     "title": "Blade Runner: The Final Cut (1982)",

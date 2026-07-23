@@ -1,14 +1,5 @@
 [
   {
-    "title": "Obsession",
-    "releaseYear": 2026,
-    "genres": "Horror, Romance, Thriller",
-    "imdbId": "tt37287335",
-    "imdbUrl": "https://www.imdb.com/title/tt37287335/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304809/title/obsession/",
-    "imdbRating": 7.9
-  },
-  {
     "title": "The Odyssey",
     "releaseYear": 2026,
     "genres": "Adventure, Drama, Fantasy",
@@ -36,13 +27,13 @@
     "imdbRating": 6.5
   },
   {
-    "title": "The Super Mario Galaxy Movie",
+    "title": "Obsession",
     "releaseYear": 2026,
-    "genres": "Animation, Adventure, Comedy",
-    "imdbId": "tt28650488",
-    "imdbUrl": "https://www.imdb.com/title/tt28650488/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304620/title/the_super_mario_galaxy_movie/",
-    "imdbRating": 6.3
+    "genres": "Horror, Romance, Thriller",
+    "imdbId": "tt37287335",
+    "imdbUrl": "https://www.imdb.com/title/tt37287335/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304809/title/obsession/",
+    "imdbRating": 7.9
   },
   {
     "title": "Toy Story 5",
@@ -54,13 +45,13 @@
     "imdbRating": 7.5
   },
   {
-    "title": "Evil Dead Burn",
+    "title": "The Invite",
     "releaseYear": 2026,
-    "genres": "Horror",
-    "imdbId": "tt31170389",
-    "imdbUrl": "https://www.imdb.com/title/tt31170389/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304827/title/evil_dead_burn/",
-    "imdbRating": 6.7
+    "genres": "Comedy, Drama, Romance",
+    "imdbId": "tt14173636",
+    "imdbUrl": "https://www.imdb.com/title/tt14173636/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304784/title/the_invite/",
+    "imdbRating": 7.9
   },
   {
     "title": "Michael",
@@ -72,13 +63,13 @@
     "imdbRating": 7.4
   },
   {
-    "title": "The Invite",
+    "title": "Evil Dead Burn",
     "releaseYear": 2026,
-    "genres": "Comedy, Drama, Romance",
-    "imdbId": "tt14173636",
-    "imdbUrl": "https://www.imdb.com/title/tt14173636/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304784/title/the_invite/",
-    "imdbRating": 7.9
+    "genres": "Horror",
+    "imdbId": "tt31170389",
+    "imdbUrl": "https://www.imdb.com/title/tt31170389/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304827/title/evil_dead_burn/",
+    "imdbRating": 6.7
   },
   {
     "title": "The Devil Wears Prada 2",
@@ -90,33 +81,6 @@
     "imdbRating": 6.4
   },
   {
-    "title": "Supergirl",
-    "releaseYear": 2026,
-    "genres": "Action, Adventure, Drama",
-    "imdbId": "tt8814476",
-    "imdbUrl": "https://www.imdb.com/title/tt8814476/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304676/title/supergirl/",
-    "imdbRating": 6.1
-  },
-  {
-    "title": "Hungry",
-    "releaseYear": 2026,
-    "genres": "Horror, Thriller",
-    "imdbId": "tt34494076",
-    "imdbUrl": "https://www.imdb.com/title/tt34494076/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304828/title/hungry/",
-    "imdbRating": 5
-  },
-  {
-    "title": "The Eyes of Others",
-    "releaseYear": 2026,
-    "genres": "Drama, Thriller",
-    "imdbId": "tt34625288",
-    "imdbUrl": "https://www.imdb.com/title/tt34625288/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304865/title/the_eyes_of_others/",
-    "imdbRating": 5.6
-  },
-  {
     "title": "Backrooms: Everything Must Go",
     "releaseYear": 2026,
     "genres": "Horror, Sci-Fi, Thriller",
@@ -126,22 +90,13 @@
     "imdbRating": 6.9
   },
   {
-    "title": "Devil Wears Prada (2006)",
-    "releaseYear": 2006,
-    "genres": "Comedy, Drama",
-    "imdbId": "tt0458352",
-    "imdbUrl": "https://www.imdb.com/title/tt0458352/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/300358/title/devil_wears_prada_2006/",
-    "imdbRating": 7
-  },
-  {
-    "title": "Disclosure Day",
+    "title": "Supergirl",
     "releaseYear": 2026,
-    "genres": "Action, Drama, Mystery",
-    "imdbId": "tt15047880",
-    "imdbUrl": "https://www.imdb.com/title/tt15047880/",
-    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304677/title/disclosure_day/",
-    "imdbRating": 6.6
+    "genres": "Action, Adventure, Drama",
+    "imdbId": "tt8814476",
+    "imdbUrl": "https://www.imdb.com/title/tt8814476/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304676/title/supergirl/",
+    "imdbRating": 6.1
   },
   {
     "title": "13 going on 30 (2004)",
@@ -153,6 +108,15 @@
     "imdbRating": 6.3
   },
   {
+    "title": "Disclosure Day",
+    "releaseYear": 2026,
+    "genres": "Action, Drama, Mystery",
+    "imdbId": "tt15047880",
+    "imdbUrl": "https://www.imdb.com/title/tt15047880/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304677/title/disclosure_day/",
+    "imdbRating": 6.6
+  },
+  {
     "title": "Colony",
     "releaseYear": 2026,
     "genres": "Action, Adventure, Crime",
@@ -160,6 +124,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt34385135/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304864/title/colony/",
     "imdbRating": 6.9
+  },
+  {
+    "title": "The Eyes of Others",
+    "releaseYear": 2026,
+    "genres": "Drama, Thriller",
+    "imdbId": "tt34625288",
+    "imdbUrl": "https://www.imdb.com/title/tt34625288/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304865/title/the_eyes_of_others/",
+    "imdbRating": 5.6
   },
   {
     "title": "Virginia Woolf's Night & Day",
@@ -207,6 +180,15 @@
     "imdbRating": 8.1
   },
   {
+    "title": "The Super Mario Galaxy Movie",
+    "releaseYear": 2026,
+    "genres": "Animation, Adventure, Comedy",
+    "imdbId": "tt28650488",
+    "imdbUrl": "https://www.imdb.com/title/tt28650488/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304620/title/the_super_mario_galaxy_movie/",
+    "imdbRating": 6.3
+  },
+  {
     "title": "The Sheep Detectives",
     "releaseYear": 2026,
     "genres": "Comedy, Family, Mystery",
@@ -243,6 +225,15 @@
     "imdbRating": 6.9
   },
   {
+    "title": "Hungry",
+    "releaseYear": 2026,
+    "genres": "Horror, Thriller",
+    "imdbId": "tt34494076",
+    "imdbUrl": "https://www.imdb.com/title/tt34494076/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304828/title/hungry/",
+    "imdbRating": 5
+  },
+  {
     "title": "In the Hand of Dante",
     "releaseYear": 2026,
     "genres": "Crime, Drama, Mystery",
@@ -277,6 +268,15 @@
     "imdbUrl": "https://www.imdb.com/title/tt0099685/",
     "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/304798/title/goodfellas_1990/",
     "imdbRating": 8.7
+  },
+  {
+    "title": "La La Land (2016)",
+    "releaseYear": 2016,
+    "genres": "Comedy, Drama, Music",
+    "imdbId": "tt3783958",
+    "imdbUrl": "https://www.imdb.com/title/tt3783958/",
+    "forumcinemasUrl": "https://www.forumcinemas.lv/eng/event/302012/title/la_la_land_2016/",
+    "imdbRating": 8
   },
   {
     "title": "A Good Year (2006)",
